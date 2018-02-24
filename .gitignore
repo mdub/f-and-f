@@ -1,0 +1,4 @@
+*.pdf
+/book
+.DS_Store
+/tmp
