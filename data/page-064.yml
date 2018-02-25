@@ -1,0 +1,7392 @@
+---
+:text: |
+  The Descendants of Henry and Marianne Williams
+  1An t
+  filmi
+  Photo from: Mrs CM Thomas
+  Michael George Mackie WILLIAMS (1902 - 1969).
+  Photo from: Mrs CM Thomas
+  Margaret Hughlings WILLIAMS (1906 - 1994) nee JACKSON.
+  SERAM *****
+  neur
+  . : : , :
+  Photo from: Mrs BM May
+  Alan Roy Bidwill BARTON (1914 - 1981).
+  Photo from: Mrs BM May
+  Evelyn Gillian (Jill) BARTON (1919 - 1985) nee IVILLIAMS.
+  66
+:locale: en
+:bounds:
+- :x: 232
+  :y: 201
+- :x: 2151
+  :y: 201
+- :x: 2151
+  :y: 3347
+- :x: 232
+  :y: 3347
+:words:
+- :text: The
+  :bounds:
+  - :x: 232
+    :y: 212
+  - :x: 298
+    :y: 211
+  - :x: 299
+    :y: 269
+  - :x: 233
+    :y: 270
+- :text: Descendants
+  :bounds:
+  - :x: 332
+    :y: 211
+  - :x: 599
+    :y: 209
+  - :x: 600
+    :y: 268
+  - :x: 333
+    :y: 270
+- :text: of
+  :bounds:
+  - :x: 633
+    :y: 208
+  - :x: 676
+    :y: 208
+  - :x: 677
+    :y: 266
+  - :x: 634
+    :y: 266
+- :text: Henry
+  :bounds:
+  - :x: 713
+    :y: 207
+  - :x: 829
+    :y: 206
+  - :x: 830
+    :y: 265
+  - :x: 714
+    :y: 266
+- :text: and
+  :bounds:
+  - :x: 855
+    :y: 206
+  - :x: 930
+    :y: 205
+  - :x: 931
+    :y: 264
+  - :x: 856
+    :y: 265
+- :text: Marianne
+  :bounds:
+  - :x: 963
+    :y: 205
+  - :x: 1154
+    :y: 203
+  - :x: 1155
+    :y: 262
+  - :x: 964
+    :y: 264
+- :text: Williams
+  :bounds:
+  - :x: 1196
+    :y: 203
+  - :x: 1376
+    :y: 201
+  - :x: 1377
+    :y: 260
+  - :x: 1197
+    :y: 262
+- :text: '1'
+  :bounds:
+  - :x: 236
+    :y: 1302
+  - :x: 239
+    :y: 1302
+  - :x: 238
+    :y: 1316
+  - :x: 235
+    :y: 1316
+- :text: An
+  :bounds:
+  - :x: 280
+    :y: 1307
+  - :x: 287
+    :y: 1308
+  - :x: 286
+    :y: 1322
+  - :x: 279
+    :y: 1321
+- :text: t
+  :bounds:
+  - :x: 317
+    :y: 1310
+  - :x: 320
+    :y: 1310
+  - :x: 319
+    :y: 1324
+  - :x: 316
+    :y: 1324
+- :text: filmi
+  :bounds:
+  - :x: 235
+    :y: 1317
+  - :x: 273
+    :y: 1317
+  - :x: 273
+    :y: 1332
+  - :x: 235
+    :y: 1332
+- :text: Photo
+  :bounds:
+  - :x: 817
+    :y: 1614
+  - :x: 868
+    :y: 1614
+  - :x: 868
+    :y: 1644
+  - :x: 817
+    :y: 1644
+- :text: from
+  :bounds:
+  - :x: 881
+    :y: 1614
+  - :x: 931
+    :y: 1614
+  - :x: 931
+    :y: 1644
+  - :x: 881
+    :y: 1644
+- :text: ":"
+  :bounds:
+  - :x: 929
+    :y: 1614
+  - :x: 937
+    :y: 1614
+  - :x: 937
+    :y: 1644
+  - :x: 929
+    :y: 1644
+- :text: Mrs
+  :bounds:
+  - :x: 953
+    :y: 1614
+  - :x: 980
+    :y: 1614
+  - :x: 980
+    :y: 1644
+  - :x: 953
+    :y: 1644
+- :text: CM
+  :bounds:
+  - :x: 987
+    :y: 1614
+  - :x: 1037
+    :y: 1614
+  - :x: 1037
+    :y: 1644
+  - :x: 987
+    :y: 1644
+- :text: Thomas
+  :bounds:
+  - :x: 1041
+    :y: 1613
+  - :x: 1119
+    :y: 1613
+  - :x: 1119
+    :y: 1643
+  - :x: 1041
+    :y: 1643
+- :text: Michael
+  :bounds:
+  - :x: 323
+    :y: 1646
+  - :x: 425
+    :y: 1646
+  - :x: 425
+    :y: 1689
+  - :x: 323
+    :y: 1689
+- :text: George
+  :bounds:
+  - :x: 448
+    :y: 1646
+  - :x: 544
+    :y: 1646
+  - :x: 544
+    :y: 1689
+  - :x: 448
+    :y: 1689
+- :text: Mackie
+  :bounds:
+  - :x: 576
+    :y: 1646
+  - :x: 667
+    :y: 1646
+  - :x: 667
+    :y: 1689
+  - :x: 576
+    :y: 1689
+- :text: WILLIAMS
+  :bounds:
+  - :x: 699
+    :y: 1645
+  - :x: 869
+    :y: 1645
+  - :x: 869
+    :y: 1688
+  - :x: 699
+    :y: 1688
+- :text: "("
+  :bounds:
+  - :x: 878
+    :y: 1645
+  - :x: 890
+    :y: 1645
+  - :x: 890
+    :y: 1688
+  - :x: 878
+    :y: 1688
+- :text: '1902'
+  :bounds:
+  - :x: 888
+    :y: 1645
+  - :x: 944
+    :y: 1645
+  - :x: 944
+    :y: 1688
+  - :x: 888
+    :y: 1688
+- :text: "-"
+  :bounds:
+  - :x: 955
+    :y: 1645
+  - :x: 967
+    :y: 1645
+  - :x: 967
+    :y: 1688
+  - :x: 955
+    :y: 1688
+- :text: '1969'
+  :bounds:
+  - :x: 972
+    :y: 1645
+  - :x: 1028
+    :y: 1645
+  - :x: 1028
+    :y: 1688
+  - :x: 972
+    :y: 1688
+- :text: ")"
+  :bounds:
+  - :x: 1030
+    :y: 1645
+  - :x: 1042
+    :y: 1645
+  - :x: 1042
+    :y: 1688
+  - :x: 1030
+    :y: 1688
+- :text: "."
+  :bounds:
+  - :x: 1039
+    :y: 1644
+  - :x: 1051
+    :y: 1644
+  - :x: 1051
+    :y: 1687
+  - :x: 1039
+    :y: 1687
+- :text: Photo
+  :bounds:
+  - :x: 1833
+    :y: 1614
+  - :x: 1886
+    :y: 1614
+  - :x: 1886
+    :y: 1641
+  - :x: 1833
+    :y: 1641
+- :text: from
+  :bounds:
+  - :x: 1901
+    :y: 1613
+  - :x: 1949
+    :y: 1613
+  - :x: 1949
+    :y: 1640
+  - :x: 1901
+    :y: 1640
+- :text: ":"
+  :bounds:
+  - :x: 1947
+    :y: 1613
+  - :x: 1954
+    :y: 1613
+  - :x: 1954
+    :y: 1640
+  - :x: 1947
+    :y: 1640
+- :text: Mrs
+  :bounds:
+  - :x: 1975
+    :y: 1613
+  - :x: 1998
+    :y: 1613
+  - :x: 1998
+    :y: 1640
+  - :x: 1975
+    :y: 1640
+- :text: CM
+  :bounds:
+  - :x: 2006
+    :y: 1613
+  - :x: 2061
+    :y: 1613
+  - :x: 2061
+    :y: 1640
+  - :x: 2006
+    :y: 1640
+- :text: Thomas
+  :bounds:
+  - :x: 2065
+    :y: 1613
+  - :x: 2141
+    :y: 1613
+  - :x: 2141
+    :y: 1640
+  - :x: 2065
+    :y: 1640
+- :text: Margaret
+  :bounds:
+  - :x: 1227
+    :y: 1644
+  - :x: 1351
+    :y: 1644
+  - :x: 1351
+    :y: 1686
+  - :x: 1227
+    :y: 1686
+- :text: Hughlings
+  :bounds:
+  - :x: 1373
+    :y: 1644
+  - :x: 1516
+    :y: 1644
+  - :x: 1516
+    :y: 1686
+  - :x: 1373
+    :y: 1686
+- :text: WILLIAMS
+  :bounds:
+  - :x: 1545
+    :y: 1643
+  - :x: 1709
+    :y: 1643
+  - :x: 1709
+    :y: 1685
+  - :x: 1545
+    :y: 1685
+- :text: "("
+  :bounds:
+  - :x: 1722
+    :y: 1643
+  - :x: 1733
+    :y: 1643
+  - :x: 1733
+    :y: 1685
+  - :x: 1722
+    :y: 1685
+- :text: '1906'
+  :bounds:
+  - :x: 1736
+    :y: 1643
+  - :x: 1789
+    :y: 1643
+  - :x: 1789
+    :y: 1685
+  - :x: 1736
+    :y: 1685
+- :text: "-"
+  :bounds:
+  - :x: 1800
+    :y: 1643
+  - :x: 1811
+    :y: 1643
+  - :x: 1811
+    :y: 1685
+  - :x: 1800
+    :y: 1685
+- :text: '1994'
+  :bounds:
+  - :x: 1822
+    :y: 1643
+  - :x: 1875
+    :y: 1643
+  - :x: 1875
+    :y: 1685
+  - :x: 1822
+    :y: 1685
+- :text: ")"
+  :bounds:
+  - :x: 1877
+    :y: 1642
+  - :x: 1888
+    :y: 1642
+  - :x: 1888
+    :y: 1684
+  - :x: 1877
+    :y: 1684
+- :text: nee
+  :bounds:
+  - :x: 1900
+    :y: 1642
+  - :x: 1935
+    :y: 1642
+  - :x: 1935
+    :y: 1684
+  - :x: 1900
+    :y: 1684
+- :text: JACKSON
+  :bounds:
+  - :x: 1945
+    :y: 1642
+  - :x: 2077
+    :y: 1642
+  - :x: 2077
+    :y: 1684
+  - :x: 1945
+    :y: 1684
+- :text: "."
+  :bounds:
+  - :x: 2071
+    :y: 1642
+  - :x: 2082
+    :y: 1642
+  - :x: 2082
+    :y: 1684
+  - :x: 2071
+    :y: 1684
+- :text: SERAM
+  :bounds:
+  - :x: 240
+    :y: 2154
+  - :x: 240
+    :y: 2088
+  - :x: 252
+    :y: 2088
+  - :x: 252
+    :y: 2154
+- :text: "*"
+  :bounds:
+  - :x: 240
+    :y: 2069
+  - :x: 240
+    :y: 2067
+  - :x: 252
+    :y: 2067
+  - :x: 252
+    :y: 2069
+- :text: "*"
+  :bounds:
+  - :x: 240
+    :y: 2067
+  - :x: 240
+    :y: 2065
+  - :x: 252
+    :y: 2065
+  - :x: 252
+    :y: 2067
+- :text: "*"
+  :bounds:
+  - :x: 240
+    :y: 2059
+  - :x: 240
+    :y: 2057
+  - :x: 252
+    :y: 2057
+  - :x: 252
+    :y: 2059
+- :text: "*"
+  :bounds:
+  - :x: 240
+    :y: 2052
+  - :x: 240
+    :y: 2050
+  - :x: 252
+    :y: 2050
+  - :x: 252
+    :y: 2052
+- :text: "*"
+  :bounds:
+  - :x: 240
+    :y: 2048
+  - :x: 240
+    :y: 2046
+  - :x: 252
+    :y: 2046
+  - :x: 252
+    :y: 2048
+- :text: neur
+  :bounds:
+  - :x: 1395
+    :y: 2577
+  - :x: 1434
+    :y: 2578
+  - :x: 1434
+    :y: 2590
+  - :x: 1395
+    :y: 2589
+- :text: "."
+  :bounds:
+  - :x: 879
+    :y: 3032
+  - :x: 882
+    :y: 3032
+  - :x: 882
+    :y: 3046
+  - :x: 879
+    :y: 3046
+- :text: ":"
+  :bounds:
+  - :x: 884
+    :y: 3032
+  - :x: 887
+    :y: 3032
+  - :x: 887
+    :y: 3046
+  - :x: 884
+    :y: 3046
+- :text: ":"
+  :bounds:
+  - :x: 936
+    :y: 3032
+  - :x: 939
+    :y: 3032
+  - :x: 939
+    :y: 3046
+  - :x: 936
+    :y: 3046
+- :text: ","
+  :bounds:
+  - :x: 944
+    :y: 3032
+  - :x: 947
+    :y: 3032
+  - :x: 947
+    :y: 3046
+  - :x: 944
+    :y: 3046
+- :text: ":"
+  :bounds:
+  - :x: 959
+    :y: 3032
+  - :x: 962
+    :y: 3032
+  - :x: 962
+    :y: 3046
+  - :x: 959
+    :y: 3046
+- :text: Photo
+  :bounds:
+  - :x: 1878
+    :y: 2993
+  - :x: 1932
+    :y: 2993
+  - :x: 1932
+    :y: 3024
+  - :x: 1878
+    :y: 3024
+- :text: from
+  :bounds:
+  - :x: 1945
+    :y: 2993
+  - :x: 1993
+    :y: 2993
+  - :x: 1993
+    :y: 3024
+  - :x: 1945
+    :y: 3024
+- :text: ":"
+  :bounds:
+  - :x: 1991
+    :y: 2993
+  - :x: 1999
+    :y: 2993
+  - :x: 1999
+    :y: 3024
+  - :x: 1991
+    :y: 3024
+- :text: Mrs
+  :bounds:
+  - :x: 2018
+    :y: 2993
+  - :x: 2044
+    :y: 2993
+  - :x: 2044
+    :y: 3024
+  - :x: 2018
+    :y: 3024
+- :text: BM
+  :bounds:
+  - :x: 2051
+    :y: 2993
+  - :x: 2103
+    :y: 2993
+  - :x: 2103
+    :y: 3024
+  - :x: 2051
+    :y: 3024
+- :text: May
+  :bounds:
+  - :x: 2115
+    :y: 2993
+  - :x: 2151
+    :y: 2993
+  - :x: 2151
+    :y: 3024
+  - :x: 2115
+    :y: 3024
+- :text: Alan
+  :bounds:
+  - :x: 1367
+    :y: 3026
+  - :x: 1432
+    :y: 3026
+  - :x: 1432
+    :y: 3068
+  - :x: 1367
+    :y: 3068
+- :text: Roy
+  :bounds:
+  - :x: 1451
+    :y: 3025
+  - :x: 1506
+    :y: 3025
+  - :x: 1506
+    :y: 3067
+  - :x: 1451
+    :y: 3067
+- :text: Bidwill
+  :bounds:
+  - :x: 1522
+    :y: 3025
+  - :x: 1626
+    :y: 3025
+  - :x: 1626
+    :y: 3067
+  - :x: 1522
+    :y: 3067
+- :text: BARTON
+  :bounds:
+  - :x: 1643
+    :y: 3025
+  - :x: 1799
+    :y: 3025
+  - :x: 1799
+    :y: 3067
+  - :x: 1643
+    :y: 3067
+- :text: "("
+  :bounds:
+  - :x: 1804
+    :y: 3025
+  - :x: 1815
+    :y: 3025
+  - :x: 1815
+    :y: 3067
+  - :x: 1804
+    :y: 3067
+- :text: '1914'
+  :bounds:
+  - :x: 1814
+    :y: 3025
+  - :x: 1875
+    :y: 3025
+  - :x: 1875
+    :y: 3067
+  - :x: 1814
+    :y: 3067
+- :text: "-"
+  :bounds:
+  - :x: 1884
+    :y: 3024
+  - :x: 1895
+    :y: 3024
+  - :x: 1895
+    :y: 3066
+  - :x: 1884
+    :y: 3066
+- :text: '1981'
+  :bounds:
+  - :x: 1900
+    :y: 3024
+  - :x: 1959
+    :y: 3024
+  - :x: 1959
+    :y: 3066
+  - :x: 1900
+    :y: 3066
+- :text: ")"
+  :bounds:
+  - :x: 1957
+    :y: 3024
+  - :x: 1968
+    :y: 3024
+  - :x: 1968
+    :y: 3066
+  - :x: 1957
+    :y: 3066
+- :text: "."
+  :bounds:
+  - :x: 1970
+    :y: 3024
+  - :x: 1981
+    :y: 3024
+  - :x: 1981
+    :y: 3066
+  - :x: 1970
+    :y: 3066
+- :text: Photo
+  :bounds:
+  - :x: 897
+    :y: 3104
+  - :x: 952
+    :y: 3104
+  - :x: 952
+    :y: 3136
+  - :x: 897
+    :y: 3136
+- :text: from
+  :bounds:
+  - :x: 962
+    :y: 3104
+  - :x: 1012
+    :y: 3104
+  - :x: 1012
+    :y: 3136
+  - :x: 962
+    :y: 3136
+- :text: ":"
+  :bounds:
+  - :x: 1010
+    :y: 3104
+  - :x: 1018
+    :y: 3104
+  - :x: 1018
+    :y: 3136
+  - :x: 1010
+    :y: 3136
+- :text: Mrs
+  :bounds:
+  - :x: 1036
+    :y: 3104
+  - :x: 1064
+    :y: 3104
+  - :x: 1064
+    :y: 3136
+  - :x: 1036
+    :y: 3136
+- :text: BM
+  :bounds:
+  - :x: 1069
+    :y: 3103
+  - :x: 1121
+    :y: 3103
+  - :x: 1121
+    :y: 3135
+  - :x: 1069
+    :y: 3135
+- :text: May
+  :bounds:
+  - :x: 1134
+    :y: 3103
+  - :x: 1166
+    :y: 3103
+  - :x: 1166
+    :y: 3135
+  - :x: 1134
+    :y: 3135
+- :text: Evelyn
+  :bounds:
+  - :x: 285
+    :y: 3138
+  - :x: 386
+    :y: 3138
+  - :x: 386
+    :y: 3178
+  - :x: 285
+    :y: 3178
+- :text: Gillian
+  :bounds:
+  - :x: 412
+    :y: 3138
+  - :x: 503
+    :y: 3138
+  - :x: 503
+    :y: 3178
+  - :x: 412
+    :y: 3178
+- :text: "("
+  :bounds:
+  - :x: 514
+    :y: 3138
+  - :x: 525
+    :y: 3138
+  - :x: 525
+    :y: 3178
+  - :x: 514
+    :y: 3178
+- :text: Jill
+  :bounds:
+  - :x: 527
+    :y: 3138
+  - :x: 574
+    :y: 3138
+  - :x: 574
+    :y: 3178
+  - :x: 527
+    :y: 3178
+- :text: ")"
+  :bounds:
+  - :x: 571
+    :y: 3138
+  - :x: 582
+    :y: 3138
+  - :x: 582
+    :y: 3178
+  - :x: 571
+    :y: 3178
+- :text: BARTON
+  :bounds:
+  - :x: 600
+    :y: 3138
+  - :x: 752
+    :y: 3138
+  - :x: 752
+    :y: 3178
+  - :x: 600
+    :y: 3178
+- :text: "("
+  :bounds:
+  - :x: 760
+    :y: 3137
+  - :x: 771
+    :y: 3137
+  - :x: 771
+    :y: 3177
+  - :x: 760
+    :y: 3177
+- :text: '1919'
+  :bounds:
+  - :x: 771
+    :y: 3137
+  - :x: 828
+    :y: 3137
+  - :x: 828
+    :y: 3177
+  - :x: 771
+    :y: 3177
+- :text: "-"
+  :bounds:
+  - :x: 840
+    :y: 3137
+  - :x: 851
+    :y: 3137
+  - :x: 851
+    :y: 3177
+  - :x: 840
+    :y: 3177
+- :text: '1985'
+  :bounds:
+  - :x: 857
+    :y: 3137
+  - :x: 915
+    :y: 3137
+  - :x: 915
+    :y: 3177
+  - :x: 857
+    :y: 3177
+- :text: ")"
+  :bounds:
+  - :x: 916
+    :y: 3137
+  - :x: 927
+    :y: 3137
+  - :x: 927
+    :y: 3177
+  - :x: 916
+    :y: 3177
+- :text: nee
+  :bounds:
+  - :x: 937
+    :y: 3137
+  - :x: 971
+    :y: 3137
+  - :x: 971
+    :y: 3177
+  - :x: 937
+    :y: 3177
+- :text: IVILLIAMS
+  :bounds:
+  - :x: 982
+    :y: 3137
+  - :x: 1111
+    :y: 3137
+  - :x: 1111
+    :y: 3177
+  - :x: 982
+    :y: 3177
+- :text: "."
+  :bounds:
+  - :x: 1112
+    :y: 3136
+  - :x: 1123
+    :y: 3136
+  - :x: 1123
+    :y: 3176
+  - :x: 1112
+    :y: 3176
+- :text: '66'
+  :bounds:
+  - :x: 1172
+    :y: 3307
+  - :x: 1217
+    :y: 3302
+  - :x: 1221
+    :y: 3342
+  - :x: 1177
+    :y: 3347
+:pages:
+- :languages:
+  - :code: en
+    :confidence: 0.6299999952316284
+  - :code: nl
+    :confidence: 0.30000001192092896
+  - :code: id
+    :confidence: 0.029999999329447746
+  - :code: sq
+    :confidence: 0.019999999552965164
+  - :code: fr
+    :confidence: 0.009999999776482582
+  :break_type: 
+  :prefix_break: 
+  :width: 2480
+  :height: 3508
+  :blocks:
+  - :languages: []
+    :break_type: 
+    :prefix_break: 
+    :bounds:
+    - :x: 232
+      :y: 211
+    - :x: 1376
+      :y: 200
+    - :x: 1377
+      :y: 260
+    - :x: 233
+      :y: 271
+    :paragraphs:
+    - :languages: []
+      :break_type: 
+      :prefix_break: 
+      :bounds:
+      - :x: 232
+        :y: 211
+      - :x: 1376
+        :y: 200
+      - :x: 1377
+        :y: 260
+      - :x: 233
+        :y: 271
+      :words:
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 232
+          :y: 212
+        - :x: 298
+          :y: 211
+        - :x: 299
+          :y: 269
+        - :x: 233
+          :y: 270
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 232
+            :y: 212
+          - :x: 252
+            :y: 212
+          - :x: 252
+            :y: 270
+          - :x: 232
+            :y: 270
+          :text: T
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 255
+            :y: 212
+          - :x: 276
+            :y: 212
+          - :x: 276
+            :y: 270
+          - :x: 255
+            :y: 270
+          :text: h
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 279
+            :y: 212
+          - :x: 299
+            :y: 212
+          - :x: 299
+            :y: 270
+          - :x: 279
+            :y: 270
+          :text: e
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 332
+          :y: 211
+        - :x: 599
+          :y: 209
+        - :x: 600
+          :y: 268
+        - :x: 333
+          :y: 270
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 332
+            :y: 211
+          - :x: 352
+            :y: 211
+          - :x: 352
+            :y: 269
+          - :x: 332
+            :y: 269
+          :text: D
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 356
+            :y: 211
+          - :x: 376
+            :y: 211
+          - :x: 376
+            :y: 269
+          - :x: 356
+            :y: 269
+          :text: e
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 378
+            :y: 211
+          - :x: 401
+            :y: 211
+          - :x: 401
+            :y: 269
+          - :x: 378
+            :y: 269
+          :text: s
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 408
+            :y: 211
+          - :x: 430
+            :y: 211
+          - :x: 430
+            :y: 269
+          - :x: 408
+            :y: 269
+          :text: c
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 432
+            :y: 210
+          - :x: 453
+            :y: 210
+          - :x: 453
+            :y: 268
+          - :x: 432
+            :y: 268
+          :text: e
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 455
+            :y: 210
+          - :x: 477
+            :y: 210
+          - :x: 477
+            :y: 268
+          - :x: 455
+            :y: 268
+          :text: n
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 484
+            :y: 210
+          - :x: 507
+            :y: 210
+          - :x: 507
+            :y: 268
+          - :x: 484
+            :y: 268
+          :text: d
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 509
+            :y: 210
+          - :x: 529
+            :y: 210
+          - :x: 529
+            :y: 268
+          - :x: 509
+            :y: 268
+          :text: a
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 533
+            :y: 210
+          - :x: 553
+            :y: 210
+          - :x: 553
+            :y: 268
+          - :x: 533
+            :y: 268
+          :text: n
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 556
+            :y: 210
+          - :x: 577
+            :y: 210
+          - :x: 577
+            :y: 268
+          - :x: 556
+            :y: 268
+          :text: t
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 580
+            :y: 209
+          - :x: 600
+            :y: 209
+          - :x: 600
+            :y: 267
+          - :x: 580
+            :y: 267
+          :text: s
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 633
+          :y: 208
+        - :x: 676
+          :y: 208
+        - :x: 677
+          :y: 266
+        - :x: 634
+          :y: 266
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 633
+            :y: 208
+          - :x: 653
+            :y: 208
+          - :x: 653
+            :y: 266
+          - :x: 633
+            :y: 266
+          :text: o
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 656
+            :y: 208
+          - :x: 677
+            :y: 208
+          - :x: 677
+            :y: 266
+          - :x: 656
+            :y: 266
+          :text: f
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 713
+          :y: 207
+        - :x: 829
+          :y: 206
+        - :x: 830
+          :y: 265
+        - :x: 714
+          :y: 266
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 713
+            :y: 208
+          - :x: 734
+            :y: 208
+          - :x: 734
+            :y: 266
+          - :x: 713
+            :y: 266
+          :text: H
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 735
+            :y: 207
+          - :x: 753
+            :y: 207
+          - :x: 753
+            :y: 265
+          - :x: 735
+            :y: 265
+          :text: e
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 756
+            :y: 207
+          - :x: 778
+            :y: 207
+          - :x: 778
+            :y: 265
+          - :x: 756
+            :y: 265
+          :text: n
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 785
+            :y: 207
+          - :x: 808
+            :y: 207
+          - :x: 808
+            :y: 265
+          - :x: 785
+            :y: 265
+          :text: r
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 810
+            :y: 207
+          - :x: 830
+            :y: 207
+          - :x: 830
+            :y: 265
+          - :x: 810
+            :y: 265
+          :text: y
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 855
+          :y: 206
+        - :x: 930
+          :y: 205
+        - :x: 931
+          :y: 264
+        - :x: 856
+          :y: 265
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 855
+            :y: 207
+          - :x: 880
+            :y: 207
+          - :x: 880
+            :y: 265
+          - :x: 855
+            :y: 265
+          :text: a
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 886
+            :y: 206
+          - :x: 908
+            :y: 206
+          - :x: 908
+            :y: 264
+          - :x: 886
+            :y: 264
+          :text: n
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 910
+            :y: 206
+          - :x: 931
+            :y: 206
+          - :x: 931
+            :y: 264
+          - :x: 910
+            :y: 264
+          :text: d
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 963
+          :y: 205
+        - :x: 1154
+          :y: 203
+        - :x: 1155
+          :y: 262
+        - :x: 964
+          :y: 264
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 963
+            :y: 206
+          - :x: 984
+            :y: 206
+          - :x: 984
+            :y: 264
+          - :x: 963
+            :y: 264
+          :text: M
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 987
+            :y: 206
+          - :x: 1007
+            :y: 206
+          - :x: 1007
+            :y: 264
+          - :x: 987
+            :y: 264
+          :text: a
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1010
+            :y: 206
+          - :x: 1031
+            :y: 206
+          - :x: 1031
+            :y: 264
+          - :x: 1010
+            :y: 264
+          :text: r
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1033
+            :y: 205
+          - :x: 1055
+            :y: 205
+          - :x: 1055
+            :y: 263
+          - :x: 1033
+            :y: 263
+          :text: i
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1063
+            :y: 204
+          - :x: 1085
+            :y: 204
+          - :x: 1085
+            :y: 262
+          - :x: 1063
+            :y: 262
+          :text: a
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1087
+            :y: 204
+          - :x: 1108
+            :y: 204
+          - :x: 1108
+            :y: 262
+          - :x: 1087
+            :y: 262
+          :text: n
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1111
+            :y: 204
+          - :x: 1131
+            :y: 204
+          - :x: 1131
+            :y: 262
+          - :x: 1111
+            :y: 262
+          :text: n
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 1134
+            :y: 204
+          - :x: 1155
+            :y: 204
+          - :x: 1155
+            :y: 262
+          - :x: 1134
+            :y: 262
+          :text: e
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1196
+          :y: 203
+        - :x: 1376
+          :y: 201
+        - :x: 1377
+          :y: 260
+        - :x: 1197
+          :y: 262
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1196
+            :y: 203
+          - :x: 1212
+            :y: 203
+          - :x: 1212
+            :y: 261
+          - :x: 1196
+            :y: 261
+          :text: W
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1212
+            :y: 203
+          - :x: 1230
+            :y: 203
+          - :x: 1230
+            :y: 261
+          - :x: 1212
+            :y: 261
+          :text: i
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1234
+            :y: 203
+          - :x: 1256
+            :y: 203
+          - :x: 1256
+            :y: 261
+          - :x: 1234
+            :y: 261
+          :text: l
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1263
+            :y: 203
+          - :x: 1286
+            :y: 203
+          - :x: 1286
+            :y: 261
+          - :x: 1263
+            :y: 261
+          :text: l
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1288
+            :y: 203
+          - :x: 1308
+            :y: 203
+          - :x: 1308
+            :y: 261
+          - :x: 1288
+            :y: 261
+          :text: i
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1310
+            :y: 202
+          - :x: 1333
+            :y: 202
+          - :x: 1333
+            :y: 260
+          - :x: 1310
+            :y: 260
+          :text: a
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1341
+            :y: 202
+          - :x: 1361
+            :y: 202
+          - :x: 1361
+            :y: 260
+          - :x: 1341
+            :y: 260
+          :text: m
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :LINE_BREAK
+          :prefix_break: false
+          :bounds:
+          - :x: 1361
+            :y: 202
+          - :x: 1377
+            :y: 202
+          - :x: 1377
+            :y: 260
+          - :x: 1361
+            :y: 260
+          :text: s
+    :block_type: :TEXT
+  - :languages: []
+    :break_type: 
+    :prefix_break: 
+    :bounds:
+    - :x: 236
+      :y: 1302
+    - :x: 320
+      :y: 1310
+    - :x: 318
+      :y: 1325
+    - :x: 235
+      :y: 1317
+    :paragraphs:
+    - :languages: []
+      :break_type: 
+      :prefix_break: 
+      :bounds:
+      - :x: 236
+        :y: 1302
+      - :x: 320
+        :y: 1310
+      - :x: 318
+        :y: 1325
+      - :x: 235
+        :y: 1317
+      :words:
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 236
+          :y: 1302
+        - :x: 239
+          :y: 1302
+        - :x: 238
+          :y: 1316
+        - :x: 235
+          :y: 1316
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 235
+            :y: 1302
+          - :x: 239
+            :y: 1302
+          - :x: 239
+            :y: 1316
+          - :x: 235
+            :y: 1316
+          :text: '1'
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 280
+          :y: 1307
+        - :x: 287
+          :y: 1308
+        - :x: 286
+          :y: 1322
+        - :x: 279
+          :y: 1321
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 279
+            :y: 1307
+          - :x: 283
+            :y: 1307
+          - :x: 283
+            :y: 1321
+          - :x: 279
+            :y: 1321
+          :text: A
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 283
+            :y: 1307
+          - :x: 287
+            :y: 1307
+          - :x: 287
+            :y: 1321
+          - :x: 283
+            :y: 1321
+          :text: n
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 317
+          :y: 1310
+        - :x: 320
+          :y: 1310
+        - :x: 319
+          :y: 1324
+        - :x: 316
+          :y: 1324
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :LINE_BREAK
+          :prefix_break: false
+          :bounds:
+          - :x: 316
+            :y: 1310
+          - :x: 320
+            :y: 1310
+          - :x: 320
+            :y: 1324
+          - :x: 316
+            :y: 1324
+          :text: t
+    :block_type: :TEXT
+  - :languages: []
+    :break_type: 
+    :prefix_break: 
+    :bounds:
+    - :x: 235
+      :y: 1317
+    - :x: 273
+      :y: 1317
+    - :x: 273
+      :y: 1332
+    - :x: 235
+      :y: 1332
+    :paragraphs:
+    - :languages: []
+      :break_type: 
+      :prefix_break: 
+      :bounds:
+      - :x: 235
+        :y: 1317
+      - :x: 273
+        :y: 1317
+      - :x: 273
+        :y: 1332
+      - :x: 235
+        :y: 1332
+      :words:
+      - :languages:
+        - :code: sq
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 235
+          :y: 1317
+        - :x: 273
+          :y: 1317
+        - :x: 273
+          :y: 1332
+        - :x: 235
+          :y: 1332
+        :symbols:
+        - :languages:
+          - :code: sq
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 235
+            :y: 1317
+          - :x: 242
+            :y: 1317
+          - :x: 242
+            :y: 1332
+          - :x: 235
+            :y: 1332
+          :text: f
+        - :languages:
+          - :code: sq
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 246
+            :y: 1317
+          - :x: 251
+            :y: 1317
+          - :x: 251
+            :y: 1332
+          - :x: 246
+            :y: 1332
+          :text: i
+        - :languages:
+          - :code: sq
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 248
+            :y: 1317
+          - :x: 255
+            :y: 1317
+          - :x: 255
+            :y: 1332
+          - :x: 248
+            :y: 1332
+          :text: l
+        - :languages:
+          - :code: sq
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 265
+            :y: 1317
+          - :x: 273
+            :y: 1317
+          - :x: 273
+            :y: 1332
+          - :x: 265
+            :y: 1332
+          :text: m
+        - :languages:
+          - :code: sq
+            :confidence: 0.0
+          :break_type: :LINE_BREAK
+          :prefix_break: false
+          :bounds:
+          - :x: 271
+            :y: 1317
+          - :x: 273
+            :y: 1317
+          - :x: 273
+            :y: 1332
+          - :x: 271
+            :y: 1332
+          :text: i
+    :block_type: :TEXT
+  - :languages: []
+    :break_type: 
+    :prefix_break: 
+    :bounds:
+    - :x: 323
+      :y: 1615
+    - :x: 1119
+      :y: 1613
+    - :x: 1119
+      :y: 1687
+    - :x: 323
+      :y: 1689
+    :paragraphs:
+    - :languages: []
+      :break_type: 
+      :prefix_break: 
+      :bounds:
+      - :x: 323
+        :y: 1615
+      - :x: 1119
+        :y: 1613
+      - :x: 1119
+        :y: 1687
+      - :x: 323
+        :y: 1689
+      :words:
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 817
+          :y: 1614
+        - :x: 868
+          :y: 1614
+        - :x: 868
+          :y: 1644
+        - :x: 817
+          :y: 1644
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 817
+            :y: 1614
+          - :x: 826
+            :y: 1614
+          - :x: 826
+            :y: 1644
+          - :x: 817
+            :y: 1644
+          :text: P
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 828
+            :y: 1614
+          - :x: 838
+            :y: 1614
+          - :x: 838
+            :y: 1644
+          - :x: 828
+            :y: 1644
+          :text: h
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 842
+            :y: 1614
+          - :x: 850
+            :y: 1614
+          - :x: 850
+            :y: 1644
+          - :x: 842
+            :y: 1644
+          :text: o
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 852
+            :y: 1614
+          - :x: 859
+            :y: 1614
+          - :x: 859
+            :y: 1644
+          - :x: 852
+            :y: 1644
+          :text: t
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 861
+            :y: 1614
+          - :x: 868
+            :y: 1614
+          - :x: 868
+            :y: 1644
+          - :x: 861
+            :y: 1644
+          :text: o
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 881
+          :y: 1614
+        - :x: 931
+          :y: 1614
+        - :x: 931
+          :y: 1644
+        - :x: 881
+          :y: 1644
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 881
+            :y: 1614
+          - :x: 886
+            :y: 1614
+          - :x: 886
+            :y: 1644
+          - :x: 881
+            :y: 1644
+          :text: f
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 886
+            :y: 1614
+          - :x: 893
+            :y: 1614
+          - :x: 893
+            :y: 1644
+          - :x: 886
+            :y: 1644
+          :text: r
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 896
+            :y: 1614
+          - :x: 908
+            :y: 1614
+          - :x: 908
+            :y: 1644
+          - :x: 896
+            :y: 1644
+          :text: o
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 913
+            :y: 1614
+          - :x: 931
+            :y: 1614
+          - :x: 931
+            :y: 1644
+          - :x: 913
+            :y: 1644
+          :text: m
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 929
+          :y: 1614
+        - :x: 937
+          :y: 1614
+        - :x: 937
+          :y: 1644
+        - :x: 929
+          :y: 1644
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 929
+            :y: 1614
+          - :x: 937
+            :y: 1614
+          - :x: 937
+            :y: 1644
+          - :x: 929
+            :y: 1644
+          :text: ":"
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 953
+          :y: 1614
+        - :x: 980
+          :y: 1614
+        - :x: 980
+          :y: 1644
+        - :x: 953
+          :y: 1644
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 953
+            :y: 1614
+          - :x: 961
+            :y: 1614
+          - :x: 961
+            :y: 1644
+          - :x: 953
+            :y: 1644
+          :text: M
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 963
+            :y: 1614
+          - :x: 970
+            :y: 1614
+          - :x: 970
+            :y: 1644
+          - :x: 963
+            :y: 1644
+          :text: r
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 972
+            :y: 1614
+          - :x: 980
+            :y: 1614
+          - :x: 980
+            :y: 1644
+          - :x: 972
+            :y: 1644
+          :text: s
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 987
+          :y: 1614
+        - :x: 1037
+          :y: 1614
+        - :x: 1037
+          :y: 1644
+        - :x: 987
+          :y: 1644
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 987
+            :y: 1614
+          - :x: 1009
+            :y: 1614
+          - :x: 1009
+            :y: 1644
+          - :x: 987
+            :y: 1644
+          :text: C
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 1015
+            :y: 1614
+          - :x: 1037
+            :y: 1614
+          - :x: 1037
+            :y: 1644
+          - :x: 1015
+            :y: 1644
+          :text: M
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1041
+          :y: 1613
+        - :x: 1119
+          :y: 1613
+        - :x: 1119
+          :y: 1643
+        - :x: 1041
+          :y: 1643
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1041
+            :y: 1613
+          - :x: 1054
+            :y: 1613
+          - :x: 1054
+            :y: 1643
+          - :x: 1041
+            :y: 1643
+          :text: T
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1058
+            :y: 1613
+          - :x: 1068
+            :y: 1613
+          - :x: 1068
+            :y: 1643
+          - :x: 1058
+            :y: 1643
+          :text: h
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1069
+            :y: 1613
+          - :x: 1082
+            :y: 1613
+          - :x: 1082
+            :y: 1643
+          - :x: 1069
+            :y: 1643
+          :text: o
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1088
+            :y: 1613
+          - :x: 1100
+            :y: 1613
+          - :x: 1100
+            :y: 1643
+          - :x: 1088
+            :y: 1643
+          :text: m
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1102
+            :y: 1613
+          - :x: 1111
+            :y: 1613
+          - :x: 1111
+            :y: 1643
+          - :x: 1102
+            :y: 1643
+          :text: a
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :EOL_SURE_SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 1112
+            :y: 1613
+          - :x: 1119
+            :y: 1613
+          - :x: 1119
+            :y: 1643
+          - :x: 1112
+            :y: 1643
+          :text: s
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 323
+          :y: 1646
+        - :x: 425
+          :y: 1646
+        - :x: 425
+          :y: 1689
+        - :x: 323
+          :y: 1689
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 323
+            :y: 1646
+          - :x: 333
+            :y: 1646
+          - :x: 333
+            :y: 1689
+          - :x: 323
+            :y: 1689
+          :text: M
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 335
+            :y: 1646
+          - :x: 347
+            :y: 1646
+          - :x: 347
+            :y: 1689
+          - :x: 335
+            :y: 1689
+          :text: i
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 352
+            :y: 1646
+          - :x: 366
+            :y: 1646
+          - :x: 366
+            :y: 1689
+          - :x: 352
+            :y: 1689
+          :text: c
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 369
+            :y: 1646
+          - :x: 383
+            :y: 1646
+          - :x: 383
+            :y: 1689
+          - :x: 369
+            :y: 1689
+          :text: h
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 388
+            :y: 1646
+          - :x: 400
+            :y: 1646
+          - :x: 400
+            :y: 1689
+          - :x: 388
+            :y: 1689
+          :text: a
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 402
+            :y: 1646
+          - :x: 412
+            :y: 1646
+          - :x: 412
+            :y: 1689
+          - :x: 402
+            :y: 1689
+          :text: e
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 415
+            :y: 1646
+          - :x: 425
+            :y: 1646
+          - :x: 425
+            :y: 1689
+          - :x: 415
+            :y: 1689
+          :text: l
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 448
+          :y: 1646
+        - :x: 544
+          :y: 1646
+        - :x: 544
+          :y: 1689
+        - :x: 448
+          :y: 1689
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 448
+            :y: 1646
+          - :x: 462
+            :y: 1646
+          - :x: 462
+            :y: 1689
+          - :x: 448
+            :y: 1689
+          :text: G
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 466
+            :y: 1646
+          - :x: 480
+            :y: 1646
+          - :x: 480
+            :y: 1689
+          - :x: 466
+            :y: 1689
+          :text: e
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 484
+            :y: 1646
+          - :x: 498
+            :y: 1646
+          - :x: 498
+            :y: 1689
+          - :x: 484
+            :y: 1689
+          :text: o
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 502
+            :y: 1646
+          - :x: 514
+            :y: 1646
+          - :x: 514
+            :y: 1689
+          - :x: 502
+            :y: 1689
+          :text: r
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 516
+            :y: 1646
+          - :x: 531
+            :y: 1646
+          - :x: 531
+            :y: 1689
+          - :x: 516
+            :y: 1689
+          :text: g
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 534
+            :y: 1646
+          - :x: 544
+            :y: 1646
+          - :x: 544
+            :y: 1689
+          - :x: 534
+            :y: 1689
+          :text: e
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 576
+          :y: 1646
+        - :x: 667
+          :y: 1646
+        - :x: 667
+          :y: 1689
+        - :x: 576
+          :y: 1689
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 576
+            :y: 1646
+          - :x: 590
+            :y: 1646
+          - :x: 590
+            :y: 1689
+          - :x: 576
+            :y: 1689
+          :text: M
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 594
+            :y: 1646
+          - :x: 608
+            :y: 1646
+          - :x: 608
+            :y: 1689
+          - :x: 594
+            :y: 1689
+          :text: a
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 611
+            :y: 1646
+          - :x: 625
+            :y: 1646
+          - :x: 625
+            :y: 1689
+          - :x: 611
+            :y: 1689
+          :text: c
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 630
+            :y: 1645
+          - :x: 642
+            :y: 1645
+          - :x: 642
+            :y: 1688
+          - :x: 630
+            :y: 1688
+          :text: k
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 644
+            :y: 1645
+          - :x: 654
+            :y: 1645
+          - :x: 654
+            :y: 1688
+          - :x: 644
+            :y: 1688
+          :text: i
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 657
+            :y: 1645
+          - :x: 667
+            :y: 1645
+          - :x: 667
+            :y: 1688
+          - :x: 657
+            :y: 1688
+          :text: e
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 699
+          :y: 1645
+        - :x: 869
+          :y: 1645
+        - :x: 869
+          :y: 1688
+        - :x: 699
+          :y: 1688
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 699
+            :y: 1645
+          - :x: 713
+            :y: 1645
+          - :x: 713
+            :y: 1688
+          - :x: 699
+            :y: 1688
+          :text: W
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 718
+            :y: 1645
+          - :x: 730
+            :y: 1645
+          - :x: 730
+            :y: 1688
+          - :x: 718
+            :y: 1688
+          :text: I
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 730
+            :y: 1645
+          - :x: 748
+            :y: 1645
+          - :x: 748
+            :y: 1688
+          - :x: 730
+            :y: 1688
+          :text: L
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 755
+            :y: 1645
+          - :x: 771
+            :y: 1645
+          - :x: 771
+            :y: 1688
+          - :x: 755
+            :y: 1688
+          :text: L
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 773
+            :y: 1645
+          - :x: 789
+            :y: 1645
+          - :x: 789
+            :y: 1688
+          - :x: 773
+            :y: 1688
+          :text: I
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 791
+            :y: 1645
+          - :x: 814
+            :y: 1645
+          - :x: 814
+            :y: 1688
+          - :x: 791
+            :y: 1688
+          :text: A
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 826
+            :y: 1645
+          - :x: 849
+            :y: 1645
+          - :x: 849
+            :y: 1688
+          - :x: 826
+            :y: 1688
+          :text: M
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 851
+            :y: 1645
+          - :x: 869
+            :y: 1645
+          - :x: 869
+            :y: 1688
+          - :x: 851
+            :y: 1688
+          :text: S
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 878
+          :y: 1645
+        - :x: 890
+          :y: 1645
+        - :x: 890
+          :y: 1688
+        - :x: 878
+          :y: 1688
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 878
+            :y: 1645
+          - :x: 890
+            :y: 1645
+          - :x: 890
+            :y: 1688
+          - :x: 878
+            :y: 1688
+          :text: "("
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 888
+          :y: 1645
+        - :x: 944
+          :y: 1645
+        - :x: 944
+          :y: 1688
+        - :x: 888
+          :y: 1688
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 888
+            :y: 1645
+          - :x: 902
+            :y: 1645
+          - :x: 902
+            :y: 1688
+          - :x: 888
+            :y: 1688
+          :text: '1'
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 907
+            :y: 1645
+          - :x: 919
+            :y: 1645
+          - :x: 919
+            :y: 1688
+          - :x: 907
+            :y: 1688
+          :text: '9'
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 921
+            :y: 1645
+          - :x: 931
+            :y: 1645
+          - :x: 931
+            :y: 1688
+          - :x: 921
+            :y: 1688
+          :text: '0'
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 934
+            :y: 1645
+          - :x: 944
+            :y: 1645
+          - :x: 944
+            :y: 1688
+          - :x: 934
+            :y: 1688
+          :text: '2'
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 955
+          :y: 1645
+        - :x: 967
+          :y: 1645
+        - :x: 967
+          :y: 1688
+        - :x: 955
+          :y: 1688
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 955
+            :y: 1645
+          - :x: 967
+            :y: 1645
+          - :x: 967
+            :y: 1688
+          - :x: 955
+            :y: 1688
+          :text: "-"
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 972
+          :y: 1645
+        - :x: 1028
+          :y: 1645
+        - :x: 1028
+          :y: 1688
+        - :x: 972
+          :y: 1688
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 972
+            :y: 1645
+          - :x: 986
+            :y: 1645
+          - :x: 986
+            :y: 1688
+          - :x: 972
+            :y: 1688
+          :text: '1'
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 990
+            :y: 1645
+          - :x: 1002
+            :y: 1645
+          - :x: 1002
+            :y: 1688
+          - :x: 990
+            :y: 1688
+          :text: '9'
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1004
+            :y: 1645
+          - :x: 1015
+            :y: 1645
+          - :x: 1015
+            :y: 1688
+          - :x: 1004
+            :y: 1688
+          :text: '6'
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1018
+            :y: 1645
+          - :x: 1028
+            :y: 1645
+          - :x: 1028
+            :y: 1688
+          - :x: 1018
+            :y: 1688
+          :text: '9'
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1030
+          :y: 1645
+        - :x: 1042
+          :y: 1645
+        - :x: 1042
+          :y: 1688
+        - :x: 1030
+          :y: 1688
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1030
+            :y: 1645
+          - :x: 1042
+            :y: 1645
+          - :x: 1042
+            :y: 1688
+          - :x: 1030
+            :y: 1688
+          :text: ")"
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1039
+          :y: 1644
+        - :x: 1051
+          :y: 1644
+        - :x: 1051
+          :y: 1687
+        - :x: 1039
+          :y: 1687
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :LINE_BREAK
+          :prefix_break: false
+          :bounds:
+          - :x: 1039
+            :y: 1644
+          - :x: 1051
+            :y: 1644
+          - :x: 1051
+            :y: 1687
+          - :x: 1039
+            :y: 1687
+          :text: "."
+    :block_type: :TEXT
+  - :languages: []
+    :break_type: 
+    :prefix_break: 
+    :bounds:
+    - :x: 1227
+      :y: 1615
+    - :x: 2141
+      :y: 1613
+    - :x: 2141
+      :y: 1684
+    - :x: 1227
+      :y: 1686
+    :paragraphs:
+    - :languages: []
+      :break_type: 
+      :prefix_break: 
+      :bounds:
+      - :x: 1227
+        :y: 1615
+      - :x: 2141
+        :y: 1613
+      - :x: 2141
+        :y: 1684
+      - :x: 1227
+        :y: 1686
+      :words:
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1833
+          :y: 1614
+        - :x: 1886
+          :y: 1614
+        - :x: 1886
+          :y: 1641
+        - :x: 1833
+          :y: 1641
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1833
+            :y: 1614
+          - :x: 1844
+            :y: 1614
+          - :x: 1844
+            :y: 1641
+          - :x: 1833
+            :y: 1641
+          :text: P
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1847
+            :y: 1614
+          - :x: 1858
+            :y: 1614
+          - :x: 1858
+            :y: 1641
+          - :x: 1847
+            :y: 1641
+          :text: h
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1862
+            :y: 1613
+          - :x: 1871
+            :y: 1613
+          - :x: 1871
+            :y: 1640
+          - :x: 1862
+            :y: 1640
+          :text: o
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1872
+            :y: 1613
+          - :x: 1878
+            :y: 1613
+          - :x: 1878
+            :y: 1640
+          - :x: 1872
+            :y: 1640
+          :text: t
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 1880
+            :y: 1613
+          - :x: 1886
+            :y: 1613
+          - :x: 1886
+            :y: 1640
+          - :x: 1880
+            :y: 1640
+          :text: o
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1901
+          :y: 1613
+        - :x: 1949
+          :y: 1613
+        - :x: 1949
+          :y: 1640
+        - :x: 1901
+          :y: 1640
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1901
+            :y: 1613
+          - :x: 1905
+            :y: 1613
+          - :x: 1905
+            :y: 1640
+          - :x: 1901
+            :y: 1640
+          :text: f
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1904
+            :y: 1613
+          - :x: 1912
+            :y: 1613
+          - :x: 1912
+            :y: 1640
+          - :x: 1904
+            :y: 1640
+          :text: r
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1916
+            :y: 1613
+          - :x: 1929
+            :y: 1613
+          - :x: 1929
+            :y: 1640
+          - :x: 1916
+            :y: 1640
+          :text: o
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1934
+            :y: 1613
+          - :x: 1949
+            :y: 1613
+          - :x: 1949
+            :y: 1640
+          - :x: 1934
+            :y: 1640
+          :text: m
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1947
+          :y: 1613
+        - :x: 1954
+          :y: 1613
+        - :x: 1954
+          :y: 1640
+        - :x: 1947
+          :y: 1640
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 1947
+            :y: 1613
+          - :x: 1954
+            :y: 1613
+          - :x: 1954
+            :y: 1640
+          - :x: 1947
+            :y: 1640
+          :text: ":"
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1975
+          :y: 1613
+        - :x: 1998
+          :y: 1613
+        - :x: 1998
+          :y: 1640
+        - :x: 1975
+          :y: 1640
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1975
+            :y: 1613
+          - :x: 1982
+            :y: 1613
+          - :x: 1982
+            :y: 1640
+          - :x: 1975
+            :y: 1640
+          :text: M
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1984
+            :y: 1613
+          - :x: 1990
+            :y: 1613
+          - :x: 1990
+            :y: 1640
+          - :x: 1984
+            :y: 1640
+          :text: r
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 1992
+            :y: 1613
+          - :x: 1998
+            :y: 1613
+          - :x: 1998
+            :y: 1640
+          - :x: 1992
+            :y: 1640
+          :text: s
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 2006
+          :y: 1613
+        - :x: 2061
+          :y: 1613
+        - :x: 2061
+          :y: 1640
+        - :x: 2006
+          :y: 1640
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 2006
+            :y: 1613
+          - :x: 2030
+            :y: 1613
+          - :x: 2030
+            :y: 1640
+          - :x: 2006
+            :y: 1640
+          :text: C
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 2036
+            :y: 1613
+          - :x: 2061
+            :y: 1613
+          - :x: 2061
+            :y: 1640
+          - :x: 2036
+            :y: 1640
+          :text: M
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 2065
+          :y: 1613
+        - :x: 2141
+          :y: 1613
+        - :x: 2141
+          :y: 1640
+        - :x: 2065
+          :y: 1640
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 2065
+            :y: 1613
+          - :x: 2076
+            :y: 1613
+          - :x: 2076
+            :y: 1640
+          - :x: 2065
+            :y: 1640
+          :text: T
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 2080
+            :y: 1613
+          - :x: 2090
+            :y: 1613
+          - :x: 2090
+            :y: 1640
+          - :x: 2080
+            :y: 1640
+          :text: h
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 2089
+            :y: 1613
+          - :x: 2102
+            :y: 1613
+          - :x: 2102
+            :y: 1640
+          - :x: 2089
+            :y: 1640
+          :text: o
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 2111
+            :y: 1613
+          - :x: 2125
+            :y: 1613
+          - :x: 2125
+            :y: 1640
+          - :x: 2111
+            :y: 1640
+          :text: m
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 2126
+            :y: 1613
+          - :x: 2133
+            :y: 1613
+          - :x: 2133
+            :y: 1640
+          - :x: 2126
+            :y: 1640
+          :text: a
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :EOL_SURE_SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 2135
+            :y: 1613
+          - :x: 2141
+            :y: 1613
+          - :x: 2141
+            :y: 1640
+          - :x: 2135
+            :y: 1640
+          :text: s
+      - :languages:
+        - :code: nl
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1227
+          :y: 1644
+        - :x: 1351
+          :y: 1644
+        - :x: 1351
+          :y: 1686
+        - :x: 1227
+          :y: 1686
+        :symbols:
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1227
+            :y: 1644
+          - :x: 1245
+            :y: 1644
+          - :x: 1245
+            :y: 1686
+          - :x: 1227
+            :y: 1686
+          :text: M
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1249
+            :y: 1644
+          - :x: 1261
+            :y: 1644
+          - :x: 1261
+            :y: 1686
+          - :x: 1249
+            :y: 1686
+          :text: a
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1262
+            :y: 1644
+          - :x: 1274
+            :y: 1644
+          - :x: 1274
+            :y: 1686
+          - :x: 1262
+            :y: 1686
+          :text: r
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1279
+            :y: 1644
+          - :x: 1292
+            :y: 1644
+          - :x: 1292
+            :y: 1686
+          - :x: 1279
+            :y: 1686
+          :text: g
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1297
+            :y: 1644
+          - :x: 1309
+            :y: 1644
+          - :x: 1309
+            :y: 1686
+          - :x: 1297
+            :y: 1686
+          :text: a
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1310
+            :y: 1644
+          - :x: 1321
+            :y: 1644
+          - :x: 1321
+            :y: 1686
+          - :x: 1310
+            :y: 1686
+          :text: r
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1327
+            :y: 1644
+          - :x: 1339
+            :y: 1644
+          - :x: 1339
+            :y: 1686
+          - :x: 1327
+            :y: 1686
+          :text: e
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 1341
+            :y: 1644
+          - :x: 1351
+            :y: 1644
+          - :x: 1351
+            :y: 1686
+          - :x: 1341
+            :y: 1686
+          :text: t
+      - :languages:
+        - :code: nl
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1373
+          :y: 1644
+        - :x: 1516
+          :y: 1644
+        - :x: 1516
+          :y: 1686
+        - :x: 1373
+          :y: 1686
+        :symbols:
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1373
+            :y: 1644
+          - :x: 1387
+            :y: 1644
+          - :x: 1387
+            :y: 1686
+          - :x: 1373
+            :y: 1686
+          :text: H
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1390
+            :y: 1644
+          - :x: 1404
+            :y: 1644
+          - :x: 1404
+            :y: 1686
+          - :x: 1390
+            :y: 1686
+          :text: u
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1407
+            :y: 1644
+          - :x: 1422
+            :y: 1644
+          - :x: 1422
+            :y: 1686
+          - :x: 1407
+            :y: 1686
+          :text: g
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1429
+            :y: 1644
+          - :x: 1443
+            :y: 1644
+          - :x: 1443
+            :y: 1686
+          - :x: 1429
+            :y: 1686
+          :text: h
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1444
+            :y: 1643
+          - :x: 1453
+            :y: 1643
+          - :x: 1453
+            :y: 1685
+          - :x: 1444
+            :y: 1685
+          :text: l
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1452
+            :y: 1643
+          - :x: 1462
+            :y: 1643
+          - :x: 1462
+            :y: 1685
+          - :x: 1452
+            :y: 1685
+          :text: i
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1468
+            :y: 1643
+          - :x: 1482
+            :y: 1643
+          - :x: 1482
+            :y: 1685
+          - :x: 1468
+            :y: 1685
+          :text: n
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1485
+            :y: 1643
+          - :x: 1499
+            :y: 1643
+          - :x: 1499
+            :y: 1685
+          - :x: 1485
+            :y: 1685
+          :text: g
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 1502
+            :y: 1643
+          - :x: 1516
+            :y: 1643
+          - :x: 1516
+            :y: 1685
+          - :x: 1502
+            :y: 1685
+          :text: s
+      - :languages:
+        - :code: nl
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1545
+          :y: 1643
+        - :x: 1709
+          :y: 1643
+        - :x: 1709
+          :y: 1685
+        - :x: 1545
+          :y: 1685
+        :symbols:
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1545
+            :y: 1643
+          - :x: 1559
+            :y: 1643
+          - :x: 1559
+            :y: 1685
+          - :x: 1545
+            :y: 1685
+          :text: W
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1563
+            :y: 1643
+          - :x: 1575
+            :y: 1643
+          - :x: 1575
+            :y: 1685
+          - :x: 1563
+            :y: 1685
+          :text: I
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1575
+            :y: 1643
+          - :x: 1593
+            :y: 1643
+          - :x: 1593
+            :y: 1685
+          - :x: 1575
+            :y: 1685
+          :text: L
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1600
+            :y: 1643
+          - :x: 1616
+            :y: 1643
+          - :x: 1616
+            :y: 1685
+          - :x: 1600
+            :y: 1685
+          :text: L
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1617
+            :y: 1643
+          - :x: 1633
+            :y: 1643
+          - :x: 1633
+            :y: 1685
+          - :x: 1617
+            :y: 1685
+          :text: I
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1635
+            :y: 1643
+          - :x: 1659
+            :y: 1643
+          - :x: 1659
+            :y: 1685
+          - :x: 1635
+            :y: 1685
+          :text: A
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1674
+            :y: 1643
+          - :x: 1696
+            :y: 1643
+          - :x: 1696
+            :y: 1685
+          - :x: 1674
+            :y: 1685
+          :text: M
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 1696
+            :y: 1643
+          - :x: 1709
+            :y: 1643
+          - :x: 1709
+            :y: 1685
+          - :x: 1696
+            :y: 1685
+          :text: S
+      - :languages:
+        - :code: nl
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1722
+          :y: 1643
+        - :x: 1733
+          :y: 1643
+        - :x: 1733
+          :y: 1685
+        - :x: 1722
+          :y: 1685
+        :symbols:
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1722
+            :y: 1643
+          - :x: 1733
+            :y: 1643
+          - :x: 1733
+            :y: 1685
+          - :x: 1722
+            :y: 1685
+          :text: "("
+      - :languages:
+        - :code: nl
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1736
+          :y: 1643
+        - :x: 1789
+          :y: 1643
+        - :x: 1789
+          :y: 1685
+        - :x: 1736
+          :y: 1685
+        :symbols:
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1736
+            :y: 1643
+          - :x: 1746
+            :y: 1643
+          - :x: 1746
+            :y: 1685
+          - :x: 1736
+            :y: 1685
+          :text: '1'
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1748
+            :y: 1643
+          - :x: 1760
+            :y: 1643
+          - :x: 1760
+            :y: 1685
+          - :x: 1748
+            :y: 1685
+          :text: '9'
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1765
+            :y: 1643
+          - :x: 1777
+            :y: 1643
+          - :x: 1777
+            :y: 1685
+          - :x: 1765
+            :y: 1685
+          :text: '0'
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 1779
+            :y: 1643
+          - :x: 1789
+            :y: 1643
+          - :x: 1789
+            :y: 1685
+          - :x: 1779
+            :y: 1685
+          :text: '6'
+      - :languages:
+        - :code: nl
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1800
+          :y: 1643
+        - :x: 1811
+          :y: 1643
+        - :x: 1811
+          :y: 1685
+        - :x: 1800
+          :y: 1685
+        :symbols:
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 1800
+            :y: 1643
+          - :x: 1811
+            :y: 1643
+          - :x: 1811
+            :y: 1685
+          - :x: 1800
+            :y: 1685
+          :text: "-"
+      - :languages:
+        - :code: nl
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1822
+          :y: 1643
+        - :x: 1875
+          :y: 1643
+        - :x: 1875
+          :y: 1685
+        - :x: 1822
+          :y: 1685
+        :symbols:
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1822
+            :y: 1643
+          - :x: 1832
+            :y: 1643
+          - :x: 1832
+            :y: 1685
+          - :x: 1822
+            :y: 1685
+          :text: '1'
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1834
+            :y: 1643
+          - :x: 1846
+            :y: 1643
+          - :x: 1846
+            :y: 1685
+          - :x: 1834
+            :y: 1685
+          :text: '9'
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1851
+            :y: 1643
+          - :x: 1863
+            :y: 1643
+          - :x: 1863
+            :y: 1685
+          - :x: 1851
+            :y: 1685
+          :text: '9'
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1865
+            :y: 1642
+          - :x: 1875
+            :y: 1642
+          - :x: 1875
+            :y: 1684
+          - :x: 1865
+            :y: 1684
+          :text: '4'
+      - :languages:
+        - :code: nl
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1877
+          :y: 1642
+        - :x: 1888
+          :y: 1642
+        - :x: 1888
+          :y: 1684
+        - :x: 1877
+          :y: 1684
+        :symbols:
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 1877
+            :y: 1642
+          - :x: 1888
+            :y: 1642
+          - :x: 1888
+            :y: 1684
+          - :x: 1877
+            :y: 1684
+          :text: ")"
+      - :languages:
+        - :code: nl
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1900
+          :y: 1642
+        - :x: 1935
+          :y: 1642
+        - :x: 1935
+          :y: 1684
+        - :x: 1900
+          :y: 1684
+        :symbols:
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1900
+            :y: 1642
+          - :x: 1910
+            :y: 1642
+          - :x: 1910
+            :y: 1684
+          - :x: 1900
+            :y: 1684
+          :text: n
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1912
+            :y: 1642
+          - :x: 1922
+            :y: 1642
+          - :x: 1922
+            :y: 1684
+          - :x: 1912
+            :y: 1684
+          :text: e
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 1925
+            :y: 1642
+          - :x: 1935
+            :y: 1642
+          - :x: 1935
+            :y: 1684
+          - :x: 1925
+            :y: 1684
+          :text: e
+      - :languages:
+        - :code: nl
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1945
+          :y: 1642
+        - :x: 2077
+          :y: 1642
+        - :x: 2077
+          :y: 1684
+        - :x: 1945
+          :y: 1684
+        :symbols:
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1945
+            :y: 1642
+          - :x: 1959
+            :y: 1642
+          - :x: 1959
+            :y: 1684
+          - :x: 1945
+            :y: 1684
+          :text: J
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1961
+            :y: 1642
+          - :x: 1977
+            :y: 1642
+          - :x: 1977
+            :y: 1684
+          - :x: 1961
+            :y: 1684
+          :text: A
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1983
+            :y: 1642
+          - :x: 1999
+            :y: 1642
+          - :x: 1999
+            :y: 1684
+          - :x: 1983
+            :y: 1684
+          :text: C
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 2001
+            :y: 1642
+          - :x: 2015
+            :y: 1642
+          - :x: 2015
+            :y: 1684
+          - :x: 2001
+            :y: 1684
+          :text: K
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 2017
+            :y: 1642
+          - :x: 2033
+            :y: 1642
+          - :x: 2033
+            :y: 1684
+          - :x: 2017
+            :y: 1684
+          :text: S
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 2038
+            :y: 1642
+          - :x: 2055
+            :y: 1642
+          - :x: 2055
+            :y: 1684
+          - :x: 2038
+            :y: 1684
+          :text: O
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 2059
+            :y: 1642
+          - :x: 2077
+            :y: 1642
+          - :x: 2077
+            :y: 1684
+          - :x: 2059
+            :y: 1684
+          :text: N
+      - :languages:
+        - :code: nl
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 2071
+          :y: 1642
+        - :x: 2082
+          :y: 1642
+        - :x: 2082
+          :y: 1684
+        - :x: 2071
+          :y: 1684
+        :symbols:
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: :LINE_BREAK
+          :prefix_break: false
+          :bounds:
+          - :x: 2071
+            :y: 1642
+          - :x: 2082
+            :y: 1642
+          - :x: 2082
+            :y: 1684
+          - :x: 2071
+            :y: 1684
+          :text: "."
+    :block_type: :TEXT
+  - :languages: []
+    :break_type: 
+    :prefix_break: 
+    :bounds:
+    - :x: 240
+      :y: 2154
+    - :x: 240
+      :y: 2046
+    - :x: 252
+      :y: 2046
+    - :x: 252
+      :y: 2154
+    :paragraphs:
+    - :languages: []
+      :break_type: 
+      :prefix_break: 
+      :bounds:
+      - :x: 240
+        :y: 2154
+      - :x: 240
+        :y: 2046
+      - :x: 252
+        :y: 2046
+      - :x: 252
+        :y: 2154
+      :words:
+      - :languages:
+        - :code: id
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 240
+          :y: 2154
+        - :x: 240
+          :y: 2088
+        - :x: 252
+          :y: 2088
+        - :x: 252
+          :y: 2154
+        :symbols:
+        - :languages:
+          - :code: id
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 240
+            :y: 2149
+          - :x: 252
+            :y: 2149
+          - :x: 252
+            :y: 2151
+          - :x: 240
+            :y: 2151
+          :text: S
+        - :languages:
+          - :code: id
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 240
+            :y: 2141
+          - :x: 252
+            :y: 2141
+          - :x: 252
+            :y: 2153
+          - :x: 240
+            :y: 2153
+          :text: E
+        - :languages:
+          - :code: id
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 240
+            :y: 2110
+          - :x: 252
+            :y: 2110
+          - :x: 252
+            :y: 2128
+          - :x: 240
+            :y: 2128
+          :text: R
+        - :languages:
+          - :code: id
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 240
+            :y: 2095
+          - :x: 252
+            :y: 2095
+          - :x: 252
+            :y: 2106
+          - :x: 240
+            :y: 2106
+          :text: A
+        - :languages:
+          - :code: id
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 240
+            :y: 2087
+          - :x: 252
+            :y: 2087
+          - :x: 252
+            :y: 2094
+          - :x: 240
+            :y: 2094
+          :text: M
+      - :languages:
+        - :code: id
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 240
+          :y: 2069
+        - :x: 240
+          :y: 2067
+        - :x: 252
+          :y: 2067
+        - :x: 252
+          :y: 2069
+        :symbols:
+        - :languages:
+          - :code: id
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 240
+            :y: 2066
+          - :x: 252
+            :y: 2066
+          - :x: 252
+            :y: 2068
+          - :x: 240
+            :y: 2068
+          :text: "*"
+      - :languages:
+        - :code: id
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 240
+          :y: 2067
+        - :x: 240
+          :y: 2065
+        - :x: 252
+          :y: 2065
+        - :x: 252
+          :y: 2067
+        :symbols:
+        - :languages:
+          - :code: id
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 240
+            :y: 2064
+          - :x: 252
+            :y: 2064
+          - :x: 252
+            :y: 2066
+          - :x: 240
+            :y: 2066
+          :text: "*"
+      - :languages:
+        - :code: id
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 240
+          :y: 2059
+        - :x: 240
+          :y: 2057
+        - :x: 252
+          :y: 2057
+        - :x: 252
+          :y: 2059
+        :symbols:
+        - :languages:
+          - :code: id
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 240
+            :y: 2056
+          - :x: 252
+            :y: 2056
+          - :x: 252
+            :y: 2058
+          - :x: 240
+            :y: 2058
+          :text: "*"
+      - :languages:
+        - :code: id
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 240
+          :y: 2052
+        - :x: 240
+          :y: 2050
+        - :x: 252
+          :y: 2050
+        - :x: 252
+          :y: 2052
+        :symbols:
+        - :languages:
+          - :code: id
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 240
+            :y: 2049
+          - :x: 252
+            :y: 2049
+          - :x: 252
+            :y: 2051
+          - :x: 240
+            :y: 2051
+          :text: "*"
+      - :languages:
+        - :code: id
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 240
+          :y: 2048
+        - :x: 240
+          :y: 2046
+        - :x: 252
+          :y: 2046
+        - :x: 252
+          :y: 2048
+        :symbols:
+        - :languages:
+          - :code: id
+            :confidence: 0.0
+          :break_type: :LINE_BREAK
+          :prefix_break: false
+          :bounds:
+          - :x: 240
+            :y: 2045
+          - :x: 252
+            :y: 2045
+          - :x: 252
+            :y: 2047
+          - :x: 240
+            :y: 2047
+          :text: "*"
+    :block_type: :TEXT
+  - :languages: []
+    :break_type: 
+    :prefix_break: 
+    :bounds:
+    - :x: 1395
+      :y: 2577
+    - :x: 1434
+      :y: 2578
+    - :x: 1434
+      :y: 2590
+    - :x: 1395
+      :y: 2589
+    :paragraphs:
+    - :languages: []
+      :break_type: 
+      :prefix_break: 
+      :bounds:
+      - :x: 1395
+        :y: 2577
+      - :x: 1434
+        :y: 2578
+      - :x: 1434
+        :y: 2590
+      - :x: 1395
+        :y: 2589
+      :words:
+      - :languages:
+        - :code: fr
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1395
+          :y: 2577
+        - :x: 1434
+          :y: 2578
+        - :x: 1434
+          :y: 2590
+        - :x: 1395
+          :y: 2589
+        :symbols:
+        - :languages:
+          - :code: fr
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1395
+            :y: 2577
+          - :x: 1401
+            :y: 2577
+          - :x: 1401
+            :y: 2589
+          - :x: 1395
+            :y: 2589
+          :text: n
+        - :languages:
+          - :code: fr
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1400
+            :y: 2577
+          - :x: 1411
+            :y: 2577
+          - :x: 1411
+            :y: 2589
+          - :x: 1400
+            :y: 2589
+          :text: e
+        - :languages:
+          - :code: fr
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1424
+            :y: 2578
+          - :x: 1434
+            :y: 2578
+          - :x: 1434
+            :y: 2590
+          - :x: 1424
+            :y: 2590
+          :text: u
+        - :languages:
+          - :code: fr
+            :confidence: 0.0
+          :break_type: :LINE_BREAK
+          :prefix_break: false
+          :bounds:
+          - :x: 1431
+            :y: 2578
+          - :x: 1434
+            :y: 2578
+          - :x: 1434
+            :y: 2590
+          - :x: 1431
+            :y: 2590
+          :text: r
+    :block_type: :TEXT
+  - :languages: []
+    :break_type: 
+    :prefix_break: 
+    :bounds:
+    - :x: 879
+      :y: 3032
+    - :x: 962
+      :y: 3032
+    - :x: 962
+      :y: 3046
+    - :x: 879
+      :y: 3046
+    :paragraphs:
+    - :languages: []
+      :break_type: 
+      :prefix_break: 
+      :bounds:
+      - :x: 879
+        :y: 3032
+      - :x: 962
+        :y: 3032
+      - :x: 962
+        :y: 3046
+      - :x: 879
+        :y: 3046
+      :words:
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 879
+          :y: 3032
+        - :x: 882
+          :y: 3032
+        - :x: 882
+          :y: 3046
+        - :x: 879
+          :y: 3046
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 879
+            :y: 3032
+          - :x: 882
+            :y: 3032
+          - :x: 882
+            :y: 3046
+          - :x: 879
+            :y: 3046
+          :text: "."
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 884
+          :y: 3032
+        - :x: 887
+          :y: 3032
+        - :x: 887
+          :y: 3046
+        - :x: 884
+          :y: 3046
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 884
+            :y: 3032
+          - :x: 887
+            :y: 3032
+          - :x: 887
+            :y: 3046
+          - :x: 884
+            :y: 3046
+          :text: ":"
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 936
+          :y: 3032
+        - :x: 939
+          :y: 3032
+        - :x: 939
+          :y: 3046
+        - :x: 936
+          :y: 3046
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 936
+            :y: 3032
+          - :x: 939
+            :y: 3032
+          - :x: 939
+            :y: 3046
+          - :x: 936
+            :y: 3046
+          :text: ":"
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 944
+          :y: 3032
+        - :x: 947
+          :y: 3032
+        - :x: 947
+          :y: 3046
+        - :x: 944
+          :y: 3046
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 944
+            :y: 3032
+          - :x: 947
+            :y: 3032
+          - :x: 947
+            :y: 3046
+          - :x: 944
+            :y: 3046
+          :text: ","
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 959
+          :y: 3032
+        - :x: 962
+          :y: 3032
+        - :x: 962
+          :y: 3046
+        - :x: 959
+          :y: 3046
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :LINE_BREAK
+          :prefix_break: false
+          :bounds:
+          - :x: 959
+            :y: 3032
+          - :x: 962
+            :y: 3032
+          - :x: 962
+            :y: 3046
+          - :x: 959
+            :y: 3046
+          :text: ":"
+    :block_type: :TEXT
+  - :languages: []
+    :break_type: 
+    :prefix_break: 
+    :bounds:
+    - :x: 1367
+      :y: 2995
+    - :x: 2151
+      :y: 2993
+    - :x: 2151
+      :y: 3066
+    - :x: 1367
+      :y: 3068
+    :paragraphs:
+    - :languages: []
+      :break_type: 
+      :prefix_break: 
+      :bounds:
+      - :x: 1367
+        :y: 2995
+      - :x: 2151
+        :y: 2993
+      - :x: 2151
+        :y: 3066
+      - :x: 1367
+        :y: 3068
+      :words:
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1878
+          :y: 2993
+        - :x: 1932
+          :y: 2993
+        - :x: 1932
+          :y: 3024
+        - :x: 1878
+          :y: 3024
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1878
+            :y: 2993
+          - :x: 1888
+            :y: 2993
+          - :x: 1888
+            :y: 3024
+          - :x: 1878
+            :y: 3024
+          :text: P
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1891
+            :y: 2993
+          - :x: 1901
+            :y: 2993
+          - :x: 1901
+            :y: 3024
+          - :x: 1891
+            :y: 3024
+          :text: h
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1905
+            :y: 2993
+          - :x: 1914
+            :y: 2993
+          - :x: 1914
+            :y: 3024
+          - :x: 1905
+            :y: 3024
+          :text: o
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1915
+            :y: 2993
+          - :x: 1922
+            :y: 2993
+          - :x: 1922
+            :y: 3024
+          - :x: 1915
+            :y: 3024
+          :text: t
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 1924
+            :y: 2993
+          - :x: 1932
+            :y: 2993
+          - :x: 1932
+            :y: 3024
+          - :x: 1924
+            :y: 3024
+          :text: o
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1945
+          :y: 2993
+        - :x: 1993
+          :y: 2993
+        - :x: 1993
+          :y: 3024
+        - :x: 1945
+          :y: 3024
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1945
+            :y: 2993
+          - :x: 1950
+            :y: 2993
+          - :x: 1950
+            :y: 3024
+          - :x: 1945
+            :y: 3024
+          :text: f
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1950
+            :y: 2993
+          - :x: 1957
+            :y: 2993
+          - :x: 1957
+            :y: 3024
+          - :x: 1950
+            :y: 3024
+          :text: r
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1960
+            :y: 2993
+          - :x: 1973
+            :y: 2993
+          - :x: 1973
+            :y: 3024
+          - :x: 1960
+            :y: 3024
+          :text: o
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1978
+            :y: 2993
+          - :x: 1993
+            :y: 2993
+          - :x: 1993
+            :y: 3024
+          - :x: 1978
+            :y: 3024
+          :text: m
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1991
+          :y: 2993
+        - :x: 1999
+          :y: 2993
+        - :x: 1999
+          :y: 3024
+        - :x: 1991
+          :y: 3024
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 1991
+            :y: 2993
+          - :x: 1999
+            :y: 2993
+          - :x: 1999
+            :y: 3024
+          - :x: 1991
+            :y: 3024
+          :text: ":"
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 2018
+          :y: 2993
+        - :x: 2044
+          :y: 2993
+        - :x: 2044
+          :y: 3024
+        - :x: 2018
+          :y: 3024
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 2018
+            :y: 2993
+          - :x: 2025
+            :y: 2993
+          - :x: 2025
+            :y: 3024
+          - :x: 2018
+            :y: 3024
+          :text: M
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 2027
+            :y: 2993
+          - :x: 2034
+            :y: 2993
+          - :x: 2034
+            :y: 3024
+          - :x: 2027
+            :y: 3024
+          :text: r
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 2036
+            :y: 2993
+          - :x: 2044
+            :y: 2993
+          - :x: 2044
+            :y: 3024
+          - :x: 2036
+            :y: 3024
+          :text: s
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 2051
+          :y: 2993
+        - :x: 2103
+          :y: 2993
+        - :x: 2103
+          :y: 3024
+        - :x: 2051
+          :y: 3024
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 2051
+            :y: 2993
+          - :x: 2074
+            :y: 2993
+          - :x: 2074
+            :y: 3024
+          - :x: 2051
+            :y: 3024
+          :text: B
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 2080
+            :y: 2993
+          - :x: 2103
+            :y: 2993
+          - :x: 2103
+            :y: 3024
+          - :x: 2080
+            :y: 3024
+          :text: M
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 2115
+          :y: 2993
+        - :x: 2151
+          :y: 2993
+        - :x: 2151
+          :y: 3024
+        - :x: 2115
+          :y: 3024
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 2115
+            :y: 2993
+          - :x: 2125
+            :y: 2993
+          - :x: 2125
+            :y: 3024
+          - :x: 2115
+            :y: 3024
+          :text: M
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 2128
+            :y: 2993
+          - :x: 2138
+            :y: 2993
+          - :x: 2138
+            :y: 3024
+          - :x: 2128
+            :y: 3024
+          :text: a
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :EOL_SURE_SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 2141
+            :y: 2993
+          - :x: 2151
+            :y: 2993
+          - :x: 2151
+            :y: 3024
+          - :x: 2141
+            :y: 3024
+          :text: y
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1367
+          :y: 3026
+        - :x: 1432
+          :y: 3026
+        - :x: 1432
+          :y: 3068
+        - :x: 1367
+          :y: 3068
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1367
+            :y: 3026
+          - :x: 1381
+            :y: 3026
+          - :x: 1381
+            :y: 3068
+          - :x: 1367
+            :y: 3068
+          :text: A
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1384
+            :y: 3026
+          - :x: 1398
+            :y: 3026
+          - :x: 1398
+            :y: 3068
+          - :x: 1384
+            :y: 3068
+          :text: l
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1401
+            :y: 3026
+          - :x: 1415
+            :y: 3026
+          - :x: 1415
+            :y: 3068
+          - :x: 1401
+            :y: 3068
+          :text: a
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 1419
+            :y: 3026
+          - :x: 1432
+            :y: 3026
+          - :x: 1432
+            :y: 3068
+          - :x: 1419
+            :y: 3068
+          :text: n
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1451
+          :y: 3025
+        - :x: 1506
+          :y: 3025
+        - :x: 1506
+          :y: 3067
+        - :x: 1451
+          :y: 3067
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1451
+            :y: 3025
+          - :x: 1469
+            :y: 3025
+          - :x: 1469
+            :y: 3067
+          - :x: 1451
+            :y: 3067
+          :text: R
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1474
+            :y: 3025
+          - :x: 1489
+            :y: 3025
+          - :x: 1489
+            :y: 3067
+          - :x: 1474
+            :y: 3067
+          :text: o
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 1492
+            :y: 3025
+          - :x: 1506
+            :y: 3025
+          - :x: 1506
+            :y: 3067
+          - :x: 1492
+            :y: 3067
+          :text: y
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1522
+          :y: 3025
+        - :x: 1626
+          :y: 3025
+        - :x: 1626
+          :y: 3067
+        - :x: 1522
+          :y: 3067
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1522
+            :y: 3025
+          - :x: 1536
+            :y: 3025
+          - :x: 1536
+            :y: 3067
+          - :x: 1522
+            :y: 3067
+          :text: B
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1538
+            :y: 3025
+          - :x: 1554
+            :y: 3025
+          - :x: 1554
+            :y: 3067
+          - :x: 1538
+            :y: 3067
+          :text: i
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1558
+            :y: 3025
+          - :x: 1576
+            :y: 3025
+          - :x: 1576
+            :y: 3067
+          - :x: 1558
+            :y: 3067
+          :text: d
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1586
+            :y: 3025
+          - :x: 1600
+            :y: 3025
+          - :x: 1600
+            :y: 3067
+          - :x: 1586
+            :y: 3067
+          :text: w
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1597
+            :y: 3025
+          - :x: 1606
+            :y: 3025
+          - :x: 1606
+            :y: 3067
+          - :x: 1597
+            :y: 3067
+          :text: i
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1611
+            :y: 3025
+          - :x: 1619
+            :y: 3025
+          - :x: 1619
+            :y: 3067
+          - :x: 1611
+            :y: 3067
+          :text: l
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 1620
+            :y: 3025
+          - :x: 1626
+            :y: 3025
+          - :x: 1626
+            :y: 3067
+          - :x: 1620
+            :y: 3067
+          :text: l
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1643
+          :y: 3025
+        - :x: 1799
+          :y: 3025
+        - :x: 1799
+          :y: 3067
+        - :x: 1643
+          :y: 3067
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1643
+            :y: 3025
+          - :x: 1663
+            :y: 3025
+          - :x: 1663
+            :y: 3067
+          - :x: 1643
+            :y: 3067
+          :text: B
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1668
+            :y: 3025
+          - :x: 1689
+            :y: 3025
+          - :x: 1689
+            :y: 3067
+          - :x: 1668
+            :y: 3067
+          :text: A
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1694
+            :y: 3025
+          - :x: 1715
+            :y: 3025
+          - :x: 1715
+            :y: 3067
+          - :x: 1694
+            :y: 3067
+          :text: R
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1720
+            :y: 3025
+          - :x: 1741
+            :y: 3025
+          - :x: 1741
+            :y: 3067
+          - :x: 1720
+            :y: 3067
+          :text: T
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1746
+            :y: 3025
+          - :x: 1768
+            :y: 3025
+          - :x: 1768
+            :y: 3067
+          - :x: 1746
+            :y: 3067
+          :text: O
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 1775
+            :y: 3025
+          - :x: 1799
+            :y: 3025
+          - :x: 1799
+            :y: 3067
+          - :x: 1775
+            :y: 3067
+          :text: N
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1804
+          :y: 3025
+        - :x: 1815
+          :y: 3025
+        - :x: 1815
+          :y: 3067
+        - :x: 1804
+          :y: 3067
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1804
+            :y: 3025
+          - :x: 1815
+            :y: 3025
+          - :x: 1815
+            :y: 3067
+          - :x: 1804
+            :y: 3067
+          :text: "("
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1814
+          :y: 3025
+        - :x: 1875
+          :y: 3025
+        - :x: 1875
+          :y: 3067
+        - :x: 1814
+          :y: 3067
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1814
+            :y: 3025
+          - :x: 1828
+            :y: 3025
+          - :x: 1828
+            :y: 3067
+          - :x: 1814
+            :y: 3067
+          :text: '1'
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1832
+            :y: 3025
+          - :x: 1844
+            :y: 3025
+          - :x: 1844
+            :y: 3067
+          - :x: 1832
+            :y: 3067
+          :text: '9'
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1845
+            :y: 3025
+          - :x: 1857
+            :y: 3025
+          - :x: 1857
+            :y: 3067
+          - :x: 1845
+            :y: 3067
+          :text: '1'
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 1862
+            :y: 3024
+          - :x: 1875
+            :y: 3024
+          - :x: 1875
+            :y: 3066
+          - :x: 1862
+            :y: 3066
+          :text: '4'
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1884
+          :y: 3024
+        - :x: 1895
+          :y: 3024
+        - :x: 1895
+          :y: 3066
+        - :x: 1884
+          :y: 3066
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 1884
+            :y: 3024
+          - :x: 1895
+            :y: 3024
+          - :x: 1895
+            :y: 3066
+          - :x: 1884
+            :y: 3066
+          :text: "-"
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1900
+          :y: 3024
+        - :x: 1959
+          :y: 3024
+        - :x: 1959
+          :y: 3066
+        - :x: 1900
+          :y: 3066
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1900
+            :y: 3024
+          - :x: 1914
+            :y: 3024
+          - :x: 1914
+            :y: 3066
+          - :x: 1900
+            :y: 3066
+          :text: '1'
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1918
+            :y: 3024
+          - :x: 1930
+            :y: 3024
+          - :x: 1930
+            :y: 3066
+          - :x: 1918
+            :y: 3066
+          :text: '9'
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1932
+            :y: 3024
+          - :x: 1942
+            :y: 3024
+          - :x: 1942
+            :y: 3066
+          - :x: 1932
+            :y: 3066
+          :text: '8'
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1945
+            :y: 3024
+          - :x: 1959
+            :y: 3024
+          - :x: 1959
+            :y: 3066
+          - :x: 1945
+            :y: 3066
+          :text: '1'
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1957
+          :y: 3024
+        - :x: 1968
+          :y: 3024
+        - :x: 1968
+          :y: 3066
+        - :x: 1957
+          :y: 3066
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1957
+            :y: 3024
+          - :x: 1968
+            :y: 3024
+          - :x: 1968
+            :y: 3066
+          - :x: 1957
+            :y: 3066
+          :text: ")"
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1970
+          :y: 3024
+        - :x: 1981
+          :y: 3024
+        - :x: 1981
+          :y: 3066
+        - :x: 1970
+          :y: 3066
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :LINE_BREAK
+          :prefix_break: false
+          :bounds:
+          - :x: 1970
+            :y: 3024
+          - :x: 1981
+            :y: 3024
+          - :x: 1981
+            :y: 3066
+          - :x: 1970
+            :y: 3066
+          :text: "."
+    :block_type: :TEXT
+  - :languages: []
+    :break_type: 
+    :prefix_break: 
+    :bounds:
+    - :x: 285
+      :y: 3105
+    - :x: 1166
+      :y: 3103
+    - :x: 1166
+      :y: 3176
+    - :x: 285
+      :y: 3178
+    :paragraphs:
+    - :languages: []
+      :break_type: 
+      :prefix_break: 
+      :bounds:
+      - :x: 285
+        :y: 3105
+      - :x: 1166
+        :y: 3103
+      - :x: 1166
+        :y: 3176
+      - :x: 285
+        :y: 3178
+      :words:
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 897
+          :y: 3104
+        - :x: 952
+          :y: 3104
+        - :x: 952
+          :y: 3136
+        - :x: 897
+          :y: 3136
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 897
+            :y: 3104
+          - :x: 907
+            :y: 3104
+          - :x: 907
+            :y: 3136
+          - :x: 897
+            :y: 3136
+          :text: P
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 911
+            :y: 3104
+          - :x: 923
+            :y: 3104
+          - :x: 923
+            :y: 3136
+          - :x: 911
+            :y: 3136
+          :text: h
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 924
+            :y: 3104
+          - :x: 932
+            :y: 3104
+          - :x: 932
+            :y: 3136
+          - :x: 924
+            :y: 3136
+          :text: o
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 934
+            :y: 3104
+          - :x: 942
+            :y: 3104
+          - :x: 942
+            :y: 3136
+          - :x: 934
+            :y: 3136
+          :text: t
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 944
+            :y: 3104
+          - :x: 952
+            :y: 3104
+          - :x: 952
+            :y: 3136
+          - :x: 944
+            :y: 3136
+          :text: o
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 962
+          :y: 3104
+        - :x: 1012
+          :y: 3104
+        - :x: 1012
+          :y: 3136
+        - :x: 962
+          :y: 3136
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 962
+            :y: 3104
+          - :x: 970
+            :y: 3104
+          - :x: 970
+            :y: 3136
+          - :x: 962
+            :y: 3136
+          :text: f
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 971
+            :y: 3104
+          - :x: 978
+            :y: 3104
+          - :x: 978
+            :y: 3136
+          - :x: 971
+            :y: 3136
+          :text: r
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 978
+            :y: 3104
+          - :x: 990
+            :y: 3104
+          - :x: 990
+            :y: 3136
+          - :x: 978
+            :y: 3136
+          :text: o
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 996
+            :y: 3104
+          - :x: 1012
+            :y: 3104
+          - :x: 1012
+            :y: 3136
+          - :x: 996
+            :y: 3136
+          :text: m
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1010
+          :y: 3104
+        - :x: 1018
+          :y: 3104
+        - :x: 1018
+          :y: 3136
+        - :x: 1010
+          :y: 3136
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 1010
+            :y: 3104
+          - :x: 1018
+            :y: 3104
+          - :x: 1018
+            :y: 3136
+          - :x: 1010
+            :y: 3136
+          :text: ":"
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1036
+          :y: 3104
+        - :x: 1064
+          :y: 3104
+        - :x: 1064
+          :y: 3136
+        - :x: 1036
+          :y: 3136
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1036
+            :y: 3104
+          - :x: 1044
+            :y: 3104
+          - :x: 1044
+            :y: 3136
+          - :x: 1036
+            :y: 3136
+          :text: M
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1046
+            :y: 3103
+          - :x: 1054
+            :y: 3103
+          - :x: 1054
+            :y: 3135
+          - :x: 1046
+            :y: 3135
+          :text: r
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 1056
+            :y: 3103
+          - :x: 1064
+            :y: 3103
+          - :x: 1064
+            :y: 3135
+          - :x: 1056
+            :y: 3135
+          :text: s
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1069
+          :y: 3103
+        - :x: 1121
+          :y: 3103
+        - :x: 1121
+          :y: 3135
+        - :x: 1069
+          :y: 3135
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1069
+            :y: 3103
+          - :x: 1092
+            :y: 3103
+          - :x: 1092
+            :y: 3135
+          - :x: 1069
+            :y: 3135
+          :text: B
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 1098
+            :y: 3103
+          - :x: 1121
+            :y: 3103
+          - :x: 1121
+            :y: 3135
+          - :x: 1098
+            :y: 3135
+          :text: M
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1134
+          :y: 3103
+        - :x: 1166
+          :y: 3103
+        - :x: 1166
+          :y: 3135
+        - :x: 1134
+          :y: 3135
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1134
+            :y: 3103
+          - :x: 1144
+            :y: 3103
+          - :x: 1144
+            :y: 3135
+          - :x: 1134
+            :y: 3135
+          :text: M
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1148
+            :y: 3103
+          - :x: 1157
+            :y: 3103
+          - :x: 1157
+            :y: 3135
+          - :x: 1148
+            :y: 3135
+          :text: a
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :EOL_SURE_SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 1158
+            :y: 3103
+          - :x: 1166
+            :y: 3103
+          - :x: 1166
+            :y: 3135
+          - :x: 1158
+            :y: 3135
+          :text: y
+      - :languages:
+        - :code: nl
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 285
+          :y: 3138
+        - :x: 386
+          :y: 3138
+        - :x: 386
+          :y: 3178
+        - :x: 285
+          :y: 3178
+        :symbols:
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 285
+            :y: 3138
+          - :x: 306
+            :y: 3138
+          - :x: 306
+            :y: 3178
+          - :x: 285
+            :y: 3178
+          :text: E
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 311
+            :y: 3138
+          - :x: 326
+            :y: 3138
+          - :x: 326
+            :y: 3178
+          - :x: 311
+            :y: 3178
+          :text: v
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 329
+            :y: 3138
+          - :x: 341
+            :y: 3138
+          - :x: 341
+            :y: 3178
+          - :x: 329
+            :y: 3178
+          :text: e
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 342
+            :y: 3138
+          - :x: 353
+            :y: 3138
+          - :x: 353
+            :y: 3178
+          - :x: 342
+            :y: 3178
+          :text: l
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 357
+            :y: 3138
+          - :x: 370
+            :y: 3138
+          - :x: 370
+            :y: 3178
+          - :x: 357
+            :y: 3178
+          :text: y
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 373
+            :y: 3138
+          - :x: 386
+            :y: 3138
+          - :x: 386
+            :y: 3178
+          - :x: 373
+            :y: 3178
+          :text: n
+      - :languages:
+        - :code: nl
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 412
+          :y: 3138
+        - :x: 503
+          :y: 3138
+        - :x: 503
+          :y: 3178
+        - :x: 412
+          :y: 3178
+        :symbols:
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 412
+            :y: 3138
+          - :x: 422
+            :y: 3138
+          - :x: 422
+            :y: 3178
+          - :x: 412
+            :y: 3178
+          :text: G
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 425
+            :y: 3138
+          - :x: 434
+            :y: 3138
+          - :x: 434
+            :y: 3178
+          - :x: 425
+            :y: 3178
+          :text: i
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 438
+            :y: 3138
+          - :x: 446
+            :y: 3138
+          - :x: 446
+            :y: 3178
+          - :x: 438
+            :y: 3178
+          :text: l
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 446
+            :y: 3138
+          - :x: 454
+            :y: 3138
+          - :x: 454
+            :y: 3178
+          - :x: 446
+            :y: 3178
+          :text: l
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 457
+            :y: 3138
+          - :x: 467
+            :y: 3138
+          - :x: 467
+            :y: 3178
+          - :x: 457
+            :y: 3178
+          :text: i
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 468
+            :y: 3138
+          - :x: 481
+            :y: 3138
+          - :x: 481
+            :y: 3178
+          - :x: 468
+            :y: 3178
+          :text: a
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 486
+            :y: 3138
+          - :x: 503
+            :y: 3138
+          - :x: 503
+            :y: 3178
+          - :x: 486
+            :y: 3178
+          :text: n
+      - :languages:
+        - :code: nl
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 514
+          :y: 3138
+        - :x: 525
+          :y: 3138
+        - :x: 525
+          :y: 3178
+        - :x: 514
+          :y: 3178
+        :symbols:
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 514
+            :y: 3138
+          - :x: 525
+            :y: 3138
+          - :x: 525
+            :y: 3178
+          - :x: 514
+            :y: 3178
+          :text: "("
+      - :languages:
+        - :code: nl
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 527
+          :y: 3138
+        - :x: 574
+          :y: 3138
+        - :x: 574
+          :y: 3178
+        - :x: 527
+          :y: 3178
+        :symbols:
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 527
+            :y: 3138
+          - :x: 537
+            :y: 3138
+          - :x: 537
+            :y: 3178
+          - :x: 527
+            :y: 3178
+          :text: J
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 539
+            :y: 3138
+          - :x: 549
+            :y: 3138
+          - :x: 549
+            :y: 3178
+          - :x: 539
+            :y: 3178
+          :text: i
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 552
+            :y: 3138
+          - :x: 561
+            :y: 3138
+          - :x: 561
+            :y: 3178
+          - :x: 552
+            :y: 3178
+          :text: l
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 564
+            :y: 3138
+          - :x: 574
+            :y: 3138
+          - :x: 574
+            :y: 3178
+          - :x: 564
+            :y: 3178
+          :text: l
+      - :languages:
+        - :code: nl
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 571
+          :y: 3138
+        - :x: 582
+          :y: 3138
+        - :x: 582
+          :y: 3178
+        - :x: 571
+          :y: 3178
+        :symbols:
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 571
+            :y: 3138
+          - :x: 582
+            :y: 3138
+          - :x: 582
+            :y: 3178
+          - :x: 571
+            :y: 3178
+          :text: ")"
+      - :languages:
+        - :code: nl
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 600
+          :y: 3138
+        - :x: 752
+          :y: 3138
+        - :x: 752
+          :y: 3178
+        - :x: 600
+          :y: 3178
+        :symbols:
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 600
+            :y: 3138
+          - :x: 620
+            :y: 3138
+          - :x: 620
+            :y: 3178
+          - :x: 600
+            :y: 3178
+          :text: B
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 625
+            :y: 3138
+          - :x: 644
+            :y: 3138
+          - :x: 644
+            :y: 3178
+          - :x: 625
+            :y: 3178
+          :text: A
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 648
+            :y: 3137
+          - :x: 670
+            :y: 3137
+          - :x: 670
+            :y: 3177
+          - :x: 648
+            :y: 3177
+          :text: R
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 677
+            :y: 3137
+          - :x: 699
+            :y: 3137
+          - :x: 699
+            :y: 3177
+          - :x: 677
+            :y: 3177
+          :text: T
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 702
+            :y: 3137
+          - :x: 723
+            :y: 3137
+          - :x: 723
+            :y: 3177
+          - :x: 702
+            :y: 3177
+          :text: O
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 729
+            :y: 3137
+          - :x: 752
+            :y: 3137
+          - :x: 752
+            :y: 3177
+          - :x: 729
+            :y: 3177
+          :text: N
+      - :languages:
+        - :code: nl
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 760
+          :y: 3137
+        - :x: 771
+          :y: 3137
+        - :x: 771
+          :y: 3177
+        - :x: 760
+          :y: 3177
+        :symbols:
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 760
+            :y: 3137
+          - :x: 771
+            :y: 3137
+          - :x: 771
+            :y: 3177
+          - :x: 760
+            :y: 3177
+          :text: "("
+      - :languages:
+        - :code: nl
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 771
+          :y: 3137
+        - :x: 828
+          :y: 3137
+        - :x: 828
+          :y: 3177
+        - :x: 771
+          :y: 3177
+        :symbols:
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 771
+            :y: 3137
+          - :x: 785
+            :y: 3137
+          - :x: 785
+            :y: 3177
+          - :x: 771
+            :y: 3177
+          :text: '1'
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 788
+            :y: 3137
+          - :x: 801
+            :y: 3137
+          - :x: 801
+            :y: 3177
+          - :x: 788
+            :y: 3177
+          :text: '9'
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 805
+            :y: 3137
+          - :x: 817
+            :y: 3137
+          - :x: 817
+            :y: 3177
+          - :x: 805
+            :y: 3177
+          :text: '1'
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 818
+            :y: 3137
+          - :x: 828
+            :y: 3137
+          - :x: 828
+            :y: 3177
+          - :x: 818
+            :y: 3177
+          :text: '9'
+      - :languages:
+        - :code: nl
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 840
+          :y: 3137
+        - :x: 851
+          :y: 3137
+        - :x: 851
+          :y: 3177
+        - :x: 840
+          :y: 3177
+        :symbols:
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 840
+            :y: 3137
+          - :x: 851
+            :y: 3137
+          - :x: 851
+            :y: 3177
+          - :x: 840
+            :y: 3177
+          :text: "-"
+      - :languages:
+        - :code: nl
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 857
+          :y: 3137
+        - :x: 915
+          :y: 3137
+        - :x: 915
+          :y: 3177
+        - :x: 857
+          :y: 3177
+        :symbols:
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 857
+            :y: 3137
+          - :x: 871
+            :y: 3137
+          - :x: 871
+            :y: 3177
+          - :x: 857
+            :y: 3177
+          :text: '1'
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 875
+            :y: 3137
+          - :x: 886
+            :y: 3137
+          - :x: 886
+            :y: 3177
+          - :x: 875
+            :y: 3177
+          :text: '9'
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 887
+            :y: 3137
+          - :x: 899
+            :y: 3137
+          - :x: 899
+            :y: 3177
+          - :x: 887
+            :y: 3177
+          :text: '8'
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 902
+            :y: 3137
+          - :x: 915
+            :y: 3137
+          - :x: 915
+            :y: 3177
+          - :x: 902
+            :y: 3177
+          :text: '5'
+      - :languages:
+        - :code: nl
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 916
+          :y: 3137
+        - :x: 927
+          :y: 3137
+        - :x: 927
+          :y: 3177
+        - :x: 916
+          :y: 3177
+        :symbols:
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 916
+            :y: 3137
+          - :x: 927
+            :y: 3137
+          - :x: 927
+            :y: 3177
+          - :x: 916
+            :y: 3177
+          :text: ")"
+      - :languages:
+        - :code: nl
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 937
+          :y: 3137
+        - :x: 971
+          :y: 3137
+        - :x: 971
+          :y: 3177
+        - :x: 937
+          :y: 3177
+        :symbols:
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 937
+            :y: 3137
+          - :x: 947
+            :y: 3137
+          - :x: 947
+            :y: 3177
+          - :x: 937
+            :y: 3177
+          :text: n
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 949
+            :y: 3137
+          - :x: 959
+            :y: 3137
+          - :x: 959
+            :y: 3177
+          - :x: 949
+            :y: 3177
+          :text: e
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: :SPACE
+          :prefix_break: false
+          :bounds:
+          - :x: 962
+            :y: 3137
+          - :x: 971
+            :y: 3137
+          - :x: 971
+            :y: 3177
+          - :x: 962
+            :y: 3177
+          :text: e
+      - :languages:
+        - :code: nl
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 982
+          :y: 3137
+        - :x: 1111
+          :y: 3137
+        - :x: 1111
+          :y: 3177
+        - :x: 982
+          :y: 3177
+        :symbols:
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 982
+            :y: 3137
+          - :x: 992
+            :y: 3137
+          - :x: 992
+            :y: 3177
+          - :x: 982
+            :y: 3177
+          :text: I
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 995
+            :y: 3137
+          - :x: 1004
+            :y: 3137
+          - :x: 1004
+            :y: 3177
+          - :x: 995
+            :y: 3177
+          :text: V
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1007
+            :y: 3137
+          - :x: 1016
+            :y: 3137
+          - :x: 1016
+            :y: 3177
+          - :x: 1007
+            :y: 3177
+          :text: I
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1018
+            :y: 3137
+          - :x: 1030
+            :y: 3137
+          - :x: 1030
+            :y: 3177
+          - :x: 1018
+            :y: 3177
+          :text: L
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1035
+            :y: 3137
+          - :x: 1046
+            :y: 3137
+          - :x: 1046
+            :y: 3177
+          - :x: 1035
+            :y: 3177
+          :text: L
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1047
+            :y: 3136
+          - :x: 1058
+            :y: 3136
+          - :x: 1058
+            :y: 3176
+          - :x: 1047
+            :y: 3176
+          :text: I
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1060
+            :y: 3136
+          - :x: 1077
+            :y: 3136
+          - :x: 1077
+            :y: 3176
+          - :x: 1060
+            :y: 3176
+          :text: A
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1086
+            :y: 3136
+          - :x: 1100
+            :y: 3136
+          - :x: 1100
+            :y: 3176
+          - :x: 1086
+            :y: 3176
+          :text: M
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1101
+            :y: 3136
+          - :x: 1111
+            :y: 3136
+          - :x: 1111
+            :y: 3176
+          - :x: 1101
+            :y: 3176
+          :text: S
+      - :languages:
+        - :code: nl
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1112
+          :y: 3136
+        - :x: 1123
+          :y: 3136
+        - :x: 1123
+          :y: 3176
+        - :x: 1112
+          :y: 3176
+        :symbols:
+        - :languages:
+          - :code: nl
+            :confidence: 0.0
+          :break_type: :LINE_BREAK
+          :prefix_break: false
+          :bounds:
+          - :x: 1112
+            :y: 3136
+          - :x: 1123
+            :y: 3136
+          - :x: 1123
+            :y: 3176
+          - :x: 1112
+            :y: 3176
+          :text: "."
+    :block_type: :TEXT
+  - :languages: []
+    :break_type: 
+    :prefix_break: 
+    :bounds:
+    - :x: 1172
+      :y: 3307
+    - :x: 1217
+      :y: 3302
+    - :x: 1221
+      :y: 3342
+    - :x: 1177
+      :y: 3347
+    :paragraphs:
+    - :languages: []
+      :break_type: 
+      :prefix_break: 
+      :bounds:
+      - :x: 1172
+        :y: 3307
+      - :x: 1217
+        :y: 3302
+      - :x: 1221
+        :y: 3342
+      - :x: 1177
+        :y: 3347
+      :words:
+      - :languages:
+        - :code: en
+          :confidence: 0.0
+        :break_type: 
+        :prefix_break: 
+        :bounds:
+        - :x: 1172
+          :y: 3307
+        - :x: 1217
+          :y: 3302
+        - :x: 1221
+          :y: 3342
+        - :x: 1177
+          :y: 3347
+        :symbols:
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: 
+          :prefix_break: 
+          :bounds:
+          - :x: 1172
+            :y: 3305
+          - :x: 1196
+            :y: 3305
+          - :x: 1196
+            :y: 3347
+          - :x: 1172
+            :y: 3347
+          :text: '6'
+        - :languages:
+          - :code: en
+            :confidence: 0.0
+          :break_type: :LINE_BREAK
+          :prefix_break: false
+          :bounds:
+          - :x: 1197
+            :y: 3302
+          - :x: 1221
+            :y: 3302
+          - :x: 1221
+            :y: 3344
+          - :x: 1197
+            :y: 3344
+          :text: '6'
+    :block_type: :TEXT
