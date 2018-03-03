@@ -59,6 +59,10 @@ module FaithAndFarming
           buffer
         end
 
+        def indent
+          bounds.map(&:x).min
+        end
+
         component_list :words do 
 
           include Element

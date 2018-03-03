@@ -16,6 +16,7 @@ Clamp do
         puts "\n---"
         block.paragraphs.each do |p|
           puts "\n"
+          puts "{indent #{p.indent}}"
           puts p.text
         end
       end
@@ -25,14 +26,6 @@ Clamp do
 
     def page
       FaithAndFarming::Page.load(page_no)
-    end
-
-    def word_text(word)
-      word[:symbols].map { |s| s[:text] }.join
-    end
-  
-    def word_text(word)
-      word[:symbols].map { |s| s[:text] }.join
     end
 
   end
