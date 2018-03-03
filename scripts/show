@@ -1,0 +1,36 @@
+#! /usr/bin/env ruby
+
+require "clamp"
+require "yaml"
+
+Clamp do
+
+  subcommand "page", "page commands" do
+
+    parameter "N", "page number", :attribute_name => :page_no
+
+    def execute
+      page_data[:blocks].each do |block|
+        puts "BLOCK #{block.keys.inspect}"
+        indent = block[:bounds].map { |b| b[:x] }.min
+        puts "  indent #{indent}"
+      end
+    end
+
+    private
+
+    def page_data
+      YAML.load_file("data/page-%03d.yml" % page_no).fetch(:pages).first
+    end
+
+    def word_text(word)
+      word[:symbols].map { |s| s[:text] }.join
+    end
+  
+    def word_text(word)
+      word[:symbols].map { |s| s[:text] }.join
+    end
+
+  end
+
+end
