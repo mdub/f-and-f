@@ -1,7 +1,9 @@
 #! /usr/bin/env ruby
 
+$: << File.expand_path("../../lib", __FILE__)
+
 require "clamp"
-require "yaml"
+require "faith_and_farming/page"
 
 Clamp do
 
@@ -10,17 +12,19 @@ Clamp do
     parameter "N", "page number", :attribute_name => :page_no
 
     def execute
-      page_data[:blocks].each do |block|
-        puts "BLOCK #{block.keys.inspect}"
-        indent = block[:bounds].map { |b| b[:x] }.min
-        puts "  indent #{indent}"
+      page.blocks.each do |block|
+        puts "\n---"
+        block.paragraphs.each do |p|
+          puts "\n"
+          puts p.text
+        end
       end
     end
 
     private
 
-    def page_data
-      YAML.load_file("data/page-%03d.yml" % page_no).fetch(:pages).first
+    def page
+      FaithAndFarming::Page.load(page_no)
     end
 
     def word_text(word)

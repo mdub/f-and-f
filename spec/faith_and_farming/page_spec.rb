@@ -12,7 +12,7 @@ describe FaithAndFarming::Page do
     describe "first paragraph" do
 
       it "loads correctly" do
-        expect(page.blocks[0].paragraphs[0].text).to eq("The Descendants of Caroline Elizabeth and Samuel Blomfield Ludbrook")
+        expect(page.blocks[0].paragraphs[0].text).to eq("The Descendants of Caroline Elizabeth and Samuel Blomfield Ludbrook\n")
       end
 
     end

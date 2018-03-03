@@ -42,8 +42,21 @@ module FaithAndFarming
 
         include Element
 
+        BREAKS = {
+          :SPACE => " ",
+          :LINE_BREAK => "\n",
+          :EOL_SURE_SPACE => "\n"
+        }
+
         def text
-          words.map(&:text).join(" ")
+          buffer = ""
+          words.each do |w|
+            w.symbols.each do |s|
+              buffer << s.text
+              buffer << BREAKS.fetch(s.break_type, "")
+            end
+          end
+          buffer
         end
 
         component_list :words do 
