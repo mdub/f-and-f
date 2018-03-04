@@ -32,13 +32,3 @@ require 'rspec/core/rake_task'
 RSpec::Core::RakeTask.new(:spec)
 
 task "default" => "spec"
-
-task "renumber" do
-  ["book/page-%03d.png", "data/page-%03d.yml"].each do |fmt|
-    719.downto(0) do |n|
-      old_name = fmt % n
-      new_name = fmt % (n + 1)
-      mv old_name, new_name
-    end
-  end
-end
