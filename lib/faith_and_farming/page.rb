@@ -17,15 +17,23 @@ module FaithAndFarming
       end
     end
 
+    def indent
+      bounds.map(&:x).min
+    end
+
   end
 
   class Page < ConfigMapper::ConfigStruct
 
-    def self.load(number)
-      file = File.expand_path("../../../data/page-#{"%03d" % number}.yml", __FILE__)
+    def self.load(page_no)
+      file = File.expand_path("../../../data/page-#{"%03d" % page_no}.yml", __FILE__)
       page_data = YAML.load_file(file).fetch(:pages).first
-      from_data(page_data)
+      result = from_data(page_data)
+      result.page_no = page_no
+      result
     end
+
+    attr_accessor :page_no
 
     include Element
 
@@ -38,6 +46,10 @@ module FaithAndFarming
 
       attribute :block_type
 
+      def text
+        paragraphs.map(&:text).join
+      end
+
       component_list :paragraphs do 
 
         include Element
@@ -49,6 +61,10 @@ module FaithAndFarming
         }
 
         def text
+          @text ||= _text
+        end
+
+        def _text
           buffer = ""
           words.each do |w|
             w.symbols.each do |s|
@@ -57,10 +73,6 @@ module FaithAndFarming
             end
           end
           buffer
-        end
-
-        def indent
-          bounds.map(&:x).min
         end
 
         component_list :words do 

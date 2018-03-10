@@ -3,7 +3,7 @@
 $: << File.expand_path("../../lib", __FILE__)
 
 require "clamp"
-require "faith_and_farming/page"
+require "faith_and_farming"
 
 Clamp do
 
@@ -13,12 +13,8 @@ Clamp do
 
     def execute
       page.blocks.each do |block|
-        puts "\n---"
-        block.paragraphs.each do |p|
-          puts "\n"
-          puts "{indent #{p.indent}}"
-          puts p.text
-        end
+        puts "\n--- {indent #{block.indent}}\n"
+        puts block.text
       end
     end
 
@@ -28,6 +24,21 @@ Clamp do
       FaithAndFarming::Page.load(page_no)
     end
 
+  end
+
+  subcommand "tree", "display the tree" do
+
+    def execute 
+      FaithAndFarming.pages.each do |page|
+        page.blocks.each do |block|
+          if block.text =~ /^0[1-9]> /
+            depth = (block.indent - 170) / 75
+            puts "#{'  ' * depth}#{block.text.lines.first}"
+          end
+        end
+      end
+    end
+    
   end
 
 end
