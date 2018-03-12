@@ -3,18 +3,14 @@ require "yaml"
 
 module FaithAndFarming
 
-  module Element
+  class Element < ConfigMapper::ConfigStruct
 
-    def self.included(target)
-      target.class_eval do
-        attribute :languages
-        attribute :break_type, :default => nil
-        attribute :prefix_break, :default => nil
-        component_list :bounds do
-          attribute :x
-          attribute :y
-        end
-      end
+    attribute :languages
+    attribute :break_type, :default => nil
+    attribute :prefix_break, :default => nil
+    component_list :bounds do
+      attribute :x
+      attribute :y
     end
 
     def left
@@ -27,7 +23,60 @@ module FaithAndFarming
 
   end
 
-  class Page < ConfigMapper::ConfigStruct
+  class Symbol < Element
+    attribute :text
+  end
+
+  class Word < Element
+
+    def text
+      symbols.map(&:text).join
+    end
+
+    component_list :symbols, type: Symbol
+
+  end
+
+  class Paragraph < Element
+
+    BREAKS = {
+      :SPACE => " ",
+      :LINE_BREAK => "\n",
+      :EOL_SURE_SPACE => "\n"
+    }
+
+    def text
+      @text ||= _text
+    end
+
+    def _text
+      buffer = ""
+      words.each do |w|
+        w.symbols.each do |s|
+          buffer << s.text
+          buffer << BREAKS.fetch(s.break_type, "")
+        end
+      end
+      buffer
+    end
+
+    component_list :words, type: Word
+
+  end
+
+  class Block < Element
+
+    attribute :block_type
+
+    def text
+      paragraphs.map(&:text).join
+    end
+
+    component_list :paragraphs, type: Paragraph
+
+  end
+
+  class Page < Element
 
     def self.load(page_no)
       file = File.expand_path("../../../data/page-#{"%03d" % page_no}.yml", __FILE__)
@@ -39,67 +88,10 @@ module FaithAndFarming
 
     attr_accessor :page_no
 
-    include Element
-
     attribute :width
     attribute :height
 
-    component_list :blocks do
-
-      include Element
-
-      attribute :block_type
-
-      def text
-        paragraphs.map(&:text).join
-      end
-
-      component_list :paragraphs do
-
-        include Element
-
-        BREAKS = {
-          :SPACE => " ",
-          :LINE_BREAK => "\n",
-          :EOL_SURE_SPACE => "\n"
-        }
-
-        def text
-          @text ||= _text
-        end
-
-        def _text
-          buffer = ""
-          words.each do |w|
-            w.symbols.each do |s|
-              buffer << s.text
-              buffer << BREAKS.fetch(s.break_type, "")
-            end
-          end
-          buffer
-        end
-
-        component_list :words do
-
-          include Element
-
-          def text
-            symbols.map(&:text).join
-          end
-
-          component_list :symbols do
-
-            include Element
-
-            attribute :text
-
-          end
-
-        end
-
-      end
-
-    end
+    component_list :blocks, type: Block
 
   end
 
