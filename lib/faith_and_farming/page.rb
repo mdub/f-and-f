@@ -10,15 +10,19 @@ module FaithAndFarming
         attribute :languages
         attribute :break_type, :default => nil
         attribute :prefix_break, :default => nil
-        component_list :bounds do 
+        component_list :bounds do
           attribute :x
           attribute :y
         end
       end
     end
 
-    def indent
+    def left
       bounds.map(&:x).min
+    end
+
+    def right
+      bounds.map(&:x).max
     end
 
   end
@@ -40,7 +44,7 @@ module FaithAndFarming
     attribute :width
     attribute :height
 
-    component_list :blocks do 
+    component_list :blocks do
 
       include Element
 
@@ -50,7 +54,7 @@ module FaithAndFarming
         paragraphs.map(&:text).join
       end
 
-      component_list :paragraphs do 
+      component_list :paragraphs do
 
         include Element
 
@@ -75,15 +79,15 @@ module FaithAndFarming
           buffer
         end
 
-        component_list :words do 
+        component_list :words do
 
           include Element
 
           def text
             symbols.map(&:text).join
           end
-            
-          component_list :symbols do 
+
+          component_list :symbols do
 
             include Element
 
@@ -96,7 +100,7 @@ module FaithAndFarming
       end
 
     end
-    
+
   end
 
 end

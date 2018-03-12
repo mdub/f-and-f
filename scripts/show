@@ -13,7 +13,7 @@ Clamp do
 
     def execute
       page.blocks.each do |block|
-        puts "\n--- {indent #{block.indent}}\n"
+        puts "\n--- {left #{block.left}, right #{block.right}}\n"
         puts block.text
       end
     end
@@ -28,17 +28,17 @@ Clamp do
 
   subcommand "tree", "display the tree" do
 
-    def execute 
+    def execute
       FaithAndFarming.pages.each do |page|
         page.blocks.each do |block|
           if block.text =~ /^0[1-9]> /
-            depth = (block.indent - 170) / 75
+            depth = (block.left - 170) / 75
             puts "#{'  ' * depth}#{block.text.lines.first}"
           end
         end
       end
     end
-    
+
   end
 
 end
