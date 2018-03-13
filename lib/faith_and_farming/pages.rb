@@ -3,7 +3,7 @@ require "faith_and_farming/page"
 module FaithAndFarming
 
   class Pages
-   
+
     include Enumerable
 
     def each

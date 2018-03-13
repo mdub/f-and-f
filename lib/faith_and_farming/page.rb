@@ -93,6 +93,13 @@ module FaithAndFarming
 
     component_list :blocks, type: Block
 
+    def descendants_of
+      text = blocks.take(3).map(&:text).grep(/^Descendants of /).first
+      return nil unless text
+      text = text.sub(/^Descendants of /, "").gsub(/^[IJ]/, "")
+      text.split("\n")
+    end
+
   end
 
 end

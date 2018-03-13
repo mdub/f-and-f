@@ -4,10 +4,11 @@ require "faith_and_farming/page"
 
 describe FaithAndFarming::Page do
 
-  describe "p400" do
+  let(:page) { described_class.load(page_no) }
+
+  context "on a random page" do
 
     let(:page_no) { 400 }
-    let(:page) { described_class.load(page_no) }
 
     describe "first paragraph" do
 
@@ -16,7 +17,28 @@ describe FaithAndFarming::Page do
       end
 
     end
-    
+
+  end
+
+  context "on a family-tree page" do
+
+    let(:page_no) { 220 }
+
+    describe "#descendants_of" do
+
+      it "summarises the 'Descendants of ...' block" do
+        expect(page.descendants_of).to eq ([
+          "WILLIAMS, Henry and COLDHAM, Marianne",
+          "WILLIAMS, Marianne and DAVIES, Christopher Pearson",
+          "DAVIES, Christopher Pearson and WILLIAMS, Mary Anne",
+          "DAVIES, Freda Lilian and DODGSHUN, Gordon Mawley",
+          "DODGSHUN, Sydney Yorke and WOODWARD, Dorothy Virginia",
+          "DODGSHUN, Philippa Robyn and JACKMAN, Peter Heathcote"
+        ])
+      end
+
+    end
+
   end
 
 end
