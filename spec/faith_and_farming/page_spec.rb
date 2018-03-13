@@ -39,6 +39,15 @@ describe FaithAndFarming::Page do
 
     end
 
+    describe "#tree_entries" do
+
+      it "represent each tree entry" do
+        expect(page.tree_entries[0].subject.name).to eql("JACKMAN, Nicola Jane Heathcote")
+        expect(page.tree_entries[1].subject.name).to eql("JACKMAN, Rachael Anne Heathcote")
+      end
+
+    end
+
   end
 
 end

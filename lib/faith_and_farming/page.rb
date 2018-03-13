@@ -94,10 +94,36 @@ module FaithAndFarming
     component_list :blocks, type: Block
 
     def descendants_of
-      text = blocks.take(3).map(&:text).grep(/^Descendants of /).first
-      return nil unless text
-      text = text.sub(/^Descendants of /, "").gsub(/^[IJ]/, "")
-      text.split("\n")
+      @descendants_of ||= begin
+        text = blocks.take(3).map(&:text).grep(/^Descendants of /).first
+        return nil unless text
+        text = text.sub(/^Descendants of /, "").gsub(/^[IJ]/, "")
+        text.split("\n")
+      end
+    end
+
+    def tree_entries
+      @tree_entries ||= [].tap do |y|
+        blocks.each do |block|
+          if block.text =~ /\A0[1-9]> (.*)/
+            y << Entry.new.tap do |e|
+              e.subject.name = $1
+            end
+          end
+        end
+      end
+    end
+
+  end
+
+  class Entry < ConfigMapper::ConfigStruct
+
+    component_list :people do
+      attribute :name
+    end
+
+    def subject
+      people[0]
     end
 
   end
