@@ -4,7 +4,12 @@ require "faith_and_farming/page"
 
 describe FaithAndFarming::Page do
 
-  let(:page) { described_class.load(page_no) }
+  def load(page_no)
+    $cache ||= {}
+    $cache[page_no] ||= described_class.load(page_no)
+  end
+
+  let(:page) { load(page_no) }
 
   context "on a random page" do
 
