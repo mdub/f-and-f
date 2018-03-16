@@ -78,15 +78,15 @@ module FaithAndFarming
 
   class Page < Element
 
-    def self.load(page_no)
-      file = File.expand_path("../../../data/page-#{"%03d" % page_no}.yml", __FILE__)
+    def self.load(page_index)
+      file = File.expand_path("../../../data/page-#{"%03d" % page_index}.yml", __FILE__)
       page_data = YAML.load_file(file).fetch(:pages).first
       result = from_data(page_data)
-      result.page_no = page_no
+      result.page_index = page_index
       result
     end
 
-    attr_accessor :page_no
+    attr_accessor :page_index
 
     attribute :width
     attribute :height

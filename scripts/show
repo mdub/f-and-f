@@ -9,7 +9,7 @@ Clamp do
 
   subcommand "page", "page commands" do
 
-    parameter "N", "page number", :attribute_name => :page_no
+    parameter "N", "page number", :attribute_name => :page_index
 
     def execute
       page.blocks.each do |block|
@@ -21,7 +21,7 @@ Clamp do
     private
 
     def page
-      FaithAndFarming::Page.load(page_no)
+      FaithAndFarming::Page.load(page_index)
     end
 
   end
@@ -30,8 +30,10 @@ Clamp do
 
     def execute
       FaithAndFarming.pages.each do |page|
+        puts "\n--- page #{page.page_index} ---"
         page.tree_entries.each do |entry|
-          puts entry.subject.name
+          indent = "  " * (entry.level - 1)
+          puts "#{entry.level}#{indent}- #{entry.subject.name}"
         end
       end
     end
