@@ -30,11 +30,8 @@ Clamp do
 
     def execute
       FaithAndFarming.pages.each do |page|
-        page.blocks.each do |block|
-          if block.text =~ /^0[1-9]> /
-            depth = (block.left - 170) / 75
-            puts "#{'  ' * depth}#{block.text.lines.first}"
-          end
+        page.tree_entries.each do |entry|
+          puts entry.subject.name
         end
       end
     end
