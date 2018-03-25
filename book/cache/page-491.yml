@@ -1,0 +1,240 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, William and NELSON, Jane
+
+'
+    bounds:
+      left: 213
+      right: 1436
+      top: 170
+      bottom: 228
+  - text: |
+      JWILLIAMS, William Leonard and WANKLYN, Sarah
+      JWILLIAMS, Emily Jane and GRAY, Charles
+      VGRAY, Robert Leonard and LANGFORD, Margaret
+      IGRAY, Lesley Margaret and CAMPBELL, John Haldane (Jock)
+    bounds:
+      left: 583
+      right: 1988
+      top: 223
+      bottom: 434
+- paragraphs:
+  - text: |
+      07> GRAY, Lesley Margaret m on 07.10.1939 to CAMPBELL, John Haldane (Jock)
+      b 22.01.1918
+    bounds:
+      left: 433
+      right: 2176
+      top: 469
+      bottom: 587
+  - text: |
+      b 10.10.1916
+      Lesley b. at Christchurch and m, at Gisborne. John b. at Gisborne. Address: 3/50 James Street,
+      Rotorua.
+      Lesley worked as a typist before her marriage and as a librarian in later years. Jock qualified as an
+      accountant and set up business in Whakatane. This grew to three partners by the time he retired.
+    bounds:
+      left: 517
+      right: 2069
+      top: 540
+      bottom: 787
+- paragraphs:
+  - text: |
+      01> CAMPBELL, Adrienne Joan m on 15.04.1961 to (1)VANSTONE, Kevin Wilfred
+      b 26.08.1940
+    bounds:
+      left: 508
+      right: 2238
+      top: 830
+      bottom: 935
+  - text: |
+      b ** ** ****
+      Adrienne b. at Gisborne and m. at Sydney, Australia. Divorced 1973.
+    bounds:
+      left: 597
+      right: 1820
+      top: 887
+      bottom: 980
+- paragraphs:
+  - text: '01> VANSTONE, Nicholas m on 25.10.1986 to VAN DEN BEUKEN, Nellie
+
+'
+    bounds:
+      left: 581
+      right: 2082
+      top: 1028
+      bottom: 1082
+  - text: |
+      Philip
+      b 17.10.1962
+    bounds:
+      left: 679
+      right: 980
+      top: 1078
+      bottom: 1176
+  - text: |
+      b 02.03. ****
+      Nicholas b. at Sydney, Australia. Address: Pauls Road, RD 2, Whakatane.
+    bounds:
+      left: 680
+      right: 1843
+      top: 1131
+      bottom: 1261
+- paragraphs:
+  - text: "...\n"
+    bounds:
+      left: 685
+      right: 703
+      top: 1288
+      bottom: 1307
+- paragraphs:
+  - text: '01> VANSTONE , Ashley Nicole
+
+'
+    bounds:
+      left: 652
+      right: 1330
+      top: 1268
+      bottom: 1341
+  - text: |
+      b 20.11.1989
+      Ashley b. at Whakatane.
+    bounds:
+      left: 753
+      right: 1128
+      top: 1333
+      bottom: 1428
+- paragraphs:
+  - text: |
+      02> VANSTONE, Robyn Lesley m on 28.10.1989 to SILVESTER, Peter Kenneth
+      b 21.03.1964
+    bounds:
+      left: 575
+      right: 2233
+      top: 1522
+      bottom: 1627
+  - text: |
+      b 11.03.1960
+      Robyn b. at Opotiki. Address: 24 Coleraine Street, Cromwell, South Island.
+      b1> SILVESTER, Danielle Kate
+    bounds:
+      left: 654
+      right: 1877
+      top: 1590
+      bottom: 1788
+  - text: 'b 29.06.1995
+
+'
+    bounds:
+      left: 754
+      right: 968
+      top: 1785
+      bottom: 1825
+  - text: |
+      Danielle b. at Cromwell.
+      02> SILVESTER, Jamie Peter
+    bounds:
+      left: 654
+      right: 1313
+      top: 1832
+      bottom: 1985
+  - text: |
+      b 09.09.1997
+      Jamie b. at Clyde.
+    bounds:
+      left: 747
+      right: 1033
+      top: 1986
+      bottom: 2079
+- paragraphs:
+  - text: |
+      01>' CAMPBELL, Adrienne Joan m on 05.04.1974 to (2)SIMS, Leonard Graham
+      b 26.08.1940
+    bounds:
+      left: 505
+      right: 2162
+      top: 2176
+      bottom: 2275
+  - text: |
+      b 13.04.1943
+      Adrienne m, at Auckland. Leonard, s/o Keith Balfour Sims (stepfather) and Joy Madeleine Bryant, b.
+      at Auckland. Address: 17 North Ridge Drive, RD 1, Horsham Downs, Hamilton.
+      Adrienne has worked as a legal secretary and is now a part-time word processor in Leonard's
+      business. Leonard is a partner and director in a computer publishing company.
+    bounds:
+      left: 599
+      right: 2185
+      top: 2236
+      bottom: 2478
+- paragraphs:
+  - text: '01> SIMS, Antony Balfour
+
+'
+    bounds:
+      left: 576
+      right: 1181
+      top: 2522
+      bottom: 2580
+  - text: |
+      b 18.11.1971
+      Antony b, at Tauranga. Address: London, England.
+    bounds:
+      left: 673
+      right: 1498
+      top: 2583
+      bottom: 2678
+- paragraphs:
+  - text: |
+      02> CAMPBELL, Diane Margaret m on 15.04.1963 to HEMINGWAY, David
+      b 17.08.1942
+    bounds:
+      left: 500
+      right: 2008
+      top: 2770
+      bottom: 2879
+  - text: |
+      b **.12.1941
+      Diane b. at Gisborne, Address: Tomsetts Road, RD 1, Omanawa, Tauranga.
+      Diane worked as a shorthand typist before her marriage. She and David now have their own dairy
+      farm,
+    bounds:
+      left: 600
+      right: 2133
+      top: 2833
+      bottom: 3026
+- paragraphs:
+  - text: '01> HEMINGWAY, Craig
+
+'
+    bounds:
+      left: 582
+      right: 1086
+      top: 3076
+      bottom: 3127
+  - text: 'b ** ** 1965 d ** ** 1966
+
+'
+    bounds:
+      left: 682
+      right: 1156
+      top: 3132
+      bottom: 3183
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 202
+      right: 830
+      top: 3274
+      bottom: 3336
+- paragraphs:
+  - text: '493
+
+'
+    bounds:
+      left: 1216
+      right: 1290
+      top: 3276
+      bottom: 3326

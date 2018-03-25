@@ -1,0 +1,100 @@
+---
+blocks:
+- paragraphs:
+  - text: 'The Descendants of William and Jane Williams
+
+'
+    bounds:
+      left: 343
+      right: 1438
+      top: 213
+      bottom: 279
+- paragraphs:
+  - text: ".**\n"
+    bounds:
+      left: 930
+      right: 957
+      top: 593
+      bottom: 657
+- paragraphs:
+  - text: ". . "
+    bounds:
+      left: 1603
+      right: 1622
+      top: 702
+      bottom: 729
+- paragraphs:
+  - text: 'SI 35Mia:
+
+'
+    bounds:
+      left: 1415
+      right: 1450
+      top: 688
+      bottom: 803
+- paragraphs:
+  - text: "**\n"
+    bounds:
+      left: 1683
+      right: 1692
+      top: 758
+      bottom: 772
+- paragraphs:
+  - text: ": : ::\n"
+    bounds:
+      left: 1657
+      right: 1815
+      top: 1050
+      bottom: 1071
+- paragraphs:
+  - text: "|\n"
+    bounds:
+      left: 883
+      right: 887
+      top: 1266
+      bottom: 1318
+- paragraphs:
+  - text: |
+      Photo from: Mr AR Gardiner
+      Edith Mildred GARDINER (1900 - 1983), Allen Francis GARDINER (1862 - 1912), Allen William GARDINER (1890 - 1913),
+      George Falkland GARDINER (1892 - 1953), sitting in front, Agnes Maria WILLIAMS (1862 - 1921) nee WILLIAMS,
+    bounds:
+      left: 404
+      right: 2267
+      top: 1454
+      bottom: 1579
+  - text: 'Sydney Reade GARDINER (1900 - 1968).
+
+'
+    bounds:
+      left: 1007
+      right: 1612
+      top: 1579
+      bottom: 1621
+- paragraphs:
+  - text: |
+      Photo from: Mr GS Williams
+      Edith Frances WILLIAMS (1880 - 1972) nee STANDISH.
+    bounds:
+      left: 490
+      right: 1382
+      top: 3170
+      bottom: 3248
+- paragraphs:
+  - text: |
+      Photo from: Rev JS Williams
+      Francis James Volkner (Frank) WILLIAMS (1866 - 1938).
+    bounds:
+      left: 1411
+      right: 2268
+      top: 3157
+      bottom: 3230
+- paragraphs:
+  - text: '463
+
+'
+    bounds:
+      left: 1281
+      right: 1354
+      top: 3305
+      bottom: 3353

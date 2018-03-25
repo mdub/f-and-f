@@ -1,0 +1,230 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, William and NELSON, Jane
+
+'
+    bounds:
+      left: 209
+      right: 1436
+      top: 187
+      bottom: 242
+  - text: |
+      JWILLIAMS, William Leonard and WANKLYN, Sarah
+      JWILLIAMS, Emily Jane and GRAY, Charles
+      VGRAY, Robert Leonard and LANGFORD, Margaret
+      VGRAY, Amy Mary and WATSON, Robert Wallis
+      VWATSON, Gerard Robert Gray and WAKELIN, Greta Rosemary Ethel
+      J WATSON, Julia Mary and ENGLAND, Jonathan
+    bounds:
+      left: 582
+      right: 2121
+      top: 241
+      bottom: 548
+- paragraphs:
+  - text: '01> ENGLAND, Lucy
+
+'
+    bounds:
+      left: 653
+      right: 1083
+      top: 582
+      bottom: 648
+  - text: 'b ** **.1996
+
+'
+    bounds:
+      left: 759
+      right: 970
+      top: 647
+      bottom: 689
+- paragraphs:
+  - text: |
+      04> WATSON, Belinda Rosemary and (1) LAMB, Peter
+      b 12.09.1963
+    bounds:
+      left: 582
+      right: 1735
+      top: 1091
+      bottom: 1191
+  - text: |
+      b ** ** ****
+      Address: 1 Boundary Road, Hamilton.
+    bounds:
+      left: 674
+      right: 1659
+      top: 1148
+      bottom: 1244
+- paragraphs:
+  - text: '01> LAMB, Georgina
+
+'
+    bounds:
+      left: 659
+      right: 1107
+      top: 1286
+      bottom: 1349
+  - text: 'b ** ** ****
+
+'
+    bounds:
+      left: 761
+      right: 971
+      top: 1347
+      bottom: 1387
+- paragraphs:
+  - text: |
+      04> WATSON, Belinda Rosemary m on 01.01.1994 to (2) ROBINSON, Tony
+      b 12.09.1963
+    bounds:
+      left: 583
+      right: 2112
+      top: 1493
+      bottom: 1588
+  - text: |
+      b ** ** ****
+      Address: 316 Ruakura Road, Hamilton.
+    bounds:
+      left: 671
+      right: 1936
+      top: 1546
+      bottom: 1663
+- paragraphs:
+  - text: 'b1> ROBINSON, Max
+
+'
+    bounds:
+      left: 656
+      right: 1085
+      top: 1682
+      bottom: 1745
+- paragraphs:
+  - text: "** ** ****\n"
+    bounds:
+      left: 804
+      right: 970
+      top: 1753
+      bottom: 1774
+- paragraphs:
+  - text: '02> ROBINSON, Hugo
+
+'
+    bounds:
+      left: 658
+      right: 1108
+      top: 1834
+      bottom: 1892
+  - text: 'b ** **.1997
+
+'
+    bounds:
+      left: 761
+      right: 971
+      top: 1900
+      bottom: 1938
+- paragraphs:
+  - text: '05> WATSON, Timothy Gerard
+
+'
+    bounds:
+      left: 580
+      right: 1240
+      top: 2038
+      bottom: 2092
+  - text: |
+      b 17.11.1965
+      Address: Maranui Station, RD, Gisborne.
+    bounds:
+      left: 679
+      right: 1330
+      top: 2099
+      bottom: 2190
+- paragraphs:
+  - text: |
+      GRAY, Dorothy Eva
+      b 17.01.1905 d 28.06.1906
+      Dorothy b. at Vancouver, Canada and d. at Chicago, USA.
+    bounds:
+      left: 529
+      right: 1460
+      top: 2293
+      bottom: 2447
+- paragraphs:
+  - text: '03> GRAY, Edith Hilda
+
+'
+    bounds:
+      left: 432
+      right: 964
+      top: 2486
+      bottom: 2540
+  - text: |
+      b 08.04.1907 d 18.08.1916
+      Hilda b. at Chicago and d. as a result of rheumatic fever at Waiohika near Gisborne.
+    bounds:
+      left: 535
+      right: 1854
+      top: 2546
+      bottom: 2642
+- paragraphs:
+  - text: |
+      04> GRAY, Charles Leonard Alan m on 25.09.1937 to (1)BIBBY, Phyllis Mary
+      b 28.07.1912 d 12.10.1997
+    bounds:
+      left: 435
+      right: 2146
+      top: 2688
+      bottom: 2791
+  - text: |
+      b 25.09.1915 d 28.08.1971
+      Alan b. at Sydney, d, at Taupo and bd, at Onga Onga. Mary bd, at Onga Onga. Alan was a sheep and cattle
+      farmer. He retired in 1971.
+    bounds:
+      left: 526
+      right: 2222
+      top: 2744
+      bottom: 2890
+- paragraphs:
+  - text: '01> GRAY, Mary
+
+'
+    bounds:
+      left: 517
+      right: 869
+      top: 2939
+      bottom: 2993
+  - text: 'b **.09.1938 d **.10.1938
+
+'
+    bounds:
+      left: 613
+      right: 1087
+      top: 2998
+      bottom: 3040
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 211
+      right: 838
+      top: 3276
+      bottom: 3356
+- paragraphs:
+  - text: '1
+
+'
+    bounds:
+      left: 221
+      right: 226
+      top: 3296
+      bottom: 3343
+- paragraphs:
+  - text: '489
+
+'
+    bounds:
+      left: 1230
+      right: 1296
+      top: 3291
+      bottom: 3333

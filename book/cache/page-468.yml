@@ -1,0 +1,104 @@
+---
+blocks:
+- paragraphs:
+  - text: 'The Descendants of William and Jane Williams
+
+'
+    bounds:
+      left: 357
+      right: 1443
+      top: 198
+      bottom: 260
+- paragraphs:
+  - text: ":\n"
+    bounds:
+      left: 1149
+      right: 1160
+      top: 1177
+      bottom: 1179
+- paragraphs:
+  - text: 'a RS 9
+
+'
+    bounds:
+      left: 2038
+      right: 2056
+      top: 1195
+      bottom: 1243
+- paragraphs:
+  - text: ":::::::::. .\n"
+    bounds:
+      left: 1414
+      right: 1424
+      top: 1315
+      bottom: 1393
+- paragraphs:
+  - text: 'Photo from: Rey JS Williams
+
+'
+    bounds:
+      left: 1958
+      right: 2264
+      top: 1500
+      bottom: 1521
+- paragraphs:
+  - text: |
+      Photo from: Rev JS Williams
+      Joan Wilder JONES (1911 - 1990) nee WILLIAMS.
+    bounds:
+      left: 462
+      right: 1243
+      top: 1491
+      bottom: 1556
+- paragraphs:
+  - text: 'Evan JONES (1907 - 1969).
+
+'
+    bounds:
+      left: 1581
+      right: 1962
+      top: 1531
+      bottom: 1576
+- paragraphs:
+  - text: "... :::\n"
+    bounds:
+      left: 1003
+      right: 1014
+      top: 2083
+      bottom: 2155
+- paragraphs:
+  - text: 'WERKE
+
+'
+    bounds:
+      left: 1948
+      right: 1963
+      top: 2831
+      bottom: 2932
+- paragraphs:
+  - text: |
+      Photo from: Rev JS Williams
+      Patricia Wilder KELLY (1912 - 1981) nee WILLIAMS.
+    bounds:
+      left: 463
+      right: 1293
+      top: 3119
+      bottom: 3198
+- paragraphs:
+  - text: |
+      Photo from: Rev JS Williams
+      Timothy John Wilder WILLIAMS (1915 - 1979).
+    bounds:
+      left: 1454
+      right: 2266
+      top: 3117
+      bottom: 3194
+- paragraphs:
+  - text: '469
+
+'
+    bounds:
+      left: 1284
+      right: 1355
+      top: 3288
+      bottom: 3336

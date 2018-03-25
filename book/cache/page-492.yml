@@ -1,0 +1,223 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, William and NELSON, Jane
+
+'
+    bounds:
+      left: 204
+      right: 1425
+      top: 177
+      bottom: 242
+  - text: |
+      JWILLIAMS, William Leonard and WANKLYN, Sarah
+      JWILLIAMS, Emily Jane and GRAY, Charles
+      VGRAY, Robert Leonard and LANGFORD, Margaret
+      IGRAY, Lesley Margaret and CAMPBELL, John Haldane (Jock)
+      JCAMPBELL, Diane Margaret and HEMINGWAY, David
+      02> HEMINGWAY, Warren David
+    bounds:
+      left: 577
+      right: 1985
+      top: 235
+      bottom: 597
+  - text: 'b 18.07.1967
+
+'
+    bounds:
+      left: 676
+      right: 890
+      top: 598
+      bottom: 639
+- paragraphs:
+  - text: '03> HEMINGWAY, Lance Campbell
+
+'
+    bounds:
+      left: 577
+      right: 1302
+      top: 681
+      bottom: 745
+  - text: |
+      b 19.08.1970
+      Address: 162 Poike Road, Ohauiti, Tauranga.
+    bounds:
+      left: 672
+      right: 1386
+      top: 746
+      bottom: 848
+- paragraphs:
+  - text: |
+      03> CAMPBELL, Fay Heather m on 05.05.1973 to COUPER, Peter John
+      b 14.01.1948
+    bounds:
+      left: 501
+      right: 1976
+      top: 933
+      bottom: 1041
+  - text: |
+      b 22.11.1939
+      Fay b. at Gisborne and m, at Ashburton. Divorced 1990. Peter, slo Robert Peter Couper and Elizabeth
+      Muriel Kelman, b. at Timaru. Address: 16a Corlett Street, Rotorua.
+      Fay is a primary school teacher and Peter is a farmer.
+    bounds:
+      left: 599
+      right: 2204
+      top: 994
+      bottom: 1192
+- paragraphs:
+  - text: '01> COUPER, Raewyn Anne
+
+'
+    bounds:
+      left: 579
+      right: 1150
+      top: 1234
+      bottom: 1293
+  - text: |
+      b 03.03.1975 d 06.03.1975
+      Raewyn b. at Christchurch, d, and bd. at Ashburton.
+    bounds:
+      left: 676
+      right: 1500
+      top: 1291
+      bottom: 1393
+- paragraphs:
+  - text: |
+      02> COUPER, Andrew John and LEVITT, chia
+      b 26.04.1976
+    bounds:
+      left: 585
+      right: 1564
+      top: 1429
+      bottom: 1537
+  - text: |
+      b ** ** ****
+      Andrew b. at Timaru.
+    bounds:
+      left: 669
+      right: 1516
+      top: 1491
+      bottom: 1599
+- paragraphs:
+  - text: '01> LEVITT, Daniel Floyd
+
+'
+    bounds:
+      left: 659
+      right: 1267
+      top: 1630
+      bottom: 1693
+  - text: |
+      b 12.02.1997
+      Daniel 6. at Ashburton.
+    bounds:
+      left: 751
+      right: 1119
+      top: 1696
+      bottom: 1791
+- paragraphs:
+  - text: '03> COUPER, Lindsay Peter
+
+'
+    bounds:
+      left: 584
+      right: 1213
+      top: 1882
+      bottom: 1941
+  - text: |
+      b 26.08.1977
+      Lindsay b. at Christchurch.
+    bounds:
+      left: 678
+      right: 1107
+      top: 1948
+      bottom: 2041
+- paragraphs:
+  - text: '04> COUPER, Stewart Robert
+
+'
+    bounds:
+      left: 581
+      right: 1234
+      top: 2086
+      bottom: 2141
+  - text: |
+      b 12.03.1979
+      Stewart b. at Christchurch.
+    bounds:
+      left: 682
+      right: 1102
+      top: 2145
+      bottom: 2244
+- paragraphs:
+  - text: '05> COUPER, Heather Lesley
+
+'
+    bounds:
+      left: 589
+      right: 1241
+      top: 2286
+      bottom: 2341
+  - text: |
+      b 02.03.1981
+      Heather b. at Christchurch.
+    bounds:
+      left: 687
+      right: 1111
+      top: 2347
+      bottom: 2440
+- paragraphs:
+  - text: |
+      64> CAMPBELL, Graeme Haldane m on ** **, 1975 to GARNER, Beverley
+      b 08.03.1950
+    bounds:
+      left: 513
+      right: 2013
+      top: 2529
+      bottom: 2641
+  - text: |
+      b ** ** ****
+      Graeme b, at Gisborne.
+      Graeme spent some time with the New Zealand Army in Singapore. He is now manager of the Mangere
+      Airport branch of New Zealand Post.
+    bounds:
+      left: 608
+      right: 2234
+      top: 2581
+      bottom: 2799
+- paragraphs:
+  - text: '08> GRAY, Beverley Jane
+
+'
+    bounds:
+      left: 434
+      right: 1013
+      top: 2887
+      bottom: 2946
+  - text: |
+      b 04.10.1919 d **.05.1921
+      Beverley b. at Christchurch and d. at Gisborne.
+    bounds:
+      left: 535
+      right: 1278
+      top: 2944
+      bottom: 3045
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 217
+      right: 842
+      top: 3282
+      bottom: 3348
+- paragraphs:
+  - text: |
+      494
+      494
+    bounds:
+      left: 1230
+      right: 1305
+      top: 3284
+      bottom: 3340

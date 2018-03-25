@@ -1,0 +1,207 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, William and NELSON, Jane
+
+'
+    bounds:
+      left: 204
+      right: 1433
+      top: 194
+      bottom: 249
+  - text: |
+      WILLIAMS, James Nelson and BEETHAM, Mary-Margaret
+      JWILLIAMS, Cyril Nelson Beetham and WILDER, Maud Margaret (Pearlie)
+      JWILLIAMS, Timothy John Wilder and FOWLER, Patricia Faith
+      JWILLIAMS, Mark Antony and HELMORE, Victoria Frances
+    bounds:
+      left: 575
+      right: 2266
+      top: 248
+      bottom: 456
+- paragraphs:
+  - text: '01> WILLIAMS, George Timothy
+
+'
+    bounds:
+      left: 501
+      right: 1205
+      top: 492
+      bottom: 557
+  - text: |
+      b 15.06.1971
+      George was educated at Hereworth School and Christ's College.
+    bounds:
+      left: 598
+      right: 1598
+      top: 555
+      bottom: 655
+- paragraphs:
+  - text: |
+      02> WILLIAMS, Susan Faith m on 26.11.1976 to ANDERSON, Timothy Derek
+      b 23.12.1947
+    bounds:
+      left: 424
+      right: 2025
+      top: 743
+      bottom: 858
+  - text: |
+      b 25.04.1947
+      Susan b. at Hastings and m. at Elsthorpe. Timothy, slo Derek Arnott Anderson and Pamela Vernon Ashbolt.
+      Address: Kalimera, Hundalee, Parnassus RD, North Canterbury.
+      Susan was educated at Elsthorpe Primary School, Queenswood and Nga Tawa and is a Karitane nurse,
+      teacher, school bus driver and member of the School Committee. In her earlier years she spent four
+      years overseas, mainly in the UK and Europe, travelling home overland through Asia.
+      Timothy is a farmer.
+    bounds:
+      left: 516
+      right: 2221
+      top: 812
+      bottom: 1153
+- paragraphs:
+  - text: '01> ANDERSON, Tiffany Patricia
+
+'
+    bounds:
+      left: 504
+      right: 1255
+      top: 1200
+      bottom: 1254
+  - text: |
+      b 17.08.1977
+      Tiffany b. at Christchurch. She was educated at St Margaret's College, Christchurch then spent a
+      year in Edinburgh as a GAP student. She studied interior design at Polytechnic.
+    bounds:
+      left: 596
+      right: 2123
+      top: 1256
+      bottom: 1408
+- paragraphs:
+  - text: '02> ANDERSON, Sophie Susan
+
+'
+    bounds:
+      left: 501
+      right: 1159
+      top: 1447
+      bottom: 1506
+  - text: |
+      b 21.03.1979
+      Sophie b. at Kaikoura. She was educated at St Margaret's College, Christchurch and is now at
+      Lincoln University.
+    bounds:
+      left: 591
+      right: 2081
+      top: 1503
+      bottom: 1653
+- paragraphs:
+  - text: '03> ANDERSON, Victoria Pamela
+
+'
+    bounds:
+      left: 500
+      right: 1231
+      top: 1698
+      bottom: 1752
+  - text: |
+      b 30.01.1983
+      Victoria b, at Kaikoura. She is a student at St Margaret's College, Christchurch.
+    bounds:
+      left: 599
+      right: 1863
+      top: 1756
+      bottom: 1853
+- paragraphs:
+  - text: '04> ANDERSON, Edward Timothy Derek
+
+'
+    bounds:
+      left: 502
+      right: 1358
+      top: 1898
+      bottom: 1954
+  - text: |
+      b 03.04.1987
+      Edward b. at Christchurch. He has attended schools at Parnassus and Cheviot before going to
+      Christ's College, Christchurch.
+    bounds:
+      left: 597
+      right: 2068
+      top: 1958
+      bottom: 2104
+- paragraphs:
+  - text: |
+      03> WILLIAMS, Virginia Margaret (Gee) m on 31.07.1982 to SMITH, Patrick John
+      b 25.08.1949
+    bounds:
+      left: 427
+      right: 2234
+      top: 2192
+      bottom: 2305
+  - text: |
+      b 01.10.1945
+      Virginia b. at Hastings and m, at Auckland. Patrick, s/o Charles Gilbert Smith and Florence Annie Oram.
+      Address: 15 Tongariro Street, Mount Eden, Auckland 3.
+      Gee was educated at Elsthorpe Primary School, Queenswood School and Wellington Diocesan School for
+      Girls, Nga Tawa where she was Head Prefect. She then studied for a degree in veterinary science at
+      Massey University graduating in 1971. After a year in practice she spent two years in South America.
+      Later she travelled again in America, Europe and Africa before settling in Auckland, Gee now pursues
+      her veterinary career with an increasing interest in the area of veterinary acupuncture. Patrick is a
+      writer and actor.
+    bounds:
+      left: 518
+      right: 2180
+      top: 2250
+      bottom: 2702
+- paragraphs:
+  - text: '01> SMITH, Benjamin Timothy
+
+'
+    bounds:
+      left: 501
+      right: 1188
+      top: 2743
+      bottom: 2806
+  - text: |
+      b 03.03.1984
+      Benjamin b. at Auckland.
+    bounds:
+      left: 599
+      right: 1001
+      top: 2806
+      bottom: 2904
+- paragraphs:
+  - text: '02> SMITH, Toby James
+
+'
+    bounds:
+      left: 505
+      right: 1035
+      top: 2952
+      bottom: 3003
+  - text: |
+      b 31.03.1988
+      Toby b, at Auckland.
+    bounds:
+      left: 601
+      right: 936
+      top: 3009
+      bottom: 3105
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 204
+      right: 834
+      top: 3299
+      bottom: 3358
+- paragraphs:
+  - text: '625
+
+'
+    bounds:
+      left: 1221
+      right: 1292
+      top: 3302
+      bottom: 3356

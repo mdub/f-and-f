@@ -1,0 +1,237 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, William and NELSON, Jane
+
+'
+    bounds:
+      left: 208
+      right: 1437
+      top: 171
+      bottom: 240
+  - text: |
+      WILLIAMS, William Leonard and WANKLYN, Sarah
+      WILLIAMS, Emily Jane and GRAY, Charles
+      VGRAY, Robert Leonard and LANGFORD, Margaret
+      IGRAY, Charles Leonard Alan and BIBBY, Phyllis Mary
+      IGRAY, Susan Mary and PASSMORE, Robert Gordon
+    bounds:
+      left: 580
+      right: 1865
+      top: 233
+      bottom: 489
+- paragraphs:
+  - text: |
+      02> GRAY, Susan Mary m on 01.12.1962 to PASSMORE, Robert Gordon
+      b 20.07.1940 d 05.04.1993
+    bounds:
+      left: 509
+      right: 1980
+      top: 540
+      bottom: 643
+  - text: |
+      b 04.11.1934
+      Susan b, at Waipawa, m. at Blackburn Road, Onga Onga, and bd. at Taupo. Robert, s/o Gordon Passmore
+      and Helen Fraser. Address: RD 1, Taupo.
+      Robert is a sheep and cattle farmer.
+    bounds:
+      left: 595
+      right: 2262
+      top: 594
+      bottom: 789
+- paragraphs:
+  - text: |
+      01> PASSMORE, Helen Jane m on 01.05.1993 to HAYCOCK, Phillip
+      b 01.04.1964
+    bounds:
+      left: 579
+      right: 1977
+      top: 837
+      bottom: 941
+  - text: |
+      b 20.09.1964
+      Jane b. at Waipawa and now working in Taupo.
+    bounds:
+      left: 672
+      right: 1818
+      top: 897
+      bottom: 996
+- paragraphs:
+  - text: '01> HAYCOCK, Eloise Susan
+
+'
+    bounds:
+      left: 651
+      right: 1289
+      top: 1027
+      bottom: 1093
+  - text: 'b 08.04.1994
+
+'
+    bounds:
+      left: 756
+      right: 966
+      top: 1097
+      bottom: 1135
+- paragraphs:
+  - text: |
+      02> 'PASSMORE, Jillian Mary m on 21.01.1995 to GRIGG, Simon Christopher
+      b 29.04.1966
+    bounds:
+      left: 580
+      right: 2236
+      top: 1235
+      bottom: 1339
+  - text: |
+      b 14.11.1964
+      Jillian b. at Dannevirke. Simon, s/o Christopher and Robyn Grigg of Akaroa. Address: 64
+      Sherman Street, Marton.
+      Jillian graduated Bed from Massey University.
+    bounds:
+      left: 668
+      right: 2107
+      top: 1293
+      bottom: 1492
+- paragraphs:
+  - text: '01> GRIGG, Millicent Susan
+
+'
+    bounds:
+      left: 656
+      right: 1315
+      top: 1527
+      bottom: 1593
+  - text: 'b 06.02.1996
+
+'
+    bounds:
+      left: 755
+      right: 969
+      top: 1594
+      bottom: 1635
+- paragraphs:
+  - text: '02> GRIGG, Laura Constance Mary
+
+'
+    bounds:
+      left: 655
+      right: 1437
+      top: 1678
+      bottom: 1741
+  - text: 'b 04.10.1997
+
+'
+    bounds:
+      left: 757
+      right: 968
+      top: 1742
+      bottom: 1785
+- paragraphs:
+  - text: '03> PASSMORE, Robert Mark
+
+'
+    bounds:
+      left: 580
+      right: 1207
+      top: 1878
+      bottom: 1937
+  - text: |
+      b 04.12.1968 d 11.07.1993
+      Mark b, at Dannevirke, d, in a road accident at Taupo and bd. next to his mother at Taupo. He
+      graduated BBS and was working in banking at Wellington.
+    bounds:
+      left: 676
+      right: 2177
+      top: 1940
+      bottom: 2087
+- paragraphs:
+  - text: |
+      03> GRAY, Robyn m on 10.08.1968 to PLOWMAN, Michael Vernon
+      b 22.11.1943
+    bounds:
+      left: 501
+      right: 1856
+      top: 2176
+      bottom: 2288
+  - text: |
+      b 22.04.1941
+      Robyn b. at Waipawa and m. at Havelock North, Michael, s/o Vernon Plowman and Margaret Hutton,
+      Address: Mill Road (PO Box 63), Clive, Hawkes Bay.
+      Robyn is a secretary and Michael is a chartered accountant and general manager.
+    bounds:
+      left: 600
+      right: 2209
+      top: 2238
+      bottom: 2437
+- paragraphs:
+  - text: '01> PLOWMAN, Catherine m on 25.04.1998 to STRACHAN, Andrew Kenneth
+
+'
+    bounds:
+      left: 586
+      right: 2139
+      top: 2485
+      bottom: 2534
+  - text: |
+      Louise
+      b 07.07.1970
+    bounds:
+      left: 684
+      right: 987
+      top: 2540
+      bottom: 2635
+  - text: |
+      b ** ** ****
+      Catherine b. at Hastings and m. at Clive. Andrew, slo James Strachan and Myrna Nees.
+      Catherine graduated LLB from Canterbury University and is presently Human Resource Advisor at
+      Massey University. Andrew is a software engineer.
+    bounds:
+      left: 680
+      right: 2237
+      top: 2579
+      bottom: 2802
+- paragraphs:
+  - text: '62> PLOWMAN, Gregory Michael
+
+'
+    bounds:
+      left: 588
+      right: 1293
+      top: 2830
+      bottom: 2889
+  - text: |
+      b 13.08.1972
+      Gregory b. at Napier. He graduated BHB, MBCHB from Auckland University and is now working in
+      Auckland.
+    bounds:
+      left: 680
+      right: 2272
+      top: 2890
+      bottom: 3037
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 209
+      right: 838
+      top: 3285
+      bottom: 3350
+- paragraphs:
+  - text: '1
+
+'
+    bounds:
+      left: 216
+      right: 222
+      top: 3290
+      bottom: 3340
+- paragraphs:
+  - text: '490
+
+'
+    bounds:
+      left: 1224
+      right: 1297
+      top: 3284
+      bottom: 3335

@@ -1,0 +1,209 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, William and NELSON, Jane
+
+'
+    bounds:
+      left: 205
+      right: 1428
+      top: 187
+      bottom: 239
+  - text: |
+      JWILLIAMS, William Leonard and WANKLYN, Sarah
+      JWILLIAMS, Herbert William and MASON, Bertha Louisa Gertrude
+      JWILLIAMS, Herbert Meyric and PLUMMER, June
+      JWILLIAMS, Cynthia and SMITH, Anthony William
+      JSMITH, Simon Anthony and STEVENSON, Sara
+    bounds:
+      left: 576
+      right: 2087
+      top: 238
+      bottom: 501
+- paragraphs:
+  - text: |
+      SMITH, Simon Anthony and STEVENSON, Sara (cont...)
+      graduating BAgCom in 1982. He became a Registered Valuer in 1985 and now pursues a career in real
+      estate in Auckland.
+    bounds:
+      left: 579
+      right: 2220
+      top: 551
+      bottom: 691
+- paragraphs:
+  - text: '01> SMITH, Henri William
+
+'
+    bounds:
+      left: 579
+      right: 1182
+      top: 736
+      bottom: 797
+  - text: |
+      b 30.11.1989
+      Henri b. at Auckland.
+    bounds:
+      left: 676
+      right: 1008
+      top: 798
+      bottom: 895
+- paragraphs:
+  - text: '02> SMITH, George Michael
+
+'
+    bounds:
+      left: 574
+      right: 1201
+      top: 934
+      bottom: 995
+  - text: |
+      b 13.06.1991
+      George b. at Auckland.
+    bounds:
+      left: 675
+      right: 1032
+      top: 1001
+      bottom: 1093
+- paragraphs:
+  - text: '03> SMITH, Louis Stevenson
+
+'
+    bounds:
+      left: 580
+      right: 1234
+      top: 1133
+      bottom: 1197
+  - text: 'b 27.12.1993
+
+'
+    bounds:
+      left: 674
+      right: 890
+      top: 1200
+      bottom: 1239
+- paragraphs:
+  - text: '03> SMITH, Anna Christine
+
+'
+    bounds:
+      left: 497
+      right: 1128
+      top: 1331
+      bottom: 1396
+  - text: |
+      b 30.09.1962
+      Anna b. at Gisborne. Address: 30 Hornsey Road, Melrose, Auckland.
+    bounds:
+      left: 593
+      right: 1690
+      top: 1390
+      bottom: 1495
+- paragraphs:
+  - text: |
+      04> SMITH, Alister Meyric William m on 16.10.1993 to REA, Maree Ann
+      b 22.07.1965
+    bounds:
+      left: 506
+      right: 2080
+      top: 1540
+      bottom: 1640
+  - text: |
+      b 16.06.1970
+      Alister b. at Gisborne and m. at Taihape. Maree, d/o James Robert Rea and Judith Ann Weir, b. at
+      Taihape. Address: C/- Siberia Station, PB, Taihape.
+      01> SMITH, Jarrad William
+    bounds:
+      left: 574
+      right: 2154
+      top: 1594
+      bottom: 1847
+  - text: 'b 12.08.1995
+
+'
+    bounds:
+      left: 677
+      right: 891
+      top: 1847
+      bottom: 1889
+- paragraphs:
+  - text: |
+      03>' WILLIAMS, Christopher Dan m on 30.09.1966 to SALMOND, Tessa Hope
+      b 15.05.1940
+    bounds:
+      left: 428
+      right: 2029
+      top: 1978
+      bottom: 2090
+  - text: |
+      b 17.02.1944
+      Dan b. at Te Awamutu and m. at St Simon Zelotes', Knightsbridge, London. Tessa, d/o Ian Reid Salmond
+      and June Roma Hope, b. at Auckland. Address: 235 Normandale Road, Lower Hutt.
+      Dan was educated at Nelson College and Victoria University and is a partner in the Wellington office of
+      the international accountancy firm of Deloitte Touche Tohmatsu,
+      Tessa was educated at Chilton Saint James School, Woodford House and Victoria University and has her BA
+      (1965) and BA(Hons) (1991-92). She is a trustee and teacher at the Wellington Rudolf Steiner
+      Kindergarten and also runs a small business called Anthroposophical Books,
+    bounds:
+      left: 514
+      right: 2218
+      top: 2041
+      bottom: 2442
+- paragraphs:
+  - text: '01> WILLIAMS, Camilla June
+
+'
+    bounds:
+      left: 508
+      right: 1158
+      top: 2483
+      bottom: 2544
+  - text: |
+      b 19.07.1969
+      Camilla b. at Upper Hutt. Address: 10 Davis Street, Wellington.
+      Camilla was educated at Chilton Saint James School, Rudolf Steiner Schools in Wellington and
+      Auckland, Woodford House and University of Canterbury where she graduated BA in 1990. She
+      travelled overseas for several years and is currently working in Wellington at the New Zealand
+      International Festival of the Arts. She is also running her own retail business and completing her
+      MA at Victoria University.
+    bounds:
+      left: 592
+      right: 2123
+      top: 2539
+      bottom: 2888
+- paragraphs:
+  - text: '02> WILLIAMS, Oliver Meyric
+
+'
+    bounds:
+      left: 508
+      right: 1188
+      top: 2931
+      bottom: 2992
+  - text: |
+      b 19.05.1971
+      Oliver b. at Upper Hutt. He was educated at Wellington Rudolf Steiner School and Rathkeale College
+      and attained his BBS from Massey University in 1992. He is currently working and travelling
+      Overseas.
+    bounds:
+      left: 594
+      right: 2186
+      top: 2989
+      bottom: 3187
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 208
+      right: 834
+      top: 3284
+      bottom: 3341
+- paragraphs:
+  - text: '571
+
+'
+    bounds:
+      left: 1218
+      right: 1290
+      top: 3287
+      bottom: 3329

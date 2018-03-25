@@ -1,0 +1,198 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, William and NELSON, Jane
+
+'
+    bounds:
+      left: 210
+      right: 1438
+      top: 159
+      bottom: 224
+  - text: |
+      JWILLIAMS, William Leonard and WANKLYN, Sarah
+      JWILLIAMS, Margaret Ellen and MACLEAN, Christopher Haydon
+      IMACLEAN, Kenneth Edward and PALMER, Beatrice Daisy
+      IMACLEAN, James Nelson (Jim) and WILLIAMS, Elizabeth Jean
+      IMACLEAN, Peter Samuel and TYLEE, Ann Patricia (Ani)
+    bounds:
+      left: 578
+      right: 2025
+      top: 217
+      bottom: 480
+- paragraphs:
+  - text: '02> MACLEAN, Ella Frimley Tylee
+
+'
+    bounds:
+      left: 579
+      right: 1359
+      top: 511
+      bottom: 582
+  - text: |
+      b 08.03.1987
+      Ella b. at Hastings. Her interests are sport and music.
+    bounds:
+      left: 679
+      right: 1520
+      top: 576
+      bottom: 680
+- paragraphs:
+  - text: '03> MACLEAN, Piera Rose Palmer Tylee
+
+'
+    bounds:
+      left: 577
+      right: 1485
+      top: 711
+      bottom: 783
+  - text: |
+      b 30.06.1993
+      Piera b. at Hastings. Her interests are gymnastics and swimming.
+    bounds:
+      left: 670
+      right: 1701
+      top: 779
+      bottom: 882
+- paragraphs:
+  - text: |
+      03> 'MACLEAN, Kenneth Edward m on 26.04.1927 to (2) McWILLIAM, Muriel Mary Annie
+      b 26.01.1883 d 22.08.1943
+    bounds:
+      left: 345
+      right: 2199
+      top: 958
+      bottom: 1083
+  - text: |
+      b 28.03.1883 d 02.07.1957
+      Kenneth m, at St Luke's Church, Havelock North, and d. and bd. at Hastings. Muriel, d/o Rev James McWilliam
+      (Maori Missioner of Otaki) and his wife, Emily, b, at Otaki and d. at Hastings.
+      Kenneth was Canon of Waiapu (1918-30), Archdeacon of Hawkes Bay (1930-43) and Vicar General (1933-38). He
+      was the author of "The Living Church", "A Religion for Monday Morning", "The Pearl Merchant" and "Our
+      Reasonable Service".
+      Muriel was a nursing sister before her marriage. She had become co-founder, co-owner and co-matron of
+      Royston Hospital, Hastings.
+    bounds:
+      left: 435
+      right: 2238
+      top: 1027
+      bottom: 1436
+- paragraphs:
+  - text: |
+      04> MACLEAN, Margaret Elizabeth m on 07.11.1906 to CURRIE, George William
+      b 04.10.1884 d 29.05.1951
+    bounds:
+      left: 348
+      right: 2080
+      top: 1467
+      bottom: 1582
+  - text: |
+      b 19.02.1878 d 16.04.1958
+      Elizabeth b. at Foxton, m. at Napier and d, at Wanganui. George d. at Wanganui.
+      George was a barrister and solicitor at Wanganui. He served as Chairman of the Board of
+      Trustees of Wanganui Collegiate School.
+    bounds:
+      left: 675
+      right: 2081
+      top: 1523
+      bottom: 1734
+- paragraphs:
+  - text: |
+      01> CURRIE, Margaret Isobel m on 31.07.1934 to BLYTH, Harrison David
+      b 29.08.1908 d 05.07.1997
+    bounds:
+      left: 423
+      right: 2023
+      top: 1916
+      bottom: 2029
+  - text: |
+      b 22.11.1904 d 10.07.1996
+      Margaret b., m. and d. at Wanganui. Harrison, s/o David Laing Blyth and Jeannie Hunter.
+      Margaret was educated at Nga Tawa and Harrison at Wanganui Collegiate School. They farmed "Harakeke", a
+      5,000 acre coastal property near Wanganui. The farm has recently been sold and is now planted in pines
+      and known as Harakeke Forest. Margaret and Harrison moved to Wanganui in 1988.
+    bounds:
+      left: 506
+      right: 2248
+      top: 1972
+      bottom: 2238
+- paragraphs:
+  - text: |
+      01> BLYTH, Gillian Jean m on 13.03.1957 to GOURLAY, John Francis Stewart
+      b 15.01.1937
+    bounds:
+      left: 495
+      right: 2197
+      top: 2270
+      bottom: 2379
+  - text: |
+      b 15.03.1935
+      Address: Auchencheyne, Moniaive, Thornhill, Dumfriesshire DG3 4EP, Scotland.
+      Gillian was educated at Nga Tawa (prefect) and John at Loretto, Musselburgh, Edinburgh, Scotland.
+      John is a farmer.
+    bounds:
+      left: 583
+      right: 2165
+      top: 2322
+      bottom: 2532
+- paragraphs:
+  - text: |
+      01> GOURLAY, James Stewart m on 16.04.1983 to MACLEOD, Sara Helen
+      b 02.01.1959
+    bounds:
+      left: 572
+      right: 2105
+      top: 2569
+      bottom: 2674
+  - text: |
+      b 14.03.1960
+      James b, at Dumfries, Scotland and m, at Plymouth, Devon, England. Sara, d/o Peter Thomas
+    bounds:
+      left: 656
+      right: 2139
+      top: 2622
+      bottom: 2734
+  - text: |
+      Macleod and Valarie Northcott, b, at Fulford, Yorkshire, England.
+      James was educated at Loretto and is an Aircraft Engineering Officer (Lt Cmdr) in the Royal
+      Navy. Sara is an aerobics instructor.
+    bounds:
+      left: 657
+      right: 2117
+      top: 2727
+      bottom: 2885
+- paragraphs:
+  - text: '01> GOURLAY, Hamish John Stewart
+
+'
+    bounds:
+      left: 642
+      right: 1449
+      top: 2917
+      bottom: 2978
+  - text: |
+      b 20.08.1985
+      Hamish b. at Truro, Cornwall, England.
+    bounds:
+      left: 741
+      right: 1370
+      top: 2979
+      bottom: 3079
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 188
+      right: 811
+      top: 3265
+      bottom: 3332
+- paragraphs:
+  - text: '533
+
+'
+    bounds:
+      left: 1202
+      right: 1275
+      top: 3274
+      bottom: 3326

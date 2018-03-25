@@ -1,0 +1,208 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, William and NELSON, Jane
+
+'
+    bounds:
+      left: 206
+      right: 1433
+      top: 190
+      bottom: 241
+  - text: |
+      JWILLIAMS, William Leonard and WANKLYN, Sarah
+      JWILLIAMS, Emily Jane and GRAY, Charles
+      VGRAY, Agnes Sara and BLUNT, Hugh Roper
+      JBLUNT, Richard Mark and LEE, Patricia Eileen
+    bounds:
+      left: 576
+      right: 1715
+      top: 240
+      bottom: 442
+- paragraphs:
+  - text: |
+      BLUNT, Richard Mark and LEE, Patricia Eileen (cont...)
+      Brandenham Manor, Bucks, once the home of Isaac Disraeli, father of Benjamin (see below under Williams,
+      Emily Jane). He met Patricia in England and went with her to Australia. There he worked for
+      International Computers and Tabulators as Training Manager in Sydney (1965-67) and since then they have
+      lived in Perth where Richard worked for Golden Fleece Petroleum for eight years. He was made redundant
+      when the company closed down in Australia.
+      Richard is a member and past-president of the North Perth Probus Club.
+    bounds:
+      left: 509
+      right: 2218
+      top: 499
+      bottom: 849
+- paragraphs:
+  - text: '01> BLUNT, David Mark
+
+'
+    bounds:
+      left: 506
+      right: 1029
+      top: 891
+      bottom: 947
+  - text: |
+      b 06.07.1967
+      David b, at Sydney, NSW, Australia.
+      David graduated BMechEng(Hons) from the University of Australia. He is currently a research
+      engineer in the Airframes and Engines Division of the Aeronautical and Maritime Research Laboratory
+      of the Department of Defence.
+    bounds:
+      left: 592
+      right: 2208
+      top: 951
+      bottom: 1200
+- paragraphs:
+  - text: '02> BLUNT, Georgia Alison
+
+'
+    bounds:
+      left: 499
+      right: 1137
+      top: 1236
+      bottom: 1301
+  - text: |
+      b 09.06.1969
+      Georgia b. at Perth, Western Australia. She is a doctor of medicine at the University of Western
+      Australia.
+    bounds:
+      left: 599
+      right: 2114
+      top: 1294
+      bottom: 1444
+- paragraphs:
+  - text: |
+      04>' GRAY, Sydney Thomas m on 02.02.1926 to LANE, Doris Audrey
+      b 04.04.1890 d 14.06.1947
+    bounds:
+      left: 358
+      right: 1781
+      top: 1542
+      bottom: 1645
+  - text: |
+      b ** ** 1903 d ** ** ****
+      Sydney b. at Waiohika and d, at Gisborne.
+    bounds:
+      left: 445
+      right: 1820
+      top: 1595
+      bottom: 1697
+- paragraphs:
+  - text: |
+      01> GRAY, Audrey Louisem on 29.01.1955 to HOLDSWORTH, John Chambers
+      b 14.11.1933 d 17.03.1985
+    bounds:
+      left: 431
+      right: 2032
+      top: 1733
+      bottom: 1845
+  - text: |
+      b 04.08.1929
+      Audrey b. at Otahuhu and m. and d. at Gisborne. John, slo Bernard John Holdsworth and Jean Black.
+      Address: Waikohu, Te Karaka, Gisborne.
+    bounds:
+      left: 527
+      right: 2127
+      top: 1799
+      bottom: 1946
+- paragraphs:
+  - text: '01> HOLDSWORTH, Deborah Jean
+
+'
+    bounds:
+      left: 510
+      right: 1216
+      top: 1993
+      bottom: 2043
+  - text: |
+      b 23.09.1955
+      Deborah b. at Gisborne. Address: 10 Windsor Court, Moscow Road, London W2, England.
+      Deborah was educated at Marsden College, Wellington. After graduating from the Wellington
+      Polytechnic as a graphic designer she worked for two years as a graphic designer/ teacher before
+      going overseas. She has combined 13 years in London with travelling, working and studying art
+      related subjects. She is now working in the antiques field and paints portraits.
+    bounds:
+      left: 602
+      right: 2125
+      top: 2050
+      bottom: 2345
+- paragraphs:
+  - text: '02> HOLDSWORTH, William Bernard
+
+'
+    bounds:
+      left: 511
+      right: 1297
+      top: 2390
+      bottom: 2446
+  - text: 'b 25.06.1957 d 09.06.1968
+
+'
+    bounds:
+      left: 614
+      right: 1081
+      top: 2451
+      bottom: 2496
+- paragraphs:
+  - text: |
+      03> HOLDSWORTH, Cynthia Amy m on 23.01.1982 to JURIE, Gerald Michael
+      b 10.11.1959
+    bounds:
+      left: 511
+      right: 2118
+      top: 2532
+      bottom: 2642
+  - text: |
+      b 01.07.1959
+      Cynthia b. at Gisborne. Gerald, s/o Andrew Gerald Jurie and Helen Mary Southworth, b, at
+      Wellington. Address: 17 Myrtle Street, Lower Hutt.
+      Cynthia is a secretary.
+    bounds:
+      left: 607
+      right: 2052
+      top: 2593
+      bottom: 2795
+- paragraphs:
+  - text: '01> JURIE, William Southworth
+
+'
+    bounds:
+      left: 589
+      right: 1320
+      top: 2833
+      bottom: 2897
+  - text: |
+      b 30.09.1984
+      02> JURIE, Amelia Holdsworth
+    bounds:
+      left: 591
+      right: 1302
+      top: 2900
+      bottom: 3045
+  - text: 'b 22.10.1986
+
+'
+    bounds:
+      left: 694
+      right: 905
+      top: 3052
+      bottom: 3094
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 213
+      right: 841
+      top: 3287
+      bottom: 3350
+- paragraphs:
+  - text: '504
+
+'
+    bounds:
+      left: 1235
+      right: 1304
+      top: 3295
+      bottom: 3338

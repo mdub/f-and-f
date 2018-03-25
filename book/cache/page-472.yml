@@ -1,0 +1,414 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, William and NELSON, Jane
+
+'
+    bounds:
+      left: 165
+      right: 1398
+      top: 198
+      bottom: 254
+- paragraphs:
+  - text: |
+      08> WILLIAMS, Marianne
+      b 22.08.1843 d 02.09.1932
+    bounds:
+      left: 243
+      right: 806
+      top: 305
+      bottom: 402
+  - text: |
+      Marianna b. at Kaupapa, Turanga and d, at Hukarere, Napier. She lived at Hukarere, Napier, and
+      served on the Committee of the Hawkes Bay Children's Home.
+    bounds:
+      left: 569
+      right: 2113
+      top: 403
+      bottom: 504
+- paragraphs:
+  - text: |
+      09> WILLIAMS, Emma Caroline m on 29.11.1884 to NELSON, William
+      b 20.02.1846 d 11.09.1921
+    bounds:
+      left: 246
+      right: 1698
+      top: 747
+      bottom: 858
+  - text: 'b 15.02.1843 d 16.11.1932
+
+'
+    bounds:
+      left: 1343
+      right: 1816
+      top: 806
+      bottom: 844
+- paragraphs:
+  - text: '12.03.00
+
+'
+    bounds:
+      left: 2195
+      right: 2366
+      top: 1559
+      bottom: 1608
+- paragraphs:
+  - text: |
+      WILLIAMS, William Leonard
+      = WANKLYN, Sarah
+    bounds:
+      left: 919
+      right: 1480
+      top: 1565
+      bottom: 1668
+- paragraphs:
+  - text: 'Edith Mary
+
+'
+    bounds:
+      left: 1438
+      right: 1559
+      top: 1760
+      bottom: 1782
+- paragraphs:
+  - text: |
+      Frederick Wanklyn
+      *(1)BRATHWAITE. Elina Mary
+    bounds:
+      left: 270
+      right: 594
+      top: 1759
+      bottom: 1820
+- paragraphs:
+  - text: |
+      Emily Jane
+      GRAY, Charles
+    bounds:
+      left: 741
+      right: 912
+      top: 1759
+      bottom: 1820
+- paragraphs:
+  - text: |
+      Margaret Ellen
+      MACLEAN. Christopher Haydon
+    bounds:
+      left: 1030
+      right: 1363
+      top: 1759
+      bottom: 1815
+- paragraphs:
+  - text: |
+      Herbert William
+      MASON. Bertha Louisa Gertrude
+    bounds:
+      left: 1589
+      right: 1950
+      top: 1759
+      bottom: 1817
+- paragraphs:
+  - text: |
+      Agnes Maria
+      GARDINER. Allen Francis
+    bounds:
+      left: 1992
+      right: 2284
+      top: 1763
+      bottom: 1819
+- paragraphs:
+  - text: 'WILLIAMS, Ronald Wanklyn
+
+'
+    bounds:
+      left: 288
+      right: 586
+      top: 1859
+      bottom: 1888
+  - text: |
+      +GRAY, Robert Leonard -MACLEAN, William Haydon
+      =FITZROY. Louisa Gwendoline l'Strang -LANGFORD, Margaret -(1 MCBETH, Keitha Kate Florence
+      =(2)STANOISH, Kate Constance
+    bounds:
+      left: 275
+      right: 1422
+      top: 1857
+      bottom: 1954
+  - text: |
+      +GRAY, Donald Camplin =(2 JARDRY, Mildred Ethel
+      WILLIAMS. Peter Standish
+    bounds:
+      left: 289
+      right: 1329
+      top: 1925
+      bottom: 1985
+  - text: |
+      =HAY. Frances Ethel „MACLEAN, Leonard Herbert Lionel
+      -KIHITE, Laila Moore (Kekpie)
+    bounds:
+      left: 286
+      right: 1409
+      top: 1957
+      bottom: 2023
+  - text: |
+      -GRAY, Agnes Sara =(1 HARD, Dorothy Isabel
+      WILLIAMS. Allen Craig
+    bounds:
+      left: 288
+      right: 1329
+      top: 1991
+      bottom: 2056
+  - text: |
+      =BLUNT, Hugh Roper =(2)HOWIE, Inez Rose
+      =(1 SMITH, Joyce Edna (Julie)
+    bounds:
+      left: 288
+      right: 1279
+      top: 2025
+      bottom: 2094
+  - text: |
+      GRAY, Sydney Thomas „MACLEAN, Kenneth Edward
+      -(2)OONALO. Betty Knox
+    bounds:
+      left: 290
+      right: 1317
+      top: 2059
+      bottom: 2119
+  - text: |
+      -LANE, Doris Audrey -(1)PALMER, Beatrice Daisy
+      GRAY, Norman William =(2 MCWILLIAM, Muriel Mary Annie
+      »GRAY. Edith Lucy -MACLEAN, Margaret Elizabeth
+    bounds:
+      left: 745
+      right: 1423
+      top: 2093
+      bottom: 2189
+  - text: |
+      -ORMEROD, Olin Barton CURRIE, George William
+      -GRAY. Army Margaret MACLEAN, Eric Wanklyn
+      -GRAY, Douglas Wanklyn -TURNER. May Harcourt
+      *HALL, Emma Millicent »MACLEAN. Dorothy
+    bounds:
+      left: 744
+      right: 1323
+      top: 2191
+      bottom: 2322
+  - text: |
+      MACLEAN, Edith Sarah (Sallie)
+      -MACLEAN, Francis Sydney (Frank)
+    bounds:
+      left: 1029
+      right: 1411
+      top: 2323
+      bottom: 2386
+  - text: |
+      ANSON, Janet Margaret
+      MACLEAN, Frederick Hector
+      -REIO, Vernice Ethel
+      +MACLEAN, Christopher Nelson
+      -BAIRD, Jessie Elizabeth (Betty)
+    bounds:
+      left: 1028
+      right: 1426
+      top: 2390
+      bottom: 2552
+- paragraphs:
+  - text: "-WILLIAMS. Zoe\n"
+    bounds:
+      left: 1587
+      right: 1755
+      top: 1859
+      bottom: 1882
+  - text: |
+      -GARDINER. Allen William
+      -WILLIAMS, Ursula
+    bounds:
+      left: 1586
+      right: 2289
+      top: 1852
+      bottom: 1925
+  - text: |
+      -GARDINER. George Falkland
+      WILLIAMS. Vera
+    bounds:
+      left: 1601
+      right: 2313
+      top: 1893
+      bottom: 1948
+  - text: |
+      =HICKS, Gladys
+      =SEWELL, Taare Warneford (Rua) -GARDINER. Evelyn Ruth
+      -WILLIAMS. Denys William Wanklyn -GARDINER, Edith Mildred
+      =THOMSON, Margaret Ann
+    bounds:
+      left: 1587
+      right: 2288
+      top: 1928
+      bottom: 2051
+  - text: |
+      GARDINER, Sydney Reade
+      WILLIAMS, Quentin
+    bounds:
+      left: 1600
+      right: 2270
+      top: 2022
+      bottom: 2088
+  - text: |
+      -BAKER. Christine Helen
+      =PARK, Marion Tory
+      -WILLIAMS. Nigei
+    bounds:
+      left: 1589
+      right: 2287
+      top: 2059
+      bottom: 2149
+  - text: |
+      =CASTEL. Nora
+      -WILLIAMS, Meyric
+    bounds:
+      left: 1586
+      right: 1795
+      top: 2161
+      bottom: 2222
+  - text: 'PLUTHER, June
+
+'
+    bounds:
+      left: 1610
+      right: 1770
+      top: 2227
+      bottom: 2249
+- paragraphs:
+  - text: 'WILLIAMS. William Leonard - WANKLYN. Sarah (cont }
+
+'
+    bounds:
+      left: 824
+      right: 1416
+      top: 2575
+      bottom: 2609
+- paragraphs:
+  - text: |
+      Alfred Henry
+      HARVEY, Lucy Caroline Simpson
+    bounds:
+      left: 453
+      right: 818
+      top: 2683
+      bottom: 2744
+- paragraphs:
+  - text: |
+      Francis James Volkner (Frank)
+      STANDISH, Edith Frances
+    bounds:
+      left: 878
+      right: 1233
+      top: 2683
+      bottom: 2742
+- paragraphs:
+  - text: 'Sydney Leonard Arthur Edward
+
+'
+    bounds:
+      left: 1395
+      right: 1750
+      top: 2688
+      bottom: 2711
+  - text: "-TURNER. Caroline Emily (Emmy)\n"
+    bounds:
+      left: 1593
+      right: 1954
+      top: 2717
+      bottom: 2753
+- paragraphs:
+  - text: |
+      WILLIAMS, Margery Turner
+      -WILLIAMS. Charles Leonard Frederick Turner
+      =FAULKNER. Eugenie Louise
+    bounds:
+      left: 1590
+      right: 2115
+      top: 2786
+      bottom: 2883
+- paragraphs:
+  - text: |
+      »HARVEY WILLIAMS, Samuel Frederick WILLIAMS, Bevan Sydney
+      -COOK, Dorothy Helen
+    bounds:
+      left: 451
+      right: 1162
+      top: 2778
+      bottom: 2846
+  - text: |
+      WILLIAMS, Mary Margaret Wilder (Bettie)
+      -WILLIAMS. James Leonard Harvey
+    bounds:
+      left: 455
+      right: 1383
+      top: 2817
+      bottom: 2875
+  - text: |
+      >WILLIAMS, Alden William
+      =TAIT. Susan Proudlock
+    bounds:
+      left: 467
+      right: 1177
+      top: 2851
+      bottom: 2910
+  - text: |
+      -WILLIAMS, Janet Challis
+      -HARVEY WILLIAMS, Richard Stuart
+    bounds:
+      left: 451
+      right: 1171
+      top: 2883
+      bottom: 2944
+  - text: |
+      WILLIAMS. Leonard Heathcote (Bill)
+      -CHEER, Elsie Maie
+    bounds:
+      left: 465
+      right: 1303
+      top: 2915
+      bottom: 2979
+  - text: |
+      =WILLIAMS, Janet Mary
+      +WILLIAMS. Nancy Edith Harvey
+    bounds:
+      left: 452
+      right: 1152
+      top: 2951
+      bottom: 3007
+  - text: |
+      -WILLIAMS. Gerald Standish
+      -COXWELL. Cecil Maurice
+    bounds:
+      left: 469
+      right: 1198
+      top: 2983
+      bottom: 3038
+  - text: 'ROLLESTON. Rachel Fane
+
+'
+    bounds:
+      left: 904
+      right: 1173
+      top: 3018
+      bottom: 3041
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 202
+      right: 826
+      top: 3271
+      bottom: 3341
+- paragraphs:
+  - text: '474
+
+'
+    bounds:
+      left: 1170
+      right: 1237
+      top: 3318
+      bottom: 3365

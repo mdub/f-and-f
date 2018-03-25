@@ -1,0 +1,239 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, William and NELSON, Jane
+
+'
+    bounds:
+      left: 209
+      right: 1436
+      top: 190
+      bottom: 248
+  - text: |
+      JWILLIAMS, William Leonard and WANKLYN, Sarah
+      JWILLIAMS, Margaret Ellen and MACLEAN, Christopher Haydon
+      IMACLEAN, Eric Wanklyn and TURNER, May Harcourt
+      IMACLEAN, Mary Way and CORKILL, Thomas Mackenzie (Tom)
+      JCORKILL, Gillian Mary and LAWRENCE, Richard Hume
+    bounds:
+      left: 582
+      right: 2020
+      top: 244
+      bottom: 501
+- paragraphs:
+  - text: '02> LAWRENCE, Bridget Rosemary
+
+'
+    bounds:
+      left: 580
+      right: 1334
+      top: 537
+      bottom: 605
+  - text: |
+      b 04.02.1986
+      Bridget b. at Wellington.
+    bounds:
+      left: 674
+      right: 1062
+      top: 604
+      bottom: 698
+- paragraphs:
+  - text: '03> CORKILL, Susan Jane m on 30.04.1988 to PYNENBURG, Ronald John
+
+'
+    bounds:
+      left: 507
+      right: 2034
+      top: 790
+      bottom: 852
+  - text: |
+      Christopher
+      b 07.09.1957
+    bounds:
+      left: 604
+      right: 1880
+      top: 850
+      bottom: 947
+  - text: |
+      b 15.09.1959
+      Susan b. at Dunedin and m. at Wellington. Ronald, s/o Jan Antoon Gerard Pynenburg and Elizabeth
+    bounds:
+      left: 597
+      right: 2166
+      top: 910
+      bottom: 1003
+  - text: |
+      Maria Van Hassel. Address: 32 Ottawa Road, Ngaio, Wellington.
+      Susan was educated at Timaru Girls' High School. She did her general nursing training at
+      Christchurch Public Hospital and midwifery at the Royal Hampshire County Hospital, Winchester.
+      Currently she is a staff nurse at the Wellington Hospital.
+      Ron was educated at Upper Hutt College and Victoria University. He is an architect and principal in
+      the firm of Pynenburg and Collins Architects Ltd.
+    bounds:
+      left: 592
+      right: 2162
+      top: 1006
+      bottom: 1303
+- paragraphs:
+  - text: '01> PYNENBURG, Samuel Nicholas
+
+'
+    bounds:
+      left: 584
+      right: 1337
+      top: 1345
+      bottom: 1395
+  - text: |
+      b 16.08.1989
+      Samuel 6. at Wellington.
+    bounds:
+      left: 674
+      right: 1060
+      top: 1401
+      bottom: 1498
+- paragraphs:
+  - text: 'E
+
+'
+    bounds:
+      left: 1172
+      right: 1176
+      top: 1549
+      bottom: 1591
+- paragraphs:
+  - text: 'a
+
+'
+    bounds:
+      left: 1275
+      right: 1280
+      top: 1555
+      bottom: 1592
+- paragraphs:
+  - text: '02> PYNENBURG, Rachael Elizabeth
+
+'
+    bounds:
+      left: 579
+      right: 1386
+      top: 1538
+      bottom: 1600
+  - text: |
+      b 05.12.1990
+      Rachael b. at Wellington.
+    bounds:
+      left: 674
+      right: 1070
+      top: 1604
+      bottom: 1698
+- paragraphs:
+  - text: |
+      04> CORKILL, Ruth Margaret m on 30.05.1987 to NOAKES, Charles Patrick
+      b 13.06.1960
+    bounds:
+      left: 507
+      right: 2133
+      top: 1797
+      bottom: 1895
+  - text: |
+      b 17.05.1961
+      Ruth b. at Dunedin and m. at Motueka. Charles, s/o Raymond Noakes and Kathleen Eising, b. at
+      Pahiatua. Address: 217 Cockayne Road, Ngaio, Wellington.
+      Ruth was educated at Timaru Girls' High School and Otago Polytechnic. She is a physiotherapist and
+      is a partner in private practice at Island Bay.
+      Charles was educated at Tararua College and is a consultant for Telecom.
+    bounds:
+      left: 596
+      right: 2181
+      top: 1853
+      bottom: 2148
+- paragraphs:
+  - text: '01> NOAKES, Tessa Mary
+
+'
+    bounds:
+      left: 576
+      right: 1139
+      top: 2189
+      bottom: 2253
+  - text: |
+      b 29.01.1994
+      Tessa b. at Wellington.
+    bounds:
+      left: 674
+      right: 1036
+      top: 2253
+      bottom: 2348
+- paragraphs:
+  - text: '02> NOAKES, Annabel Kate
+
+'
+    bounds:
+      left: 578
+      right: 1185
+      top: 2386
+      bottom: 2448
+  - text: |
+      b 08.11.1995
+      Annabel b. at Wellington.
+    bounds:
+      left: 678
+      right: 1083
+      top: 2453
+      bottom: 2551
+- paragraphs:
+  - text: |
+      05> CORKILL, Alison Maclean m on 19.01.1985 to CRUM, David Gordon
+      b 01.10.1961
+    bounds:
+      left: 509
+      right: 2038
+      top: 2648
+      bottom: 2746
+  - text: |
+      b 08.12.1960
+      Alison b. at Dunedin and m. at Napier, David, s/o Albert Ian Crum and Marjorie Eleanor Woollett, b.
+      at Auckland, Address: 37 Golf Road, Epsom, Auckland.
+      Alison was educated at Timaru Girls' High School and Otago University and is a dental surgeon.
+      David was educated at Green Bay High School and Otago University. He is a dental surgeon and
+      partner in the Avondale Dental Centre.
+    bounds:
+      left: 601
+      right: 2208
+      top: 2701
+      bottom: 2999
+- paragraphs:
+  - text: '01> CRUM, Emma May
+
+'
+    bounds:
+      left: 585
+      right: 1040
+      top: 3042
+      bottom: 3104
+  - text: |
+      b 28.01.1989
+      Emma b, at Auckland.
+    bounds:
+      left: 676
+      right: 1035
+      top: 3107
+      bottom: 3200
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 209
+      right: 834
+      top: 3293
+      bottom: 3358
+- paragraphs:
+  - text: '543
+
+'
+    bounds:
+      left: 1220
+      right: 1297
+      top: 3302
+      bottom: 3348

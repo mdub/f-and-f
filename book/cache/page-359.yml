@@ -1,0 +1,226 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, Henry and COLDHAM, Marianne
+
+'
+    bounds:
+      left: 211
+      right: 1514
+      top: 177
+      bottom: 236
+  - text: |
+      JWILLIAMS, Catherine (Kate) and HADFIELD, Octavius
+      JHADFIELD, Alexander Charles (Aleck) and FULFORD, Marion Francis
+      JHADFIELD, Ellis Charles Raymond and SMYTH, Alice Mary
+      JHADFIELD, Alexander Charles Fulford and ALTMAYER, Ann Elizabeth
+    bounds:
+      left: 582
+      right: 2204
+      top: 229
+      bottom: 440
+- paragraphs:
+  - text: '01> HADFIELD, Amelia Ann Elizabeth (Amy)
+
+'
+    bounds:
+      left: 504
+      right: 1505
+      top: 474
+      bottom: 545
+  - text: 'b 24.02.1975
+
+'
+    bounds:
+      left: 605
+      right: 816
+      top: 540
+      bottom: 582
+- paragraphs:
+  - text: '02> HADFIELD, Mary Ann Elizabeth
+
+'
+    bounds:
+      left: 502
+      right: 1307
+      top: 621
+      bottom: 693
+  - text: 'b 01.03.1978
+
+'
+    bounds:
+      left: 604
+      right: 815
+      top: 692
+      bottom: 735
+- paragraphs:
+  - text: '03> HADFIELD, Elizabeth Rose
+
+'
+    bounds:
+      left: 503
+      right: 1204
+      top: 783
+      bottom: 836
+  - text: 'b 27.06.1981
+
+'
+    bounds:
+      left: 601
+      right: 815
+      top: 842
+      bottom: 882
+- paragraphs:
+  - text: |
+      02> HADFIELD, Alice Mary Caroline (Molly) m on 21.08.1971 to SWITEK, Evek
+      b 31.03.1950
+    bounds:
+      left: 426
+      right: 2157
+      top: 973
+      bottom: 1093
+  - text: |
+      b 28.03.1931
+      Address: 8 Crossley Street, London, N7 8PD, England.
+    bounds:
+      left: 517
+      right: 2185
+      top: 1048
+      bottom: 1138
+- paragraphs:
+  - text: |
+      08>' HADFIELD, Ernest Frederick m on 27.12.1902 to WOOD, Ada Mary Louise
+      b 09.08.1866 d 04.06.1946
+    bounds:
+      left: 279
+      right: 1954
+      top: 1231
+      bottom: 1340
+  - text: |
+      b 19.02.1878 d 06.03.1939
+      Ernest b. at Otaki, Ernest was educated in England and graduated from Cambridge University. He was a
+      barrister and solicitor in Wellington and Chancellor of the Wellington Diocese of the Anglican Church.
+    bounds:
+      left: 368
+      right: 2027
+      top: 1288
+      bottom: 1438
+- paragraphs:
+  - text: '01> HADFIELD, Ernestine Miriam
+
+'
+    bounds:
+      left: 353
+      right: 1111
+      top: 1480
+      bottom: 1533
+  - text: |
+      b 08.12.1903 d 03.01.1959
+      Ernestine b. at Wellington. She was educated at Marsden School (Dux) and Victoria University College (MA)
+      and went on to study in France. She taught for many years on the staff of the Correspondence School in
+      Wellington.
+    bounds:
+      left: 440
+      right: 2160
+      top: 1539
+      bottom: 1748
+- paragraphs:
+  - text: |
+      02> HADFIELD, Dorothy m on 15.09.1931 to ZOHRAB, John Fortescue
+      b 15.02.1905 d 06.01.1992
+    bounds:
+      left: 351
+      right: 1823
+      top: 1788
+      bottom: 1882
+  - text: |
+      b 19.09.1902 d 30.08.1959
+      Dorothy b, at Wellington, m, at St Paul's Pro-Cathedral, Wellington and d. at Catherine Armstrong Hospital,
+      Taupo.
+      Dorothy was educated at Marsden School (Dux) and Victoria University College (BA). Her great interest was
+      embroidery and she was the inaugural President of the Wellington Embroiders Guild. She was for many years
+      Sacristan of the Wellington Cathedral.
+      John, MBCHB, FRCS(Edin) was a general practitioner/ surgeon in Wellington. He was educated at Wellington
+      College and Otago Medical School, with post graduate study in Edinburgh.
+    bounds:
+      left: 438
+      right: 2175
+      top: 1841
+      bottom: 2237
+- paragraphs:
+  - text: |
+      01> ZOHRAB, Edith Mary m on 02.02.1957 to HARDIE BOYS, Michael
+      b 01.04.1933
+    bounds:
+      left: 425
+      right: 1875
+      top: 2284
+      bottom: 2382
+  - text: |
+      b 06.10.1931
+      Mary b. at Wellington and m. at the Cathedral Church of St Paul, Wellington, Michael, s/o Hon Mr
+      Justice Reginald Hardie Boys and Edith May Bennett, b. at Wellington. Address: Government House,
+      Private Bag, Wellington.
+      Mary was educated at Marsden School (Head Girl) and Canterbury School of Art, Christchurch (DipFA). She
+      continues to enjoy painting and exhibits in New Zealand.
+    bounds:
+      left: 513
+      right: 2241
+      top: 2339
+      bottom: 2634
+  - text: |
+      Michael was educated at Wellington College and studied law at Victoria University. He was a Judge of
+      the Court of Appeal and is a Privy Councillor. He was created GCMG in 1995 and GNZM in 1996. He was
+      sworn in as New Zealand's 17th Governor General on 21 March 1996.
+    bounds:
+      left: 515
+      right: 2238
+      top: 2640
+      bottom: 2784
+- paragraphs:
+  - text: '01> HARDIE BOYS, Deryn Mary
+
+'
+    bounds:
+      left: 500
+      right: 1190
+      top: 2826
+      bottom: 2889
+  - text: |
+      b 17.12.1957
+      Deryn b. at Wellington. Address: 25 High Street, Island Bay, Wellington,
+      Deryn attended Marsden College and gained a BSc in Physiology at Otago University then attended
+      Christchurch Teachers' Training College. She completed a DipTESL at Victoria University in 1993
+      and has been teaching English as a second language both in New Zealand and overseas.
+    bounds:
+      left: 596
+      right: 2167
+      top: 2889
+      bottom: 3136
+- paragraphs:
+  - text: 'erseas.
+
+'
+    bounds:
+      left: 1870
+      right: 1976
+      top: 3103
+      bottom: 3126
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 202
+      right: 830
+      top: 3278
+      bottom: 3340
+- paragraphs:
+  - text: '360
+
+'
+    bounds:
+      left: 1216
+      right: 1286
+      top: 3282
+      bottom: 3336

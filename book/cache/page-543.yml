@@ -1,0 +1,230 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, William and NELSON, Jane
+
+'
+    bounds:
+      left: 205
+      right: 1434
+      top: 183
+      bottom: 238
+  - text: |
+      JWILLIAMS, William Leonard and WANKLYN, Sarah
+      WILLIAMS, Margaret Ellen and MACLEAN, Christopher Haydon
+    bounds:
+      left: 578
+      right: 2018
+      top: 236
+      bottom: 342
+  - text: |
+      MACLEAN, Eric Wanklyn and TURNER, May Harcourt
+      IMACLEAN, Patience EŬliot and KEARNS, Bernard John
+      IKEARNS, Jennifer Mary and SMITH, Benjamin
+    bounds:
+      left: 575
+      right: 1841
+      top: 339
+      bottom: 493
+- paragraphs:
+  - text: '02> SMITH, Miriam May
+
+'
+    bounds:
+      left: 577
+      right: 1107
+      top: 530
+      bottom: 592
+  - text: 'b 17.11.1988
+
+'
+    bounds:
+      left: 679
+      right: 894
+      top: 595
+      bottom: 637
+- paragraphs:
+  - text: '03> KEARNS, Katherine Susan (Kate)
+
+'
+    bounds:
+      left: 502
+      right: 1353
+      top: 729
+      bottom: 797
+  - text: |
+      b 10.01.1954
+      Address: 16 Conway Street, Spreydon, Christchurch 2.
+      Kate completed general nursing training at Christchurch Hospital School of Nursing in 1978 then
+      nursed in Christchurch, Sydney and London. She returned to New Zealand and did BA (Hons) in 1985
+      and Dipl TESL in 1984 at Victoria University then did her PhD in Linguistics at MIT. She now
+      teaches in Canterbury University Department of Linguistics, specialising in syntax and semantics.
+      Her interests include reading, gardening and cinema.
+    bounds:
+      left: 595
+      right: 2200
+      top: 795
+      bottom: 1142
+- paragraphs:
+  - text: '04> KEARNS, Kristin Clare
+
+'
+    bounds:
+      left: 506
+      right: 1130
+      top: 1184
+      bottom: 1240
+  - text: |
+      b 14.06.1956
+      Kristin graduated LLB. Address: 36 Laura Avenue, Brooklyn, Wellington.
+    bounds:
+      left: 601
+      right: 1767
+      top: 1248
+      bottom: 1342
+- paragraphs:
+  - text: '05> KEARNS, Nicholas Bernard m on 24.01.1997 to NORRIS, Amanda Christina
+
+'
+    bounds:
+      left: 504
+      right: 2202
+      top: 1391
+      bottom: 1439
+  - text: |
+      Francis
+      b 21.09.1958
+    bounds:
+      left: 599
+      right: 931
+      top: 1440
+      bottom: 1539
+  - text: |
+      b 21.12.1959
+      Address: 171 Victoria Street, Devonport, Auckland.
+      Nicholas graduated MSc (Resource Management) from Lincoln University then worked for three years
+      with Bayer New Zealand Agrichemical. He taught science at Carmel College for three years and at
+      King's College for four years then left teaching in 1997 to establish his own bakery business. His
+      interests include yachting and music (he has written and performed his own works).
+    bounds:
+      left: 590
+      right: 2203
+      top: 1496
+      bottom: 1791
+- paragraphs:
+  - text: '01> NORRIS-KEARNS, Fraser Lyle
+
+'
+    bounds:
+      left: 575
+      right: 1332
+      top: 1830
+      bottom: 1892
+  - text: |
+      b ** ** ****
+      02> NORRIS-KEARNS, Eleanor Rose
+    bounds:
+      left: 572
+      right: 1354
+      top: 1892
+      bottom: 2052
+- paragraphs:
+  - text: 'b ** ** ****
+
+'
+    bounds:
+      left: 680
+      right: 895
+      top: 2048
+      bottom: 2082
+- paragraphs:
+  - text: |
+      06> KEARNS, Leah Prudence Jane m on 25.01.1989 to SMITH, Murray
+      b 02.11.1961
+    bounds:
+      left: 500
+      right: 1985
+      top: 2186
+      bottom: 2288
+  - text: |
+      b 17.06.1956
+      Leah is known by her maiden name. Russell, s/o Roy Joseph Smith and Jean Marion McKane, b, at
+      Greymouth. Address: 37 Stanbury Avenue, Christchurch 2.
+      Leah graduated MSc from Otago University then worked for three years as a research biochemist. She
+      completed her PhD in Microbiology at Canterbury University and spent a further three years
+      researching bacterial disease in pipfruit before raising a family.
+      Murray is a general practitioner.
+    bounds:
+      left: 594
+      right: 2216
+      top: 2248
+      bottom: 2595
+- paragraphs:
+  - text: 'b1> SMITH, Elliot Joseph
+
+'
+    bounds:
+      left: 581
+      right: 1187
+      top: 2630
+      bottom: 2692
+  - text: 'b 01.05.1992
+
+'
+    bounds:
+      left: 683
+      right: 897
+      top: 2700
+      bottom: 2738
+- paragraphs:
+  - text: '02> SMITH, Rory Benedict
+
+'
+    bounds:
+      left: 580
+      right: 1183
+      top: 2786
+      bottom: 2840
+  - text: 'b 17.08.1994
+
+'
+    bounds:
+      left: 683
+      right: 898
+      top: 2847
+      bottom: 2889
+- paragraphs:
+  - text: '13> SMITH, Helena Jean
+
+'
+    bounds:
+      left: 597
+      right: 1138
+      top: 2932
+      bottom: 2996
+  - text: 'b 15.11.1997
+
+'
+    bounds:
+      left: 685
+      right: 898
+      top: 3000
+      bottom: 3043
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 209
+      right: 832
+      top: 3285
+      bottom: 3349
+- paragraphs:
+  - text: '545
+
+'
+    bounds:
+      left: 1223
+      right: 1292
+      top: 3295
+      bottom: 3339

@@ -1,0 +1,315 @@
+---
+blocks:
+- paragraphs:
+  - text: '2.05.00
+
+'
+    bounds:
+      left: 2186
+      right: 2344
+      top: 303
+      bottom: 366
+- paragraphs:
+  - text: |
+      WILLIAMS, James Nelson
+      = BEETHAM, Mary-Margaret
+    bounds:
+      left: 931
+      right: 1473
+      top: 427
+      bottom: 533
+- paragraphs:
+  - text: |
+      Heathcote Beetham
+      MYHILL. Mary Anderson (Molly)
+    bounds:
+      left: 340
+      right: 698
+      top: 637
+      bottom: 700
+- paragraphs:
+  - text: |
+      Arnold Beetham
+      =BEALE. Emma Rerempana
+    bounds:
+      left: 791
+      right: 1055
+      top: 633
+      bottom: 698
+- paragraphs:
+  - text: |
+      Winifred Beetham
+      =NELSON, Francis Ernest
+    bounds:
+      left: 1193
+      right: 1468
+      top: 629
+      bottom: 692
+- paragraphs:
+  - text: |
+      Gertrude Mary Beetham
+      =RUSSELL, Andrew Hamilton
+    bounds:
+      left: 1571
+      right: 1874
+      top: 625
+      bottom: 692
+- paragraphs:
+  - text: 'Elsie Jane Beetham
+
+'
+    bounds:
+      left: 2024
+      right: 2250
+      top: 630
+      bottom: 660
+- paragraphs:
+  - text: "+\n"
+    bounds:
+      left: 354
+      right: 355
+      top: 709
+      bottom: 730
+- paragraphs:
+  - text: |
+      -WILLIAMS, Janet Mary
+      »WILLIAMS. Arnold Kenneth Beale »NELSON. Alice Ruth
+    bounds:
+      left: 335
+      right: 1421
+      top: 728
+      bottom: 768
+  - text: |
+      -RUSSELL, Katherine Mary
+      WILLIAMS. Leonard Heathcote (Bill) »WILLIAMS, Desmond Ormonde Beale »NELSON, Winifred Gwendoline -OEANS, William
+      -WILLIAMS, James Nelson (Jack) »WILLIAMS, Margaret Octavia -MALDEN, Henry
+    bounds:
+      left: 335
+      right: 1865
+      top: 720
+      bottom: 845
+  - text: |
+      ÞRUSSELL, Janet Margaret
+      -WILLIAMS, Heathcote Beetham (Bill) -WILLIAMS. Anthony John Oswald »NELSON, James Francis (Jim) -KEMBALL. Vero Elliot
+      =NOLAN, Patricia Elizabeth
+    bounds:
+      left: 334
+      right: 1863
+      top: 793
+      bottom: 902
+  - text: |
+      =(1)PALMER. Patricia Florence »RUSSELL, Andrew Hamilton
+      -(2 RICHARDS, Yvonne
+    bounds:
+      left: 1206
+      right: 1875
+      top: 860
+      bottom: 928
+  - text: |
+      CSWEENY. Eve
+      RUSSELL, John Tinsley
+      -ROLLESTON, Rosamond
+      -RUSSELL. Margaret Gertrude (Margot)
+      -LOWRY, Thomas Coleman (Tom }
+    bounds:
+      left: 1570
+      right: 2009
+      top: 895
+      bottom: 1060
+- paragraphs:
+  - text: 'WILLIAMS, James Nelson - BEETHAM, Mary-Margaret (cont)
+
+'
+    bounds:
+      left: 401
+      right: 1053
+      top: 1082
+      bottom: 1112
+- paragraphs:
+  - text: |
+      Cyril Nelson Beetham
+      -WILDER. Maud Margaret (Pearlie)
+    bounds:
+      left: 372
+      right: 759
+      top: 1185
+      bottom: 1255
+- paragraphs:
+  - text: |
+      Edric Beetham
+      =MCKENZIE. Christina Barbara
+    bounds:
+      left: 871
+      right: 1209
+      top: 1191
+      bottom: 1260
+- paragraphs:
+  - text: |
+      -WILLIAMS. Mary Margaret Wilder (Bettie) -WILLIAMS. Mary Meggie
+      -WILLIAMS, Bevan Sydney
+    bounds:
+      left: 373
+      right: 1138
+      top: 1287
+      bottom: 1354
+  - text: |
+      -JAMES, Sidney
+      WILLIAMS. Cyril James Wilder (Jim)
+    bounds:
+      left: 386
+      right: 1053
+      top: 1321
+      bottom: 1388
+  - text: |
+      WILLIAMS, Christina Elsie
+      -CRAMPTON, Kathleen Mary
+    bounds:
+      left: 386
+      right: 1189
+      top: 1352
+      bottom: 1422
+  - text: |
+      =-OUCKWORTH, Auberon Charles Alan Campbell
+      +WILLIAMS. Joan Wilder
+      -JONES. Evan
+      WILLIAMS. Patricia Wilder
+      =KELLY, George Murray Swinburne
+      WILLIAMS. Timothy John Wilder
+      -(1 JFOWLER, Patricia Faith
+      =(2 DINSDALE, Agnes Hill (Nancy)
+      -WILLIAMS. Barnabas Wilder (Barney)
+      =(1 DALZIELL, Kathleen Kelly
+      *(2)JAMIESON. Moira Jane
+    bounds:
+      left: 369
+      right: 1381
+      top: 1387
+      bottom: 1752
+- paragraphs:
+  - text: "|2.05.01||\n"
+    bounds:
+      left: 2161
+      right: 2380
+      top: 1775
+      bottom: 1838
+- paragraphs:
+  - text: |
+      WILLIAMS, Heathcote Beetham
+      = MYHILL, Mary Anderson (Molly)
+    bounds:
+      left: 714
+      right: 1412
+      top: 1918
+      bottom: 2025
+- paragraphs:
+  - text: |
+      Janet Mary
+      -WILLIAMS. Leonard Heathcote (Bill)
+      See Chart 2.03.08
+    bounds:
+      left: 635
+      right: 1064
+      top: 2126
+      bottom: 2234
+- paragraphs:
+  - text: 'James Nelson (Jack) Heathcote Beetham (8111)
+
+'
+    bounds:
+      left: 1092
+      right: 1635
+      top: 2112
+      bottom: 2145
+  - text: 'NOLAN. Patricia Elizabeth
+
+'
+    bounds:
+      left: 1360
+      right: 1664
+      top: 2144
+      bottom: 2177
+- paragraphs:
+  - text: |
+      WILLIAMS, James Nelson Marcus
+      -WILLIAMS, Susan Rosemary
+    bounds:
+      left: 1350
+      right: 1710
+      top: 2210
+      bottom: 2275
+  - text: |
+      -KEMP, Gerald Bruce
+      -WILLIAMS, Hamish Beetham Nolan
+    bounds:
+      left: 1351
+      right: 1724
+      top: 2275
+      bottom: 2343
+  - text: |
+      -BEAMISH, Angela
+      -WILLIAMS. Phillida Anne
+    bounds:
+      left: 1351
+      right: 1641
+      top: 2346
+      bottom: 2409
+  - text: |
+      -EIVERS, Michael Patrick
+      -WILLIAMS. David Heathcote Beetham
+    bounds:
+      left: 1351
+      right: 1768
+      top: 2409
+      bottom: 2476
+  - text: |
+      =WILSON, Kirsty Anne
+      -WILLIAMS. Arnold Henry Beetham
+      -WILLIAMS, Amanda Mary
+      -CHRISP. Ian Duncan
+    bounds:
+      left: 1354
+      right: 1734
+      top: 2475
+      bottom: 2607
+- paragraphs:
+  - text: "|2.05.02\n"
+    bounds:
+      left: 2181
+      right: 2349
+      top: 2767
+      bottom: 2826
+- paragraphs:
+  - text: |
+      WILLIAMS, Arnold Beetham
+      = BEALE, Emma Reremoana
+    bounds:
+      left: 753
+      right: 1297
+      top: 2857
+      bottom: 2955
+- paragraphs:
+  - text: 'Arnold Kenneth Beale Desmond Ormonde Beale Margaret Octavia
+
+'
+    bounds:
+      left: 726
+      right: 1468
+      top: 3049
+      bottom: 3085
+  - text: |
+      WILLIAMS, Anthony John Oswald
+      See Chart 1.01.03
+    bounds:
+      left: 1276
+      right: 1640
+      top: 3083
+      bottom: 3161
+- paragraphs:
+  - text: '600
+
+'
+    bounds:
+      left: 1187
+      right: 1263
+      top: 3279
+      bottom: 3321

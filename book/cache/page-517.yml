@@ -1,0 +1,205 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, William and NELSON, Jane
+
+'
+    bounds:
+      left: 211
+      right: 1439
+      top: 164
+      bottom: 224
+  - text: |
+      JWILLIAMS, William Leonard and WANKLYN, Sarah
+      JWILLIAMS, Margaret Ellen and MACLEAN, Christopher Haydon
+      IMACLEAN, William Haydon and AWDRY, Mildred Ethel
+      IMACLEAN, Alan Haydon Awdrey and WARNER, Margaret
+      IMACLEAN, Nigel Alan and ROSS, Jennifer Mabel
+    bounds:
+      left: 581
+      right: 2028
+      top: 220
+      bottom: 486
+- paragraphs:
+  - text: |
+      MACLEAN, Nigel Alan and ROSS, Jennifer Mabel (cont...)
+      Hospital.
+    bounds:
+      left: 591
+      right: 1560
+      top: 527
+      bottom: 626
+- paragraphs:
+  - text: 'b1> MACLEAN, Jason John
+
+'
+    bounds:
+      left: 586
+      right: 1164
+      top: 663
+      bottom: 728
+  - text: |
+      b 02.05.1973
+      Address: 204 Avondale Road, Greenmeadows, Napier.
+    bounds:
+      left: 677
+      right: 1533
+      top: 730
+      bottom: 830
+- paragraphs:
+  - text: |
+      02>' MACLEAN, Alan Haydon Awdrey m on 16.06.1962 to (2)DELL, Gladys Mary
+      b 02.08.1917 d 06.07.1997
+    bounds:
+      left: 429
+      right: 2110
+      top: 907
+      bottom: 1045
+  - text: |
+      b 24.12.1922
+      Alan m, at Wanganui. Mary, d/o George Frederick Haar and Elsie Maude Hunt (of French Farm, Akaroa), b.
+      at Hunterville. Address: 36 Stafford Street, Springvale, Wanganui.
+    bounds:
+      left: 516
+      right: 2245
+      top: 982
+      bottom: 1136
+- paragraphs:
+  - text: |
+      02> MACLEAN, Leonard Herbert Lionel m on 26.05.1917 to (1) WARD, Dorothy Isabel
+      b 22.07.1881 d 06.01.1967
+    bounds:
+      left: 355
+      right: 2206
+      top: 1214
+      bottom: 1328
+  - text: |
+      b 29.10.1892 d 31.03.1971
+      Lionel b. at Foxton and m. at Napier. Dorothy, d/o Edgar Ward and Agnes Isabel Alloway, d.
+      at Auckland.
+      Lionel was educated at Wanganui Collegiate School then served abroad for some years in the
+      Eastern Telegraph Company before taking up farming about 1906. During WW1 he was a
+      Lieutenant in the 1st NZEF (Nth Akld MR, Akld Inf Bn, NZMGC) and served in Egypt, Gallipoli,
+    bounds:
+      left: 679
+      right: 2226
+      top: 1282
+      bottom: 1583
+  - text: |
+      France and Belgium. He returned to take up the managership of Puhatikotiko Station, of
+      which he became part owner, and from which he retired in 1953. He served at various time on the Cook
+      Hospital Board, Poverty Bay Electric Power Board and Waikohu County Council and was a director of the New
+      Zealand Co-operative Wool Marketing Association.
+    bounds:
+      left: 446
+      right: 2203
+      top: 1581
+      bottom: 1782
+- paragraphs:
+  - text: |
+      01> MACLEAN, Antony Russell m on 21.08.1945 to TULLOCH, Leone Leith
+      b 04.04.1918
+    bounds:
+      left: 424
+      right: 2006
+      top: 1824
+      bottom: 1930
+  - text: |
+      b 25.06.1912 d 03.07.1996
+      Antony b. at Napier. Leith, d/o Lawrence Boysen Tulloch and Ivy Myrtle Gallie. Address: 1/302 Childers
+      Road, Gisborne.
+      Antony was educated at Te Karaka High School and worked as a farm manager at Puha, Poverty Bay. During
+      WW2 he served with the NZ Division in North Africa and Italy.
+    bounds:
+      left: 514
+      right: 2236
+      top: 1877
+      bottom: 2131
+- paragraphs:
+  - text: |
+      01> MACLEAN, Shona Leith m on 17.02.1973 to (1) WEBB, Ian
+      b 03.02.1949
+    bounds:
+      left: 497
+      right: 1805
+      top: 2163
+      bottom: 2277
+  - text: |
+      b 14.05.1946
+      Shona b. and m. at Gisborne. Ian, s/o William Webb and Ann King, b. at South Shields, England.
+      Shona was educated at Auckland Diocesan School for Girls and University of Otago. Ian is an
+      accountant.
+    bounds:
+      left: 589
+      right: 2131
+      top: 2225
+      bottom: 2431
+- paragraphs:
+  - text: '01> WEBB, Michael
+
+'
+    bounds:
+      left: 577
+      right: 1005
+      top: 2471
+      bottom: 2523
+  - text: |
+      .b 04.08.1978
+      Michael b. at Wellington. He is a BCom/BA student at the University of Auckland.
+    bounds:
+      left: 663
+      right: 1987
+      top: 2528
+      bottom: 2629
+- paragraphs:
+  - text: |
+      01> MACLEAN, Shona Leith m on 19.10.1984 to (2) JARAY, Robert Samuel
+      b 03.02.1949
+    bounds:
+      left: 505
+      right: 2076
+      top: 2720
+      bottom: 2828
+  - text: |
+      b 19.08.1945
+      Shona m. at Wellington, Robert, s/o Walter Karl Jaray and Rozet Vles, b. at Nelson. Address: 2
+    bounds:
+      left: 593
+      right: 2103
+      top: 2777
+      bottom: 2880
+  - text: |
+      Mitchell Street, Brooklyn, Wellington.
+      Shona has her own private practice as a sports dietitian at Wakefield Sports Medical Clinic in
+    bounds:
+      left: 590
+      right: 2058
+      top: 2883
+      bottom: 2981
+  - text: |
+      Wellington,
+      Robert and Shona own a company which imports coffee machinery and green coffee which is roasted
+      daily to supply the hospitality industry.
+    bounds:
+      left: 596
+      right: 2179
+      top: 2982
+      bottom: 3135
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 195
+      right: 823
+      top: 3265
+      bottom: 3330
+- paragraphs:
+  - text: '519
+
+'
+    bounds:
+      left: 1207
+      right: 1283
+      top: 3270
+      bottom: 3329

@@ -1,0 +1,215 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, Henry and COLDHAM, Marianne
+
+'
+    bounds:
+      left: 199
+      right: 1496
+      top: 173
+      bottom: 241
+  - text: |
+      JWILLIAMS, Thomas Coldham and BEETHAM, Anne Palmer (Annie)
+      JWILLIAMS, Eila Mabel and REED, Vernon Herbert
+      VREED, Nigel Vernon and LANGSTAFF, Ellen Elizabeth
+      JREED, Eiña Josephine and SEARLES, Clive Barrington (Barry)
+    bounds:
+      left: 573
+      right: 2061
+      top: 232
+      bottom: 446
+- paragraphs:
+  - text: |
+      REED, Eila Josephine and SEARLES, Clive Barrington (Barry) (cont...)
+      now orchardists, Eila is a member of the Waitangi National Trust Board.
+    bounds:
+      left: 504
+      right: 1736
+      top: 495
+      bottom: 588
+- paragraphs:
+  - text: '01> SEARLES, Dominic Nigel
+
+'
+    bounds:
+      left: 496
+      right: 1151
+      top: 630
+      bottom: 693
+  - text: |
+      b 08.03.1986
+      Dominic b. at Dhahran, Saudi Arabia. He is a student at Springbank School, Kerikeri.
+    bounds:
+      left: 591
+      right: 1951
+      top: 696
+      bottom: 791
+- paragraphs:
+  - text: '02> SEARLES, Josephine Thea
+
+'
+    bounds:
+      left: 500
+      right: 1175
+      top: 826
+      bottom: 893
+  - text: |
+      b 17.07.1988
+      Josephine b, at Kawakawa, Bay of Islands. She is a student at Springbank School, Kerikeri.
+    bounds:
+      left: 590
+      right: 2037
+      top: 894
+      bottom: 988
+- paragraphs:
+  - text: '02> REED, Nigel John Vernon
+
+'
+    bounds:
+      left: 424
+      right: 1106
+      top: 1082
+      bottom: 1140
+  - text: |
+      b 12.09.1951
+      Nigel b. at Enugu, Nigeria. Address: 80 Elliott Street, Balmain 2041, NSW, Australia.
+      Nigel was educated at Marlborough College, England and took a First in History at King's College,
+      London (1969-72). He is also BA in Graphic Design from Kingston-on-Thames Art School (1973-76). Nigel
+      is an advertising copywriter. He worked in London (1976-84), Edinburgh (1984-85) and Sydney (1985-).
+    bounds:
+      left: 514
+      right: 2209
+      top: 1144
+      bottom: 1391
+- paragraphs:
+  - text: |
+      03> REED, Caroline Sarah m on 06.07.1985 to HILL, James Charles
+      b 03.10.1953
+    bounds:
+      left: 424
+      right: 1902
+      top: 1430
+      bottom: 1534
+  - text: |
+      b 19.09.1942
+      Caroline b. at Kaduna, Nigeria and m. at Corton (Boyton), Wilts, England. James, s/o Lance Charles Hill
+      and Edith Margaret Skinner, b, at Melbourne, Australia. Address: 506 Hampton Street, Hampton 3188,
+      Vic, Australia.
+      Caroline graduated BSc (Microbiology) and MBBS, both from London University and was elected FRCPath and
+      FRCPA. She worked as a doctor at Westminster Hospital in London before moving to Melbourne in 1993
+      where she is Clinical Microbiologist at Dorovitch Pathology Laboratory.
+      James graduated BArch from Melbourne University in 1964 then worked in Melbourne for five years and in
+      London, England for 24 years before returning to Melbourne in 1993.
+    bounds:
+      left: 512
+      right: 2274
+      top: 1492
+      bottom: 1940
+- paragraphs:
+  - text: '01> HILL, Matthew Charles
+
+'
+    bounds:
+      left: 498
+      right: 1128
+      top: 1982
+      bottom: 2037
+  - text: |
+      b 30.01.1990
+      Matthew b. at London, England. He is a student at St Leonard's College, Brighton, Melbourne.
+    bounds:
+      left: 600
+      right: 2108
+      top: 2044
+      bottom: 2138
+- paragraphs:
+  - text: '02> HILL, Anna Elizabeth
+
+'
+    bounds:
+      left: 500
+      right: 1112
+      top: 2186
+      bottom: 2240
+  - text: |
+      b 17.12.1991
+      Anna b. at London, England. She is a student at St Leonard's College, Brighton, Melbourne.
+    bounds:
+      left: 595
+      right: 2072
+      top: 2243
+      bottom: 2338
+- paragraphs:
+  - text: |
+      03>'REED, Elfie Clare Temple m on ** ** 1943 to ELLIOTT, James Kennedy
+      b 20.11.1917 d 13.03.1991
+    bounds:
+      left: 352
+      right: 2011
+      top: 2430
+      bottom: 2538
+  - text: |
+      b 24.08.1908 d 20.01.1968
+      Elfie b. at Wellington, m. at Cairo, Egypt and d, and bd, at Wellington. Kennedy, slo Sir James Elliott and
+      Ann Allan Forbes (Lady Elliott). Last address: 3 Flers Street, Karori, Wellington 5.
+      Kennedy was awarded the OBE.
+    bounds:
+      left: 448
+      right: 2124
+      top: 2488
+      bottom: 2690
+- paragraphs:
+  - text: |
+      01> ELLIOTT, Ann Eila m on 26.08.1971 to GREEN, Michael James Bay
+      b 09.01.1945
+    bounds:
+      left: 436
+      right: 1962
+      top: 2736
+      bottom: 2837
+  - text: |
+      b 04.06.1943
+      Ann b. at Wellington and m, at London, England. Bay, s/o Patrick Green, OBE, AFC and Eileen Brenda
+      Green. Address: Downs Court, Boughton Aluph, Ashford, Kent, England.
+      Bay is a merchant banker.
+    bounds:
+      left: 525
+      right: 2175
+      top: 2791
+      bottom: 2992
+- paragraphs:
+  - text: '01> GREEN, Edward James Patrick
+
+'
+    bounds:
+      left: 510
+      right: 1290
+      top: 3034
+      bottom: 3092
+  - text: |
+      b 27.11.1973
+      Edward b, at Canterbury, Kent.
+    bounds:
+      left: 608
+      right: 1104
+      top: 3097
+      bottom: 3192
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 210
+      right: 835
+      top: 3281
+      bottom: 3346
+- paragraphs:
+  - text: '267
+
+'
+    bounds:
+      left: 1225
+      right: 1297
+      top: 3286
+      bottom: 3335

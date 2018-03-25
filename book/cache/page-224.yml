@@ -1,0 +1,383 @@
+---
+blocks:
+- paragraphs:
+  - text: '1.03.00 |
+
+'
+    bounds:
+      left: 2144
+      right: 2331
+      top: 426
+      bottom: 485
+- paragraphs:
+  - text: |
+      WILLIAMS, Samuel
+      = WILLIAMS, Mary
+    bounds:
+      left: 1128
+      right: 1481
+      top: 544
+      bottom: 648
+- paragraphs:
+  - text: 'Marianne Jane Anna Lydia William Temple
+
+'
+    bounds:
+      left: 366
+      right: 857
+      top: 736
+      bottom: 770
+  - text: "-PUCKEY, Annie Matilda Sophia Marilla\n"
+    bounds:
+      left: 688
+      right: 1138
+      top: 771
+      bottom: 804
+- paragraphs:
+  - text: 'Thomas Leonard Francis Henry Lucy Frances
+
+'
+    bounds:
+      left: 1168
+      right: 1683
+      top: 740
+      bottom: 773
+  - text: "-WARREN. Thomas John Cory (Jack)\n"
+    bounds:
+      left: 1543
+      right: 1929
+      top: 773
+      bottom: 808
+- paragraphs:
+  - text: 'Mary
+
+'
+    bounds:
+      left: 1963
+      right: 2008
+      top: 751
+      bottom: 776
+- paragraphs:
+  - text: "-WILLIAMS, Dorothy Frances\n"
+    bounds:
+      left: 690
+      right: 1002
+      top: 840
+      bottom: 872
+  - text: |
+      SJACKSON, Thomas Cecil Rhodes
+      »WILLIAMS. Samuel Roy
+      -BURR, Bessie Joyce
+      WILLIAMS, Esther Margarita
+    bounds:
+      left: 687
+      right: 1053
+      top: 872
+      bottom: 1006
+  - text: |
+      AVERY, Norman Alfred
+      »WILLIAMS. Charles Athol
+      -(1)BURR, Mary Russell (Meg)
+      -(2 MILLIS, Genevra
+    bounds:
+      left: 686
+      right: 1041
+      top: 1006
+      bottom: 1140
+- paragraphs:
+  - text: "-WARREN. Greville Williams\n"
+    bounds:
+      left: 1542
+      right: 1856
+      top: 841
+      bottom: 875
+  - text: |
+      FWRIGHT. Norah de Vesci
+      -WARREN, Alwyn Keith
+    bounds:
+      left: 1540
+      right: 1834
+      top: 875
+      bottom: 944
+  - text: |
+      -LAWS, Doreen Eda
+      -WARREN. Mary Williams
+    bounds:
+      left: 1542
+      right: 1806
+      top: 944
+      bottom: 1009
+  - text: 'kcBAIN, Hubert
+
+'
+    bounds:
+      left: 1575
+      right: 1730
+      top: 1013
+      bottom: 1037
+- paragraphs:
+  - text: "|1.03.03\n"
+    bounds:
+      left: 2130
+      right: 2308
+      top: 1466
+      bottom: 1525
+- paragraphs:
+  - text: |
+      WILLIAMS, William Temple
+      = PUCKEY, Annie Matilda Sophia Marilla
+    bounds:
+      left: 715
+      right: 1578
+      top: 1609
+      bottom: 1717
+- paragraphs:
+  - text: |
+      Dorothy Frances
+      =JACKSON. Thomas Cecil Rhodes
+    bounds:
+      left: 386
+      right: 733
+      top: 1817
+      bottom: 1881
+- paragraphs:
+  - text: |
+      Samuel Roy
+      =BURR, Bessie Joyce
+    bounds:
+      left: 848
+      right: 1078
+      top: 1817
+      bottom: 1879
+- paragraphs:
+  - text: |
+      Esther Margarita
+      =AVERY, Norman Alfred
+    bounds:
+      left: 1228
+      right: 1482
+      top: 1818
+      bottom: 1873
+- paragraphs:
+  - text: |
+      Charles Athol
+      =(1)BURR. Mary Russell (Meg)
+    bounds:
+      left: 1572
+      right: 1908
+      top: 1815
+      bottom: 1875
+- paragraphs:
+  - text: |
+      JACKSON, Barbara Ann Mary
+      -WILLIAMS. William John Samuel -AVERY. (dau)
+    bounds:
+      left: 400
+      right: 1382
+      top: 1914
+      bottom: 1949
+  - text: |
+      -WILLIAMS. Patricia Mary
+      +JACKSON, Michael Rhodes
+    bounds:
+      left: 388
+      right: 1859
+      top: 1912
+      bottom: 1981
+  - text: 'WILLIAMS. Patrick Gordon
+
+'
+    bounds:
+      left: 865
+      right: 1154
+      top: 1953
+      bottom: 1975
+  - text: 'AVERY. Elizabeth Anne
+
+'
+    bounds:
+      left: 1244
+      right: 1494
+      top: 1951
+      bottom: 1973
+  - text: |
+      --OJALA. Eric Mervyn
+      -PARKER, Margaret Alice Janette
+    bounds:
+      left: 401
+      right: 1816
+      top: 1939
+      bottom: 2028
+  - text: 'FHANKLYN, Janet May
+
+'
+    bounds:
+      left: 862
+      right: 1094
+      top: 1980
+      bottom: 2014
+  - text: |
+      -COTCHING, Nigel Mackenzie -WILLIAMS, Eric Temple
+      -JACKSON, Dorothy Elizabeth Josephine -WILLIAMS, Jennifer Mary
+    bounds:
+      left: 386
+      right: 1839
+      top: 1977
+      bottom: 2049
+  - text: 'ÞAVERY, Jonathan
+
+'
+    bounds:
+      left: 1227
+      right: 1423
+      top: 2013
+      bottom: 2048
+  - text: |
+      -SCOTT, Heather Frances
+      -ORUCE, David
+    bounds:
+      left: 404
+      right: 1861
+      top: 2003
+      bottom: 2095
+  - text: 'GORDON, Gonda
+
+'
+    bounds:
+      left: 1253
+      right: 1406
+      top: 2051
+      bottom: 2074
+  - text: "+WILLIAMS, Elizabeth Jean\n"
+    bounds:
+      left: 1570
+      right: 1877
+      top: 2049
+      bottom: 2079
+  - text: |
+      MACLEAN, James Nelson (Jim )
+      -WILLIAMS, William Athol (Bill)
+    bounds:
+      left: 1570
+      right: 1944
+      top: 2081
+      bottom: 2148
+  - text: |
+      =BATHGATE, Vivienne Cecilia
+      -(2)WILLIS. Genevra
+    bounds:
+      left: 1570
+      right: 1909
+      top: 2147
+      bottom: 2217
+- paragraphs:
+  - text: "|1.03.06\n"
+    bounds:
+      left: 2142
+      right: 2317
+      top: 2262
+      bottom: 2317
+- paragraphs:
+  - text: |
+      WILLIAMS, Lucy Frances
+      = WARREN, Thomas John Cory (Jack)
+    bounds:
+      left: 645
+      right: 1392
+      top: 2364
+      bottom: 2467
+- paragraphs:
+  - text: |
+      Greville Williams
+      =WRIGHT. Norah de Vesci
+    bounds:
+      left: 440
+      right: 716
+      top: 2562
+      bottom: 2623
+- paragraphs:
+  - text: |
+      Alwyn Keith
+      =LAWS, Doreen Eda
+    bounds:
+      left: 854
+      right: 1060
+      top: 2560
+      bottom: 2621
+- paragraphs:
+  - text: |
+      Mary Williams
+      MCBAIN. Hubert
+    bounds:
+      left: 1349
+      right: 1523
+      top: 2559
+      bottom: 2615
+- paragraphs:
+  - text: |
+      -WARREN. Geoffrey John
+      WARREN, Jennifer Anketell Williams
+    bounds:
+      left: 439
+      right: 1278
+      top: 2657
+      bottom: 2691
+  - text: |
+      -McBAIN, John Hubert
+      -NATION, Oinah Gladys
+    bounds:
+      left: 456
+      right: 1584
+      top: 2656
+      bottom: 2723
+  - text: |
+      -CARGILL THOMPSON, William David James -CURTIS, Ann Constable
+      WARREN, Roger Greville
+      -WARREN, Martin Moutray
+    bounds:
+      left: 456
+      right: 1624
+      top: 2690
+      bottom: 2757
+  - text: |
+      »McBAIN, James
+      *TURNER, Jeni fer Jane Mandeville -JAYNE, Elizabeth Valerie Lee
+    bounds:
+      left: 457
+      right: 1512
+      top: 2722
+      bottom: 2789
+  - text: |
+      McBAIN, Hugh
+      -WARREN, Peter Cory
+      -WARREN, Nicola Frances Caroline
+    bounds:
+      left: 442
+      right: 1498
+      top: 2756
+      bottom: 2824
+  - text: |
+      = THRUPP. Deirdre Ellene Margaret Victoria
+      -(1 FLETCHER, Margaret Mary
+    bounds:
+      left: 456
+      right: 1855
+      top: 2784
+      bottom: 2862
+  - text: |
+      -BUSH, Paul David Horndon
+      -(2 )AITKEN, Penny
+    bounds:
+      left: 458
+      right: 1177
+      top: 2825
+      bottom: 2889
+- paragraphs:
+  - text: '225
+
+'
+    bounds:
+      left: 1273
+      right: 1349
+      top: 3299
+      bottom: 3351

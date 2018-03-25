@@ -1,0 +1,261 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, William and NELSON, Jane
+
+'
+    bounds:
+      left: 212
+      right: 1439
+      top: 176
+      bottom: 233
+  - text: |
+      JWILLIAMS, William Leonard and WANKLYN, Sarah
+      JWILLIAMS, Margaret Ellen and MACLEAN, Christopher Haydon
+      IMACLEAN, Margaret Elizabeth and CURRIE, George William
+      JCURRIE, Robert George Manson (Robin) and POWER, Marie Willamere
+      JCURRIE, Elizabeth Anne and BURTON, Robert William
+    bounds:
+      left: 579
+      right: 2203
+      top: 230
+      bottom: 490
+- paragraphs:
+  - text: '01> BURTON, Andrew David
+
+'
+    bounds:
+      left: 583
+      right: 1189
+      top: 527
+      bottom: 588
+  - text: 'b 16.02.1979
+
+'
+    bounds:
+      left: 678
+      right: 894
+      top: 589
+      bottom: 636
+- paragraphs:
+  - text: '02> BURTON, Claire Louise
+
+'
+    bounds:
+      left: 582
+      right: 1204
+      top: 675
+      bottom: 740
+  - text: 'b 09.09.1981
+
+'
+    bounds:
+      left: 677
+      right: 892
+      top: 742
+      bottom: 784
+- paragraphs:
+  - text: '02> CURRIE, Neil Robert
+
+'
+    bounds:
+      left: 504
+      right: 1078
+      top: 879
+      bottom: 938
+  - text: |
+      b 17.11.1955
+      Address: 502 Evans Bay Parade (PO Box 14586), Kilbirnie, Wellington.
+    bounds:
+      left: 596
+      right: 1729
+      top: 939
+      bottom: 1041
+- paragraphs:
+  - text: |
+      03> CURRIE, Ross William m on 01.02.1978 to FENNAMAN, Donna Lyn
+      b 09.12.1957
+    bounds:
+      left: 503
+      right: 1982
+      top: 1075
+      bottom: 1193
+  - text: |
+      b 26.08.1960
+      Address: 22 Bayside Drive, Brown's Bay, Auckland.
+    bounds:
+      left: 601
+      right: 1745
+      top: 1142
+      bottom: 1239
+- paragraphs:
+  - text: '01> CURRIE, Daniel Ross
+
+'
+    bounds:
+      left: 575
+      right: 1153
+      top: 1275
+      bottom: 1340
+  - text: 'b 08.05.1979
+
+'
+    bounds:
+      left: 679
+      right: 890
+      top: 1341
+      bottom: 1384
+- paragraphs:
+  - text: '02> CURRIE, Paul Timothy
+
+'
+    bounds:
+      left: 579
+      right: 1185
+      top: 1422
+      bottom: 1488
+  - text: 'b 15.12.1980
+
+'
+    bounds:
+      left: 677
+      right: 892
+      top: 1490
+      bottom: 1534
+- paragraphs:
+  - text: '03> CURRIE, Emma Lynn
+
+'
+    bounds:
+      left: 580
+      right: 1106
+      top: 1578
+      bottom: 1637
+  - text: 'b 02.03.1982
+
+'
+    bounds:
+      left: 677
+      right: 892
+      top: 1641
+      bottom: 1684
+- paragraphs:
+  - text: '04> CURRIE, Vicki Margaret
+
+'
+    bounds:
+      left: 579
+      right: 1232
+      top: 1731
+      bottom: 1785
+  - text: 'b 01.05.1984
+
+'
+    bounds:
+      left: 675
+      right: 892
+      top: 1793
+      bottom: 1833
+- paragraphs:
+  - text: '04> CURRIE, Robert George Manson m on 28.07.1977 to (2) GRAY, Patricia
+      Isabel
+
+'
+    bounds:
+      left: 430
+      right: 2233
+      top: 1933
+      bottom: 1987
+  - text: |
+      (Robin)
+      b 18.01.1918 d 30.05.1986
+    bounds:
+      left: 521
+      right: 992
+      top: 1986
+      bottom: 2089
+  - text: |
+      b 23.01.1928
+      Robin m. at Wellington. Patricia nee Meldrum. Address: 47a Plassey Street, Havelock North.
+    bounds:
+      left: 521
+      right: 1990
+      top: 2037
+      bottom: 2162
+- paragraphs:
+  - text: '05> CURRIE, Leslie Pamela
+
+'
+    bounds:
+      left: 425
+      right: 1060
+      top: 2179
+      bottom: 2238
+  - text: |
+      b 23.04.1924
+      Pamela b. at Wanganui. Address: 7716 Helmore Street, Wanganui.
+      Pamela was educated at Clifton House School, Wanganui Girls' College and Nga Tawa School, Marton. She
+      served in the RNZAF (1943-45) then joined the staff of the Wanganui Public Library in 1946. In 1968, as
+      Deputy City Librarian, she left to become the Librarian in Charge of the School Library Service of the
+      National Library of New Zealand, retiring in 1984. Her interests include the Citizens' Advice Bureau,
+      the Cancer Society of NZ and Save the Children Fund.
+    bounds:
+      left: 511
+      right: 2217
+      top: 2238
+      bottom: 2589
+- paragraphs:
+  - text: |
+      05> MACLEAN, Eric Wanklyn m on 18.06.1924 to TURNER, May Harcourt
+      b 13.07.1886 d 09.12.1940
+    bounds:
+      left: 349
+      right: 1876
+      top: 2673
+      bottom: 2784
+  - text: |
+      b 26.11.1892 d 24.06.1984
+      Eric b. at Foxton and m. and d. at Wellington. May, d/o Charles Harcourt Turner
+      and Annie Way. She was a great grand-daughter of Nathaniel Turner, a Methodist
+    bounds:
+      left: 882
+      right: 2176
+      top: 2738
+      bottom: 2888
+  - text: |
+      missionary, who came to New Zealand in 1823.
+      Eric was educated at Wanganui Collegiate School and Emmanuel College, Cambridge.
+      He was an engineer and managing director of J J Niven & Co, which he joined in
+    bounds:
+      left: 889
+      right: 2247
+      top: 2892
+      bottom: 3040
+  - text: |
+      1910. During ww1 he served in the NZ Expeditionary Force leaving with the main
+      body as a member of the Auckland Infantry Battalion. While he was on Gallipoli he received his commission
+      and in France he served in the Machine Gun Corps, later being appointed instructor at the Grantham Machine
+      (cont...)
+    bounds:
+      left: 434
+      right: 2198
+      top: 3038
+      bottom: 3243
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 199
+      right: 829
+      top: 3278
+      bottom: 3349
+- paragraphs:
+  - text: '541
+
+'
+    bounds:
+      left: 1221
+      right: 1292
+      top: 3286
+      bottom: 3340

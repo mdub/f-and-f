@@ -1,0 +1,223 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, William and NELSON, Jane
+
+'
+    bounds:
+      left: 211
+      right: 1438
+      top: 171
+      bottom: 230
+  - text: |
+      JWILLIAMS, William Leonard and WANKLYN, Sarah
+      JWILLIAMS, Margaret Ellen and MACLEAN, Christopher Haydon
+      IMACLEAN, Kenneth Edward and PALMER, Beatrice Daisy
+      JMACLEAN, Anne Margaret Palmer and ROSS, Charles Macdonald
+    bounds:
+      left: 581
+      right: 2049
+      top: 226
+      bottom: 436
+  - text: |
+      JROSS, James Alexander and JOYCE, Sarah
+      04> ROSS, James Alexander m on 29.11.1986 to JOYCE, Sarah Louise
+      b 28.11.1955
+    bounds:
+      left: 502
+      right: 2000
+      top: 420
+      bottom: 642
+  - text: |
+      b 01.01.1959
+      James b. at Birmingham and m. at Kimmeridge, Dorset, England. Sarah, d/o Eric Joyce and Rosemary
+      Gardner, b. at Windsor. Address: Kimmeridge House, 4 Windmill Gardens, Staverton, Daventry,
+      Northants, England.
+      James was educated at King's School, Worcester and Durham University and qualified BA(Durham) ACIB.
+      He is now a member of the senior management team in Barclay's Bank's credit card division,
+      Barclaycard, Northampton.
+      Sarah was educated at Mayfield School, Putney, and Hounslow College and is currently graphic
+      designer with York Fitness UK Ltd.
+    bounds:
+      left: 595
+      right: 2282
+      top: 592
+      bottom: 1031
+- paragraphs:
+  - text: '01> ROSS, Thomas Charles
+
+'
+    bounds:
+      left: 580
+      right: 1177
+      top: 1074
+      bottom: 1132
+  - text: 'b 07.08.1990
+
+'
+    bounds:
+      left: 677
+      right: 893
+      top: 1138
+      bottom: 1176
+- paragraphs:
+  - text: '02> ROSS, Angus Eric
+
+'
+    bounds:
+      left: 581
+      right: 1077
+      top: 1222
+      bottom: 1284
+  - text: 'b 21.02.1995
+
+'
+    bounds:
+      left: 677
+      right: 888
+      top: 1285
+      bottom: 1327
+- paragraphs:
+  - text: ",\n"
+    bounds:
+      left: 512
+      right: 520
+      top: 1401
+      bottom: 1402
+- paragraphs:
+  - text: '02> ''MACLEAN, Kenneth Joseph m on 22.02.1949 to WHITCOMBE, Joan Mary Somerset
+
+'
+    bounds:
+      left: 421
+      right: 2230
+      top: 1417
+      bottom: 1489
+  - text: |
+      Palmer (Joe)
+      b 12.01.1917 d 14.08.1992
+    bounds:
+      left: 521
+      right: 994
+      top: 1481
+      bottom: 1579
+  - text: |
+      b 14.04.1916
+      Joseph b. at Rotorua and m, at St Mary's Church, Merivale, Christchurch, Joan,
+      d/o Bertie Ernest Hawkes Whitcombe and Fannie Allingham Morrow. Address: 2/23
+      Box Hill, Khandallah, Wellington.
+      Joe was educated at Hereworth School (1927-30), Wanganui Collegiate School
+    bounds:
+      left: 954
+      right: 2286
+      top: 1540
+      bottom: 1782
+  - text: "(1931-34), Canterbury University College (1935-38, BA) and Pembroke College,\n"
+    bounds:
+      left: 955
+      right: 2232
+      top: 1790
+      bottom: 1834
+  - text: |
+      O Cambridge (1938-40, MA). He was attached to the Ministry of Supply in the UK
+      (nominally in RAFVR) from 1940 to 1945 and served on the Control Commission for Germany from 1945 to
+      1947. He held a succession of positions with Shell Oil (NZ) Ltd from 1947 to 1976, retiring as
+      Personnel Manager. He attended Victoria University of Wellington (1977-78) and graduated BA (Hons). He
+      was a selection adviser for Volunteer Service Abroad (and an honorary Life Member) and served as
+      Vestryman and Peoples' Warden for St Mary's Church, Karori.
+      Joan was co-author, with her son, Christopher, of "Waikanae - Past and Present". She also served on the
+      Board of Governors of the NZ Hearing Association.
+    bounds:
+      left: 513
+      right: 2222
+      top: 1840
+      bottom: 2230
+- paragraphs:
+  - text: |
+      01> MACLEAN, Sarah Frances m on 06.12.1975 to MATHESON, James Michael
+      b 02.02.1951
+    bounds:
+      left: 501
+      right: 2128
+      top: 2280
+      bottom: 2377
+  - text: |
+      b 29.01.1952
+      Sarah b. at Wellington and m. at St Luke's Church, Waikanae. James, slo Alexander Matheson
+      (farmer) and Patricia Wall (social justice worker), b. at Palmerston North. Address: RD, Otaki.
+      Sarah works as a tutor in the field of early childhood education for the Massey University College
+      of Education.
+    bounds:
+      left: 591
+      right: 2124
+      top: 2338
+      bottom: 2579
+- paragraphs:
+  - text: 'b1> MATHESON, Michael Joseph
+
+'
+    bounds:
+      left: 578
+      right: 1289
+      top: 2622
+      bottom: 2680
+  - text: |
+      b 16.07.1977
+      Michael b. at Otaki. He is a trainee chef at Te Papa Tongarewa.
+    bounds:
+      left: 679
+      right: 1688
+      top: 2688
+      bottom: 2783
+- paragraphs:
+  - text: '02> MATHESON, Alannah Mary
+
+'
+    bounds:
+      left: 578
+      right: 1234
+      top: 2826
+      bottom: 2884
+  - text: |
+      b 24.12.1979
+      Alannah b. at Otaki. She is a student at the University of Canterbury.
+    bounds:
+      left: 676
+      right: 1767
+      top: 2888
+      bottom: 2980
+- paragraphs:
+  - text: '03> MATHESON, Donald Christopher
+
+'
+    bounds:
+      left: 580
+      right: 1390
+      top: 3026
+      bottom: 3084
+  - text: |
+      b 31.03.1985
+      Donald b. at Otaki. His main interests are computing and sport.
+    bounds:
+      left: 674
+      right: 1679
+      top: 3090
+      bottom: 3182
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 202
+      right: 830
+      top: 3274
+      bottom: 3336
+- paragraphs:
+  - text: '526
+
+'
+    bounds:
+      left: 1220
+      right: 1289
+      top: 3281
+      bottom: 3329

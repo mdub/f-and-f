@@ -1,0 +1,234 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, Henry and COLDHAM, Marianne
+
+'
+    bounds:
+      left: 201
+      right: 1507
+      top: 189
+      bottom: 239
+  - text: |
+      JWILLIAMS, Marianne and DAVIES, Christopher Pearson.
+      VDAVIES, Marianne Caroline and BUSBY, William
+      JBUSBY, Beatrice and JEFFERD, Charles Toms
+      VJEFFERD, Harris Busby and HANSEN, Eva Dawn
+      VJEFFERD, Marianne Caroline Busby and MACKIE, Neil Matthew
+    bounds:
+      left: 574
+      right: 2048
+      top: 239
+      bottom: 491
+- paragraphs:
+  - text: '02> MACKIE, Charles Jefferd
+
+'
+    bounds:
+      left: 576
+      right: 1259
+      top: 530
+      bottom: 597
+  - text: |
+      b 19.09.1983
+      Charles b. at Gisborne. He was a student at Te Wharau Primary School and Hereworth School and
+      is now at King's College, Auckland.
+    bounds:
+      left: 663
+      right: 2220
+      top: 600
+      bottom: 747
+- paragraphs:
+  - text: |
+      05>' BUSBY, George Alexander m on 23.02.1909 to WATERHOUSE, Dorothy Blanche
+      b 01.05.1881 d ** ** 1926
+    bounds:
+      left: 352
+      right: 2106
+      top: 838
+      bottom: 943
+  - text: |
+      b 18.05.1887 d 11.12.1953
+      George b. at Ngaheia. He was a farmer on "Pauariki" station at Tokomaru Bay. He died at sea on the way home
+      from a visit to England. Dorothy was a clever cartoonist and writer of children's stories.
+    bounds:
+      left: 439
+      right: 2202
+      top: 900
+      bottom: 1047
+- paragraphs:
+  - text: '01> BUSBY, William Richard (Dick)
+
+'
+    bounds:
+      left: 423
+      right: 1247
+      top: 1086
+      bottom: 1148
+  - text: |
+      b 24.05.1910 d 23.11.1941
+      Dick farmed at Pauariki where he had a Romney stud flock. He was killed in action at Sidi Resegh in the
+      Western Desert during WW2.
+    bounds:
+      left: 523
+      right: 2158
+      top: 1152
+      bottom: 1294
+- paragraphs:
+  - text: '02> BUSBY, Beatrice
+
+'
+    bounds:
+      left: 425
+      right: 905
+      top: 1334
+      bottom: 1396
+  - text: |
+      b ** **.1911 d ** ** 1922
+      Beatrice d. of diabetes at the age of 11 years.
+    bounds:
+      left: 523
+      right: 1226
+      top: 1400
+      bottom: 1495
+- paragraphs:
+  - text: |
+      03> BUSBY, Mary Dorothy (Molly) m on ** ** 1947 to COWAN, James Linburn
+      b 28.12.1914 d 17.12.1970
+    bounds:
+      left: 429
+      right: 2113
+      top: 1544
+      bottom: 1642
+  - text: |
+      b 08.01.1916 d 24.06.1990
+      Molly was a keen sportswoman. She served as a land girl during ww2.
+    bounds:
+      left: 533
+      right: 2131
+      top: 1598
+      bottom: 1699
+- paragraphs:
+  - text: |
+      01> COWAN, Elizabeth Mary m on ** ** **** to NAIRN. Stuart John
+      b 26.08.1953
+    bounds:
+      left: 507
+      right: 1985
+      top: 1745
+      bottom: 1844
+  - text: |
+      b ** ** ****
+      Elizabeth lives at North Stadbroke Island, Australia, where she runs a guest house.
+      01> NAIRN, Paula
+    bounds:
+      left: 576
+      right: 1900
+      top: 1793
+      bottom: 2009
+  - text: 'b ** ** ****
+
+'
+    bounds:
+      left: 681
+      right: 898
+      top: 1996
+      bottom: 2044
+- paragraphs:
+  - text: '02> NAIRN, Tam
+
+'
+    bounds:
+      left: 579
+      right: 942
+      top: 2086
+      bottom: 2148
+- paragraphs:
+  - text: 'b ** ** ****
+
+'
+    bounds:
+      left: 684
+      right: 899
+      top: 2152
+      bottom: 2186
+- paragraphs:
+  - text: |
+      02> COWAN, Bryce m on ** ** **** to BLUNDELL, Maire
+      b 24.11.1954
+    bounds:
+      left: 509
+      right: 1681
+      top: 2287
+      bottom: 2393
+  - text: |
+      b ** ** ****
+      Bryce b. at Auckland. Address: 27 Clifton Road, Te Awanga, Hawkes Bay.
+      Bryce was educated at Dannevirke. He is now a commercial fishing captain and has a small farm at
+      Hawkesbury.
+    bounds:
+      left: 604
+      right: 2172
+      top: 2337
+      bottom: 2549
+- paragraphs:
+  - text: '01> COLLINS-COWAN, Heidi
+
+'
+    bounds:
+      left: 584
+      right: 1185
+      top: 2586
+      bottom: 2644
+  - text: |
+      b ** **.1977
+      Heidi b. at Auckland.
+    bounds:
+      left: 687
+      right: 1019
+      top: 2649
+      bottom: 2743
+- paragraphs:
+  - text: '02> COWAN, Paul
+
+'
+    bounds:
+      left: 592
+      right: 962
+      top: 2790
+      bottom: 2844
+  - text: 'b ****.1978
+
+'
+    bounds:
+      left: 691
+      right: 907
+      top: 2854
+      bottom: 2892
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 216
+      right: 838
+      top: 3290
+      bottom: 3352
+- paragraphs:
+  - text: '2
+
+'
+    bounds:
+      left: 1240
+      right: 1244
+      top: 3297
+      bottom: 3341
+- paragraphs:
+  - text: '1
+
+'
+    bounds:
+      left: 1261
+      right: 1265
+      top: 3297
+      bottom: 3342

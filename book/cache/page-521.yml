@@ -1,0 +1,229 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, William and NELSON, Jane
+
+'
+    bounds:
+      left: 212
+      right: 1436
+      top: 171
+      bottom: 241
+  - text: |
+      JWILLIAMS, William Leonard and WANKLYN, Sarah
+      JWILLIAMS, Margaret Ellen and MACLEAN, Christopher Haydon
+      IMACLEAN, Leonard Herbert Lionel and WARD, Dorothy Isabel
+      IMACLEAN, Roger Stephen and MEEK, Zélie Elizabeth
+    bounds:
+      left: 580
+      right: 2027
+      top: 232
+      bottom: 448
+- paragraphs:
+  - text: |
+      02> MACLEAN, Christopher Stephen
+      b 24.10.1960
+    bounds:
+      left: 503
+      right: 1314
+      top: 480
+      bottom: 594
+  - text: |
+      Address: 36 Ladies Mile, Remuera, Auckland.
+      Christopher was educated at Wanganui Collegiate School and Onslow College and is a
+      landscape gardener.
+    bounds:
+      left: 830
+      right: 2185
+      top: 599
+      bottom: 750
+- paragraphs:
+  - text: |
+      02> 'MACLEAN, Leonard Herbert Lionel m on ** ** 1944 to (2) HOWIE, Inez Rose
+      b 22.07.1881 d 06.01.1967
+    bounds:
+      left: 350
+      right: 2107
+      top: 976
+      bottom: 1102
+  - text: |
+      b 23.05.1900 d 03.05.1984
+      Lionel m., d. and bd. at Gisborne. Inez, d/o James Oliver Howie and Helen Eugenie Murphy, d.
+      and bd. at Gisborne.
+    bounds:
+      left: 678
+      right: 2204
+      top: 1041
+      bottom: 1193
+- paragraphs:
+  - text: |
+      01> MACLEAN, Helen Margaret m on 08.09.1962 to BROSNAHAN, Terence Charles
+      b 26.10.1938
+    bounds:
+      left: 432
+      right: 2157
+      top: 1428
+      bottom: 1538
+  - text: |
+      b 02.06.1939
+      Helen b. at Wellington and m. at Gisborne. Helen was the daughter of Inez Rose Howie and was adopted by
+      Lionel Maclean in 1944 when her surname was changed from Howie to Maclean. Terence, slo Ernest Thomas
+      Brosnahan (lawyer) and Gertrude Louisa Galliers (doctor), b, at Gisborne. Address: 66 Gillies Avenue,
+      Taupo.
+      Helen and Terence were farmers and then moteliers. Terence is now a boat skipper.
+    bounds:
+      left: 520
+      right: 2252
+      top: 1493
+      bottom: 1792
+- paragraphs:
+  - text: |
+      01> BROSNAHAN, Maree Therese m on 20.04.1985 to NATZKE, Peter William
+      b 12.06.1963
+    bounds:
+      left: 505
+      right: 2139
+      top: 1838
+      bottom: 1938
+  - text: |
+      b 11.12.1956
+      Maree b. at Hunterville and m, at Piopio. Peter, s/o William Grice Natzke and Ellen Mary Ibertson.
+      Address: 51 Mangarino Road, Te Kuiti.
+    bounds:
+      left: 597
+      right: 2166
+      top: 1891
+      bottom: 2040
+  - text: |
+      Maree was educated at Pio Pio College. Maree and Peter were sheep and cattle farmers. Peter is now
+      a stock agent.
+    bounds:
+      left: 598
+      right: 2199
+      top: 2044
+      bottom: 2142
+- paragraphs:
+  - text: '01> NATZKE, Michael William
+
+'
+    bounds:
+      left: 575
+      right: 1273
+      top: 2180
+      bottom: 2240
+  - text: |
+      b 07.01.1989
+      Michael b. at Taumarunui.
+    bounds:
+      left: 678
+      right: 1091
+      top: 2242
+      bottom: 2339
+- paragraphs:
+  - text: '02> NATZKE, Phillip Charles
+
+'
+    bounds:
+      left: 576
+      right: 1259
+      top: 2376
+      bottom: 2440
+  - text: |
+      b 22.03.1990
+      Philip b. at Taumarunui.
+    bounds:
+      left: 674
+      right: 1058
+      top: 2445
+      bottom: 2539
+- paragraphs:
+  - text: '03> NATZKE, Todd Grice
+
+'
+    bounds:
+      left: 583
+      right: 1138
+      top: 2576
+      bottom: 2640
+  - text: |
+      b 12.05.1993
+      Todd b. at Kurutau.
+    bounds:
+      left: 676
+      right: 987
+      top: 2644
+      bottom: 2736
+- paragraphs:
+  - text: |
+      02> BROSNAHAN, Susan Annette m on 15.11.1986 to SPEEDY, Lewis Havelock
+      b 07.10.1964
+    bounds:
+      left: 509
+      right: 2159
+      top: 2834
+      bottom: 2939
+  - text: |
+      b 11.09.1961
+      Susan b. at Gisborne and m, at Taupo. Lewis, s/o Robert Havelock Speedy and Patricia Gray
+      Patterson, b. at Waiuku. Address: RD 1, Te Kauwhata.
+      Susan was educated at Pio Pio College. Lewis was educated at St Paul's Collegiate and graduated
+      DipAg from Lincoln University in 1982. Susan and Lewis are dairy farmers.
+    bounds:
+      left: 598
+      right: 2138
+      top: 2889
+      bottom: 3145
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 206
+      right: 832
+      top: 3274
+      bottom: 3353
+- paragraphs:
+  - text: '4
+
+'
+    bounds:
+      left: 438
+      right: 443
+      top: 3292
+      bottom: 3339
+- paragraphs:
+  - text: '5
+
+'
+    bounds:
+      left: 515
+      right: 521
+      top: 3288
+      bottom: 3340
+- paragraphs:
+  - text: '8
+
+'
+    bounds:
+      left: 748
+      right: 752
+      top: 3295
+      bottom: 3337
+- paragraphs:
+  - text: '523
+
+'
+    bounds:
+      left: 1217
+      right: 1293
+      top: 3289
+      bottom: 3337
+- paragraphs:
+  - text: 'O
+
+'
+    bounds:
+      left: 589
+      right: 607
+      top: 3319
+      bottom: 3323

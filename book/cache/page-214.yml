@@ -1,0 +1,178 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, Henry and COLDHAM, Marianne
+
+'
+    bounds:
+      left: 205
+      right: 1506
+      top: 196
+      bottom: 244
+  - text: |
+      JWILLIAMS, Marianne and DAVIES, Christopher Pearson
+      JDAVIES, Marianne Caroline and BUSBY, William
+      JBUSBY, George Alexander and WATERHOUSE, Dorothy Blanche
+      JBUSBY, Judith Margaret and SINCLAIR, Robin Brignall
+      JSINCLAIR, Bridget and ADAMS, Donald Wilson
+    bounds:
+      left: 573
+      right: 1989
+      top: 245
+      bottom: 500
+- paragraphs:
+  - text: '02> ADAMS, Joshua Donald Busby
+
+'
+    bounds:
+      left: 576
+      right: 1335
+      top: 538
+      bottom: 600
+  - text: |
+      b 09.07.1973
+      Joshua b. at Masterton. He was educated at Hadlow Prep School, Rathkeale and Wairarapa College.
+      He graduated MSc from Massey University in 1997 and is a geologist.
+    bounds:
+      left: 666
+      right: 2243
+      top: 593
+      bottom: 755
+- paragraphs:
+  - text: '03> ADAMS, Richard Donald
+
+'
+    bounds:
+      left: 581
+      right: 1210
+      top: 790
+      bottom: 853
+  - text: |
+      b 18.09.1977
+      Richard b, at Masterton. He was educated at Hadlow Prep School, Rathkeale and Wairarapa College
+      and is a manager in retail.
+    bounds:
+      left: 670
+      right: 2246
+      top: 840
+      bottom: 1003
+- paragraphs:
+  - text: |
+      > SINCLAIR, Donald Richard m on 01.05.1971 to CLELAND, Lindsay
+      b 27.09.1949
+    bounds:
+      left: 557
+      right: 2006
+      top: 1096
+      bottom: 1199
+  - text: |
+      b ** ** ****
+      Donald b. at Gisborne and m. at New Plymouth. Divorced. Lindsay, dlo Duncan Cleland. Address: 34
+      Cutfield Road, New Plymouth.
+      Donald was educated at Waipawa Primary and Dannevirke High School. He obtained a Diploma in
+      Industrial Design at the Wellington Polytech. He is now Manager of Taranaki Trust Bank Real Estate.
+      He is also a keen yachtsman.
+    bounds:
+      left: 591
+      right: 2217
+      top: 1138
+      bottom: 1459
+- paragraphs:
+  - text: '01> SINCLAIR, Deborah Jane
+
+'
+    bounds:
+      left: 587
+      right: 1235
+      top: 1497
+      bottom: 1548
+  - text: |
+      b 20.04.1974
+      Address: 11/259 The Terrace, Wellington.
+      Deborah was educated at New Plymouth Girls High School and was an American Field Scholar to
+      Germany for three months, She graduated BCom from Victoria University.
+    bounds:
+      left: 679
+      right: 2211
+      top: 1544
+      bottom: 1750
+- paragraphs:
+  - text: |
+      03> SINCLAIR, Victoria Ray m on 14.11.1987 to GROSSE, Frederick
+      b 03.04.1951
+    bounds:
+      left: 512
+      right: 1990
+      top: 1839
+      bottom: 1950
+  - text: |
+      b 22.05.1936
+      Victoria b. at Gisborne and m. at Phoenix, Arizona, USA. Frederick, s/o Patrick and Ruth Grosse, b.
+      at New York, USA. Victoria was educated at Waipawa Primary, Dannevirke High School and Massey
+      University (BA). She worked with the International Labour Office in Geneva, the UNDP in Iran, the
+      External Aid Division of the Ministry of Foreign Affairs in Wellington then headed the Ministry
+      office in Auckland for 3 years. She is now a holistic healer with her own practice in Phoenix and
+      became a Reiki Master in 1991. Frederick has a PhD and is a rabbi and psychotherapist. He works as
+      a consultant with a number of New Zealand companies.
+    bounds:
+      left: 601
+      right: 2209
+      top: 1896
+      bottom: 2303
+- paragraphs:
+  - text: '06> ''BUSBY, Helen
+
+'
+    bounds:
+      left: 363
+      right: 766
+      top: 2394
+      bottom: 2455
+  - text: |
+      b 24.05.1883 d 16.04.1968
+      Helen b. at Tokatoka, d. at Gisborne and bd, at Taruheru Cemetery, Gisborne,
+    bounds:
+      left: 461
+      right: 1698
+      top: 2449
+      bottom: 2552
+- paragraphs:
+  - text: |
+      07> BUSBY, Eleanor Maud (Lena) m on 01.06.1915 to JEFFERD, Frederic Reader
+      b 07.04.1885 d 16.11.1968
+    bounds:
+      left: 367
+      right: 2127
+      top: 2589
+      bottom: 2702
+  - text: |
+      b 04.07.1886 d 11.11.1970
+      Eleanor b. at Edenham, Patangata, Hawkes Bay, m. at St Mary's Church, Tokomaru Bay, d. at Te Puia Springs
+      Hospital and cremated at Hastings. Frederic b. at Egg Buckland, Devon, England, d. at Te Puia Springs
+      Hospital and cremated at Hastings.
+      Lena was educated at Woodford House, Havelock North.
+      Frederic came to New Zealand on the SS Devon arriving in New Zealand in Dec 1908. He farmed "Parenga"
+      station, Tokomaru Bay. He served in the artillery in WW1.
+    bounds:
+      left: 459
+      right: 2220
+      top: 2645
+      bottom: 3005
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 225
+      right: 849
+      top: 3297
+      bottom: 3360
+- paragraphs:
+  - text: '215
+
+'
+    bounds:
+      left: 1243
+      right: 1308
+      top: 3301
+      bottom: 3347

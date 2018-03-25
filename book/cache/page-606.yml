@@ -1,0 +1,205 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, William and NELSON, Jane
+
+'
+    bounds:
+      left: 200
+      right: 1422
+      top: 180
+      bottom: 256
+  - text: |
+      JWILLIAMS, James Nelson and BEETHAM, Mary-Margaret
+      JWILLIAMS, Heathcote Beetham and MYHILL, Mary Anderson (Molly)
+      JWILLIAMS, Heathcote Beetham (Bill) and NOLAN, Patricia Elizabeth
+      JWILLIAMS, Amanda Mary and CHRISP, Ian Duncan
+    bounds:
+      left: 575
+      right: 2222
+      top: 246
+      bottom: 450
+- paragraphs:
+  - text: 'EX APderrena 1912kbeth
+
+'
+    bounds:
+      left: 1618
+      right: 2221
+      top: 262
+      bottom: 421
+- paragraphs:
+  - text: |
+      07> WILLIAMS, Amanda Mary m on 20.10.1989 to CHRISP, Ian Duncan
+      b 27.06.1963
+    bounds:
+      left: 427
+      right: 1903
+      top: 498
+      bottom: 599
+  - text: |
+      b 10.04.1962
+      Amanda b. and m. at Gisborne, Duncan, s/o Tony Chrisp and Betty Grey, b. at Gisborne. Address: PO Box
+      220, Silverdale, Auckland.
+      Amanda was educated at Woodford House and Duncan was educated at King's College, Auckland. They are
+      exporters of natural products and manufacturers and wholesalers of ski clothing..
+    bounds:
+      left: 514
+      right: 2218
+      top: 553
+      bottom: 806
+- paragraphs:
+  - text: '01> CHRISP, Matthew Arnold
+
+'
+    bounds:
+      left: 506
+      right: 1154
+      top: 839
+      bottom: 903
+  - text: |
+      b 15.03.1992
+      Matthew b. at Auckland.
+    bounds:
+      left: 600
+      right: 983
+      top: 904
+      bottom: 1001
+- paragraphs:
+  - text: '02> CHRISP, Aana Elizabeth
+
+'
+    bounds:
+      left: 499
+      right: 1157
+      top: 1043
+      bottom: 1103
+  - text: |
+      b 22.05.1994
+      Aana b. at Auckland.
+    bounds:
+      left: 599
+      right: 926
+      top: 1107
+      bottom: 1201
+- paragraphs:
+  - text: '03> CHRISP, Annabel
+
+'
+    bounds:
+      left: 502
+      right: 975
+      top: 1239
+      bottom: 1299
+  - text: |
+      b 22.05.1994 d 22.05.1994
+      Annabel b. and d. at Auckland.
+    bounds:
+      left: 597
+      right: 1085
+      top: 1304
+      bottom: 1401
+- paragraphs:
+  - text: |
+      02>WILLIAMS, Arnold Beetham m on ** ** **** to BEALE, Emma Reremoana
+      b 19.04.1870 d 28.12.1965
+    bounds:
+      left: 279
+      right: 1898
+      top: 1491
+      bottom: 1598
+  - text: |
+      b 16.05.1887 d 31.07.1959
+      Arnold b. at Frimley, Hastings and m. at Waipiro Bay. Emma nee Brown was previously married to Arthur Merritt
+      Beale. There were eight Beale children, three of whom were adopted by Arnold.
+      Arnold spent his childhood at Frimley and was educated at Heretaunga School, Hastings (1st pupil), French Farm
+      Bay, Banks's Peninsula and Christ's College (school prefect, athletics champion and NZ 440 yds title holder,
+      1st cricket XI, 1st rugby XV). He attended Cambridge University (Jesus College ist rugby XV in 1890-91). He
+      also played rugby for the Blackeath Club while in England. He worked with the London Woolbrokers for two years,
+      then was called home by his father to supervise his farming operations in the Waiapu County, making his
+      headquarters at Waipiro Bay. He eventually settled at "Puketiti" Station, Te Puia Springs. Arnold served on the
+      Waiapu County Council (1895 -1927), the Tokomaru Bay Harbour Board (1921 - 1924) and the Waiapu Hospital Board
+      (1903 - 1944). Along with his cousin, KS Williams, and T F Sherwood-Hale, he assisted in the establishment of
+      the Te Puia Springs Hospital.
+    bounds:
+      left: 362
+      right: 2245
+      top: 1552
+      bottom: 2154
+  - text: |
+      Many fine trees around his homestead bear testimony to his interest in conservation. After WW2 he set up a
+      Trust as a memorial to his two sons who were killed in the war, and this has helped many local organisations.
+      He also helped to establish sports, particularly rugby, in the Waiapu district.
+      Arnold was a successful racehorse breeder and owner, winning many of the major races in New Zealand and
+      Australia. Amongst his outstanding horses were Rapine, Star Stranger and Bandmaster.
+    bounds:
+      left: 371
+      right: 2092
+      top: 2153
+      bottom: 2402
+- paragraphs:
+  - text: |
+      Publications by A B Williams
+      "Land of the Sunrise", ed Gordon Jones
+    bounds:
+      left: 373
+      right: 998
+      top: 2457
+      bottom: 2554
+- paragraphs:
+  - text: '01> WILLIAMS, Arnold Kenneth Beale
+
+'
+    bounds:
+      left: 358
+      right: 1213
+      top: 2599
+      bottom: 2648
+  - text: |
+      b 07.11.1915 d ** ** 1943
+      · Adopted. Arnold served in a Cavalry Regiment in the Middle East in WW2 and was killed in action in Italy.
+    bounds:
+      left: 410
+      right: 2154
+      top: 2649
+      bottom: 2751
+- paragraphs:
+  - text: '02> WILLIAMS, Desmond Ormonde Beale
+
+'
+    bounds:
+      left: 358
+      right: 1240
+      top: 2797
+      bottom: 2848
+  - text: |
+      b 03.11.1917. d **.10.1997
+      Adopted. Desmond was educated at Hereworth School and Christ's College. During WW2 he served in the 22nd
+      Wellington Battalion and the Long Range Desert Group and saw action in the Middle East, Eastern
+      Mediterranean and Italy.
+      Desmond is a long serving member of the Waiapu Hospital Board and the Tairawhiti Area Health Board and also
+      served on the East Cape Catchment Board. He has a great interest in sport, particularly athletics, and is
+      active in conservation.
+    bounds:
+      left: 450
+      right: 2233
+      top: 2851
+      bottom: 3206
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 208
+      right: 837
+      top: 3291
+      bottom: 3357
+- paragraphs:
+  - text: '608
+
+'
+    bounds:
+      left: 1222
+      right: 1293
+      top: 3297
+      bottom: 3353

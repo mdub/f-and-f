@@ -1,0 +1,267 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, William and NELSON, Jane
+
+'
+    bounds:
+      left: 207
+      right: 1434
+      top: 201
+      bottom: 253
+  - text: 'JWILLIAMS, James Nelson and BEETHAM, Mary-Margaret
+
+'
+    bounds:
+      left: 577
+      right: 1837
+      top: 252
+      bottom: 304
+  - text: |
+      WILLIAMS, Winifred Beetham and NELSON, Francis Ernest
+      INELSON, James Francis (Jim) and PALMER, Patricia Florence
+      INELSON, Jane Palmer and TYLEE, Robert Michael
+      STYLEE, Michael Palmer and HAINES, Robin
+    bounds:
+      left: 578
+      right: 2040
+      top: 305
+      bottom: 504
+- paragraphs:
+  - text: |
+      01> TYLEE, Michael Palmer m on 28.01.1984 to HAINES, Robin
+      b 04.10.1956
+    bounds:
+      left: 505
+      right: 1856
+      top: 555
+      bottom: 657
+  - text: |
+      b 11.09.1957
+      Robin, d/o DJ Haines and P Robinson. Address: 10 Burn Street, Karori, Wellington.
+    bounds:
+      left: 599
+      right: 1935
+      top: 611
+      bottom: 714
+  - text: |
+      Michael was educated at Hereworth School, Wanganui Collegiate School and Canterbury University (BE)
+      and is an electrical engineer with Telecom.
+    bounds:
+      left: 593
+      right: 2250
+      top: 715
+      bottom: 815
+- paragraphs:
+  - text: '01> TYLEE, George Richard Nelson
+
+'
+    bounds:
+      left: 583
+      right: 1389
+      top: 846
+      bottom: 911
+  - text: |
+      b 07.09.1986
+      02> TYLEE, Alice Elizabeth Jane
+    bounds:
+      left: 578
+      right: 1360
+      top: 910
+      bottom: 1064
+  - text: 'b 01.03.1990
+
+'
+    bounds:
+      left: 682
+      right: 893
+      top: 1062
+      bottom: 1105
+- paragraphs:
+  - text: '03> TYLEE, Elizabeth Mary Haines
+
+'
+    bounds:
+      left: 581
+      right: 1385
+      top: 1145
+      bottom: 1208
+  - text: 'b 24.02.1995
+
+'
+    bounds:
+      left: 678
+      right: 893
+      top: 1211
+      bottom: 1259
+- paragraphs:
+  - text: |
+      02> TYLEE, Ann Patricia m on 06.04.1984 to MACLEAN, Peter Samuel
+      b 31.08.1958
+    bounds:
+      left: 504
+      right: 2004
+      top: 1350
+      bottom: 1456
+  - text: |
+      b 12.11.1956
+      Ann was educated at Woodford House and Massey University (BA).
+    bounds:
+      left: 601
+      right: 1711
+      top: 1409
+      bottom: 1515
+- paragraphs:
+  - text: '01> MACLEAN, Holly Frances
+
+'
+    bounds:
+      left: 583
+      right: 1237
+      top: 1549
+      bottom: 1608
+  - text: 'b 17.09.1984
+
+'
+    bounds:
+      left: 684
+      right: 895
+      top: 1615
+      bottom: 1654
+- paragraphs:
+  - text: 'E
+
+'
+    bounds:
+      left: 921
+      right: 926
+      top: 1706
+      bottom: 1752
+- paragraphs:
+  - text: 'a
+
+'
+    bounds:
+      left: 1000
+      right: 1004
+      top: 1711
+      bottom: 1753
+- paragraphs:
+  - text: '02> MACLEAN, Ella Frimley
+
+'
+    bounds:
+      left: 587
+      right: 1213
+      top: 1705
+      bottom: 1754
+  - text: 'b 08.03.1987
+
+'
+    bounds:
+      left: 684
+      right: 893
+      top: 1763
+      bottom: 1807
+- paragraphs:
+  - text: '03> MACLEAN, Piera Rose Palmer
+
+'
+    bounds:
+      left: 580
+      right: 1337
+      top: 1839
+      bottom: 1911
+  - text: 'b 30.06.1993
+
+'
+    bounds:
+      left: 684
+      right: 899
+      top: 1912
+      bottom: 1955
+- paragraphs:
+  - text: '03> TYLEE, Tessa Alice
+
+'
+    bounds:
+      left: 511
+      right: 1065
+      top: 2054
+      bottom: 2106
+  - text: |
+      b 03.07.1960
+      Tessa b. at Hastings. Address: 18 Wolsely Street, Mount Albert, Auckland.
+      Tessa was educated at Woodford House and Canterbury and Otago University (BCom). She has worked as
+      a radio copywriter, television promotions director, television promotions manager and television
+      producer. She has two cats and enjoys gardening.
+    bounds:
+      left: 601
+      right: 2279
+      top: 2102
+      bottom: 2361
+- paragraphs:
+  - text: |
+      02> NELSON, William Palmer m on 01.02.1964 to HAGEDORN, Caroline Rosemary
+      b 01.02.1939
+    bounds:
+      left: 435
+      right: 2175
+      top: 2446
+      bottom: 2555
+  - text: |
+      b 13.10.1940
+      William b. at Hastings and m. at Hereworth School, Havelock North. Caroline, d/o Friedrick Max Hagedorn
+      (Company Director of Industrial Adhesives, Richmond, Surrey) and Hon Gertrude Eleanor Rosemary St John,
+      b. at Bath, England. Address: "Rouncil", PO Box 8095, Havelock North.
+    bounds:
+      left: 528
+      right: 2265
+      top: 2505
+      bottom: 2707
+  - text: |
+      William is a farmer. He was on "Parikanapa" Station, Gisborne, for 20 years and has been on "Rouncil"
+      station in Hawkes Bay for 10 years.
+    bounds:
+      left: 530
+      right: 2167
+      top: 2706
+      bottom: 2812
+- paragraphs:
+  - text: '01> NELSON, Charles William
+
+'
+    bounds:
+      left: 514
+      right: 1204
+      top: 2853
+      bottom: 2904
+  - text: |
+      b 28.03.1966
+      Charles b. at Gisborne. He was educated at Hereworth School, King's College, Auckland, and Lincoln
+      College (1984-88, BAgCom in Marketing and Bus Adm). He worked in export marketing in Wellington for
+      18 months before travelling overseas. He worked for Lowe Walker Export Co in Hawkes Bay for 32
+      years and is now working for the New Zealand Lamb Co in White Plains, New York.
+    bounds:
+      left: 607
+      right: 2294
+      top: 2904
+      bottom: 3160
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 212
+      right: 844
+      top: 3300
+      bottom: 3369
+- paragraphs:
+  - text: '610
+
+'
+    bounds:
+      left: 1232
+      right: 1309
+      top: 3305
+      bottom: 3349

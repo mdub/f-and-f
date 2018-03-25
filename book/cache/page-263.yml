@@ -1,0 +1,233 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, Henry and COLDHAM, Marianne
+
+'
+    bounds:
+      left: 195
+      right: 1500
+      top: 185
+      bottom: 248
+  - text: |
+      JWILLIAMS, Thomas Coldham and BEETHAM, Anne Palmer (Annie)
+      JWILLIAMS, Wyvern Henry and MASON, Evelyn Muriel
+      JWILLIAMS, Wyvern Annie. and BUNNY, William Ian
+      VBUNNY, Beveley Ann and ARMISTEAD, Cyril James
+    bounds:
+      left: 569
+      right: 2031
+      top: 240
+      bottom: 450
+- paragraphs:
+  - text: |
+      BUNNY , Beveley Ann and ARMISTEAD, Cyril James (cont...)
+      James is farming at Woodville,
+    bounds:
+      left: 499
+      right: 1492
+      top: 499
+      bottom: 599
+- paragraphs:
+  - text: '01> ARMISTEAD, David James
+
+'
+    bounds:
+      left: 499
+      right: 1153
+      top: 643
+      bottom: 696
+  - text: |
+      b 23.01.1973
+      Address: Hopelands Road, RD 1, Woodville.
+      David attended Hadlow Preparatory School and Rathkeale College in Masterton and later worked on
+      large sheep stations in the North and South Islands. He spent a year overseas working in gold
+      mines in Western Australia and is now back on the family farm near Woodville.
+    bounds:
+      left: 581
+      right: 2167
+      top: 696
+      bottom: 950
+- paragraphs:
+  - text: '02> ARMISTEAD, Mary Jane
+
+'
+    bounds:
+      left: 493
+      right: 1102
+      top: 989
+      bottom: 1054
+  - text: |
+      b 27.09.1974
+      Address: Bluff Road, RD 1, Woodville.
+    bounds:
+      left: 592
+      right: 1214
+      top: 1051
+      bottom: 1148
+  - text: |
+      Mary attended St Matthew's Collegiate School in Masterton then worked in Wellington and Taupo
+      before studying floristry at the Bay of Plenty Polytechnic.
+    bounds:
+      left: 586
+      right: 2125
+      top: 1151
+      bottom: 1249
+- paragraphs:
+  - text: |
+      02> BUNNY, Thomas William m on 09.11.1963 to LEWIS, Diana Katherine
+      b 17.10.1938
+    bounds:
+      left: 423
+      right: 2000
+      top: 1335
+      bottom: 1450
+  - text: |
+      b 09.03.1940
+      Thomas b. and m, at Masterton. Diana, d/o Guy Lewis and Elsie Speedy, b. in England. Address: Te Roto,
+      RD 11, Masterton.
+      Thomas is a farmer, a member and Chairman of the Trinity Schools Trust Board (1977-89) and a Justice of
+      the Peace.
+      Diana is keen on all aspects of country gardening.
+    bounds:
+      left: 510
+      right: 2211
+      top: 1397
+      bottom: 1704
+- paragraphs:
+  - text: '01> BUNNY, Wendy Katherine
+
+'
+    bounds:
+      left: 499
+      right: 1155
+      top: 1739
+      bottom: 1803
+  - text: |
+      b 16.03.1965
+      Wendy b, at Masterton. Address: 12 Dee Street, Island Bay, Wellington.
+    bounds:
+      left: 599
+      right: 1736
+      top: 1802
+      bottom: 1900
+- paragraphs:
+  - text: |
+      02> BUNNY, Penelope Ann m on 26.01.1991 to CAMPBELL, Andrew
+      b 01.08.1967
+    bounds:
+      left: 505
+      right: 1888
+      top: 1942
+      bottom: 2046
+  - text: |
+      b 29.12.1961
+      Penelope b. at Masterton. Address: 151a Barnard Street, Wadestown, Wellington,
+    bounds:
+      left: 600
+      right: 1885
+      top: 1992
+      bottom: 2104
+- paragraphs:
+  - text: '01> CAMPBELL, Charlotte Diana Frances
+
+'
+    bounds:
+      left: 580
+      right: 1513
+      top: 2133
+      bottom: 2198
+  - text: |
+      b 19.12.1997
+      Charlotte b. at Wellington.
+    bounds:
+      left: 679
+      right: 1095
+      top: 2203
+      bottom: 2296
+- paragraphs:
+  - text: '03> BUNNY, Virginia Susan
+
+'
+    bounds:
+      left: 502
+      right: 1140
+      top: 2391
+      bottom: 2447
+  - text: |
+      b 13.11.1970
+      Virginia b. at Masterton.
+    bounds:
+      left: 604
+      right: 990
+      top: 2452
+      bottom: 2548
+- paragraphs:
+  - text: '64> BUNNY, Kirsty Diana
+
+'
+    bounds:
+      left: 507
+      right: 1092
+      top: 2587
+      bottom: 2647
+  - text: |
+      b 16.07.1972
+      Kirsty b. at Masterton.
+    bounds:
+      left: 606
+      right: 959
+      top: 2653
+      bottom: 2748
+- paragraphs:
+  - text: '07>'' WILLIAMS, Elfie clare
+
+'
+    bounds:
+      left: 284
+      right: 911
+      top: 2839
+      bottom: 2899
+  - text: |
+      b 16.03.1872 d 10.01.1913
+      Elfie b, at Hutt and d. at Wellington.
+    bounds:
+      left: 381
+      right: 952
+      top: 2903
+      bottom: 2999
+- paragraphs:
+  - text: '08> WILLIAMS, Thomas Gwynne Horsley
+
+'
+    bounds:
+      left: 281
+      right: 1169
+      top: 3042
+      bottom: 3103
+  - text: |
+      b 11.05.1874 d 15.10.1913
+      Gwynne b. at Hutt. Educated at Wanganui Collegiate School.
+    bounds:
+      left: 380
+      right: 1342
+      top: 3104
+      bottom: 3201
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 213
+      right: 838
+      top: 3291
+      bottom: 3354
+- paragraphs:
+  - text: '264
+
+'
+    bounds:
+      left: 1231
+      right: 1297
+      top: 3295
+      bottom: 3337

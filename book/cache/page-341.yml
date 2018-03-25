@@ -1,0 +1,192 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, Henry and COLDHAM, Marianne
+
+'
+    bounds:
+      left: 208
+      right: 1505
+      top: 186
+      bottom: 241
+  - text: |
+      WILLIAMS, Sarah and HUTTON, Thomas Biddulph
+      VHUTTON, Marianne Elizabeth Georgina (Bessie) and KEMP, Francis James
+      JKEMP, Ada Charlotte and BUCHANAN, James Leslie
+      JBUCHANAN, Eric Kemp and HILL, Irene
+    bounds:
+      left: 579
+      right: 2316
+      top: 239
+      bottom: 450
+- paragraphs:
+  - text: |
+      01> BUCHANAN, Eric Kemp m on ** ** , 1945 to HILL, Irene
+      b 06.10.1920
+    bounds:
+      left: 425
+      right: 1667
+      top: 483
+      bottom: 601
+  - text: |
+      b ** ** ****
+      Eric b. at Auckland. Address: 26 Cowper Road, Hemel Hempstead, Herts HPI IPE, England.
+    bounds:
+      left: 520
+      right: 2003
+      top: 546
+      bottom: 655
+- paragraphs:
+  - text: '01> BUCHANAN, John Howard
+
+'
+    bounds:
+      left: 505
+      right: 1135
+      top: 688
+      bottom: 742
+  - text: |
+      b ** ** 1946
+      Address: 88 Lime Walk, Hemel Hempstead, Herts HP2, England.
+    bounds:
+      left: 592
+      right: 1628
+      top: 747
+      bottom: 848
+- paragraphs:
+  - text: '02> BUCHANAN, David Kemp
+
+'
+    bounds:
+      left: 428
+      right: 1024
+      top: 931
+      bottom: 997
+  - text: |
+      b 20.01.1922 d ** ** 1932
+      David b. at Auckland.
+    bounds:
+      left: 517
+      right: 991
+      top: 999
+      bottom: 1093
+- paragraphs:
+  - text: |
+      07> KEMP, Kathleen Louisa m on 21.01.1920 to WATKINS, Reginald Frank Rupert (Rex)
+      b 28.06.1898 d 09.05.1978
+    bounds:
+      left: 354
+      right: 2272
+      top: 1183
+      bottom: 1296
+  - text: |
+      b 26.07.1884 d 23.10.1968
+      Kathleen b. at "Matahiia" station. She was educated at Grey Lynn College, Diocesan School, Auckland and
+      Hukarere School, Napier. Rex was educated at Auckland College and Grammar School. He worked at Te Aute
+      College until 1911 when he was manager of "Kuirerere" station. He served overseas in Wwi (No 66112, CIR)
+      and on his return he farmed at "Reremai", Tolaga Bay. He and Kath retired to Endcliffe Road, Gisborne in
+      1962.
+    bounds:
+      left: 442
+      right: 2183
+      top: 1250
+      bottom: 1535
+- paragraphs:
+  - text: |
+      01> WATKINS, Lois Edith m on 30.06.1948 to DAVIS, Lawrence Selwyn
+      b 08.12.1923
+    bounds:
+      left: 431
+      right: 1954
+      top: 1591
+      bottom: 1692
+  - text: |
+      b 30.07.1920 d 03.10.1996
+      Lois b. at Gisborne and m. at Holy Trinity Church, Gisborne, Selwyn, s/o Lawrence Montgomery (Larry)
+      Davis and Katherine Helen Smith. Address: 10 Sedgewick Road, Opotiki.
+      Lois was educated at Wellington Correspondence School and Gisborne High School. She was taught art by
+      her aunt Lydia Christine Watkins and Eric Gully and spent four years studying art at Canterbury
+      University. She has a Diploma of Fine Arts (1945) and is a life member of the Gisborne Art Society.
+      Selwyn was educated at Whakarau School. He saw active service in an Anti Tank Regiment in WW2 and on
+      his return he took over as a trustee running "Tawa", "Pukekiwi" and "Kaipono" stations. When Selwyn's
+      father, Larry Davis returned from the Boer War he worked for the Williamses until he was financed by
+      either KS Williams or TS Williams onto "Tawa" station up Whakarau Road 40 miles north of Gisborne. He
+      later bought "Pukekiwi" and "Kaipono" stations. Some time after Larry's death the Estate of L M Davis
+      bought "Whakarau" station and this was divided into shares on the death of his widow, Katherine. Selwyn
+      then owned "Tawa" and a share of "Whakarau" with his brother, Ronald Alexander Davis.
+    bounds:
+      left: 516
+      right: 2224
+      top: 1646
+      bottom: 2292
+- paragraphs:
+  - text: |
+      01> DAVIS, Wayne Rex m on 30.11.1974 to BENNISON, Anne Katherine Mary
+      b 30.03.1949
+    bounds:
+      left: 501
+      right: 2135
+      top: 2332
+      bottom: 2441
+  - text: |
+      b 15.07.1955
+      Wayne b, at Gisborne and m, at Wairoa. Anne, d/o Harold Francis Bennison and Mabel Sharon, b. at
+      Wairoa. Address: "Whakarau" Station, RD 2, Te Karaka.
+      Wayne and Anne are farmers.
+    bounds:
+      left: 611
+      right: 2198
+      top: 2394
+      bottom: 2589
+- paragraphs:
+  - text: '01> DAVIS, Fleur Sharon
+
+'
+    bounds:
+      left: 578
+      right: 1169
+      top: 2627
+      bottom: 2693
+  - text: |
+      b 12.10.1979
+      Fleur b. at Gisborne.
+    bounds:
+      left: 685
+      right: 1008
+      top: 2692
+      bottom: 2792
+- paragraphs:
+  - text: '02> DAVIS, Holly Kathleen
+
+'
+    bounds:
+      left: 580
+      right: 1215
+      top: 2830
+      bottom: 2889
+  - text: |
+      b 03.12.1980
+      Holly b. at Gisborne.
+    bounds:
+      left: 683
+      right: 1010
+      top: 2896
+      bottom: 2992
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 211
+      right: 833
+      top: 3283
+      bottom: 3346
+- paragraphs:
+  - text: '342
+
+'
+    bounds:
+      left: 1224
+      right: 1293
+      top: 3291
+      bottom: 3335

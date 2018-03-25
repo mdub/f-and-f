@@ -1,0 +1,222 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, Henry and COLDHAM, Marianne
+
+'
+    bounds:
+      left: 213
+      right: 1516
+      top: 170
+      bottom: 226
+  - text: |
+      WILLIAMS, John William and BUSBY, Sarah
+      JWILLIAMS, John William (Jack) and WILLIAMSON, Jessie Mackie
+      JWILLIAMS, Paul Henry Metcalfe and SLOMAN, Ellen Dinah
+      JWILLIAMS, Gerard John Paul (Gerry) and EWEN, Jennifer Helen
+    bounds:
+      left: 581
+      right: 2105
+      top: 223
+      bottom: 431
+- paragraphs:
+  - text: |
+      04> WILLIAMS, Gerard John Paul (Gerry) m on 24.03.1973 to EWEN, Jennifer Helen
+      b 18.03.1949
+    bounds:
+      left: 432
+      right: 2292
+      top: 468
+      bottom: 575
+  - text: |
+      b 09.01.1950
+      Gerry b. at Napier. Jennifer, d/o Ian Alexander and Lila Ewen (Sargood Son & Ewen), b. at Wellington.
+      Address: PO Box 612, Auckland 5.
+      Gerry was educated at Hereworth School, Christ's College and Massey and Victoria Universities. He
+      became a sharebroker in Wellington and subsequently Auckland before establishing his own International
+      Trading Company in 1980. Gerry is currently Honorary Consul for the Republic of Chile, Principal of
+      Pacific Basin Exports Ltd (ag exports) and SANZ Wool Marketing Ltd, and an active deer farmer in the
+      Bombay Hills.
+    bounds:
+      left: 523
+      right: 2172
+      top: 539
+      bottom: 928
+- paragraphs:
+  - text: '01> WILLIAMS, Nicholas Ewen Marc
+
+'
+    bounds:
+      left: 509
+      right: 1308
+      top: 970
+      bottom: 1032
+  - text: 'b 01.09.1979
+
+'
+    bounds:
+      left: 605
+      right: 820
+      top: 1034
+      bottom: 1074
+  - text: |
+      Nicholas is a student at King's College, Auckland.
+      02> WILLIAMS, Catherine Diana (Ko0)
+    bounds:
+      left: 500
+      right: 1387
+      top: 1078
+      bottom: 1236
+  - text: |
+      b 11.10.1982
+      Koo is a student at St Cuthbert's College, Auckland.
+    bounds:
+      left: 597
+      right: 1415
+      top: 1233
+      bottom: 1331
+- paragraphs:
+  - text: '05>''WILLIAMS, Donald Campbell
+
+'
+    bounds:
+      left: 353
+      right: 1078
+      top: 1418
+      bottom: 1480
+  - text: |
+      b 18.07.1911 d 12.12.1913
+      Donald b. and d. (of scarlet fever) at Gisborne.
+    bounds:
+      left: 448
+      right: 1186
+      top: 1484
+      bottom: 1583
+- paragraphs:
+  - text: |
+      06> WILLIAMS, Shona Mackintosh m on 09.12.1948 to KERSEY, Arthur Oliver (John)
+      b 27.11.1914 d 09.06.1994
+    bounds:
+      left: 358
+      right: 2205
+      top: 1627
+      bottom: 1733
+  - text: |
+      b 27.03.1894 d 05.06.1962
+      Shona b. at Gisborne. Arthur, s/o Arthur Edward Kersey and Sarah Pryke, b. near the village of Kersey,
+      Suffolk, England.
+      Shona was educated at Woodford House and trained as a NZ Registered nurse, now retired. John served in a
+      British Regiment, the KSLI, in France in WW1 and was awarded an MC, Between the wars he enlisted in the
+      Indian Army and served in the Mahratta Light Infantry rising to the rank of Brigadier and retiring in 1946
+      as Colonel. He then came to New Zealand where he lived at Silverstream and worked as secretary of the
+      Wellington Acclimatisation Society until his death.
+    bounds:
+      left: 444
+      right: 2161
+      top: 1680
+      bottom: 2079
+- paragraphs:
+  - text: |
+      01> KERSEY, Gillian Camilla Vera m on ** **, 1981 to CAMPBELL, Grant
+      b 03.07.1950
+    bounds:
+      left: 430
+      right: 2007
+      top: 2122
+      bottom: 2225
+  - text: |
+      b ** ** ****
+      Gillian b. at Sydney, Australia. Address: 23 Ponsonby Terrace, Ponsonby, Auckland 1.
+      Gillian is a kindergarten teacher and Grant is a civil engineer.
+    bounds:
+      left: 526
+      right: 1918
+      top: 2183
+      bottom: 2344
+- paragraphs:
+  - text: '01> CAMPBELL, Benjamin Kersey
+
+'
+    bounds:
+      left: 500
+      right: 1236
+      top: 2370
+      bottom: 2437
+  - text: 'b 24.07.1984
+
+'
+    bounds:
+      left: 605
+      right: 818
+      top: 2436
+      bottom: 2476
+- paragraphs:
+  - text: '02> CAMPBELL, Thomas Kersey
+
+'
+    bounds:
+      left: 505
+      right: 1188
+      top: 2527
+      bottom: 2577
+  - text: 'b 15.12.1987
+
+'
+    bounds:
+      left: 607
+      right: 818
+      top: 2584
+      bottom: 2626
+- paragraphs:
+  - text: |
+      02> KERSEY, David John Richard m on ** ** 1975 to DIAS, Gillian
+      b 18.11.1951
+    bounds:
+      left: 432
+      right: 1908
+      top: 2722
+      bottom: 2827
+  - text: |
+      b ** ** ****
+      Address: 18 Washington Avenue, Brooklyn, Wellington.
+      David is in the New Zealand Diplomatic Service and Gillian works for the Department of Conservation.
+    bounds:
+      left: 521
+      right: 2156
+      top: 2776
+      bottom: 2958
+- paragraphs:
+  - text: '01> KERSEY, Christina Marie
+
+'
+    bounds:
+      left: 507
+      right: 1188
+      top: 2970
+      bottom: 3032
+  - text: 'b 08.12.1981
+
+'
+    bounds:
+      left: 607
+      right: 823
+      top: 3040
+      bottom: 3078
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 207
+      right: 831
+      top: 3274
+      bottom: 3332
+- paragraphs:
+  - text: '296
+
+'
+    bounds:
+      left: 1218
+      right: 1295
+      top: 3276
+      bottom: 3329

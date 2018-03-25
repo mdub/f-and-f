@@ -1,0 +1,243 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, Henry and COLDHAM, Marianne
+
+'
+    bounds:
+      left: 205
+      right: 1508
+      top: 191
+      bottom: 239
+  - text: 'JWILLIAMS, John William and BUSBY, Sarah
+
+'
+    bounds:
+      left: 573
+      right: 1581
+      top: 238
+      bottom: 292
+  - text: |
+      WILLIAMS, George Alexander and COOPER, Edith Ida
+      JWILLIAMS, Robert Cooper and CRAMPTON, Nancy
+      JWILLIAMS, Gerard Robin and LOWRY, Elizabeth Helen
+      JWILLIAMS, Christopher Henry Lowry and LAWRENCE, Jocelyn Elizabeth
+    bounds:
+      left: 575
+      right: 2249
+      top: 293
+      bottom: 491
+- paragraphs:
+  - text: |
+      01> WILLIAMS, Christopher. Henry m on 28.08.1982 to LAWRENCE, Jocelyn
+      LowrᎩ
+    bounds:
+      left: 502
+      right: 2110
+      top: 538
+      bottom: 643
+  - text: |
+      Elizabeth
+      b 23.10.1954
+    bounds:
+      left: 599
+      right: 2035
+      top: 591
+      bottom: 695
+  - text: |
+      b 21.02.1957
+      Christopher b. at Wellington and m. at Maclaurin Chapel, Auckland. Jocelyn, d/o Charles Howard
+      Lawrence and Jessie Lemberg. Address: 47 Woodbay Road, Titirangi, Auckland.
+      Christopher graduated with an MA(Hons) in 1977 and a DipTchg in 1978. He is a secondary school
+      teacher and currently Associate Principal at Aorere College, Papatoętoe.
+      Jocelyn graduated BA in 1978 and DipTchg in 1978. She worked as a secondary school teacher until
+      1987 and is currently working as a lecturer at Unitec, Mount Albert.
+    bounds:
+      left: 592
+      right: 2190
+      top: 648
+      bottom: 995
+- paragraphs:
+  - text: '01> WILLIAMS, Lauren Alexandra Rose
+
+'
+    bounds:
+      left: 580
+      right: 1462
+      top: 1038
+      bottom: 1096
+  - text: |
+      b 12.07.1987
+      Lauren b. at Auckland.
+    bounds:
+      left: 674
+      right: 1037
+      top: 1102
+      bottom: 1194
+- paragraphs:
+  - text: '02> WILLIAMS, Tessa Sian
+
+'
+    bounds:
+      left: 577
+      right: 1183
+      top: 1234
+      bottom: 1296
+  - text: |
+      b 29.03.1990
+      Tessa b. at Auckland.
+    bounds:
+      left: 678
+      right: 1017
+      top: 1299
+      bottom: 1395
+- paragraphs:
+  - text: '03> WILLIAMS, Claudia Kate
+
+'
+    bounds:
+      left: 576
+      right: 1234
+      top: 1434
+      bottom: 1492
+  - text: |
+      b 18.12.1992
+      Claudia b. at Auckland.
+    bounds:
+      left: 682
+      right: 1048
+      top: 1500
+      bottom: 1592
+- paragraphs:
+  - text: |
+      02> WILLIAMS, Susan Elizabeth m on 25.01.1975 to BOOL, Murray Lawrence
+      b 02.04.1957
+    bounds:
+      left: 506
+      right: 2159
+      top: 1686
+      bottom: 1795
+  - text: |
+      b ** ** ****
+      Address: 3 Houpara Street, Onehunga, Auckland.
+      01> BOOL, Melanie
+    bounds:
+      left: 583
+      right: 1901
+      top: 1745
+      bottom: 1952
+  - text: 'b ** ** ****
+
+'
+    bounds:
+      left: 686
+      right: 901
+      top: 1949
+      bottom: 1989
+- paragraphs:
+  - text: '02> BOOL, Sean
+
+'
+    bounds:
+      left: 584
+      right: 941
+      top: 2038
+      bottom: 2096
+- paragraphs:
+  - text: 'b ** ** ****
+
+'
+    bounds:
+      left: 686
+      right: 903
+      top: 2098
+      bottom: 2139
+- paragraphs:
+  - text: '03> BOOL, Michelle
+
+'
+    bounds:
+      left: 588
+      right: 1038
+      top: 2186
+      bottom: 2244
+- paragraphs:
+  - text: 'b ** ** ****
+
+'
+    bounds:
+      left: 691
+      right: 903
+      top: 2252
+      bottom: 2284
+- paragraphs:
+  - text: |
+      03> WILLIAMS, Richard John m on 25.03.1989 to EASTON, Anna
+      b 28.10.1960
+    bounds:
+      left: 512
+      right: 1865
+      top: 2381
+      bottom: 2495
+  - text: |
+      b 30.05.1966
+      Richard b. at Whakatane and m. at Albany. Anna, d/o Robert Easton and Sandra Joy Vercoe, b. at
+      Auckland. Address: 39 Chorley Avenue, Massey, Auckland.
+      Richard is a robot programmer and welder, Anna does community work for the IHC.
+    bounds:
+      left: 608
+      right: 2158
+      top: 2444
+      bottom: 2646
+- paragraphs:
+  - text: '01> WILLIAMS, Alexandra Morgan Joy
+
+'
+    bounds:
+      left: 587
+      right: 1451
+      top: 2682
+      bottom: 2744
+  - text: 'b 02.11.1987
+
+'
+    bounds:
+      left: 693
+      right: 909
+      top: 2754
+      bottom: 2792
+- paragraphs:
+  - text: '02> WILLIAMS, Ryan Gilmour
+
+'
+    bounds:
+      left: 591
+      right: 1247
+      top: 2834
+      bottom: 2896
+  - text: 'b 02.07.1990
+
+'
+    bounds:
+      left: 693
+      right: 908
+      top: 2901
+      bottom: 2943
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 218
+      right: 842
+      top: 3290
+      bottom: 3357
+- paragraphs:
+  - text: '278
+
+'
+    bounds:
+      left: 1232
+      right: 1306
+      top: 3290
+      bottom: 3348

@@ -1,0 +1,243 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, Henry and COLDHAM, Marianne
+
+'
+    bounds:
+      left: 205
+      right: 1502
+      top: 201
+      bottom: 247
+  - text: |
+      WILLIAMS, Sarah and HUTTON, Thomas Biddulph
+      JHUTTON, Marianne Elizabeth Georgina (Bessie) and KEMP, Francis James
+      JKEMP, Athel Lewis and NICOL, Jessie Isobel
+    bounds:
+      left: 576
+      right: 2315
+      top: 251
+      bottom: 399
+  - text: |
+      KEMP, Bruce Francis and HARRIS, Marelynne Joyce
+      IKEMP, Delwynne Gae and DRABBLE, Peter John
+    bounds:
+      left: 574
+      right: 1783
+      top: 401
+      bottom: 516
+- paragraphs:
+  - text: |
+      01> KEMP, Delwynne Gae m on 02.05.1964 to (1)DRABBLE, Peter John
+      b 19.08.1946
+    bounds:
+      left: 503
+      right: 1997
+      top: 553
+      bottom: 651
+  - text: |
+      b 11.06.1943
+      Delwynne b. at Auckland.
+    bounds:
+      left: 597
+      right: 1667
+      top: 612
+      bottom: 702
+- paragraphs:
+  - text: '01> DRABBLE, Carol Ann
+
+'
+    bounds:
+      left: 576
+      right: 1130
+      top: 753
+      bottom: 801
+  - text: |
+      b 11.07.1965
+      Carol is a Sergeant in Admin at RNZAF Base at Ohakea.
+    bounds:
+      left: 672
+      right: 1559
+      top: 812
+      bottom: 902
+- paragraphs:
+  - text: |
+      02> DRABBLE, Graham Peter m on 14.02.1986 to NATZKE, Susan Anne
+      b 11.06.1967
+    bounds:
+      left: 578
+      right: 2049
+      top: 946
+      bottom: 1049
+  - text: |
+      b 23.12.1965
+      Graham and Susan are share milkers.
+    bounds:
+      left: 676
+      right: 1833
+      top: 1010
+      bottom: 1103
+- paragraphs:
+  - text: '01> DRABBLE, Michael Graham
+
+'
+    bounds:
+      left: 649
+      right: 1340
+      top: 1142
+      bottom: 1204
+  - text: |
+      b 28.10.1988
+      02> DRABBLE, Amy Anne
+    bounds:
+      left: 653
+      right: 1175
+      top: 1208
+      bottom: 1352
+  - text: 'b 17.10.1991
+
+'
+    bounds:
+      left: 755
+      right: 970
+      top: 1358
+      bottom: 1398
+- paragraphs:
+  - text: '03> DRABBLE, Neal Bruce
+
+'
+    bounds:
+      left: 578
+      right: 1158
+      top: 1494
+      bottom: 1552
+  - text: |
+      b 09.12.1969
+      Neal is a construction worker and fibreglass moulder.
+    bounds:
+      left: 679
+      right: 1510
+      top: 1556
+      bottom: 1650
+- paragraphs:
+  - text: |
+      01> KEMP, Delwynne Gae m on ** ** **** to (2)??, Colin
+      b 19.08.1946
+    bounds:
+      left: 504
+      right: 1750
+      top: 1742
+      bottom: 1848
+  - text: |
+      b ** ** ****
+      Address: Midway Store, Kopeopeo, Whakatane.
+    bounds:
+      left: 595
+      right: 1675
+      top: 1802
+      bottom: 1923
+- paragraphs:
+  - text: |
+      02> KEMP, Dianne Isobel m on 18.05.1968 to MAYBURY, David James
+      b 07.11.1949
+    bounds:
+      left: 508
+      right: 1978
+      top: 1942
+      bottom: 2047
+  - text: |
+      b 09.02.1947
+      Dianne b, at Whakatane, David b. at Newcastle, Australia. Address: 15 Laguna Key, Papamoa, Mount
+      Maunganui.
+      David is a transit store worker.
+    bounds:
+      left: 599
+      right: 2219
+      top: 2001
+      bottom: 2198
+- paragraphs:
+  - text: '01> MAYBURY, Rhys James
+
+'
+    bounds:
+      left: 584
+      right: 1164
+      top: 2247
+      bottom: 2295
+  - text: |
+      b 10.06.1973
+      Rhys is an apprentice printer.
+    bounds:
+      left: 679
+      right: 1139
+      top: 2308
+      bottom: 2403
+- paragraphs:
+  - text: '02> MAYBURY, Dyllon John
+
+'
+    bounds:
+      left: 579
+      right: 1191
+      top: 2438
+      bottom: 2500
+  - text: 'b 08.05.1976
+
+'
+    bounds:
+      left: 683
+      right: 897
+      top: 2506
+      bottom: 2546
+- paragraphs:
+  - text: |
+      03> KEMP, Allison Fae m on 18.05.1970 to WILSON, William Frederick
+      b 07.08.1953
+    bounds:
+      left: 511
+      right: 2062
+      top: 2638
+      bottom: 2749
+  - text: |
+      b 07.11.1946
+      Allison b. at Whakatane.
+    bounds:
+      left: 603
+      right: 1664
+      top: 2702
+      bottom: 2798
+- paragraphs:
+  - text: '01> WILSON, Aaron Bernard
+
+'
+    bounds:
+      left: 589
+      right: 1220
+      top: 2838
+      bottom: 2900
+  - text: |
+      b 05.10.1973
+      Aaron is an apprentice butcher.
+    bounds:
+      left: 684
+      right: 1172
+      top: 2906
+      bottom: 3003
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 214
+      right: 836
+      top: 3290
+      bottom: 3352
+- paragraphs:
+  - text: '337
+
+'
+    bounds:
+      left: 1226
+      right: 1296
+      top: 3299
+      bottom: 3341

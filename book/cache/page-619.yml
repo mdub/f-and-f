@@ -1,0 +1,227 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, William and NELSON, Jane
+
+'
+    bounds:
+      left: 207
+      right: 1434
+      top: 195
+      bottom: 250
+  - text: |
+      JWILLIAMS, James Nelson and BEETHAM, Mary-Margaret
+      JWILLIAMS, Cyril Nelson Beetham and WILDER, Maud Margaret (Pearlie)
+      JWILLIAMS, Cyril James Wilder (Jim) and CRAMPTON, Kathleen Mary
+    bounds:
+      left: 576
+      right: 2269
+      top: 247
+      bottom: 410
+- paragraphs:
+  - text: |
+      02> WILLIAMS, Cyril James Wilder (Jim) m on 22.09.1937 to CRAMPTON, Kathleen Mary
+      b 30.06.1909 d 08.07.1982
+    bounds:
+      left: 356
+      right: 2287
+      top: 441
+      bottom: 551
+  - text: |
+      b 22.03.1912 d 06.04.1985
+      James b. at Hastings and m. at St Luke's Church, Havelock North and d. at Havelock North.
+      Jim farmed at "Atua" station until he retired in 1978 to live at Havelock North.
+    bounds:
+      left: 442
+      right: 2273
+      top: 503
+      bottom: 654
+- paragraphs:
+  - text: |
+      01> WILLIAMS, James Timothy William m on 27.06.1964 to SIMMONS, Jocelyn
+      b 19.10.1940
+    bounds:
+      left: 423
+      right: 2107
+      top: 694
+      bottom: 799
+  - text: |
+      b 21.12.1942
+      Timothy b. at Hastings and m. at St Columba's Presbyterian Church, Hastings by the Rev I Muir. Jocelyn, .
+      d/o Wallace Simmons and Elizabeth (Betty) Runciman. Address: 3 Belmont Street, Havelock North.
+      Tim was farming at Elsthorpe until 1973 and then worked as a fitter/ welder in Hastings. He is now
+      semi-retired. Jocelyn is a trained nurse.
+    bounds:
+      left: 520
+      right: 2232
+      top: 760
+      bottom: 1007
+- paragraphs:
+  - text: '01> WILLIAMS, Jonathan Ian
+
+'
+    bounds:
+      left: 500
+      right: 1162
+      top: 1042
+      bottom: 1105
+  - text: |
+      b 04.09.1965
+      Jonathan b. at Hastings. Address: 413 Moa Place, Hastings.
+    bounds:
+      left: 590
+      right: 1537
+      top: 1107
+      bottom: 1202
+- paragraphs:
+  - text: |
+      02> WILLIAMS, Caroline Anne m on 20.01.1990 to GREENWOOD, Paul Desmond
+      b 11.12.1967
+    bounds:
+      left: 499
+      right: 2157
+      top: 1242
+      bottom: 1351
+  - text: |
+      b 01.11.1965
+      Caroline b. at Hastings and m, at St Luke's Anglican Church, Havelock North by the Rev A Chalmers.
+      Paul, s/o Desmond Greenwood and Judith Boyce. Address: 50 Yarmouth Road, Flaxmere, Hastings.
+      Paul is factory manager at Greenwood Industries, Hastings.
+    bounds:
+      left: 598
+      right: 2217
+      top: 1307
+      bottom: 1503
+- paragraphs:
+  - text: '01> GREENWOOD, Phillipa Rita
+
+'
+    bounds:
+      left: 583
+      right: 1281
+      top: 1542
+      bottom: 1604
+  - text: |
+      b 19.10.1988
+      Phillipa b. at Hastings.
+    bounds:
+      left: 674
+      right: 1028
+      top: 1607
+      bottom: 1702
+- paragraphs:
+  - text: '02> GREENWOOD, Scott Timothy
+
+'
+    bounds:
+      left: 583
+      right: 1288
+      top: 1742
+      bottom: 1804
+  - text: |
+      b 10.10.1990
+      Scott b. at Hastings.
+    bounds:
+      left: 671
+      right: 988
+      top: 1810
+      bottom: 1907
+- paragraphs:
+  - text: |
+      03> WILLIAMS, David m on 29.03.1996 to PHELPS, Kathleen Fay
+      b 23.07.1969
+    bounds:
+      left: 504
+      right: 1880
+      top: 1994
+      bottom: 2099
+  - text: |
+      b 13.04.1961
+      David b. at Hastings and m. at the Hastings Courthouse. Kathleen, d/o David William Harris and Fay
+      Violet Horton, b. at Hastings. Address: 206 N Riverslea Road, Hastings.
+      David is an orchard worker.
+    bounds:
+      left: 598
+      right: 2204
+      top: 2058
+      bottom: 2250
+- paragraphs:
+  - text: '02> WILLIAMS, Elizabeth Erica m on 21.08.1978 to MATHER, Richard Arthur
+      Cooper
+
+'
+    bounds:
+      left: 427
+      right: 2286
+      top: 2342
+      bottom: 2404
+  - text: |
+      Mary
+      b 17.06.1943
+    bounds:
+      left: 528
+      right: 791
+      top: 2401
+      bottom: 2506
+  - text: |
+      b 08.02.1948
+      Elizabeth m, at Fareham, England. Separated. Richard, s/o Arthur Mather and Maude Cooper. Address:
+      56/3 Napier Road, Havelock North.
+    bounds:
+      left: 520
+      right: 2190
+      top: 2456
+      bottom: 2602
+- paragraphs:
+  - text: '03> WILLIAMS, Adrian Christopher Charles
+
+'
+    bounds:
+      left: 431
+      right: 1440
+      top: 2642
+      bottom: 2704
+  - text: |
+      b 19.03.1945
+      Adrian b. at Hastings. Address: Atua, RD 14, Havelock North,
+      Adrian is a farmer at "Atua".
+    bounds:
+      left: 524
+      right: 1523
+      top: 2706
+      bottom: 2850
+- paragraphs:
+  - text: '04> WILLIAMS, William Cyril
+
+'
+    bounds:
+      left: 431
+      right: 1111
+      top: 2898
+      bottom: 2952
+  - text: |
+      b 29.10.1946 d 31.03.1947
+      Cot death.
+    bounds:
+      left: 529
+      right: 1006
+      top: 2960
+      bottom: 3049
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 207
+      right: 834
+      top: 3297
+      bottom: 3357
+- paragraphs:
+  - text: '621
+
+'
+    bounds:
+      left: 1228
+      right: 1297
+      top: 3298
+      bottom: 3352

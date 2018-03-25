@@ -1,0 +1,215 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, Henry and COLDHAM, Marianne
+
+'
+    bounds:
+      left: 201
+      right: 1506
+      top: 178
+      bottom: 240
+  - text: |
+      JWILLIAMS, John William and BUSBY, Sarah
+      WILLIAMS, Kenneth Stuart and LUDBROOK, Lillian Mary
+    bounds:
+      left: 580
+      right: 1894
+      top: 237
+      bottom: 339
+  - text: |
+      ILLIAMS, John Dow and MacLAURIN. Catherine Annie (Nancy)
+      JWILLIAMS, John William Stuart and STRACHAN, Joanna Jane
+      WILLIAMS, Andrew John and DUNCAN, Belinda Jane
+    bounds:
+      left: 576
+      right: 2037
+      top: 343
+      bottom: 489
+- paragraphs:
+  - text: '01> WILLIAMS, Rebecca Letty
+
+'
+    bounds:
+      left: 578
+      right: 1255
+      top: 530
+      bottom: 597
+  - text: |
+      b 03.03.1998
+      Rebecca b. at Hastings.
+    bounds:
+      left: 674
+      right: 1039
+      top: 598
+      bottom: 692
+- paragraphs:
+  - text: '02> WILLIAMS, Donald Hume
+
+'
+    bounds:
+      left: 503
+      right: 1127
+      top: 782
+      bottom: 845
+  - text: |
+      b 21.11.1966
+      Donald b. at Te Puia Springs. Address: 12 Governor Road, Northland, Wellington.
+      Donald was educated at Hereworth School (1976-79) and was in the 1st rugby XV, the 1st cricket XI,
+      the 1st hockey XI and was Head Prefect. He went on to St Paul's Collegiate School in Hamilton
+      where he was Head of House, in the 1st cricket XI for three years and captain, and in the 1st rugby
+      XV for two years and captain. After four years overseas, he took a management course at Wellington
+      Polytechnic and he is now working for Telecom NZ as an accounts manager.
+    bounds:
+      left: 588
+      right: 2199
+      top: 850
+      bottom: 1195
+- paragraphs:
+  - text: '03> WILLIAMS, Matthew Stuart
+
+'
+    bounds:
+      left: 500
+      right: 1206
+      top: 1239
+      bottom: 1287
+  - text: |
+      b 23.12.1968
+      Matthew b. at Te Puia Springs. Address: 45 Norfolk Road, Ponsonby, Auckland.
+      Matthew was educated at Hereworth School where he was a prefect. He went on to St Paul's
+      Collegiate in Hamilton and was a house prefect and in the 1st hockey XI. He received a major music
+      award and went to university where he graduated BMus. He now works for a publisher in Auckland,
+    bounds:
+      left: 586
+      right: 2185
+      top: 1296
+      bottom: 1542
+- paragraphs:
+  - text: '02> WILLIAMS, Simon Dow
+
+'
+    bounds:
+      left: 430
+      right: 1011
+      top: 1637
+      bottom: 1687
+  - text: |
+      b 19.09.1935
+      Simon b. at Gisborne. Address: 126 Ann Street, Rotorua.
+      Simon was educated at Hereworth School (1944-48) and Christ's College, Christchurch, (1949-53). After
+      a short spell at farming he became a truck operator at Te Awamutu. He sold that business and took on
+      agricultural contracting at Ruatoria on the East Coast. That business was also sold and he now lives
+      in Rotorua and works for a hire company.
+    bounds:
+      left: 516
+      right: 2179
+      top: 1695
+      bottom: 1990
+- paragraphs:
+  - text: |
+      03> WILLIAMS, Philippa Anne m on 08.04.1964 to BROAD, Kim Lowther
+      b 29.03.1939
+    bounds:
+      left: 429
+      right: 1955
+      top: 2040
+      bottom: 2137
+  - text: |
+      b 03.05.1937
+      Philippa b. at Gisborne and m, at Holy Trinity Church, Gisborne. Kim, s/o John Lowther Broad and
+      Prudence Morris Reynolds. Address: "Tunaiti" Station, Waimata Valley, Private Bag, Gisborne.
+      Philippa is a NZ registered nurse and Kim is a farmer.
+    bounds:
+      left: 518
+      right: 2096
+      top: 2094
+      bottom: 2291
+- paragraphs:
+  - text: |
+      01> BROAD, Anna Morris m on 18.12.1992 to NEEDHAM, Reece
+      b 26.08.1965
+    bounds:
+      left: 504
+      right: 1803
+      top: 2334
+      bottom: 2443
+  - text: |
+      b 22.09.1963
+      Address: 70 Riverside Road, Gisborne.
+    bounds:
+      left: 596
+      right: 1676
+      top: 2393
+      bottom: 2490
+- paragraphs:
+  - text: '01> NEEDHAM, Richard Morris
+
+'
+    bounds:
+      left: 581
+      right: 1262
+      top: 2539
+      bottom: 2585
+  - text: 'b 20.03.1994
+
+'
+    bounds:
+      left: 681
+      right: 895
+      top: 2598
+      bottom: 2636
+- paragraphs:
+  - text: '02> NEEDHAM, Thomas John
+
+'
+    bounds:
+      left: 581
+      right: 1189
+      top: 2689
+      bottom: 2737
+  - text: 'b 20.09.1995
+
+'
+    bounds:
+      left: 682
+      right: 897
+      top: 2745
+      bottom: 2787
+- paragraphs:
+  - text: |
+      02> BROAD, Penelope Catherine m on 04.11.1994 to JONES, Paul Robert
+      b 13.05.1967
+    bounds:
+      left: 503
+      right: 2085
+      top: 2882
+      bottom: 2990
+  - text: |
+      b 18.07.1965
+      Penelope b. and m. at Gisborne. Paul, s/o Wynton Robert Jones and Maree Emily Crowley, b. at
+      Ashburton. Address: Private Bag 7426, Gisborne.
+      Penelope is a receptionist and computer operator and Paul is a spraypainter.
+    bounds:
+      left: 600
+      right: 2138
+      top: 2945
+      bottom: 3144
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 201
+      right: 834
+      top: 3285
+      bottom: 3345
+- paragraphs:
+  - text: '309
+
+'
+    bounds:
+      left: 1220
+      right: 1290
+      top: 3286
+      bottom: 3340

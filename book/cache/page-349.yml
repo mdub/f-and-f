@@ -1,0 +1,221 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, Henry and COLDHAM, Marianne
+
+'
+    bounds:
+      left: 213
+      right: 1510
+      top: 189
+      bottom: 248
+  - text: |
+      WILLIAMS, Catherine (Kate) and HADFIELD, Octavius
+      JHADFIELD, Henry Samuel and TUCKEY, Elizabeth Rhodes
+      JHADFIELD, Catherine Isobel (Kit) and COOPER, Edward Cecil
+      JCOOPER, Brigit Nancy and NELSON, Sydney Charles
+      INELSON, Maria Jane and ELLIS, Robert Bryan James
+    bounds:
+      left: 580
+      right: 2048
+      top: 243
+      bottom: 503
+- paragraphs:
+  - text: '01> ELLIS, Kodie Ray
+
+'
+    bounds:
+      left: 582
+      right: 1087
+      top: 538
+      bottom: 601
+  - text: |
+      b 16.06.1986
+      Kodie b. at Whangarei.
+    bounds:
+      left: 675
+      right: 1038
+      top: 605
+      bottom: 698
+- paragraphs:
+  - text: '02> ELLIS, Luke James
+
+'
+    bounds:
+      left: 581
+      right: 1106
+      top: 743
+      bottom: 797
+  - text: |
+      b 06.07.1988
+      Luke b. at Whangarei.
+    bounds:
+      left: 669
+      right: 1025
+      top: 804
+      bottom: 900
+- paragraphs:
+  - text: '03> ELLIS, Darnica Catherine
+
+'
+    bounds:
+      left: 578
+      right: 1282
+      top: 942
+      bottom: 1000
+  - text: 'b 05.04.1993
+
+'
+    bounds:
+      left: 677
+      right: 893
+      top: 1006
+      bottom: 1044
+- paragraphs:
+  - text: '64> NELSON, Brett Gregory
+
+'
+    bounds:
+      left: 504
+      right: 1134
+      top: 1134
+      bottom: 1205
+  - text: 'b 02.05.1965
+
+'
+    bounds:
+      left: 599
+      right: 815
+      top: 1204
+      bottom: 1247
+  - text: |
+      Brett is a car valet.
+      05> NELSON, Michael Craig
+    bounds:
+      left: 502
+      right: 1128
+      top: 1256
+      bottom: 1411
+  - text: |
+      b 02.01.1967
+      Michael is autistic and lives at the Mangere Hospital for the Disabled.
+    bounds:
+      left: 600
+      right: 1685
+      top: 1404
+      bottom: 1501
+- paragraphs:
+  - text: '06> NELSON, Jennifer Catherine
+
+'
+    bounds:
+      left: 504
+      right: 1255
+      top: 1542
+      bottom: 1600
+  - text: |
+      b 13.05.1969
+      Jennifer b. at Hamilton. Address: 41 English Street, Hamilton.
+      Jennifer is a computer operator.
+    bounds:
+      left: 589
+      right: 1584
+      top: 1603
+      bottom: 1749
+- paragraphs:
+  - text: |
+      01> COOPER, Brigit Nancy m on 14.10.1995 to (2) POTTER, David
+      b 14.01.1936
+    bounds:
+      left: 426
+      right: 1832
+      top: 1844
+      bottom: 1944
+  - text: |
+      b 03.06.1922
+      Brigit b. and m. at Whangarei. David, s/o James H F Potter and Marion Knott, b. at Manchester,
+      England. Address: 4 Te Paka Crescent, Kamo, Whangarei.
+      Brigit spent her early years in Kerikeri but was educated at Whangarei Girls' High School then
+      qualified as a Registered Maternity nurse. She spent many years working in maternity hospitals in
+      Whangarei and Hamilton and when her children were older she worked in rest homes and attended Polytech
+      to do a course on Care of the Elderly. She moved back to Whangarei in 1993 and since her marriage to
+      Dave, has settled into a new home. She enjoys gardening and belongs to a bus travel club.
+      David served in the Army in 1941-46, landing in France on D-Day. He had a Post Office shop for 23
+      years then travelled to New Zealand towing a caravan in 1972-73.
+    bounds:
+      left: 508
+      right: 2215
+      top: 1891
+      bottom: 2417
+- paragraphs:
+  - text: |
+      02> COOPER, Robin Diana m on 25.02.1961 to ROGERSON, Timothy Cunliffe
+      b 20.09.1937
+    bounds:
+      left: 429
+      right: 2055
+      top: 2438
+      bottom: 2545
+  - text: |
+      b 08.12.1935
+      Robin b. at Whangarei and m. at Goring-on-Thames, England. Timothy, s/o Gordon Cunliffe Rogerson and
+      Nora Margaret Boots, b. at Dorchester, Dorset. Address: Valleys End, Ngatiawa Road, Reikorangi,
+      Waikanae.
+      Robin is a radiographer and artist.
+    bounds:
+      left: 525
+      right: 2216
+      top: 2500
+      bottom: 2749
+- paragraphs:
+  - text: |
+      01> ROGERSON, Emma Louise m on ** ** **** to POSSEGER, Mark
+      b 06.01.1962
+    bounds:
+      left: 508
+      right: 1878
+      top: 2790
+      bottom: 2894
+  - text: |
+      b ** ** ****
+      Emma b. in London, England. Address: The End, Ngatiawa Road, Waikanae.
+    bounds:
+      left: 594
+      right: 1826
+      top: 2845
+      bottom: 2978
+- paragraphs:
+  - text: '01> POSSEGER, Mark
+
+'
+    bounds:
+      left: 580
+      right: 1039
+      top: 2999
+      bottom: 3043
+  - text: 'b 14.02.1996
+
+'
+    bounds:
+      left: 683
+      right: 898
+      top: 3053
+      bottom: 3095
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 210
+      right: 830
+      top: 3301
+      bottom: 3349
+- paragraphs:
+  - text: '350
+
+'
+    bounds:
+      left: 1220
+      right: 1297
+      top: 3297
+      bottom: 3342

@@ -1,0 +1,264 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, William and NELSON, Jane
+
+'
+    bounds:
+      left: 204
+      right: 1433
+      top: 180
+      bottom: 244
+  - text: |
+      JWILLIAMS, William Leonard and WANKLYN, Sarah
+      JWILLIAMS, Emily Jane and GRAY, Charles
+      VGRAY, Robert Leonard and LANGFORD, Margaret
+      VGRAY, Amy Mary and WATSON, Robert Wallis
+    bounds:
+      left: 578
+      right: 1714
+      top: 238
+      bottom: 440
+  - text: |
+      WATSON, Edith Ruth and TOMBLESON, Martin Grahame
+      I TOMBLESON, John Roger and DYKE, Jennifer Anne
+      04> TOMBLESON, Leah Anne
+    bounds:
+      left: 577
+      right: 1809
+      top: 435
+      bottom: 645
+  - text: |
+      b 04.04.1994
+      Leah b. at Lower Hutt.
+    bounds:
+      left: 747
+      right: 1109
+      top: 649
+      bottom: 744
+- paragraphs:
+  - text: |
+      02>' WATSON, Edith Ruth m on 19.11.1982 to (2)CARTER, Dudley Robert (Nick)
+      b 06.07.1933
+    bounds:
+      left: 503
+      right: 2223
+      top: 835
+      bottom: 945
+  - text: |
+      b 13.04.1931
+      Divorced. Address: 33a Whitaker Street, Tauranga.
+    bounds:
+      left: 598
+      right: 1668
+      top: 898
+      bottom: 995
+- paragraphs:
+  - text: '03> WATSON, Gerard Robert Gray m on **.01.1958 to WAKELIN, Greta Rosemary
+
+'
+    bounds:
+      left: 503
+      right: 2230
+      top: 1032
+      bottom: 1098
+  - text: |
+      Ethel
+      b 05.08.1936
+    bounds:
+      left: 602
+      right: 1898
+      top: 1093
+      bottom: 1188
+  - text: |
+      b 28.03.1938
+      Address: "Linburn", Rural Bag 7411, Gisborne.
+    bounds:
+      left: 597
+      right: 1913
+      top: 1146
+      bottom: 1248
+- paragraphs:
+  - text: |
+      01> WATSON, Mark Robert m on 02.05.1987 to WHITFIELD, Karen Patricia
+      b 11.08.1958
+    bounds:
+      left: 582
+      right: 2180
+      top: 1291
+      bottom: 1392
+  - text: |
+      b ** ** ****
+      Mark b. at Hamilton and m. at Gisborne. Karen, d/o Ralph Whitfield and Delma Carron. Address:
+      "Linburn" PB 7411, Gisborne.
+      Mark was educated at Waimata Valley Primary School near Gisborne, then St Paul's Collegiate,
+      Hamilton. He graduated DipAg from Massey University and is now a farmer.
+    bounds:
+      left: 674
+      right: 2240
+      top: 1342
+      bottom: 1595
+- paragraphs:
+  - text: '01> WATSON, Robert Paul
+
+'
+    bounds:
+      left: 655
+      right: 1234
+      top: 1641
+      bottom: 1688
+  - text: |
+      b 09.02.1989
+      Robert b. at Gisborne.
+    bounds:
+      left: 754
+      right: 1099
+      top: 1697
+      bottom: 1792
+- paragraphs:
+  - text: '02> WATSON, Thomas George Mark
+
+'
+    bounds:
+      left: 652
+      right: 1411
+      top: 1833
+      bottom: 1893
+  - text: |
+      b 11.05.1994
+      Thomas b. at Gisborne.
+    bounds:
+      left: 753
+      right: 1120
+      top: 1900
+      bottom: 1992
+- paragraphs:
+  - text: |
+      02> WATSON, Wendy Jane m on 17.05.1980 to SHANKS, Colin
+      b 14.07.1959
+    bounds:
+      left: 580
+      right: 1863
+      top: 2080
+      bottom: 2191
+  - text: |
+      b 09.04.1958
+      Address: "Emirau" Station, RD 3, Whangara, Gisborne.
+    bounds:
+      left: 680
+      right: 1753
+      top: 2142
+      bottom: 2242
+- paragraphs:
+  - text: '01> SHANKS, Ross Alexander
+
+'
+    bounds:
+      left: 659
+      right: 1317
+      top: 2282
+      bottom: 2341
+  - text: 'b 21.06.1985
+
+'
+    bounds:
+      left: 762
+      right: 973
+      top: 2349
+      bottom: 2392
+- paragraphs:
+  - text: '02> SHANKS, Kate Rosemary
+
+'
+    bounds:
+      left: 661
+      right: 1289
+      top: 2431
+      bottom: 2496
+  - text: 'b 21.04.1988
+
+'
+    bounds:
+      left: 763
+      right: 978
+      top: 2498
+      bottom: 2540
+- paragraphs:
+  - text: '03> SHANKS, Hannah Maree
+
+'
+    bounds:
+      left: 666
+      right: 1271
+      top: 2582
+      bottom: 2641
+  - text: 'b 26.05.1993
+
+'
+    bounds:
+      left: 763
+      right: 978
+      top: 2648
+      bottom: 2690
+- paragraphs:
+  - text: |
+      03> WATSON, Julia Mary and ENGLAND, Jonathan
+      b 09.03.1961
+    bounds:
+      left: 584
+      right: 1673
+      top: 2781
+      bottom: 2889
+  - text: |
+      b 21.06. ****
+      Address: 13 Park Street, Bulli 2516, NSW, Australia.
+    bounds:
+      left: 923
+      right: 1765
+      top: 2834
+      bottom: 2962
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 211
+      right: 840
+      top: 3285
+      bottom: 3350
+- paragraphs:
+  - text: '1
+
+'
+    bounds:
+      left: 222
+      right: 227
+      top: 3299
+      bottom: 3346
+- paragraphs:
+  - text: 'LO
+
+'
+    bounds:
+      left: 523
+      right: 541
+      top: 3303
+      bottom: 3337
+- paragraphs:
+  - text: '488
+
+'
+    bounds:
+      left: 1231
+      right: 1303
+      top: 3292
+      bottom: 3338
+- paragraphs:
+  - text: 'O
+
+'
+    bounds:
+      left: 598
+      right: 616
+      top: 3322
+      bottom: 3326

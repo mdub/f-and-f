@@ -1,0 +1,649 @@
+---
+blocks:
+- paragraphs:
+  - text: '2.03.01
+
+'
+    bounds:
+      left: 2208
+      right: 2366
+      top: 290
+      bottom: 352
+- paragraphs:
+  - text: |
+      WILLIAMS, Frederick Wanklyn
+      = BRATHWAITE, Elina Mary
+    bounds:
+      left: 460
+      right: 1062
+      top: 361
+      bottom: 463
+- paragraphs:
+  - text: |
+      WILLIAMS, Frederick Wanklyn
+      = STANDISH, Kate Constance
+    bounds:
+      left: 1271
+      right: 1877
+      top: 338
+      bottom: 449
+- paragraphs:
+  - text: "=\n"
+    bounds:
+      left: 689
+      right: 916
+      top: 130
+      bottom: 891
+- paragraphs:
+  - text: |
+      Ronald Wanklyn
+      FITZROY. Louisa Gwendoline I'Strang
+    bounds:
+      left: 554
+      right: 986
+      top: 565
+      bottom: 624
+- paragraphs:
+  - text: |
+      Peter Standish
+      =WHITE. Laila Moore (Kewpie)
+    bounds:
+      left: 1333
+      right: 1666
+      top: 549
+      bottom: 610
+- paragraphs:
+  - text: |
+      Allen Craig
+      -(1) SMITH, Joyce Edna (Julie)
+    bounds:
+      left: 1696
+      right: 2050
+      top: 543
+      bottom: 608
+- paragraphs:
+  - text: |
+      -WILLIAMS, Gary Standish
+      =(1 }PRICE. Carolyn Joy
+      *(2 JNANT, Jacqueline
+      +WILLIAMS, Gay Constance
+    bounds:
+      left: 1332
+      right: 1622
+      top: 647
+      bottom: 777
+  - text: 'HORN. Stewart Poppleton
+
+'
+    bounds:
+      left: 1363
+      right: 1634
+      top: 781
+      bottom: 817
+- paragraphs:
+  - text: |
+      -WILLIAMS. Brian Craig
+      -WILLIAMS, Jeremy Peter
+      *(2)DONALD. Betty Knox
+    bounds:
+      left: 1697
+      right: 1976
+      top: 646
+      bottom: 738
+- paragraphs:
+  - text: "|2.03.02 |\n"
+    bounds:
+      left: 2191
+      right: 2402
+      top: 918
+      bottom: 976
+- paragraphs:
+  - text: |
+      WILLIAMS, Emily Jane
+      = GRAY, Charles
+    bounds:
+      left: 876
+      right: 1333
+      top: 927
+      bottom: 1032
+- paragraphs:
+  - text: |
+      Robert Leonard
+      -LANGFORD. Margaret
+    bounds:
+      left: 200
+      right: 435
+      top: 1127
+      bottom: 1193
+- paragraphs:
+  - text: |
+      Donald Camplin
+      =HAY. Frances Ethel
+    bounds:
+      left: 680
+      right: 904
+      top: 1129
+      bottom: 1193
+- paragraphs:
+  - text: |
+      Agnes Sara
+      =BLUNT. Hugh Roper
+    bounds:
+      left: 1033
+      right: 1251
+      top: 1132
+      bottom: 1189
+- paragraphs:
+  - text: |
+      Sydney Thomas
+      LANE , Doris Audrey
+    bounds:
+      left: 1350
+      right: 1577
+      top: 1129
+      bottom: 1192
+- paragraphs:
+  - text: 'Norman William Edith Lucy
+
+'
+    bounds:
+      left: 1691
+      right: 2006
+      top: 1131
+      bottom: 1158
+  - text: 'FORMEROD. Olin Barton
+
+'
+    bounds:
+      left: 1884
+      right: 2143
+      top: 1161
+      bottom: 1197
+- paragraphs:
+  - text: "-GRAY, Amy Hary\n"
+    bounds:
+      left: 201
+      right: 383
+      top: 1229
+      bottom: 1258
+  - text: |
+      -GRAY. Maxwell Camplin
+      »BLUNT, Barbara Aldham -GRAY, Audrey Louise
+    bounds:
+      left: 680
+      right: 1587
+      top: 1223
+      bottom: 1267
+  - text: |
+      -ORMERO0, Shirley
+      =WATSON. Robert Wallis
+    bounds:
+      left: 211
+      right: 2092
+      top: 1198
+      bottom: 1328
+  - text: "*(1)SEAMARK. Winifred\n"
+    bounds:
+      left: 697
+      right: 947
+      top: 1262
+      bottom: 1291
+  - text: |
+      BLUNT, Michael Hugh
+      =HOLOSAORTH, John Chambers
+    bounds:
+      left: 1042
+      right: 1671
+      top: 1261
+      bottom: 1292
+  - text: |
+      ÞORMER00, Charles Fray
+      -GRAY. Dorothy Eva
+      =(2 REEO. Christine Stewart =FIELD, Suzanne Mary -GRAY, Charles lan
+    bounds:
+      left: 201
+      right: 2155
+      top: 1238
+      bottom: 1352
+  - text: |
+      MONEYPENNY, Robena Louise (Penny)
+      +GRAY, Edith Hilda
+    bounds:
+      left: 198
+      right: 2313
+      top: 1275
+      bottom: 1386
+  - text: |
+      -GRAY, Godfrey Brett
+      -8LUNT, Richard Mark
+    bounds:
+      left: 680
+      right: 1271
+      top: 1330
+      bottom: 1359
+  - text: |
+      =BIRO, Ruth Esther
+      GRAY, Charles Leonard Alan
+    bounds:
+      left: 214
+      right: 1576
+      top: 1332
+      bottom: 1392
+  - text: |
+      =HEGARTY. Sheila Monica
+      (1)SELOON-TRUSS. Adrien
+    bounds:
+      left: 697
+      right: 1337
+      top: 1365
+      bottom: 1388
+  - text: |
+      WILLIAMS, Emily Jane - GRAY, Charles (cont)
+      =(1)BIBBY. Phyllis Mary
+    bounds:
+      left: 214
+      right: 2190
+      top: 1329
+      bottom: 1453
+  - text: "-GRAY, James Errol\n"
+    bounds:
+      left: 681
+      right: 895
+      top: 1399
+      bottom: 1421
+  - text: |
+      =(2 LEE. Patricia Eileen
+      *(2)TARRY, Phillis Marjorie
+    bounds:
+      left: 214
+      right: 1336
+      top: 1400
+      bottom: 1458
+  - text: |
+      =YELLOWLEES. Ruth Grace
+      -GRAY, Colin Falkland
+      +GRAY. Ivan Donald
+    bounds:
+      left: 198
+      right: 967
+      top: 1431
+      bottom: 1492
+  - text: |
+      Amy Margaret Douglas Wanklyn
+      DINNIE, Betty Lois
+      FLAHAULT, Madeleine Anne
+    bounds:
+      left: 224
+      right: 2093
+      top: 1445
+      bottom: 1545
+  - text: |
+      =HALL. Emma Millicent
+      -GRAY, Kenneth Neil
+      -GRAY. Lesley Margaret
+    bounds:
+      left: 197
+      right: 2167
+      top: 1474
+      bottom: 1623
+  - text: |
+      -GRAY. Charles Roderick (Rory)
+      CAMPBELL, John Haldane (Jock)
+    bounds:
+      left: 220
+      right: 2273
+      top: 1536
+      bottom: 1657
+  - text: |
+      -GRAY. Mary Damaris Bryony
+      -GRAY, Beverley Jane
+    bounds:
+      left: 199
+      right: 2227
+      top: 1567
+      bottom: 1696
+  - text: |
+      =HOLLINRAKE. Harold Acheson (Bud)
+      -GRAY, Robert Mowbray
+    bounds:
+      left: 199
+      right: 2324
+      top: 1607
+      bottom: 1723
+  - text: |
+      GRAY. Fabian Douglas Hall (Tim)
+      +GRAY, Olive Sheila
+    bounds:
+      left: 197
+      right: 2298
+      top: 1646
+      bottom: 1749
+  - text: |
+      *NEKTIAN. Eve Rosanne
+      =(1)TOBLESON, Michael John
+    bounds:
+      left: 213
+      right: 2165
+      top: 1680
+      bottom: 1779
+  - text: |
+      -GRAY, Ann Julia
+      (2SHERRIFF. Francis Patrick (Paddy)
+    bounds:
+      left: 226
+      right: 2103
+      top: 1736
+      bottom: 1787
+  - text: "-NEKMAN, Trevor\n"
+    bounds:
+      left: 1925
+      right: 2103
+      top: 1768
+      bottom: 1792
+- paragraphs:
+  - text: '2.03.03 |
+
+'
+    bounds:
+      left: 2213
+      right: 2394
+      top: 1822
+      bottom: 1880
+- paragraphs:
+  - text: |
+      WILLIAMS, Margaret Ellen
+      = MACLEAN.. Christopher Haydon
+    bounds:
+      left: 922
+      right: 1579
+      top: 2057
+      bottom: 2153
+- paragraphs:
+  - text: |
+      William Haydon
+      (1)McBETH, Keitha Kate Florence
+    bounds:
+      left: 189
+      right: 580
+      top: 2255
+      bottom: 2314
+- paragraphs:
+  - text: |
+      Leonard Herbert Lionel
+      a(1)WARD, Dorothy Isabel
+    bounds:
+      left: 690
+      right: 981
+      top: 2249
+      bottom: 2312
+- paragraphs:
+  - text: |
+      Kenneth Edward
+      (PALMER, Beatrice Daisy
+    bounds:
+      left: 1043
+      right: 1359
+      top: 2249
+      bottom: 2306
+- paragraphs:
+  - text: |
+      Margaret Elizabeth
+      -CURRIE. George William
+    bounds:
+      left: 1508
+      right: 1791
+      top: 2249
+      bottom: 2310
+- paragraphs:
+  - text: |
+      Eric Wanklyn
+      * TURNER, May Harcourt
+    bounds:
+      left: 1969
+      right: 2229
+      top: 2249
+      bottom: 2314
+- paragraphs:
+  - text: 'MACLEAN, Margaret Joan
+
+'
+    bounds:
+      left: 200
+      right: 470
+      top: 2353
+      bottom: 2380
+  - text: |
+      MACLEAN. Antony Russell
+      -MACLEAN, Anne Margaret Palmer
+    bounds:
+      left: 707
+      right: 1408
+      top: 2347
+      bottom: 2381
+  - text: |
+      CURRIE, Margaret Isobel
+      :ANDREWS, Frederick Robert William
+    bounds:
+      left: 203
+      right: 1798
+      top: 2347
+      bottom: 2409
+  - text: |
+      -TULLOCH, Leone Leith
+      -ROSS, Charles Macdonald
+    bounds:
+      left: 707
+      right: 1350
+      top: 2380
+      bottom: 2412
+  - text: |
+      =BLYTH, Harrison David
+      -(2}AWDRY, Mildred Ethel
+    bounds:
+      left: 187
+      right: 1790
+      top: 2381
+      bottom: 2448
+  - text: 'MACLEAN. Peter Alloway
+
+'
+    bounds:
+      left: 708
+      right: 971
+      top: 2419
+      bottom: 2442
+  - text: |
+      -MACLEAN, Kenneth Joseph Palmer (Joe} +CURRIE, Jean Elizabeth
+      -MACLEAN. Christopher Edward Awdry (Ted) (1 HAWKINS, Felicity Anne WHITCOMBE. Joan Mary Sanmerset
+    bounds:
+      left: 184
+      right: 1786
+      top: 2413
+      bottom: 2482
+  - text: |
+      =SYME. David Atkin
+      -(1 WAREHAM, Elsie Elaine
+      =(2)THORN, Mary Eleanor +MACLEAN, John Raglan
+    bounds:
+      left: 200
+      right: 1739
+      top: 2449
+      bottom: 2512
+  - text: |
+      +CURRIE, Joyce Bertha Earle
+      =(2)XEY, Muriel
+      +MACLEAN, Christopher David -(I)TURNER, Beatrice Maitland
+    bounds:
+      left: 202
+      right: 1838
+      top: 2481
+      bottom: 2546
+  - text: |
+      =SHERRIFF, Dudley Albert
+      »MACLEAN. Alan Haydon Awdrey
+      -MACLEAN. Roger Stephen -(2)CULLEN, Claire Marjorie
+    bounds:
+      left: 186
+      right: 1808
+      top: 2515
+      bottom: 2580
+  - text: |
+      CURRIE. Robert George Manson (Robin)
+      =(1 WARNER, Margaret
+      TEEK, Zélie Elizabeth -MACLEAN, James Nelson (Jim)
+    bounds:
+      left: 201
+      right: 1956
+      top: 2549
+      bottom: 2613
+  - text: |
+      ** (1 POWER. Marie Willamere
+      (2 DELL. Gladys Mary
+    bounds:
+      left: 210
+      right: 1836
+      top: 2583
+      bottom: 2646
+  - text: |
+      =(2)HOHIE. Inez Rose
+      WILLIAMS, Elizabeth Jean
+    bounds:
+      left: 698
+      right: 1362
+      top: 2615
+      bottom: 2642
+  - text: |
+      *(2 GRAY, Patricia Isabel
+      -MACLEAN, Helen Margaret -(2)MCWILLIAM, Muriel Mary Annie
+    bounds:
+      left: 692
+      right: 1823
+      top: 2615
+      bottom: 2677
+  - text: |
+      .CURRIE, Leslie Pamela
+      BROSNAHAN, Terence Charles
+    bounds:
+      left: 720
+      right: 1775
+      top: 2646
+      bottom: 2710
+- paragraphs:
+  - text: 'MACLEAN, Mary Way
+
+'
+    bounds:
+      left: 1989
+      right: 2193
+      top: 2349
+      bottom: 2380
+  - text: |
+      -CORKILL. Thomas Mackenzie (Tom,
+      -MACLEAN. Patience Elliot
+      =KEARNS. Bernard John
+    bounds:
+      left: 1972
+      right: 2372
+      top: 2384
+      bottom: 2484
+- paragraphs:
+  - text: 'PARTE
+
+'
+    bounds:
+      left: 394
+      right: 2366
+      top: 1982
+      bottom: 2816
+- paragraphs:
+  - text: 'WILLIAMS, Margaret Ellen < MACLEAN. Christopher Haydon (cont)
+
+'
+    bounds:
+      left: 835
+      right: 1571
+      top: 2845
+      bottom: 2890
+- paragraphs:
+  - text: 'Dorothy Edith Sarah (Sallie) Francis Sydney (Frank)
+
+'
+    bounds:
+      left: 566
+      right: 1207
+      top: 2960
+      bottom: 2996
+  - text: 'ANSON, Janet Margaret
+
+'
+    bounds:
+      left: 960
+      right: 1208
+      top: 2995
+      bottom: 3026
+- paragraphs:
+  - text: |
+      Frederick Hector
+      RE ID, Vernice Ethel
+    bounds:
+      left: 1311
+      right: 1549
+      top: 2961
+      bottom: 3020
+- paragraphs:
+  - text: |
+      Christopher Nelson
+      BAIRD, Jessie Elizabeth (Betty)
+    bounds:
+      left: 1640
+      right: 2025
+      top: 2957
+      bottom: 3018
+- paragraphs:
+  - text: "-MACLEAN, Michael Anson\n"
+    bounds:
+      left: 945
+      right: 1225
+      top: 3061
+      bottom: 3090
+  - text: |
+      MACLEAN. Margaret Esther - MACLEAN, Elizabeth Susan
+      -(I WILLIMENT. Winifred Mary =KLEE. Victor George
+    bounds:
+      left: 960
+      right: 1943
+      top: 3059
+      bottom: 3124
+  - text: |
+      MACLEAN, Janet Beatrice
+      =(2 JPAINE , Anne
+    bounds:
+      left: 961
+      right: 1930
+      top: 3091
+      bottom: 3158
+  - text: |
+      MACLEAN, Richard Hector BISHOP, John Vincent
+      -MACLEAN, Dorothy Margaret
+    bounds:
+      left: 949
+      right: 1904
+      top: 3123
+      bottom: 3187
+  - text: |
+      =LOFFLER, Evelyn Carolina · MACLEAN. Helen Mary
+      MACLEAN, Jean Elizabeth
+    bounds:
+      left: 1329
+      right: 1881
+      top: 3159
+      bottom: 3216
+- paragraphs:
+  - text: '475
+
+'
+    bounds:
+      left: 1341
+      right: 1413
+      top: 3267
+      bottom: 3313

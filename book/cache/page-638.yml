@@ -1,0 +1,196 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, William and NELSON, Jane
+
+'
+    bounds:
+      left: 211
+      right: 1440
+      top: 174
+      bottom: 241
+  - text: |
+      JWILLIAMS, Emma Caroline and NELSON, William
+      VNELSON, Lionel (Jack) and CHAMBERS, Esther Margaret
+      VNELSON , Kathleen Margaret and THOMSON, Charles Herbert
+      JTHOMSON, Malcolm William (Bill) and BENNETT, Lyndon
+      I THOMSON, Elizabeth Kate and SMYTH, Christopher
+    bounds:
+      left: 585
+      right: 1972
+      top: 230
+      bottom: 497
+- paragraphs:
+  - text: '01> SMYTH, Ryan James
+
+'
+    bounds:
+      left: 589
+      right: 1108
+      top: 530
+      bottom: 593
+  - text: |
+      b 05.05.1993
+      Ryan attends Motea School.
+    bounds:
+      left: 678
+      right: 1117
+      top: 589
+      bottom: 698
+- paragraphs:
+  - text: '02> SMYTH, Stacy Adam
+
+'
+    bounds:
+      left: 583
+      right: 1117
+      top: 730
+      bottom: 793
+  - text: |
+      b 26.01.1995
+      Stacy goes to Central Kindergarten.
+    bounds:
+      left: 681
+      right: 1236
+      top: 796
+      bottom: 892
+- paragraphs:
+  - text: '03> THOMSON, William James
+
+'
+    bounds:
+      left: 510
+      right: 1163
+      top: 974
+      bottom: 1045
+  - text: |
+      b 29.09.1972
+      Address: PO Box 1267, Taupo.
+    bounds:
+      left: 601
+      right: 1096
+      top: 1043
+      bottom: 1140
+- paragraphs:
+  - text: |
+      02> THOMSON, Nancy Patricia m on 20.10.1969 to STRATFORD, Warwick
+      b 14.03.1944
+    bounds:
+      left: 433
+      right: 1956
+      top: 1236
+      bottom: 1336
+  - text: |
+      b 01.10.1939
+      Nancy b. at Westport and m. at Havelock North. Warwick, s/o H Stratford and N Reynolds. Address: 862
+      Wily Terrace, Taupo.
+      Nancy moved to Hastings with her parents about 1947. She was educated at Mahora School, Queenswood
+      School and Marsden School, Wellington (boarder, 1957-60). She did her nurses training at Christchurch
+      Hospital, graduating in 1965. After their marriage, she and Warwick ran a sheep and cattle farm at
+      Norsewood where Nancy was District Nurse for 10 years. On moving to Palmerston in 1989 she has worked
+      as a practice nurse.
+      In 1995 Nancy was a crew member on the delivery voyage of the "Edna Kate", a fishing boat purchased by
+      sister Min and her partner, Mike Lee, in Japan. Nancy has been living at Acacia Bay, Taupo since
+      February 1998.
+    bounds:
+      left: 518
+      right: 2243
+      top: 1296
+      bottom: 1839
+- paragraphs:
+  - text: '01> STRATFORD, Benjamin John
+
+'
+    bounds:
+      left: 511
+      right: 1216
+      top: 1878
+      bottom: 1940
+  - text: |
+      b 04.05.1972
+      Benjamin b. at Dannevirke and educated at Norsewood School and Palmerston North Boys' High School.
+      He graduated BAgSc from Massey University in 1994 then spent two years at Williams Lake, Canada,
+      working for an irrigation company. On his return to New Zealand he took over the management of a
+    bounds:
+      left: 601
+      right: 2253
+      top: 1944
+      bottom: 2138
+  - text: |
+      pump company in Taupo in 1998.
+      02> STRATFORD, Anthony Warwick
+    bounds:
+      left: 507
+      right: 1264
+      top: 2145
+      bottom: 2288
+  - text: |
+      b 05.02.1974
+      Anthony b. at Dannevirke and educated at Norsewood School and Palmerston North Boys' High School.
+      He completed a building apprenticeship in Palmerston North in 1997 and is now a self-employed
+      builder.
+    bounds:
+      left: 599
+      right: 2242
+      top: 2294
+      bottom: 2482
+- paragraphs:
+  - text: '03> STRATFORD, Peter James
+
+'
+    bounds:
+      left: 508
+      right: 1163
+      top: 2534
+      bottom: 2585
+  - text: |
+      b 24.02.1975
+      Peter b. at Dannevirke. He attended Norsewood School and Palmerston North Boys' High School and is
+      now completing an MSc(Marine) degree at Otago University.
+    bounds:
+      left: 604
+      right: 2231
+      top: 2594
+      bottom: 2738
+- paragraphs:
+  - text: '04> STRATFORD, Samuel Charles
+
+'
+    bounds:
+      left: 510
+      right: 1237
+      top: 2778
+      bottom: 2836
+  - text: |
+      b 26.02.1977
+      Samuel b. at Dannevirke. He attended Norsewood School and Palmerston North Boys' High School and is
+      now completing a NZ Architectural Draughting Certificate at Otago Polytechnic.
+    bounds:
+      left: 603
+      right: 2266
+      top: 2844
+      bottom: 2986
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 210
+      right: 835
+      top: 3282
+      bottom: 3336
+- paragraphs:
+  - text: "| 640\n"
+    bounds:
+      left: 929
+      right: 1292
+      top: 3276
+      bottom: 3340
+  - text: '640
+
+'
+    bounds:
+      left: 1227
+      right: 1296
+      top: 3289
+      bottom: 3333

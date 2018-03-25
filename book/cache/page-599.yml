@@ -1,0 +1,442 @@
+---
+blocks:
+- paragraphs:
+  - text: '12.05.03 |
+
+'
+    bounds:
+      left: 2137
+      right: 2345
+      top: 301
+      bottom: 370
+- paragraphs:
+  - text: |
+      WILLIAMS, Winifred Beetham
+      = NELSON, Francis Ernest
+    bounds:
+      left: 679
+      right: 1270
+      top: 405
+      bottom: 511
+- paragraphs:
+  - text: |
+      Alice Ruth Winifred Gwendoline James Francis (Jim)
+      =MALDEN. Henry
+    bounds:
+      left: 788
+      right: 1418
+      top: 608
+      bottom: 673
+  - text: "(1)PALMER, Patricia Florence\n"
+    bounds:
+      left: 1201
+      right: 1539
+      top: 640
+      bottom: 672
+- paragraphs:
+  - text: |
+      +NELSON, Jane Palmer
+      -TYLEE, Robert Michael
+      NELSON, William Palmer
+      --HAGEDORN. Caroline Rosemary
+      NELSON, James Palmer
+      FORR, Helen Anne
+      NELSON, Christine Winifred Palmer
+      -PASTON, John William (Capta)
+      *(2)RICHARDS. Yvonne
+    bounds:
+      left: 1188
+      right: 1600
+      top: 708
+      bottom: 1006
+- paragraphs:
+  - text: "|2.05,04||\n"
+    bounds:
+      left: 2145
+      right: 2353
+      top: 1098
+      bottom: 1149
+- paragraphs:
+  - text: |
+      WILLIAMS, Gertrude Mary Beetham
+      = RUSSELL, Andrew Hamilton
+    bounds:
+      left: 708
+      right: 1413
+      top: 1170
+      bottom: 1277
+- paragraphs:
+  - text: |
+      Katherine Mary
+      =DEANS, William
+    bounds:
+      left: 286
+      right: 474
+      top: 1371
+      bottom: 1437
+- paragraphs:
+  - text: |
+      Janet Margaret
+      =KEMBALL. Vero Elliot
+    bounds:
+      left: 744
+      right: 993
+      top: 1371
+      bottom: 1432
+- paragraphs:
+  - text: |
+      Andrew Hamilton
+      =MCSWEENY, Eve
+    bounds:
+      left: 1093
+      right: 1277
+      top: 1369
+      bottom: 1433
+- paragraphs:
+  - text: |
+      John Tinsley
+      -ROLLESTON. Rosamond
+    bounds:
+      left: 1397
+      right: 1641
+      top: 1370
+      bottom: 1429
+- paragraphs:
+  - text: |
+      Margaret Gertrude (Margot)
+      LOWRY, Thomas Coleman (Tom)
+    bounds:
+      left: 1768
+      right: 2110
+      top: 1368
+      bottom: 1435
+- paragraphs:
+  - text: "»DEANS, Jane Gertrude\n"
+    bounds:
+      left: 287
+      right: 547
+      top: 1471
+      bottom: 1502
+  - text: |
+      •KEMBALL, Katharine Veronica -RUSSELL. Katherine Mary -RUSSELL. Elizabeth Katharine »LOWRY, Margaret Ann
+      DEANS, William Russell
+    bounds:
+      left: 300
+      right: 2011
+      top: 1468
+      bottom: 1534
+  - text: |
+      -SE VERNE, John de Milt
+      -CAVE, Adrian Michael -BLAKER. John
+    bounds:
+      left: 756
+      right: 1565
+      top: 1496
+      bottom: 1536
+  - text: |
+      PINCKNEY, Peter William
+      -OSBORNE-SMITH, June Sheila (Topsy)
+    bounds:
+      left: 304
+      right: 2078
+      top: 1499
+      bottom: 1571
+  - text: "-RUSSELL, John Rolleston\n"
+    bounds:
+      left: 1398
+      right: 1688
+      top: 1534
+      bottom: 1567
+  - text: |
+      -LOWRY, Thomas Russell (Ton)
+      FORMONO. Phillida Ann
+    bounds:
+      left: 1414
+      right: 2105
+      top: 1537
+      bottom: 1599
+  - text: |
+      |-de GRUCHY, Margaret Jane
+      -RUSSELL, Rachel Gertrude
+    bounds:
+      left: 1397
+      right: 2084
+      top: 1565
+      bottom: 1643
+  - text: "-LOWRY. Edward Patrick\n"
+    bounds:
+      left: 1766
+      right: 2033
+      top: 1602
+      bottom: 1635
+  - text: |
+      -HEWITT. Jane Mary
+      -LOWRY, Caroline Mary
+    bounds:
+      left: 1763
+      right: 2021
+      top: 1637
+      bottom: 1704
+  - text: 'ARIE, Philippe Gilbert Alfred
+
+'
+    bounds:
+      left: 1802
+      right: 2158
+      top: 1702
+      bottom: 1736
+- paragraphs:
+  - text: "|2.05.06\n"
+    bounds:
+      left: 2141
+      right: 2319
+      top: 1802
+      bottom: 1861
+- paragraphs:
+  - text: |
+      WILLIAMS, Cyril Nelson Beetham
+      = WILDER, Maud Margaret (Pearlie)
+    bounds:
+      left: 688
+      right: 1437
+      top: 1880
+      bottom: 1984
+- paragraphs:
+  - text: 'Mary Margaret Wilder (Bettie) Cyril James Wilder (Jim)
+
+'
+    bounds:
+      left: 200
+      right: 868
+      top: 2074
+      bottom: 2110
+  - text: 'Joan Wilder Patricia Wilder
+
+'
+    bounds:
+      left: 1039
+      right: 1394
+      top: 2069
+      bottom: 2099
+  - text: |
+      Timothy John Wilder
+      WILLIAMS. Bevan Sydney
+      -CRAMPTON. Kathleen Mary
+      -JONES, Evan -KELLY. George Murray Swinburne
+    bounds:
+      left: 209
+      right: 1928
+      top: 2065
+      bottom: 2145
+  - text: |
+      -(1) FOWLER, Patricia Faith
+      See Chart 2.03.08
+      +WILLIAMS, James Timothy William
+    bounds:
+      left: 196
+      right: 2020
+      top: 2093
+      bottom: 2212
+  - text: "-KELLY. Joan Margaret\n"
+    bounds:
+      left: 1212
+      right: 1463
+      top: 2169
+      bottom: 2200
+  - text: |
+      -WILLIAMS. Mark Antony
+      -SIMONS. Jocelyn
+    bounds:
+      left: 596
+      right: 1967
+      top: 2156
+      bottom: 2249
+  - text: 'GRIFFITHS, William Hugh
+
+'
+    bounds:
+      left: 1239
+      right: 1517
+      top: 2203
+      bottom: 2232
+  - text: |
+      HELMORE. Victoria Frances
+      -WILLIAMS. Elizabeth Erica Mary
+    bounds:
+      left: 580
+      right: 2031
+      top: 2200
+      bottom: 2273
+  - text: "-KELLY. Michael George (Mick)\n"
+    bounds:
+      left: 1213
+      right: 1563
+      top: 2234
+      bottom: 2266
+  - text: |
+      »WILLIAMS, Susan Faith
+      FATHER, Richard Arthur Cooper
+    bounds:
+      left: 600
+      right: 1967
+      top: 2233
+      bottom: 2307
+  - text: "-SLY, Christine\n"
+    bounds:
+      left: 1226
+      right: 1404
+      top: 2268
+      bottom: 2300
+  - text: |
+      ANDERSON, Timothy Derek
+      -WILLIAMS. Adrian Christopher Charles
+    bounds:
+      left: 581
+      right: 2005
+      top: 2259
+      bottom: 2347
+  - text: 'KELLY, Teresa Mary
+
+'
+    bounds:
+      left: 1224
+      right: 1439
+      top: 2301
+      bottom: 2336
+  - text: |
+      -WILLIAMS. Virginia Margaret (Gee)
+      WILLIAMS. William Cyril
+    bounds:
+      left: 598
+      right: 2116
+      top: 2298
+      bottom: 2368
+  - text: "=(I FRASER, Clyde Edward George\n"
+    bounds:
+      left: 1227
+      right: 1601
+      top: 2333
+      bottom: 2366
+  - text: |
+      <SMITH. Patrick John
+      =(2 XMORRISON, Roderick Charles Malcolm (2)DINSDALE, Agnes Hill (Nancy)
+    bounds:
+      left: 1230
+      right: 2090
+      top: 2333
+      bottom: 2402
+  - text: |
+      -KELLY. Elizabeth Janet
+      WILLIAMS, Cyril Nelson Beetham - WILDER, Maud Margaret (Pearlie) (cont)
+    bounds:
+      left: 199
+      right: 1491
+      top: 2403
+      bottom: 2483
+  - text: "<TAYLOR. Michael\n"
+    bounds:
+      left: 1233
+      right: 1420
+      top: 2437
+      bottom: 2461
+- paragraphs:
+  - text: |
+      Barnabas Wilder (Barney)
+      =(1)DALZIELL, Kathleen Kelly
+    bounds:
+      left: 525
+      right: 866
+      top: 2552
+      bottom: 2618
+- paragraphs:
+  - text: "-WILLIAMS. Judith Margaret (Judy).\n"
+    bounds:
+      left: 523
+      right: 937
+      top: 2650
+      bottom: 2686
+  - text: |
+      WRIGHT, David Philip
+      =(2) JAMIESON. Moira Jane
+    bounds:
+      left: 528
+      right: 817
+      top: 2685
+      bottom: 2751
+- paragraphs:
+  - text: '2.05.07
+
+'
+    bounds:
+      left: 2170
+      right: 2324
+      top: 2653
+      bottom: 2712
+- paragraphs:
+  - text: |
+      WILLIAMS, Edric Beetham
+      = MCKENZIE, Christina Barbara
+    bounds:
+      left: 1261
+      right: 1916
+      top: 2718
+      bottom: 2818
+- paragraphs:
+  - text: |
+      Mary Meggie
+      -JAMES. Sidney
+    bounds:
+      left: 1315
+      right: 1480
+      top: 2917
+      bottom: 2977
+- paragraphs:
+  - text: |
+      Christina Elsie
+      -OUCKWORTH, Auberon Charles Alan Campbell
+    bounds:
+      left: 1607
+      right: 2109
+      top: 2913
+      bottom: 2984
+- paragraphs:
+  - text: |
+      -JAMES, Reina Christina -DUCKWORTH, Jane Margaret Christina Victoria
+      =(ISUTCLIFFE. Michael BLAKENEY. Hugh
+      (2 RE INSTEIN, Michael +0UCKWORTH. Arndra Julia Mary
+    bounds:
+      left: 1315
+      right: 2143
+      top: 3012
+      bottom: 3109
+  - text: "=-(I)BAIN, Angus\n"
+    bounds:
+      left: 1622
+      right: 1799
+      top: 3116
+      bottom: 3141
+  - text: |
+      -(2 GRACEY, Peter
+      +OUCKWORTH, Belinda Cecil Anne
+    bounds:
+      left: 1609
+      right: 1973
+      top: 3148
+      bottom: 3208
+  - text: 'KUSEL, Michael
+
+'
+    bounds:
+      left: 1631
+      right: 1800
+      top: 3213
+      bottom: 3244
+- paragraphs:
+  - text: '601
+
+'
+    bounds:
+      left: 1290
+      right: 1363
+      top: 3271
+      bottom: 3320

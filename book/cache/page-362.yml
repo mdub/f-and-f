@@ -1,0 +1,263 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, Henry and COLDHAM, Marianne
+
+'
+    bounds:
+      left: 209
+      right: 1508
+      top: 177
+      bottom: 245
+  - text: |
+      JWILLIAMS, Catherine (Kate) and HADFIELD, Octavius
+      JHADFIELD, Ernest Frederick and WOOD, Ada Mary Louise
+      JHADFIELD, Dorothy and ZOHRAB, John Fortescue
+      VZOHRAB, James Hadfield and BOYD, Patricia Rosemary
+      VZOHRAB, Sarah Jane and COATES, Mark Harding
+    bounds:
+      left: 578
+      right: 1917
+      top: 237
+      bottom: 494
+- paragraphs:
+  - text: '01> COATES, Claudia Zohrab
+
+'
+    bounds:
+      left: 578
+      right: 1229
+      top: 529
+      bottom: 597
+  - text: 'b 26.01.1994
+
+'
+    bounds:
+      left: 679
+      right: 890
+      top: 597
+      bottom: 639
+- paragraphs:
+  - text: '02> COATES, Caroline Rose
+
+'
+    bounds:
+      left: 580
+      right: 1202
+      top: 682
+      bottom: 749
+  - text: 'b 19.05.1995
+
+'
+    bounds:
+      left: 677
+      right: 892
+      top: 748
+      bottom: 791
+- paragraphs:
+  - text: '03> COATES, Gabriella Maling
+
+'
+    bounds:
+      left: 581
+      right: 1281
+      top: 838
+      bottom: 892
+  - text: 'b 21.07.1997
+
+'
+    bounds:
+      left: 676
+      right: 885
+      top: 896
+      bottom: 939
+- paragraphs:
+  - text: |
+      05>' ZOHRAB, William John m on 01.02.1964 to HOPWOOD, Kerin Wallace
+      b 30.03.1942
+    bounds:
+      left: 422
+      right: 1978
+      top: 1039
+      bottom: 1139
+  - text: |
+      b 21.10.1943
+      John m. at All Saints' Anglican Church, Palmerston North, Address: 13 Strachan Point, West Vancouver,
+      BC, Canada.
+      John is a gastroenterologist.
+    bounds:
+      left: 511
+      right: 2180
+      top: 1100
+      bottom: 1295
+- paragraphs:
+  - text: '01> ZOHRAB, Gina
+
+'
+    bounds:
+      left: 502
+      right: 899
+      top: 1334
+      bottom: 1392
+  - text: 'b ** ** ****
+
+'
+    bounds:
+      left: 599
+      right: 816
+      top: 1392
+      bottom: 1436
+- paragraphs:
+  - text: '02> ZOHRAB, Andrew
+
+'
+    bounds:
+      left: 496
+      right: 956
+      top: 1482
+      bottom: 1540
+- paragraphs:
+  - text: "• ** ****\n"
+    bounds:
+      left: 668
+      right: 813
+      top: 1550
+      bottom: 1572
+- paragraphs:
+  - text: '03> ZOHRAB, Julia
+
+'
+    bounds:
+      left: 499
+      right: 928
+      top: 1630
+      bottom: 1692
+- paragraphs:
+  - text: "• ** ****\n"
+    bounds:
+      left: 668
+      right: 813
+      top: 1701
+      bottom: 1722
+- paragraphs:
+  - text: '04> ZOHRAB, Jeffrey
+
+'
+    bounds:
+      left: 496
+      right: 982
+      top: 1782
+      bottom: 1845
+  - text: 'b ** ** ****
+
+'
+    bounds:
+      left: 602
+      right: 813
+      top: 1845
+      bottom: 1885
+- paragraphs:
+  - text: |
+      03>' HADFIELD, Gwendolyn Margaret m on 20.01.1932 to PEATE, Clement Cecil
+      b 30.10.1906 d 27.09.1989
+    bounds:
+      left: 351
+      right: 2053
+      top: 1982
+      bottom: 2091
+  - text: |
+      b 08.04.1902 d 23.03.1970
+      Gwendolyn b. and d, at Wellington,
+    bounds:
+      left: 439
+      right: 2088
+      top: 2046
+      bottom: 2143
+- paragraphs:
+  - text: |
+      01> PEATE, Roger Hadfield m on 08.10.1960 to WAGNER, Natalie
+      b 15.06.1933
+    bounds:
+      left: 428
+      right: 1828
+      top: 2186
+      bottom: 2288
+  - text: |
+      b 18.09.1931
+      Roger b. at Wellington. Natalie, d/o Richard Wagner and Natalie Blanche Cant, b. at Melbourne.
+      Address: 26 Kardinia Crescent, Warranwood 3134, Vic, Australia.
+      Roger is a nurseryman and a Justice of the Peace.
+    bounds:
+      left: 519
+      right: 2058
+      top: 2244
+      bottom: 2440
+- paragraphs:
+  - text: '01> PEATE. Lachlan Richard
+
+'
+    bounds:
+      left: 508
+      right: 1161
+      top: 2479
+      bottom: 2528
+  - text: 'b 17.12.1961 d 23.06.1990
+
+'
+    bounds:
+      left: 605
+      right: 1071
+      top: 2548
+      bottom: 2591
+- paragraphs:
+  - text: '02> PEATE, Anthony Roger
+
+'
+    bounds:
+      left: 504
+      right: 1109
+      top: 2634
+      bottom: 2692
+  - text: |
+      b 04.01.1967
+      Address: 33 Laburnum Street, Blackburn 3130, Vic, Australia.
+    bounds:
+      left: 598
+      right: 1586
+      top: 2698
+      bottom: 2790
+- paragraphs:
+  - text: '04>''HADFIELD, Elizabeth Anne
+
+'
+    bounds:
+      left: 353
+      right: 1060
+      top: 2882
+      bottom: 2944
+  - text: |
+      b 24.01.1911 d 10.02.1998
+      Elizabeth b, at Wellington. Northland. Elizabeth was a nurse.
+    bounds:
+      left: 451
+      right: 1422
+      top: 2947
+      bottom: 3040
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 204
+      right: 826
+      top: 3282
+      bottom: 3344
+- paragraphs:
+  - text: '363
+
+'
+    bounds:
+      left: 1220
+      right: 1292
+      top: 3292
+      bottom: 3338

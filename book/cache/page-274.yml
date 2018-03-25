@@ -1,0 +1,332 @@
+---
+blocks:
+- paragraphs:
+  - text: '1.06.00
+
+'
+    bounds:
+      left: 2166
+      right: 2331
+      top: 218
+      bottom: 302
+- paragraphs:
+  - text: |
+      WILLIAMS, John William
+      = BUSBY, Sarah
+    bounds:
+      left: 842
+      right: 1348
+      top: 452
+      bottom: 560
+- paragraphs:
+  - text: 'Agnes Lydia
+
+'
+    bounds:
+      left: 172
+      right: 300
+      top: 663
+      bottom: 691
+  - text: |
+      WILLIAMS. Thomas Sydney
+      See Chart 1.01.03
+    bounds:
+      left: 172
+      right: 463
+      top: 693
+      bottom: 771
+- paragraphs:
+  - text: 'James Alexander Edward Heathcote George Alexander
+
+'
+    bounds:
+      left: 492
+      right: 1107
+      top: 657
+      bottom: 689
+  - text: "-(1)COOPER, Edith Ida\n"
+    bounds:
+      left: 916
+      right: 1167
+      top: 687
+      bottom: 720
+- paragraphs:
+  - text: 'Evelyn Maud Percy Temple
+
+'
+    bounds:
+      left: 1330
+      right: 1635
+      top: 652
+      bottom: 683
+  - text: "-PIERCE. Mary Isobel\n"
+    bounds:
+      left: 1490
+      right: 1729
+      top: 683
+      bottom: 716
+- paragraphs:
+  - text: |
+      John William (Jack)
+      =WILLIAMSON. Jessie Mackie
+    bounds:
+      left: 1927
+      right: 2250
+      top: 652
+      bottom: 724
+- paragraphs:
+  - text: |
+      WILLIAMS. Richard Dow
+      WILLIAMS, Robert Cooper
+      -CRAMPTON, Nancy
+      »WILLIAMS, Ellen Mary (Molly)
+      WILLIAMS, Sarah Cooper (Sally)
+      -WIGLEY, Edward Thomas Cranstoun
+      =(2) SUGDEN. Ann
+    bounds:
+      left: 914
+      right: 1317
+      top: 759
+      bottom: 991
+- paragraphs:
+  - text: |
+      -WILLIAMS. Patrick Heathcote Temple -WILLIAMS, James Busby (Jim)
+      -STRACK, Monica Jean
+    bounds:
+      left: 1488
+      right: 2273
+      top: 752
+      bottom: 823
+  - text: |
+      =KEILLER, Muriel Cecíle
+      »WILLIAMS. Mary Temple
+    bounds:
+      left: 1486
+      right: 2225
+      top: 786
+      bottom: 856
+  - text: |
+      WILLIAMS, Michael George Mackie
+      - JACKSON, Margaret Hughlings
+      -WILLIAMS. Nancy Mary
+      -CACCIA-BIRCH, Anthony William Fa
+      WILLIAMS. Paul Henry Metcalfe
+      -SLOMAN, Ellen Dinah
+      WILLIAMS, Donald Campbell
+      -WILLIAMS, Shona Mackintosh
+    bounds:
+      left: 1927
+      right: 2346
+      top: 821
+      bottom: 1092
+  - text: |
+      -KERSEY, Arthur Oliver (John)
+      -WILLIAMS, Evelyn Gillian
+      -BARTON, Alan Roy Bidwill
+    bounds:
+      left: 1927
+      right: 2299
+      top: 1090
+      bottom: 1191
+- paragraphs:
+  - text: 'WILLIAMS. John William = BUSBY, Sarah (cont)
+
+'
+    bounds:
+      left: 630
+      right: 1162
+      top: 1199
+      bottom: 1232
+- paragraphs:
+  - text: |
+      Kenneth Stuart
+      -LUDBROOK, Lillian Mary
+    bounds:
+      left: 301
+      right: 576
+      top: 1316
+      bottom: 1379
+- paragraphs:
+  - text: 'Henry (Hal)
+
+'
+    bounds:
+      left: 656
+      right: 785
+      top: 1312
+      bottom: 1342
+  - text: |
+      Sarah Catherine (Kitty) Gerard Temple (Husky)
+      WILLIAMS. Cecil Margaret -TAPLIN, Joseph Hugh
+    bounds:
+      left: 670
+      right: 1541
+      top: 1304
+      bottom: 1374
+- paragraphs:
+  - text: |
+      WILLIAMS, Charles Kenneth -WILLIAMS. Derrick Lovell
+      -FORRIS, Phyllis Constance =HARRIS, Rosalind Anne
+      WILLIAMS, Mona Caroline
+      -COTTERILL. Geoffrey Evelyn
+      +WILLIAMS, John Dow
+    bounds:
+      left: 302
+      right: 960
+      top: 1409
+      bottom: 1579
+  - text: |
+      -PlacLAURIN, Catherine Annie
+      »WILLIAMS, Peter Temple
+    bounds:
+      left: 304
+      right: 643
+      top: 1579
+      bottom: 1646
+- paragraphs:
+  - text: "|1.06.04\n"
+    bounds:
+      left: 2157
+      right: 2334
+      top: 1723
+      bottom: 1786
+- paragraphs:
+  - text: |
+      WILLIAMS, George Alexander
+      = COOPER, Edith Ida
+    bounds:
+      left: 711
+      right: 1297
+      top: 1887
+      bottom: 1993
+- paragraphs:
+  - text: 'Richard Dow Robert Cooper
+
+'
+    bounds:
+      left: 594
+      right: 909
+      top: 2090
+      bottom: 2116
+  - text: "-CRAKPTON, Nancy\n"
+    bounds:
+      left: 751
+      right: 942
+      top: 2119
+      bottom: 2151
+- paragraphs:
+  - text: 'Ellen Mary (Molly) Sarah Cooper (Sally)
+
+'
+    bounds:
+      left: 1129
+      right: 1614
+      top: 2086
+      bottom: 2122
+  - text: "=WIGLEY. Edward Thomas Cranstoun\n"
+    bounds:
+      left: 1373
+      right: 1760
+      top: 2117
+      bottom: 2151
+- paragraphs:
+  - text: |
+      WILLIAMS, Gerard Robin
+      =(I LOWRY, Elizabeth Helen
+      -(2 MALONE, Gabrielle Lillian
+      -WILLIAMS, Nicholas Duncan
+      -MACKIE, Angela Ruth
+    bounds:
+      left: 748
+      right: 1116
+      top: 2185
+      bottom: 2356
+- paragraphs:
+  - text: "»WIGLEY. Marjorie Julia Cranstoun\n"
+    bounds:
+      left: 1377
+      right: 1775
+      top: 2189
+      bottom: 2213
+  - text: |
+      HANNION, Neil de Yere
+      »WIGLEY, Sarah Charlotte Cranstoun
+      =VAN DER ZIJPP. Jacob
+      WIGLEY, Marianne Cranstoun
+      -PATCHETT. Irving Anthony Hetherington
+      -WIGLEY. Benjamin Alexander Cranstoun
+    bounds:
+      left: 1372
+      right: 1849
+      top: 2217
+      bottom: 2421
+- paragraphs:
+  - text: '1.06.06
+
+'
+    bounds:
+      left: 2182
+      right: 2333
+      top: 2543
+      bottom: 2607
+- paragraphs:
+  - text: |
+      WILLIAMS, Percy Temple
+      = PIERCE. Mary Isobel
+    bounds:
+      left: 918
+      right: 1415
+      top: 2657
+      bottom: 2761
+- paragraphs:
+  - text: |
+      Patrick Heathcote Temple
+      -STRACK. Monica Jean
+    bounds:
+      left: 907
+      right: 1199
+      top: 2854
+      bottom: 2919
+- paragraphs:
+  - text: 'Mary Temple
+
+'
+    bounds:
+      left: 1341
+      right: 1469
+      top: 2859
+      bottom: 2887
+- paragraphs:
+  - text: 'WILLIAMS. Rosemary Anne
+
+'
+    bounds:
+      left: 922
+      right: 1197
+      top: 2954
+      bottom: 2987
+  - text: |
+      HEDGE, Brian James
+      -WILLIAMS. Susan Temple
+    bounds:
+      left: 908
+      right: 1189
+      top: 2987
+      bottom: 3055
+  - text: |
+      GIBSON. John Llewellyn
+      -WILLIAMS. Christopher John Pierce
+    bounds:
+      left: 909
+      right: 1320
+      top: 3055
+      bottom: 3121
+- paragraphs:
+  - text: '275
+
+'
+    bounds:
+      left: 1303
+      right: 1375
+      top: 3310
+      bottom: 3352

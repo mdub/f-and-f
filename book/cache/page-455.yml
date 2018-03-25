@@ -1,0 +1,113 @@
+---
+blocks:
+- paragraphs:
+  - text: 'The Descendants of William and Jane Williams
+
+'
+    bounds:
+      left: 235
+      right: 1337
+      top: 201
+      bottom: 260
+- paragraphs:
+  - text: 'KARIERA
+
+'
+    bounds:
+      left: 462
+      right: 535
+      top: 888
+      bottom: 910
+- paragraphs:
+  - text: 'A: " ",
+
+'
+    bounds:
+      left: 377
+      right: 399
+      top: 1118
+      bottom: 1222
+- paragraphs:
+  - text: 'ATS.
+
+'
+    bounds:
+      left: 443
+      right: 495
+      top: 1116
+      bottom: 1268
+- paragraphs:
+  - text: "..:\n"
+    bounds:
+      left: 575
+      right: 600
+      top: 1460
+      bottom: 1525
+- paragraphs:
+  - text: |
+      Photo from: Mrs MW Corkill
+      Eric Wanklyn MACLEAN (1886 - 1940).
+    bounds:
+      left: 354
+      right: 1053
+      top: 1605
+      bottom: 1681
+- paragraphs:
+  - text: |
+      Photo from: Mrs M w Corkill
+      May Harcourt MACLEAN (1892 - 1984) nee TURNER,
+    bounds:
+      left: 1361
+      right: 2141
+      top: 1620
+      bottom: 1704
+- paragraphs:
+  - text: ".iá"
+    bounds:
+      left: 1952
+      right: 1971
+      top: 2298
+      bottom: 2319
+- paragraphs:
+  - text: ". PR.\n"
+    bounds:
+      left: 1967
+      right: 1996
+      top: 2301
+      bottom: 2346
+- paragraphs:
+  - text: 'Photo from: Miss H M Maclean
+
+'
+    bounds:
+      left: 908
+      right: 1232
+      top: 3087
+      bottom: 3111
+- paragraphs:
+  - text: 'Dorothy MACLEAN (1888 - 1931).
+
+'
+    bounds:
+      left: 476
+      right: 982
+      top: 3108
+      bottom: 3161
+- paragraphs:
+  - text: |
+      Photo from: Miss HM Maclean
+      Edith Sarah (Sallie) MACLEAN (1890 - 1971).
+    bounds:
+      left: 1379
+      right: 2139
+      top: 3090
+      bottom: 3164
+- paragraphs:
+  - text: '456
+
+'
+    bounds:
+      left: 1147
+      right: 1216
+      top: 3295
+      bottom: 3343

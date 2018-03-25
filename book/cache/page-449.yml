@@ -1,0 +1,85 @@
+---
+blocks:
+- paragraphs:
+  - text: 'The Descendants of William and Jane Williams
+
+'
+    bounds:
+      left: 230
+      right: 1322
+      top: 225
+      bottom: 291
+- paragraphs:
+  - text: |
+      Photo from: Mrs M J Putt
+      Agnes Sara GRAY (1887 - 1948) nee GRAY, Donald Camplin GRAY (1886 - 1971), Sydney Thomas GRAY (1890 - 1947),
+    bounds:
+      left: 329
+      right: 2143
+      top: 1520
+      bottom: 1606
+  - text: |
+      Robert Leonard GRAY (1883 - 1961), Douglas Wanklyn GRAY (1896 - 1969), Norman William GRAY (1891 - 1946),
+      Emily Jane WILLIAMS (1856 - 1942) nee WILLIAMS, Amy Margaret GRAY (1895 - 1977), Edith Lucy GRAY (1893 - 1947) nee GRAY.
+    bounds:
+      left: 253
+      right: 2128
+      top: 1601
+      bottom: 1693
+- paragraphs:
+  - text: ":::::\n"
+    bounds:
+      left: 1355
+      right: 1375
+      top: 1922
+      bottom: 2022
+- paragraphs:
+  - text: "\".. :::::: to.. :\n"
+    bounds:
+      left: 1385
+      right: 1396
+      top: 1898
+      bottom: 2004
+- paragraphs:
+  - text: "*:\n"
+    bounds:
+      left: 2082
+      right: 2101
+      top: 2087
+      bottom: 2100
+- paragraphs:
+  - text: 'Riki. .
+
+'
+    bounds:
+      left: 2139
+      right: 2153
+      top: 2790
+      bottom: 2908
+- paragraphs:
+  - text: |
+      Photo from: Mrs MJ Putt
+      Emily Jane GRAY (1856 - 1942) nee WILLIAMS.
+    bounds:
+      left: 373
+      right: 1168
+      top: 3083
+      bottom: 3167
+- paragraphs:
+  - text: |
+      Photo from: Mrs M J Putt
+      Charles GRAY (1840 - 1918) 1918).
+    bounds:
+      left: 1453
+      right: 2148
+      top: 3084
+      bottom: 3162
+- paragraphs:
+  - text: '450
+
+'
+    bounds:
+      left: 1158
+      right: 1230
+      top: 3310
+      bottom: 3373

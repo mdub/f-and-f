@@ -1,0 +1,568 @@
+---
+blocks:
+- paragraphs:
+  - text: "|1.05.00 ||\n"
+    bounds:
+      left: 2131
+      right: 2354
+      top: 282
+      bottom: 340
+- paragraphs:
+  - text: |
+      WILLIAMS. Thomas Coldham
+      = BEETHAM, Anne Palmer (Annie)
+    bounds:
+      left: 855
+      right: 1531
+      top: 463
+      bottom: 579
+- paragraphs:
+  - text: 'Elfie Clare
+
+'
+    bounds:
+      left: 2050
+      right: 2188
+      top: 683
+      bottom: 709
+- paragraphs:
+  - text: |
+      Hugh George
+      -JONES. Helen
+    bounds:
+      left: 191
+      right: 347
+      top: 677
+      bottom: 744
+- paragraphs:
+  - text: |
+      Ethel Alice
+      -RUSSELL, Arthur Edward
+    bounds:
+      left: 618
+      right: 896
+      top: 675
+      bottom: 745
+- paragraphs:
+  - text: |
+      Maude Mary Anne
+      -BURGE. George Arthur
+    bounds:
+      left: 948
+      right: 1199
+      top: 677
+      bottom: 740
+- paragraphs:
+  - text: 'Hilda Temple Guy Coldham
+
+'
+    bounds:
+      left: 1229
+      right: 1537
+      top: 675
+      bottom: 706
+  - text: 'HOPE-LEWIS, Eileen
+
+'
+    bounds:
+      left: 1414
+      right: 1629
+      top: 709
+      bottom: 738
+- paragraphs:
+  - text: |
+      Wyvern Henry
+      MASON, Evelyn Muriel
+    bounds:
+      left: 1757
+      right: 2010
+      top: 680
+      bottom: 743
+- paragraphs:
+  - text: |
+      WILLIAMS. Wyvern Annie
+      -BUNNY, William lan
+    bounds:
+      left: 1767
+      right: 2036
+      top: 777
+      bottom: 846
+- paragraphs:
+  - text: 'WILLIAMS. Garthoven
+
+'
+    bounds:
+      left: 203
+      right: 433
+      top: 777
+      bottom: 806
+  - text: |
+      -RUSSELL. Ethel ida
+      *(1 GLEESON, Mary Frances (Peggy) -BIRCH. Charles Victor
+      *(2 JALISON, Audrey May
+    bounds:
+      left: 202
+      right: 895
+      top: 775
+      bottom: 876
+  - text: |
+      RUSSELL. Beatrix Hamilton
+      WILLIAMS. Morvyn (Tim)
+    bounds:
+      left: 202
+      right: 930
+      top: 845
+      bottom: 907
+  - text: |
+      -RUSSELL, Gerald Arthur
+      *RIDDIFORD. Philippa Therese
+    bounds:
+      left: 201
+      right: 894
+      top: 877
+      bottom: 941
+  - text: "-RUSSELL, Guy Campbell\n"
+    bounds:
+      left: 617
+      right: 878
+      top: 911
+      bottom: 943
+- paragraphs:
+  - text: |
+      -WILLIAMS. Barbara Hope
+      -OEANS, Colin
+      WILLIAMS, Alister Coldham
+      =TESCHEMAKER, Nancy
+      -WILLIAMS. Nancy Hope
+    bounds:
+      left: 1398
+      right: 1717
+      top: 777
+      bottom: 941
+  - text: |
+      BORTHWICK, Patrick John
+      •WILLIAMS, Joan Elfie
+    bounds:
+      left: 1395
+      right: 1702
+      top: 938
+      bottom: 1012
+  - text: 'DILLON, Patrick Philip Lee
+
+'
+    bounds:
+      left: 1419
+      right: 1736
+      top: 1011
+      bottom: 1042
+- paragraphs:
+  - text: 'WILLIAMS. Thomas Coldham - BEETHAM, Anne Palmer (Annie) (cont)
+
+'
+    bounds:
+      left: 771
+      right: 1526
+      top: 1235
+      bottom: 1266
+- paragraphs:
+  - text: 'Thomas Gwynne Horsley
+
+'
+    bounds:
+      left: 172
+      right: 428
+      top: 1351
+      bottom: 1373
+- paragraphs:
+  - text: 'Ti
+
+'
+    bounds:
+      left: 427
+      right: 1085
+      top: 1130
+      bottom: 1729
+- paragraphs:
+  - text: 'Eila Mabel
+
+'
+    bounds:
+      left: 459
+      right: 575
+      top: 1350
+      bottom: 1371
+  - text: |
+      Algar Temple
+      Elva Mildred (Una)
+      Enid Githa
+    bounds:
+      left: 881
+      right: 1685
+      top: 1344
+      bottom: 1374
+  - text: |
+      Erl Temple
+      -REED, Vernon Herbert
+    bounds:
+      left: 454
+      right: 2040
+      top: 1343
+      bottom: 1409
+  - text: |
+      =(1)BOYLE. Janet
+      =HOARE. Reginald Arthur
+      -FERGUSSON, James Andrew
+    bounds:
+      left: 883
+      right: 1861
+      top: 1376
+      bottom: 1409
+  - text: "-VALLANCE. Eila Mary\n"
+    bounds:
+      left: 1922
+      right: 2168
+      top: 1378
+      bottom: 1414
+  - text: |
+      I
+      ÞREED, Thomas Walton
+    bounds:
+      left: 453
+      right: 1241
+      top: 1414
+      bottom: 1477
+  - text: |
+      -WILLIAMS, Juliet
+      HOARE , Merrick Colt Temple PFERGUSSON, Edith Margaret
+    bounds:
+      left: 883
+      right: 1881
+      top: 1443
+      bottom: 1472
+  - text: |
+      -WILLIAMS. Audrey Temple
+      =HENDERSON, Hannah Eleanor Evelyn -WILLIAMS. David Temple
+    bounds:
+      left: 470
+      right: 2220
+      top: 1425
+      bottom: 1530
+  - text: 'HOARE. Anne Temple Githa = SCHOLFIELD, Ralph
+
+'
+    bounds:
+      left: 1239
+      right: 1795
+      top: 1477
+      bottom: 1504
+  - text: |
+      -LITTLE, Janes Robert
+      REED, Nigel Vernon
+    bounds:
+      left: 469
+      right: 2194
+      top: 1443
+      bottom: 1575
+  - text: 'WILLIAMS, Belinda Temple
+
+'
+    bounds:
+      left: 896
+      right: 1185
+      top: 1511
+      bottom: 1540
+  - text: |
+      *TWEEDIE. Vere Justin -FERGUSSON, Augusta Susan -WILLIAMS, Michael Charles
+      =LANGSTAFF. Ellen Elizabeth
+    bounds:
+      left: 470
+      right: 2242
+      top: 1503
+      bottom: 1586
+  - text: "=FITZGERALD, Gerald\n"
+    bounds:
+      left: 898
+      right: 1128
+      top: 1547
+      bottom: 1570
+  - text: |
+      -HOARE. Reginald Merrick MARX, George Francis Locke -WILLIAMS, Peter Temple
+      ÞREED. Elfie Clare Temple
+      (2)GOULD, Dorothy Sylvia -BUCKLAND, Barbara Jean
+    bounds:
+      left: 452
+      right: 2207
+      top: 1534
+      bottom: 1622
+  - text: 'FERGUSSON, Jean Annie
+
+'
+    bounds:
+      left: 1579
+      right: 1832
+      top: 1579
+      bottom: 1601
+  - text: |
+      -BOYIHAM CARTER, Daphne Mary
+      =ELLIOTT. James Kennedy
+    bounds:
+      left: 471
+      right: 2270
+      top: 1562
+      bottom: 1662
+  - text: |
+      =ORR-EWING, Edward Lindsay
+      FERGUSSON, Anne Mary
+    bounds:
+      left: 1576
+      right: 1891
+      top: 1609
+      bottom: 1674
+- paragraphs:
+  - text: "|1.05.01||\n"
+    bounds:
+      left: 2131
+      right: 2350
+      top: 1746
+      bottom: 1808
+- paragraphs:
+  - text: |
+      WILLIAMS, Hugh George
+      = JONES, Helen
+    bounds:
+      left: 258
+      right: 728
+      top: 1799
+      bottom: 1914
+- paragraphs:
+  - text: 'Garthowen
+
+'
+    bounds:
+      left: 219
+      right: 327
+      top: 2001
+      bottom: 2023
+  - text: |
+      Morvyn (Tim)
+      -(1)GLEESON. Mary Frances (Peggy) -RIODIFORD. Philippa Therese
+    bounds:
+      left: 219
+      right: 984
+      top: 2005
+      bottom: 2068
+- paragraphs:
+  - text: |
+      WILLIAMS. Hugh Patrick
+      -BROWN. Kathryn Jean
+      -WILLIAMS, Verity Maria
+    bounds:
+      left: 217
+      right: 497
+      top: 2099
+      bottom: 2197
+  - text: |
+      -BLAKENEY, Henry John Mervyn
+      -(2)ALISON. Audrey May
+    bounds:
+      left: 216
+      right: 571
+      top: 2196
+      bottom: 2266
+- paragraphs:
+  - text: "-WILLIAMS, Sarah Marianne\n"
+    bounds:
+      left: 648
+      right: 948
+      top: 2100
+      bottom: 2135
+  - text: |
+      =LARKIN, Thomas Cedric
+      +WILLIAMS. Antonia Helen
+    bounds:
+      left: 645
+      right: 937
+      top: 2135
+      bottom: 2200
+  - text: |
+      -BOWERING, John
+      -WILLIAMS, Charlotte Hester
+      =KEBER, David Greville
+      WILLIAMS, Caroline Marsh
+      HORA, Georges
+    bounds:
+      left: 645
+      right: 971
+      top: 2205
+      bottom: 2369
+- paragraphs:
+  - text: |
+      WILLIAMS, Ethel Alice
+      = RUSSELL, Arthur Edward
+    bounds:
+      left: 1235
+      right: 1778
+      top: 2214
+      bottom: 2321
+- paragraphs:
+  - text: "|1.05.02\n"
+    bounds:
+      left: 2128
+      right: 2303
+      top: 2230
+      bottom: 2284
+- paragraphs:
+  - text: 'Beatrix Hamilton Gerald Arthur Guy Campbell
+
+'
+    bounds:
+      left: 1394
+      right: 1942
+      top: 2408
+      bottom: 2447
+- paragraphs:
+  - text: |
+      Ethel Ida
+      -BIRCH, Charles Victor
+    bounds:
+      left: 1103
+      right: 1370
+      top: 2409
+      bottom: 2475
+- paragraphs:
+  - text: |
+      WILLIAMS, Guy Coldham
+      = HOPE-LEWIS, Eileen
+    bounds:
+      left: 659
+      right: 1134
+      top: 2644
+      bottom: 2745
+- paragraphs:
+  - text: '1.05.05
+
+'
+    bounds:
+      left: 2140
+      right: 2304
+      top: 2616
+      bottom: 2703
+- paragraphs:
+  - text: |
+      Barbara Hope
+      -OEANS, Colin
+    bounds:
+      left: 232
+      right: 396
+      top: 2836
+      bottom: 2899
+- paragraphs:
+  - text: |
+      Alister Coldham
+      -TESCHEMAKER. Nancy
+    bounds:
+      left: 582
+      right: 808
+      top: 2839
+      bottom: 2896
+- paragraphs:
+  - text: |
+      Hancy Hope
+      =BORTHWICK. Patrick John
+    bounds:
+      left: 996
+      right: 1286
+      top: 2841
+      bottom: 2906
+- paragraphs:
+  - text: |
+      Joan Elfie
+      -OILLON, Patrick Philip Lee
+    bounds:
+      left: 1374
+      right: 1705
+      top: 2841
+      bottom: 2906
+- paragraphs:
+  - text: |
+      ÞDEANS, Michael Robin
+      •WILLIAMS, Thomas Coldham
+    bounds:
+      left: 230
+      right: 887
+      top: 2933
+      bottom: 2969
+  - text: 'BORTHWICK, Thomas Malcolm
+
+'
+    bounds:
+      left: 1005
+      right: 1314
+      top: 2937
+      bottom: 2968
+  - text: |
+      -DILLON. Rachel Anne
+      GOODWIN, Annette Beatrice -PHELPS, Gay
+    bounds:
+      left: 258
+      right: 1616
+      top: 2941
+      bottom: 2998
+  - text: 'K000, Wendy Alison
+
+'
+    bounds:
+      left: 1018
+      right: 1236
+      top: 2971
+      bottom: 3002
+  - text: |
+      -SAVORY, Robert
+      -0EANS. Alastair Colin -WILLIAMS. Richard Alister (Buzz) »BORTIWICK, Patricia Mary
+    bounds:
+      left: 230
+      right: 1569
+      top: 2976
+      bottom: 3036
+  - text: |
+      -OILLON, Joanna Lee
+      -FlacFARLANE, Barbara Anne -PEARCE. Susan Elizabeth
+    bounds:
+      left: 244
+      right: 1605
+      top: 3010
+      bottom: 3067
+  - text: |
+      -BELL, Francis Michael Dillon - CAMERON, David
+      -BORTHWICK. Robin John
+    bounds:
+      left: 995
+      right: 1570
+      top: 3036
+      bottom: 3101
+  - text: |
+      +0ILLON, Patrick Francis Lee
+      --CGREGOR, Robin
+    bounds:
+      left: 1003
+      right: 1715
+      top: 3072
+      bottom: 3140
+  - text: |
+      - THOOEY, Susan Lee
+      »BORTHWICK. Hamish Charles
+      -CAL{EROV, Anne Florence
+    bounds:
+      left: 993
+      right: 1604
+      top: 3110
+      bottom: 3203
+- paragraphs:
+  - text: '248
+
+'
+    bounds:
+      left: 1152
+      right: 1221
+      top: 3307
+      bottom: 3350

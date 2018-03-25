@@ -1,0 +1,224 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, Henry and COLDHAM, Marianne
+
+'
+    bounds:
+      left: 213
+      right: 1516
+      top: 161
+      bottom: 222
+  - text: |
+      WILLIAMS, Marianne and DAVIES, Christopher Pearson
+      IDAVIES, Marianne Caroline and BUSBY, William
+      JBUSBY, Kathleen Mary and CANNING, Davis
+      ICANNING, John Davis (Jack) and BARRETT, Bertha
+      ICANNING, Diana Marion and POORE, Roger R
+    bounds:
+      left: 582
+      right: 1874
+      top: 217
+      bottom: 477
+- paragraphs:
+  - text: |
+      01> CANNING, Diana Marion m on 25.10.1952 to POORE, Roger R
+      b 13.02.1928 d 13.11.1996
+    bounds:
+      left: 510
+      right: 1876
+      top: 516
+      bottom: 636
+  - text: |
+      b 21.06.1924
+      Diana b. at Napier, m, at Porangahau and d. at Auckland. Roger, s/o Philip Poore and Ciceley
+      Eleanour Barry. Address: 216 Kelvin Road, Remuera, Auckland.
+    bounds:
+      left: 601
+      right: 2080
+      top: 583
+      bottom: 731
+- paragraphs:
+  - text: |
+      01> POORE, Marion Rosalind m on 18.04.1981 to HODSON, Richard John
+      b 15.11.1953
+    bounds:
+      left: 581
+      right: 2137
+      top: 766
+      bottom: 886
+  - text: |
+      b 16.08.1952
+      Marion b. at Whangarei and m. at Auckland. Address: PO Box 11, Bombay, South Auckland.
+      Marion was educated at Auckland Diocesan School for Girls and graduated BSc, MBChB, DipObs from
+      University of Otago. She is now in general practice.
+    bounds:
+      left: 679
+      right: 2313
+      top: 834
+      bottom: 1031
+- paragraphs:
+  - text: '01> HODSON, Roger John
+
+'
+    bounds:
+      left: 658
+      right: 1208
+      top: 1066
+      bottom: 1124
+  - text: |
+      b 30.07.1983
+      Roger b. at Dunedin.
+    bounds:
+      left: 752
+      right: 1080
+      top: 1130
+      bottom: 1221
+- paragraphs:
+  - text: "> HODSON, David Alexander Simon\n"
+    bounds:
+      left: 706
+      right: 1488
+      top: 1271
+      bottom: 1321
+  - text: |
+      b 10.01.1986
+      David b. at Dunedin.
+    bounds:
+      left: 748
+      right: 1078
+      top: 1329
+      bottom: 1422
+- paragraphs:
+  - text: '03> HODSON, Rosemary Elizabeth Marion
+
+'
+    bounds:
+      left: 656
+      right: 1593
+      top: 1461
+      bottom: 1529
+  - text: |
+      b 14.10.1989
+      Rosemary b. at Auckland.
+    bounds:
+      left: 750
+      right: 1157
+      top: 1530
+      bottom: 1623
+- paragraphs:
+  - text: '02> POORE, Caroline Louise m on 01.12.1979 to SPENCER, Montgomery
+
+'
+    bounds:
+      left: 575
+      right: 2107
+      top: 1714
+      bottom: 1776
+  - text: |
+      Martyn
+      b 31.03.1955
+    bounds:
+      left: 679
+      right: 1908
+      top: 1779
+      bottom: 1868
+  - text: |
+      b 30.08.1951
+      Caroline b. and m. at Auckland. Address: Te Peneha Farm, Tuapiro RD, Katikati, Bay of Plenty.
+      Caroline was educated at Auckland Diocesan School of Girls and graduated BHortSc from Massey
+      University. She is now a research worker in hydroponics at Tauranga Polytech.
+    bounds:
+      left: 676
+      right: 2210
+      top: 1834
+      bottom: 2027
+- paragraphs:
+  - text: '01> SPENCER, Fergus Montgomery
+
+'
+    bounds:
+      left: 656
+      right: 1416
+      top: 2062
+      bottom: 2129
+  - text: |
+      b 19.08.1983
+      Fergus b. at Tauranga.
+    bounds:
+      left: 752
+      right: 1105
+      top: 2130
+      bottom: 2224
+- paragraphs:
+  - text: '02> SPENCER, Guy Barrett
+
+'
+    bounds:
+      left: 657
+      right: 1256
+      top: 2262
+      bottom: 2324
+  - text: |
+      b 17.11.1985
+      Guy b. at Tauranga.
+    bounds:
+      left: 757
+      right: 1066
+      top: 2330
+      bottom: 2422
+- paragraphs:
+  - text: |
+      > POORE , Elizabeth Julia m on 06.08.1983 to WILSON, John Paul
+      b 16.03.1957
+    bounds:
+      left: 635
+      right: 2055
+      top: 2526
+      bottom: 2618
+  - text: |
+      b 05.10.1955
+      Elizabeth b. at m. at Auckland. Address: via Jarach 7, Milan 20128, Italy.
+      Elizabeth was educated at Auckland Diocesan School for Girls and graduated BA from University
+      of Auckland and RSA Dip. She is now translating and teaching English at the School for
+      Interpreters and Translaters in Milan.
+    bounds:
+      left: 670
+      right: 2206
+      top: 2579
+      bottom: 2822
+- paragraphs:
+  - text: '01> WILSON, John Bernard
+
+'
+    bounds:
+      left: 657
+      right: 1266
+      top: 2862
+      bottom: 2924
+  - text: |
+      b 28.07.1984
+      John b. at Milan.
+    bounds:
+      left: 750
+      right: 1017
+      top: 2929
+      bottom: 3020
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 202
+      right: 830
+      top: 3266
+      bottom: 3328
+- paragraphs:
+  - text: '200
+
+'
+    bounds:
+      left: 1218
+      right: 1290
+      top: 3278
+      bottom: 3320

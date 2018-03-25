@@ -1,0 +1,364 @@
+---
+blocks:
+- paragraphs:
+  - text: "|1.08.01\n"
+    bounds:
+      left: 2147
+      right: 2322
+      top: 359
+      bottom: 420
+- paragraphs:
+  - text: |
+      HADFIELD, Henry Samuel
+      = TUCKEY, Elizabeth Rhodes
+    bounds:
+      left: 843
+      right: 1428
+      top: 554
+      bottom: 659
+- paragraphs:
+  - text: 'Alan Henry
+
+'
+    bounds:
+      left: 449
+      right: 566
+      top: 758
+      bottom: 790
+- paragraphs:
+  - text: |
+      Gordon Horatio
+      -GRAY, Maisie Dunbar
+    bounds:
+      left: 595
+      right: 835
+      top: 760
+      bottom: 822
+- paragraphs:
+  - text: |
+      Catherine Isobel (Kit)
+      -COOPER, Edward Cecil
+    bounds:
+      left: 949
+      right: 1211
+      top: 756
+      bottom: 819
+- paragraphs:
+  - text: |
+      Hilda Mary
+      -HAWKES. Charles Adderley
+    bounds:
+      left: 1303
+      right: 1602
+      top: 754
+      bottom: 811
+- paragraphs:
+  - text: |
+      Selwyn Tancred
+      =(1)HARPER, Rosamond Mary Templer
+    bounds:
+      left: 1640
+      right: 2047
+      top: 749
+      bottom: 818
+- paragraphs:
+  - text: "+HADFIELD. Barbara Elizabeth -COOPER, Brigit Nancy\n"
+    bounds:
+      left: 594
+      right: 1201
+      top: 856
+      bottom: 889
+  - text: 'HAWKES, Gordon
+
+'
+    bounds:
+      left: 1313
+      right: 1479
+      top: 852
+      bottom: 884
+  - text: |
+      -HADFIELD, Michael Strachey
+      -ACMORRAN, George Hamish -(1 NELSON, Sydney Charles -HAWKES, Jocelyn Adderley
+    bounds:
+      left: 606
+      right: 1970
+      top: 848
+      bottom: 924
+  - text: |
+      SILVER, Patricia Rose
+      HADFIELD, Henry Barry Gray -(2 JPOTTER, David
+    bounds:
+      left: 609
+      right: 1924
+      top: 882
+      bottom: 962
+  - text: |
+      -(1 JHATSON, Edward Jacques »HADFIELD, Dawn Gay (Sue)
+      -HOWELL, Nina Millicent -COOPER, Robin Diana
+    bounds:
+      left: 609
+      right: 1944
+      top: 914
+      bottom: 987
+  - text: "-(2 RAINEGlyn Bulmer\n"
+    bounds:
+      left: 1312
+      right: 1577
+      top: 949
+      bottom: 985
+  - text: |
+      -SUTCLIFF, Paul Richard
+      -ROGERSON, Timothy Cunliffe »HAWKES, Martyn Yerrow=(2)GREENSLADE. Mavis
+      -COOPER. Vivienne Jean
+    bounds:
+      left: 947
+      right: 1938
+      top: 951
+      bottom: 1054
+  - text: |
+      -CAMPBELL, Yvonne Mary
+      -BROWN, Noel Graeme
+      -COOPER, Philip Rodney
+    bounds:
+      left: 944
+      right: 1576
+      top: 1020
+      bottom: 1122
+- paragraphs:
+  - text: '1.08.04
+
+'
+    bounds:
+      left: 2172
+      right: 2327
+      top: 1282
+      bottom: 1323
+- paragraphs:
+  - text: |
+      HADFIELD, Annie
+      = MARSHALL, John Willoughby
+    bounds:
+      left: 769
+      right: 1374
+      top: 1369
+      bottom: 1467
+- paragraphs:
+  - text: 'Marjorie Catherine John Willoughby Hadfield Alan Hadfield
+
+'
+    bounds:
+      left: 580
+      right: 1291
+      top: 1563
+      bottom: 1598
+  - text: "*PEARCE. May Vater\n"
+    bounds:
+      left: 1137
+      right: 1349
+      top: 1599
+      bottom: 1629
+- paragraphs:
+  - text: |
+      Nina Evelyn
+      =PARIMITTER, Charles Adrian
+    bounds:
+      left: 1477
+      right: 1793
+      top: 1565
+      bottom: 1629
+- paragraphs:
+  - text: "-MARSHALL, John Pearce\n"
+    bounds:
+      left: 1136
+      right: 1400
+      top: 1663
+      bottom: 1696
+  - text: |
+      ÞPARMITTER. Pauline Huberte
+      MARSHALL, Alan Roger
+    bounds:
+      left: 1151
+      right: 1802
+      top: 1655
+      bottom: 1738
+  - text: |
+      PARMITTER, Charles Nigel
+      GROTRIAN, Deryn Elizabeth
+    bounds:
+      left: 1157
+      right: 1775
+      top: 1696
+      bottom: 1763
+- paragraphs:
+  - text: "(1.08.06\n"
+    bounds:
+      left: 2139
+      right: 2320
+      top: 1786
+      bottom: 1874
+- paragraphs:
+  - text: |
+      HADFIELD, Catherine
+      = DOVE, Julian Llewellyn
+    bounds:
+      left: 464
+      right: 1004
+      top: 1941
+      bottom: 2043
+- paragraphs:
+  - text: |
+      Arthur Julian Hadfield
+      -BARTHOLOMEW, Betty Eyre Godson
+    bounds:
+      left: 576
+      right: 948
+      top: 2135
+      bottom: 2193
+- paragraphs:
+  - text: |
+      DOVE, Susannah Mary
+      SHUCKSMITH, Tam
+    bounds:
+      left: 587
+      right: 815
+      top: 2234
+      bottom: 2296
+- paragraphs:
+  - text: '1.08.07||
+
+'
+    bounds:
+      left: 2172
+      right: 2359
+      top: 2212
+      bottom: 2271
+- paragraphs:
+  - text: |
+      HADFIELD, Alexander Charles (Aleck)
+      = FULFORD. Marion Francis
+    bounds:
+      left: 1343
+      right: 2133
+      top: 2267
+      bottom: 2376
+- paragraphs:
+  - text: |
+      Ellis Charles Raymond
+      -SMYTH. Alice Mary
+    bounds:
+      left: 1608
+      right: 1869
+      top: 2464
+      bottom: 2530
+- paragraphs:
+  - text: |
+      -HADFIELD. Alexander Charles Fulford
+      =AL TMAYER, Ann Elizabeth
+      HADFIELD. Alice Mary Caroline (Molly)
+      =SWITEK, Evek
+    bounds:
+      left: 1610
+      right: 2072
+      top: 2563
+      bottom: 2699
+- paragraphs:
+  - text: |
+      HADFIELD, Ernest Frederick
+      = WOOD, Ada Mary Louise
+    bounds:
+      left: 449
+      right: 1038
+      top: 2660
+      bottom: 2766
+- paragraphs:
+  - text: '1.08.08
+
+'
+    bounds:
+      left: 2178
+      right: 2333
+      top: 2714
+      bottom: 2755
+- paragraphs:
+  - text: 'Ernestine Miriam
+
+'
+    bounds:
+      left: 270
+      right: 469
+      top: 2855
+      bottom: 2880
+- paragraphs:
+  - text: |
+      Dorothy
+      =2OHRAB, John Fortescue
+    bounds:
+      left: 490
+      right: 765
+      top: 2859
+      bottom: 2925
+- paragraphs:
+  - text: |
+      Gwendolyn Margaret
+      =PEATE. Clement Cecil
+    bounds:
+      left: 868
+      right: 1121
+      top: 2860
+      bottom: 2919
+- paragraphs:
+  - text: 'Elizabeth Anne
+
+'
+    bounds:
+      left: 1149
+      right: 1319
+      top: 2862
+      bottom: 2887
+- paragraphs:
+  - text: 'ZOHRAB, Edith Mary
+
+'
+    bounds:
+      left: 503
+      right: 719
+      top: 2956
+      bottom: 2982
+  - text: |
+      -PEATE. Roger Hadfield
+      -HAROIE BOYS, Michael
+    bounds:
+      left: 504
+      right: 1137
+      top: 2960
+      bottom: 3020
+  - text: |
+      =WAGNER, Natalie
+      ZOHRAB. John Hadfield
+      -ZOHRAB, Allen Edward Hadfield
+      -(1 JAHITEHOUSE, Jacqueline
+      -(2 HOOPER, Janet Alice
+      +ZOHRAB, James Hadfield
+    bounds:
+      left: 489
+      right: 1074
+      top: 2990
+      bottom: 3185
+  - text: |
+      -BOYO, Patricia Rosemary
+      ZOHRAB. William John
+      HOPK000, Kerin Wallace
+    bounds:
+      left: 503
+      right: 791
+      top: 3191
+      bottom: 3283
+- paragraphs:
+  - text: '345
+
+'
+    bounds:
+      left: 1281
+      right: 1354
+      top: 3294
+      bottom: 3345

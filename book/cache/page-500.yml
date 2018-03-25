@@ -1,0 +1,213 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, William and NELSON, Jane
+
+'
+    bounds:
+      left: 209
+      right: 1436
+      top: 173
+      bottom: 228
+  - text: |
+      JWILLIAMS, William Leonard and WANKLYN, Sarah
+      JWILLIAMS, Emily Jane and GRAY, Charles
+      VGRAY, Donald Camplin and HAY , Frances Ethel
+      IGRAY, Ivan Donald and FLAHAULT, Madeleine Anne
+      IGRAY, Robert Charles and LYONS, Kim
+    bounds:
+      left: 578
+      right: 1770
+      top: 224
+      bottom: 485
+- paragraphs:
+  - text: |
+      03> GRAY, Robert Charles m on 05.06.1993 to (2)LYONS, Kim
+      b 16.11.1956
+    bounds:
+      left: 506
+      right: 1833
+      top: 527
+      bottom: 634
+  - text: |
+      b 30.03. ****
+      Robert m. at Sydney, Australia. Address: 56 Castlereagh Street, Tahmoor 2573, NSW, Australia.
+      Robert moved to Sydney in 1965 and completed high school matriculation. He travelled around
+      Australia for a couple of years before returning to Sydney and training as a chartered accountant.
+      He lived in Toronto, Canada, for a little over two years from late 1986 to early 1989. He is
+      currently working as a chartered accountant.
+      Kim has one child from her first marriage. She is a teacher and an accomplished artist.
+    bounds:
+      left: 598
+      right: 2138
+      top: 584
+      bottom: 934
+- paragraphs:
+  - text: '01> GRAY, Liam David
+
+'
+    bounds:
+      left: 576
+      right: 1084
+      top: 974
+      bottom: 1037
+  - text: 'b 09.06.1996
+
+'
+    bounds:
+      left: 680
+      right: 893
+      top: 1037
+      bottom: 1077
+- paragraphs:
+  - text: |
+      04> GRAY, Jacqueline Sheila Michelle m on 08.04.1989 to HINCHLIFFE, Neil
+      b 07.05.1959
+    bounds:
+      left: 504
+      right: 2205
+      top: 1174
+      bottom: 1279
+  - text: |
+      b 12.12.1961
+      Jacqueline b. at Vancouver, Canada, and m, at Sydney, Australia. Neil, s/o Brian and Edith
+      Hinchliffe, b. at Manchester, England. Address: 188 Sailors Bay Road, Northbridge 2063, NSW,
+      Australia.
+      Jacqueline moved to Sydney in 1965 where, after completing high school, she worked as a finished
+      artist in the advertising industry. She travelled extensively and lived and worked in Vancouver
+      for about a year. She is currently undertaking studies in horticulture.
+      Neil moved to Australia in 1987 and is a podiatrist.
+    bounds:
+      left: 592
+      right: 2146
+      top: 1237
+      bottom: 1631
+- paragraphs:
+  - text: '01> HINCHLIFFE, Oscar George
+
+'
+    bounds:
+      left: 579
+      right: 1277
+      top: 1670
+      bottom: 1732
+  - text: 'b 20.06.1991
+
+'
+    bounds:
+      left: 680
+      right: 892
+      top: 1736
+      bottom: 1776
+- paragraphs:
+  - text: '02> HINCHLIFFE, Charles Louis
+
+'
+    bounds:
+      left: 578
+      right: 1306
+      top: 1818
+      bottom: 1885
+  - text: 'b 18.07.1993
+
+'
+    bounds:
+      left: 681
+      right: 894
+      top: 1888
+      bottom: 1928
+- paragraphs:
+  - text: '03> HINCHLIFFE, Max Donald
+
+'
+    bounds:
+      left: 579
+      right: 1235
+      top: 1970
+      bottom: 2032
+  - text: 'b 02.11.1995
+
+'
+    bounds:
+      left: 679
+      right: 894
+      top: 2035
+      bottom: 2077
+- paragraphs:
+  - text: |
+      03> GRAY, Agnes Saram on 13.10.1915 to BLUNT, Hugh Roper
+      b 08.11.1887 d **.03.1948
+    bounds:
+      left: 350
+      right: 1677
+      top: 2180
+      bottom: 2279
+  - text: |
+      b ** ** 1874 d ** **, 1931
+      Agnes b. at Waiohika and d, at Gisborne. Hugh b. in England and d, at Srinagar, Kashmir.
+      Hugh attended Radley School in England and trained as a civil engineer. He went gold mining at Ross,
+      British Columbia, Canada about 1900 and in 1910 he went to Kashmir where he 'built' the road to Gilgit via
+      Burzil Pass. Subsequently he was manager of a carpet factory.
+    bounds:
+      left: 448
+      right: 2137
+      top: 2232
+      bottom: 2480
+- paragraphs:
+  - text: '01> BLUNT, Barbara Aldham
+
+'
+    bounds:
+      left: 427
+      right: 1072
+      top: 2529
+      bottom: 2575
+  - text: |
+      b 25.11.1918 d ** ** 1967
+      Barbara b. at Srinagar, Kashmir and d. at Gisborne.
+    bounds:
+      left: 525
+      right: 1341
+      top: 2584
+      bottom: 2683
+- paragraphs:
+  - text: |
+      02> BLUNT, Michael Hugh m on 15.11.1958 to FIELD, Suzanne Mary
+      b 05.03.1920 d **.06.1983
+    bounds:
+      left: 432
+      right: 1887
+      top: 2722
+      bottom: 2827
+  - text: |
+      b 03.08.1924 d 18.01.1983
+      Michael b. at Srinagar, Kashmir and d. at Wellington.
+      Michael qualified MRCVS, London, and served in the 14th Army and a veterinary officer during the
+      re-capture of Burma. He was later a veterinarian at Ruatoria and Gisborne. He graduated PhD from the
+      University of New England, NSW and undertook research in haematology at Augusta, Georgia, USA, and
+      returned to New Zealand to take up a position of Assistant Director, Animal Health Division with the
+      Ministry of Agriculture and Fisheries. Upon retirement, he became Executive Director of the New
+      Zealand Veterinary Association.
+    bounds:
+      left: 519
+      right: 2198
+      top: 2780
+      bottom: 3185
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 208
+      right: 830
+      top: 3274
+      bottom: 3336
+- paragraphs:
+  - text: '502
+
+'
+    bounds:
+      left: 1217
+      right: 1291
+      top: 3273
+      bottom: 3338

@@ -1,0 +1,148 @@
+---
+blocks:
+- paragraphs:
+  - text: 'The Descendants of William and Jane Williams
+
+'
+    bounds:
+      left: 224
+      right: 1328
+      top: 214
+      bottom: 276
+- paragraphs:
+  - text: ":::\n"
+    bounds:
+      left: 2018
+      right: 2067
+      top: 440
+      bottom: 469
+- paragraphs:
+  - text: ":::. .. ***\n"
+    bounds:
+      left: 1951
+      right: 2069
+      top: 476
+      bottom: 495
+  - text: ".\n"
+    bounds:
+      left: 2063
+      right: 2068
+      top: 493
+      bottom: 515
+- paragraphs:
+  - text: ":::-: ...\n"
+    bounds:
+      left: 1959
+      right: 2018
+      top: 814
+      bottom: 835
+- paragraphs:
+  - text: "*': ... "
+    bounds:
+      left: 1952
+      right: 1990
+      top: 834
+      bottom: 846
+- paragraphs:
+  - text: "**\n"
+    bounds:
+      left: 1364
+      right: 1429
+      top: 904
+      bottom: 920
+- paragraphs:
+  - text: "-5D\n"
+    bounds:
+      left: -79
+      right: 2149
+      top: 119
+      bottom: 1667
+- paragraphs:
+  - text: |
+      Photo from: Mr GS Williams
+      William Leonard WILLIAMS (1829 - 1916).
+    bounds:
+      left: 397
+      right: 1163
+      top: 1525
+      bottom: 1597
+- paragraphs:
+  - text: |
+      Photo from: Mr AC Williams
+      Frederick Wanklyn WILLIAMS (1854 - 1940).
+    bounds:
+      left: 1330
+      right: 2136
+      top: 1527
+      bottom: 1600
+- paragraphs:
+  - text: '"..'', ": ..
+
+'
+    bounds:
+      left: 1497
+      right: 1572
+      top: 1655
+      bottom: 1666
+- paragraphs:
+  - text: '" . **". ".m.
+
+'
+    bounds:
+      left: 1612
+      right: 1730
+      top: 1653
+      bottom: 1666
+- paragraphs:
+  - text: 'CIA.
+
+'
+    bounds:
+      left: 1907
+      right: 1999
+      top: 1880
+      bottom: 1896
+- paragraphs:
+  - text: '7". Siimona***
+
+'
+    bounds:
+      left: 1157
+      right: 1249
+      top: 1954
+      bottom: 1968
+- paragraphs:
+  - text: 'NAI
+
+'
+    bounds:
+      left: 714
+      right: 777
+      top: 2498
+      bottom: 2524
+- paragraphs:
+  - text: |
+      Photo from: Rev JS Williams
+      At Te Rau Kahikatea: Sydney Leonard WILLIAMS (1866 - 1890), Agnes Maria WILLIAMS (1862 - 1921) md GARDINER,
+    bounds:
+      left: 319
+      right: 2144
+      top: 3117
+      bottom: 3196
+  - text: |
+      Francis James Volkner (Frank) WILLIAMS (1866 - 1938), Edith Mary WILLIAMS (1859 - 1939),
+      Arthur Edward WILLIAMS (1869 - 1930), Sarah WILLIAMS (1828 - 1894) nee WANKLYN, William Leonard WILLIAMS (1829 - 1916).
+    bounds:
+      left: 254
+      right: 2133
+      top: 3202
+      bottom: 3287
+- paragraphs:
+  - text: '448
+
+'
+    bounds:
+      left: 1148
+      right: 1224
+      top: 3304
+      bottom: 3357

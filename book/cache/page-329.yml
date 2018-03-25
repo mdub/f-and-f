@@ -1,0 +1,234 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, Henry and COLDHAM, Marianne
+
+'
+    bounds:
+      left: 209
+      right: 1506
+      top: 182
+      bottom: 238
+  - text: |
+      JWILLIAMS, Sarah and HUTTON, Thomas Biddulph
+      VHUTTON, Marianne Elizabeth Georgina (Bessie) and KEMP, Francis James
+      JKEMP, Alfred Ernest and MAY, Dory
+      IKEMP, Frank James and HALL, Alma
+      JKEMP, James Ernest and PERRIN, Sally Mary
+    bounds:
+      left: 577
+      right: 2317
+      top: 237
+      bottom: 492
+- paragraphs:
+  - text: |
+      02> KEMP, James Ernest m on 28.09.1991 to PERRIN, Sally Mary
+      b 26.01.1960
+    bounds:
+      left: 504
+      right: 1901
+      top: 530
+      bottom: 646
+  - text: |
+      b 12.06.1959
+      James b. at Gisborne and m. at Cape Runaway. Address: "Rukuhanga" Station, Cape Runaway, via
+      Opotiki.
+      James is a farmer and Sally is a veterinary nurse from Cornwall, England.
+    bounds:
+      left: 589
+      right: 2149
+      top: 600
+      bottom: 795
+- paragraphs:
+  - text: '01> KEMP, Emily Mary
+
+'
+    bounds:
+      left: 574
+      right: 1082
+      top: 836
+      bottom: 892
+  - text: |
+      b 09.08.1992
+      Emily b. at Opotiki.
+    bounds:
+      left: 668
+      right: 985
+      top: 895
+      bottom: 995
+- paragraphs:
+  - text: '02> KEMP, Harriet Louisa
+
+'
+    bounds:
+      left: 578
+      right: 1175
+      top: 1034
+      bottom: 1092
+  - text: |
+      b 27.04.1995
+      Harriet b. at Opotiki.
+    bounds:
+      left: 677
+      right: 998
+      top: 1096
+      bottom: 1188
+- paragraphs:
+  - text: |
+      02> KEMP, May m on 10.10.1953 to ROBSON, Kenneth Roy
+      b 14.10.1927
+    bounds:
+      left: 427
+      right: 1623
+      top: 1291
+      bottom: 1387
+  - text: |
+      b 13.03.1928 d 27.09.1984
+      May b. at Opotiki. Kenneth, s/o William Roy Robson and Hilda Hogg, bd. at Hastings. Address: 221 Tudor
+      Avenue, Hastings. May was a school teacher and special IHC teacher.
+    bounds:
+      left: 518
+      right: 2211
+      top: 1340
+      bottom: 1491
+- paragraphs:
+  - text: |
+      01> ROBSON, John Roy m on 10.01.1981 to (1)PETITT, Nancy
+      b 05.12.1955
+    bounds:
+      left: 500
+      right: 1801
+      top: 1530
+      bottom: 1634
+  - text: |
+      b ** ** ****
+      John b. at Wellington and m. at Kerikeri. Divorced. Nancy, d/o John Pettit and Barbara Howie,
+    bounds:
+      left: 592
+      right: 2105
+      top: 1584
+      bottom: 1717
+- paragraphs:
+  - text: '01> ROBSON, Hamish
+
+'
+    bounds:
+      left: 581
+      right: 1034
+      top: 1737
+      bottom: 1783
+  - text: |
+      b 20.05.1979
+      Hamish b, at Kerikeri. He is a trainee chef.
+    bounds:
+      left: 677
+      right: 1359
+      top: 1793
+      bottom: 1888
+- paragraphs:
+  - text: |
+      01> ROBSON, John Roy m on 21.05.1988 to (2)QUENAUX, Stephonie
+      b 05.12.1955
+    bounds:
+      left: 502
+      right: 1923
+      top: 1982
+      bottom: 2083
+  - text: |
+      b 28.05.1963
+      John m, at Kerikeri. Stephonie, d/o Snowden Queunault and Beverley Eades, b. at St Heliers,
+      Jersey, Channel Islands. Address: c/- Red Boats, Milford Sound.
+      John was educated at Hastings Boys' High School and Massey University and is now Operations Manager
+      of Milford Sounds Red Boats.
+      Stephonie was educated at Wellington Girls' College and Wellington Polytechnic.
+    bounds:
+      left: 592
+      right: 2258
+      top: 2044
+      bottom: 2339
+- paragraphs:
+  - text: '01> ROBSON, Eugene Quenaux
+
+'
+    bounds:
+      left: 576
+      right: 1236
+      top: 2382
+      bottom: 2436
+  - text: |
+      b 27.03.1991
+      Eugene b. at Takapuna.
+    bounds:
+      left: 676
+      right: 1045
+      top: 2444
+      bottom: 2539
+- paragraphs:
+  - text: '02> ROBSON, Marcel Quenaux
+
+'
+    bounds:
+      left: 580
+      right: 1231
+      top: 2573
+      bottom: 2641
+  - text: |
+      b 03.01.1994
+      Marcel 6. at Waiheke Island.
+    bounds:
+      left: 679
+      right: 1128
+      top: 2642
+      bottom: 2735
+- paragraphs:
+  - text: |
+      02> ROBSON, Brian James m on 27.05.1982 to KEENAN, Ruth
+      b 22.05.1958
+    bounds:
+      left: 508
+      right: 1781
+      top: 2831
+      bottom: 2935
+  - text: |
+      b 08.09.1958
+      Separated. Address: 69/2 Artarmon Road, Willoughby 2068, NSW, Australia.
+    bounds:
+      left: 598
+      right: 1824
+      top: 2889
+      bottom: 2986
+- paragraphs:
+  - text: 'b1> ROBSON, Amber Jean
+
+'
+    bounds:
+      left: 582
+      right: 1141
+      top: 3022
+      bottom: 3089
+  - text: |
+      b 22.10.1977
+      Amber b. at Thames. She is a chef.
+    bounds:
+      left: 675
+      right: 1243
+      top: 3092
+      bottom: 3186
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 202
+      right: 828
+      top: 3280
+      bottom: 3343
+- paragraphs:
+  - text: '330
+
+'
+    bounds:
+      left: 1219
+      right: 1291
+      top: 3281
+      bottom: 3337

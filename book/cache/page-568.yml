@@ -1,0 +1,234 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, William and NELSON, Jane
+
+'
+    bounds:
+      left: 205
+      right: 1428
+      top: 178
+      bottom: 243
+  - text: |
+      JWILLIAMS, William Leonard and WANKLYN, Sarah
+      JWILLIAMS, Herbert William and MASON, Bertha Louisa Gertrude
+      JWILLIAMS, Herbert Meyric and PLUMMER, June
+      JWILLIAMS, Warwick Rodney and HASSALL, Henare Jane Shearburn
+      JWILLIAMS, Hamish Warwick Hassall and DAVIES, Philippa Jane
+    bounds:
+      left: 574
+      right: 2095
+      top: 236
+      bottom: 491
+- paragraphs:
+  - text: '02> WILLIAMS, Katie Emma
+
+'
+    bounds:
+      left: 576
+      right: 1180
+      top: 532
+      bottom: 593
+  - text: |
+      b 19.09.1995
+      Katie b. at London.
+    bounds:
+      left: 675
+      right: 975
+      top: 596
+      bottom: 691
+- paragraphs:
+  - text: |
+      02> WILLIAMS, Rachael m on 19.01.1985 to DICKERSON, Gregory
+      b 12.09.1960
+    bounds:
+      left: 501
+      right: 1877
+      top: 781
+      bottom: 889
+  - text: |
+      b 10.10.1960
+      Rachael b. at Waipawa and educated at Woodford House. Address: C/- W R Williams, Mount Erin Road,
+      RD 2, Hastings.
+    bounds:
+      left: 595
+      right: 2249
+      top: 845
+      bottom: 992
+- paragraphs:
+  - text: '01> DICKERSON, Alice Jane
+
+'
+    bounds:
+      left: 576
+      right: 1203
+      top: 1034
+      bottom: 1094
+  - text: |
+      b 12.06.1989
+      Alice b. at London, England.
+    bounds:
+      left: 673
+      right: 1128
+      top: 1096
+      bottom: 1194
+- paragraphs:
+  - text: '02> DICKERSON, Monique Anne
+
+'
+    bounds:
+      left: 577
+      right: 1250
+      top: 1228
+      bottom: 1297
+  - text: 'b 15.09.1991
+
+'
+    bounds:
+      left: 676
+      right: 885
+      top: 1292
+      bottom: 1340
+  - text: |
+      Monique b. at Singapore.
+      03> DICKERSON, Hollie Elizabeth Marjorie
+    bounds:
+      left: 578
+      right: 1582
+      top: 1344
+      bottom: 1494
+  - text: |
+      b 04.02.1995
+      Hollie b. at Singapore.
+    bounds:
+      left: 678
+      right: 1024
+      top: 1493
+      bottom: 1591
+- paragraphs:
+  - text: '03> WILLIAMS, Michael Warwick
+
+'
+    bounds:
+      left: 504
+      right: 1231
+      top: 1682
+      bottom: 1742
+  - text: |
+      b 25.06.1962
+      Michael b. at Waipawa. Address: C/- WR Williams, Mount Erin Road, RD 2, Hastings.
+      Michael was educated at Nelson College and is an orchardist.
+    bounds:
+      left: 604
+      right: 1997
+      top: 1743
+      bottom: 1890
+- paragraphs:
+  - text: |
+      04> WILLIAMS, Jeremy Warwick m on 07.01.1994 to LARKWORTHY, Mary Jane
+      b 04.09.1964
+    bounds:
+      left: 500
+      right: 2126
+      top: 1928
+      bottom: 2036
+  - text: |
+      b 25.09.1965
+      Jeremy b. at Waipawa. Address: 52 Reynolds Road, Havelock North.
+      Jeremy was educated at Nelson College and is an orchardist.
+    bounds:
+      left: 595
+      right: 1851
+      top: 1991
+      bottom: 2140
+- paragraphs:
+  - text: '01> WILLIAMS, Sophie Ann
+
+'
+    bounds:
+      left: 581
+      right: 1184
+      top: 2183
+      bottom: 2242
+  - text: |
+      b 28.01.1997
+      Sophie b. at Hastings.
+    bounds:
+      left: 669
+      right: 1017
+      top: 2244
+      bottom: 2342
+- paragraphs:
+  - text: |
+      02> WILLIAMS, Cynthia m on 19.01.1957 to SMITH, Anthony William
+      b 09.03.1937
+    bounds:
+      left: 433
+      right: 1911
+      top: 2435
+      bottom: 2537
+  - text: |
+      b 26.09.1929 d 04.03.1995
+      Cynthia b. at Te Awamutu and m, at Omakere, Hawkes Bay. Anthony, s/o William Wilkinson Smith and Sybil
+      Ida Walker, b. at Gisborne. Address: 91 Harley Street, Masterton.
+      Cynthia and Anthony are retired farmers.
+    bounds:
+      left: 520
+      right: 2249
+      top: 2490
+      bottom: 2689
+- paragraphs:
+  - text: '01> SMITH, Wendy June
+
+'
+    bounds:
+      left: 507
+      right: 1029
+      top: 2727
+      bottom: 2790
+  - text: |
+      b 01.03.1958
+      Wendy b. at Gisborne. Address: 1106 Victoria Street, Onehunga, Auckland.
+    bounds:
+      left: 607
+      right: 1793
+      top: 2791
+      bottom: 2886
+- paragraphs:
+  - text: |
+      02> SMITH, Simon Anthony m on 26.10.1985 to STEVENSON, Sara
+      b 24.03.1960
+    bounds:
+      left: 511
+      right: 1882
+      top: 2931
+      bottom: 3035
+  - text: |
+      b 13.06.1962
+      Simon b. at Gisborne. Sara, d/o Rick and Anne Stevenson, b. at Wellington. Address: 40 Dexter
+      Avenue, Mount Eden, Auckland.
+      Simon was educated at Wanganui Collegiate School (1973-77) and Lincoln University (1979-81),
+      (cont...)
+    bounds:
+      left: 589
+      right: 2137
+      top: 2986
+      bottom: 3235
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 209
+      right: 827
+      top: 3278
+      bottom: 3345
+- paragraphs:
+  - text: '570
+
+'
+    bounds:
+      left: 1220
+      right: 1294
+      top: 3280
+      bottom: 3331

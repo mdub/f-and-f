@@ -1,0 +1,232 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, William and NELSON, Jane
+
+'
+    bounds:
+      left: 212
+      right: 1435
+      top: 192
+      bottom: 247
+  - text: 'JWILLIAMS, James Nelson and BEETHAM, Mary-Margaret
+
+'
+    bounds:
+      left: 584
+      right: 1842
+      top: 245
+      bottom: 300
+  - text: |
+      WILLIAMS, Gertrude Mary Beetham and RUSSELL, Andrew Hamilton
+      IRUSSELL, Janet Margaret and KEMBALL, Vero Elliot
+      JKEMBALL, Katharine Veronica and SEVERNE, John de Milt
+      JSEVERNE , Veronica Jane and DUNNE, Martin Francis Gerard
+    bounds:
+      left: 586
+      right: 2127
+      top: 298
+      bottom: 502
+- paragraphs:
+  - text: '01> DUNNE, James Martin Gerard
+
+'
+    bounds:
+      left: 582
+      right: 1341
+      top: 538
+      bottom: 604
+  - text: |
+      b 12.11.1983
+      02> DUNNE, Peter John Gerard
+    bounds:
+      left: 581
+      right: 1287
+      top: 603
+      bottom: 758
+  - text: 'b 29.10.1988
+
+'
+    bounds:
+      left: 679
+      right: 894
+      top: 756
+      bottom: 798
+- paragraphs:
+  - text: |
+      02> SEVERNE, Amanda Carol m on 24.09.1977 to BAYFORD, Robin
+      b 13.10.1953
+    bounds:
+      left: 507
+      right: 1877
+      top: 891
+      bottom: 1002
+  - text: |
+      b 22.09.1949
+      Amanda b. at Bredon, England. Address: 8 Birchlands Avenue, London SW12, England.
+      Robin is a chartered accountant.
+    bounds:
+      left: 596
+      right: 1999
+      top: 957
+      bottom: 1102
+- paragraphs:
+  - text: '01> BAYFORD, Camilla
+
+'
+    bounds:
+      left: 583
+      right: 1080
+      top: 1142
+      bottom: 1201
+  - text: |
+      b 27.10.1981
+      02> BAYFORD, Alec
+    bounds:
+      left: 583
+      right: 1003
+      top: 1204
+      bottom: 1349
+  - text: 'b 27.07.1984
+
+'
+    bounds:
+      left: 682
+      right: 892
+      top: 1359
+      bottom: 1397
+- paragraphs:
+  - text: |
+      03> SEVERNE, Christina Anne m on ** ** **** to MORRIS, Gordon
+      b 18.04.1956
+    bounds:
+      left: 508
+      right: 1931
+      top: 1500
+      bottom: 1601
+  - text: |
+      b 07.01.1951
+      Christina b. in West Germany. Gordon is a serving officer in the RAF.
+    bounds:
+      left: 603
+      right: 1823
+      top: 1553
+      bottom: 1651
+- paragraphs:
+  - text: '01> MORRIS, Sarah
+
+'
+    bounds:
+      left: 584
+      right: 1012
+      top: 1690
+      bottom: 1749
+  - text: 'b 14.11.1984
+
+'
+    bounds:
+      left: 679
+      right: 895
+      top: 1757
+      bottom: 1800
+- paragraphs:
+  - text: '02> MORRIS, David
+
+'
+    bounds:
+      left: 580
+      right: 1014
+      top: 1842
+      bottom: 1901
+  - text: 'b 19.06.1986
+
+'
+    bounds:
+      left: 681
+      right: 897
+      top: 1909
+      bottom: 1947
+- paragraphs:
+  - text: |
+      03>' RUSSELL, Andrew Hamilton m on ** ** **** to MCSWEENY, Eve
+      b 11.01.1903 d 28.05.1970
+    bounds:
+      left: 354
+      right: 1782
+      top: 2046
+      bottom: 2149
+  - text: |
+      b 06.06.1900 d 13.08.1979
+      Andrew b. at Frimley. Eve nee Barry. Andrew purchased "Mangatoitoi" station in 1930 and farmed there until
+      he retired to Gisborne in 1966.
+    bounds:
+      left: 446
+      right: 2182
+      top: 2102
+      bottom: 2250
+- paragraphs:
+  - text: |
+      Mangatoitoi Station
+      Andrew Hamilton Russell purchased "Mangatoitoi" station in 1930 from Randall Sherratt and farmed there
+      until he retired to Gisborne in 1966. He was one of the pioneers of aerial topdressing and this greatly
+      improved the productivity of this medium to steep hill country property. After he retired the property was
+      farmed by his daughter, Katherine Mary Cave (nee Russell) and her husband Adrian Michael Cave. In 1989
+      their eldest son, Philip Russell Cave, became involved in the running of the property.
+    bounds:
+      left: 441
+      right: 2155
+      top: 2302
+      bottom: 2602
+- paragraphs:
+  - text: |
+      01> RUSSELL, Katherine Mary m on 26.04.1961 to CAVE, Adrian Michael
+      b 05.07.1939
+    bounds:
+      left: 434
+      right: 2011
+      top: 2641
+      bottom: 2749
+  - text: |
+      b 01.11.1934
+      Adrian, slo H E Cave and JK Gardner. Address: Mangatoitoi, RD 2, Ngatapa, Gisborne.
+      Mary and Adrian have lived and farmed on "Mangatoitoi" station since 1966.
+    bounds:
+      left: 525
+      right: 1941
+      top: 2702
+      bottom: 2851
+- paragraphs:
+  - text: |
+      01> CAVE, Philip Russell m on ** ** **** to PARSONS, Maree Colleen
+      b 05.03.1963
+    bounds:
+      left: 509
+      right: 2069
+      top: 2889
+      bottom: 2999
+  - text: |
+      b 12.09.1964
+      Maree, d/o William Charles Parsons and Colleen Thelma Mary Riddall, b. at Te Kuiti.
+    bounds:
+      left: 619
+      right: 1968
+      top: 2956
+      bottom: 3051
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 209
+      right: 834
+      top: 3295
+      bottom: 3350
+- paragraphs:
+  - text: '615
+
+'
+    bounds:
+      left: 1219
+      right: 1296
+      top: 3298
+      bottom: 3352

@@ -1,0 +1,150 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, William and NELSON, Jane
+
+'
+    bounds:
+      left: 206
+      right: 1433
+      top: 194
+      bottom: 249
+  - text: |
+      JWILLIAMS, William Leonard and WANKLYN, Sarah
+      JWILLIAMS, Francis James Volkner (Frank) and STANDISH, Edith Frances
+      JWILLIAMS, Gerald Standish and ROLLESTON, Rachel Fane
+      JWILLIAMS, William Rolleston Standish (Bill) and DAVEY, Jillian Myrtle
+    bounds:
+      left: 576
+      right: 2347
+      top: 249
+      bottom: 455
+- paragraphs:
+  - text: |
+      03> WILLIAMS, Benjamin Gerald
+      b 20.12.1977
+    bounds:
+      left: 506
+      right: 1238
+      top: 496
+      bottom: 603
+  - text: |
+      Benjamin b. at Auckland. He was educated at Westlake Boys' High School and is now
+      completing a Certificate in Graphic Pre-Press at Auckland Institute of Technology,
+      with a view to a career in desktop publishing.
+    bounds:
+      left: 832
+      right: 2200
+      top: 611
+      bottom: 760
+- paragraphs:
+  - text: |
+      02> WILLIAMS, Anna Mary
+      b 23.10.1949
+    bounds:
+      left: 426
+      right: 1001
+      top: 992
+      bottom: 1106
+  - text: |
+      Anna b. at Hastings. Address: 99 Grafton Road, Roseneath, Wellington.
+      Anna gained a BA Degree in 1971 and a Diploma in Social Work in 1982, both from Victoria
+      University, and gained a Certificate of Hand Loom Weaving from Nelson Polytechnic in
+      1977. She works as an Oriental Rug Repairer and Restorer.
+    bounds:
+      left: 752
+      right: 2219
+      top: 1110
+      bottom: 1308
+- paragraphs:
+  - text: |
+      01> WILLIAMS, Alden Norman
+      b 27.05.1986
+    bounds:
+      left: 501
+      right: 1159
+      top: 1447
+      bottom: 1550
+  - text: 'Alden b. at Wellington.
+
+'
+    bounds:
+      left: 837
+      right: 1199
+      top: 1560
+      bottom: 1604
+- paragraphs:
+  - text: |
+      03> WILLIAMS, Louise Rachel m on 10.05.1975 to PEMBERTON, Douglas Gregory
+      b 30.04.1951
+    bounds:
+      left: 425
+      right: 2158
+      top: 1940
+      bottom: 2049
+  - text: |
+      b 28.02.1948
+      Louise b, at Hastings. Gregory, s/o Ernest Louis Bain Pemberton and Elsie
+    bounds:
+      left: 961
+      right: 2139
+      top: 2005
+      bottom: 2104
+  - text: |
+      Millicent Cribb, b, at Timaru. Address: 10 Douglas Street, Whakatane.
+      Louise graduated BA from Canterbury University in 1972. She worked as a
+      medical social worker and gained a Certificate in Social Work in the same
+      year. After gaining her Diploma in Teaching in 1975, she taught in Nelson for
+    bounds:
+      left: 961
+      right: 2201
+      top: 2106
+      bottom: 2304
+  - text: |
+      two years.
+      Greg graduated MagEng from Canterbury University in 1975 and he and Louise lived in Barbados from 1977
+      until 1980. Greg worked as an agricultural engineering consultant with the Caribbean Development Bank
+      and Louise taught both primary and secondary students, as well as English to foreign students. In 1981
+      Greg, Louise and her father, Gerald, sailed their nine-metre yacht from Barbados, through the Panama
+      Canal, to Auckland. They settled in Whakatane in 1984. Louise is job sharing a primary teaching
+      position and Greg is a director with Environment Bay of Plenty.
+    bounds:
+      left: 519
+      right: 2255
+      top: 2311
+      bottom: 2654
+- paragraphs:
+  - text: |
+      01> PEMBERTON, Matthew Gerald
+      b 02.03.1983
+    bounds:
+      left: 510
+      right: 1248
+      top: 2698
+      bottom: 2800
+  - text: 'Matthew b. at Nelson.
+
+'
+    bounds:
+      left: 856
+      right: 1188
+      top: 2811
+      bottom: 2852
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 206
+      right: 835
+      top: 3294
+      bottom: 3359
+- paragraphs:
+  - text: '592
+
+'
+    bounds:
+      left: 1220
+      right: 1294
+      top: 3293
+      bottom: 3358

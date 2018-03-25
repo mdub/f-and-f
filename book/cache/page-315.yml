@@ -1,0 +1,343 @@
+---
+blocks:
+- paragraphs:
+  - text: "[1.07.00\n"
+    bounds:
+      left: 2159
+      right: 2335
+      top: 286
+      bottom: 349
+- paragraphs:
+  - text: |
+      WILLIAMS, Sarah
+      = HUTTON, Thomas Biddulph
+    bounds:
+      left: 920
+      right: 1488
+      top: 707
+      bottom: 814
+- paragraphs:
+  - text: 'Henrietta Jane Anna Maria
+
+'
+    bounds:
+      left: 541
+      right: 852
+      top: 900
+      bottom: 927
+  - text: "-BRANCH, Henry (Harry)\n"
+    bounds:
+      left: 731
+      right: 994
+      top: 932
+      bottom: 966
+- paragraphs:
+  - text: |
+      George Thomas Frederick
+      -(I)BARTON. Katherine Carne
+    bounds:
+      left: 1035
+      right: 1360
+      top: 903
+      bottom: 970
+- paragraphs:
+  - text: 'Edward Michael Marianne Elizabeth Georgina (8essie)
+
+'
+    bounds:
+      left: 1385
+      right: 2025
+      top: 905
+      bottom: 949
+  - text: "-KEMP, Francis James\n"
+    bounds:
+      left: 1585
+      right: 1825
+      top: 942
+      bottom: 977
+- paragraphs:
+  - text: |
+      »BRANCH, Olive Winifred -HUTTON, Edward George
+      =BATE, Charles
+    bounds:
+      left: 728
+      right: 1299
+      top: 998
+      bottom: 1068
+  - text: |
+      -ARNOT. Alice May
+      +8RANCH. Freda Christine *(2)MESSER, Alison
+    bounds:
+      left: 725
+      right: 1252
+      top: 1035
+      bottom: 1105
+  - text: |
+      «TUCKEY, Arthur William »HUTTON, Maia Thomas
+      -BRANCH. Henry Kenneth -BEVERIDGE, Joyce Elizabeth
+    bounds:
+      left: 723
+      right: 1372
+      top: 1100
+      bottom: 1170
+  - text: |
+      -NICHOLLS, Elsie
+      -BRANCH, Leslie Roy
+      -(1 NIXON. Annie
+      -(2)LEACH, Nora
+      =(3 JFISHER. Jacqueline
+    bounds:
+      left: 723
+      right: 1002
+      top: 1167
+      bottom: 1334
+- paragraphs:
+  - text: 'XEMP, Alfred Ernest
+
+'
+    bounds:
+      left: 1591
+      right: 1824
+      top: 1009
+      bottom: 1043
+  - text: |
+      -MAY, Dory
+      ÞXEMP. Hayward Francis
+    bounds:
+      left: 1581
+      right: 1850
+      top: 1042
+      bottom: 1113
+  - text: |
+      =ALLISON, Ruby Mary
+      -KEMP, Edith Sarah
+    bounds:
+      left: 1579
+      right: 1825
+      top: 1110
+      bottom: 1178
+  - text: |
+      -WILSON, James Frederic (Fritz)
+      -KEMP, Ralph
+    bounds:
+      left: 1577
+      right: 1970
+      top: 1176
+      bottom: 1250
+  - text: |
+      =LEWIS. Gwladus Rata
+      -KEMP, Athel Lewis
+    bounds:
+      left: 1577
+      right: 1834
+      top: 1243
+      bottom: 1309
+  - text: |
+      =NICOL, Jessie Isobel
+      -KEMP. Ada Charlotte
+    bounds:
+      left: 1577
+      right: 1844
+      top: 1310
+      bottom: 1380
+  - text: |
+      -BUCHANAN, James Leslie
+      -KEMP. Kathleen Louisa
+    bounds:
+      left: 1575
+      right: 1868
+      top: 1377
+      bottom: 1447
+  - text: 'WATKINS, Reginald Frank Rupert (Rex)
+
+'
+    bounds:
+      left: 1601
+      right: 2039
+      top: 1444
+      bottom: 1482
+- paragraphs:
+  - text: '1.07.02
+
+'
+    bounds:
+      left: 2157
+      right: 2314
+      top: 1692
+      bottom: 1787
+- paragraphs:
+  - text: |
+      HUTTON, Anna Maria
+      = BRANCH, Henry (Harry)
+    bounds:
+      left: 604
+      right: 1118
+      top: 1792
+      bottom: 1893
+- paragraphs:
+  - text: 'Olive Winifred Freda Christine
+
+'
+    bounds:
+      left: 478
+      right: 853
+      top: 1986
+      bottom: 2016
+  - text: |
+      Henry Kenneth
+      -BATE, Charles =TUCKEY, Arthur William =NICHOLLS, Elsie
+    bounds:
+      left: 477
+      right: 1171
+      top: 1987
+      bottom: 2055
+- paragraphs:
+  - text: |
+      Leslie Roy
+      =(1)NIXON, Annie
+    bounds:
+      left: 1304
+      right: 1500
+      top: 1984
+      bottom: 2046
+- paragraphs:
+  - text: "-BRANCH, Joan Mavis\n"
+    bounds:
+      left: 978
+      right: 1205
+      top: 2085
+      bottom: 2115
+  - text: |
+      -(2)LEACH, Nora
+      -WATSON, Donald Cameron
+    bounds:
+      left: 991
+      right: 1486
+      top: 2084
+      bottom: 2146
+  - text: |
+      BRANCH, Colin Rex
+      »BRANCH, Ann Christine
+    bounds:
+      left: 978
+      right: 1524
+      top: 2119
+      bottom: 2177
+  - text: |
+      =JACOB. Cathleen Emma
+      -80NE. John Bron
+    bounds:
+      left: 994
+      right: 1574
+      top: 2151
+      bottom: 2210
+  - text: |
+      BRANCH. Nora Patricia
+      -BRANCH, Henry Christopher -BRUNT, Ronald Herbert (Bully)
+      MARSH, Mavis Primrose
+    bounds:
+      left: 978
+      right: 1685
+      top: 2181
+      bottom: 2276
+  - text: |
+      -BRANCK, Helen
+      =(3)FISHER. Jacqueline
+    bounds:
+      left: 1306
+      right: 1573
+      top: 2245
+      bottom: 2315
+- paragraphs:
+  - text: "|1.07.03\n"
+    bounds:
+      left: 2141
+      right: 2319
+      top: 2422
+      bottom: 2481
+- paragraphs:
+  - text: |
+      HUTTON, George Thomas Frederick
+      = BARTON, Katherine Carne
+    bounds:
+      left: 439
+      right: 1136
+      top: 2490
+      bottom: 2592
+- paragraphs:
+  - text: 'HUTTON, George Thomas Frederick
+
+'
+    bounds:
+      left: 1383
+      right: 2089
+      top: 2480
+      bottom: 2534
+  - text: "= MESSER, Alison\n"
+    bounds:
+      left: 1623
+      right: 1980
+      top: 2536
+      bottom: 2584
+- paragraphs:
+  - text: |
+      Edward George
+      -ARNDT, Alice May
+    bounds:
+      left: 620
+      right: 825
+      top: 2684
+      bottom: 2746
+- paragraphs:
+  - text: |
+      Maia Thomas
+      -BEVERIDGE. Joyce Elizabeth
+    bounds:
+      left: 1712
+      right: 2039
+      top: 2680
+      bottom: 2745
+- paragraphs:
+  - text: |
+      +HUTTON. Noel Edward
+      =TE AMHARE. Hi amoe (Barbara)
+      HUTTON, June Katherine
+      =LUTZ, Leonard Desmond
+      HUTTON, James Frederick
+      -BRADSHAW, Enid Mae
+      HUTTON, Robert Clayton
+      =TAKIARI, Atarua (Topsy)
+    bounds:
+      left: 622
+      right: 962
+      top: 2782
+      bottom: 3047
+- paragraphs:
+  - text: |
+      HUTTON, Alison Eileen
+      -BEATTIE. Andrew James
+      HUTTON, Bruce
+      -(I)LAWSON, Ruth Elizabeth
+      «(2 JASHTON, Seona Winifred
+      HUTTON, Jill
+      -WEBER, Ian Albert
+      +HUTTON, Gail
+      «(I MERCES. Tyrone Angelo
+      -(2 JAHITE. Derek
+      HUTTON, Keith
+      -(1 HARBORNE, Maureen
+      (2 CROSBIE. Gayleen
+    bounds:
+      left: 1716
+      right: 2045
+      top: 2778
+      bottom: 3208
+- paragraphs:
+  - text: '316
+
+'
+    bounds:
+      left: 1162
+      right: 1231
+      top: 3297
+      bottom: 3341

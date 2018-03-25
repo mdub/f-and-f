@@ -1,0 +1,168 @@
+---
+blocks:
+- paragraphs:
+  - text: 'The Descendants of William Leonard and Sarah Williams
+
+'
+    bounds:
+      left: 233
+      right: 1549
+      top: 214
+      bottom: 267
+- paragraphs:
+  - text: ".\n"
+    bounds:
+      left: 236
+      right: 248
+      top: 323
+      bottom: 325
+- paragraphs:
+  - text: "+ S\n"
+    bounds:
+      left: 1799
+      right: 1816
+      top: 333
+      bottom: 346
+- paragraphs:
+  - text: ", * .\n"
+    bounds:
+      left: 2033
+      right: 2112
+      top: 348
+      bottom: 411
+- paragraphs:
+  - text: ". 'S "
+    bounds:
+      left: 1797
+      right: 1814
+      top: 421
+      bottom: 436
+- paragraphs:
+  - text: '5
+
+'
+    bounds:
+      left: 636
+      right: 666
+      top: 492
+      bottom: 566
+- paragraphs:
+  - text: "*\n"
+    bounds:
+      left: 627
+      right: 634
+      top: 605
+      bottom: 614
+- paragraphs:
+  - text: 'E
+
+'
+    bounds:
+      left: 677
+      right: 680
+      top: 664
+      bottom: 698
+- paragraphs:
+  - text: "\",\n"
+    bounds:
+      left: 308
+      right: 325
+      top: 1369
+      bottom: 1382
+- paragraphs:
+  - text: |
+      Photo from: Rev Jr Maclean
+      Leonard Herbert Lionel MACLEAN (1881 - 1967), Kenneth Edward MACLEAN (1883 - 1943),
+    bounds:
+      left: 494
+      right: 2135
+      top: 1508
+      bottom: 1591
+  - text: |
+      Francis Sydney (Frank) MACLEAN (1892 - 1966), William Haydon MACLEAN (1879 - 1939),
+      Eric Wanklyn MACLEAN (1886 - 1940), Frederick Hector MACLEAN (1894 - 1948), Christopher Nelson MACLEAN (1897 - 1982),
+    bounds:
+      left: 245
+      right: 2128
+      top: 1585
+      bottom: 1683
+  - text: 'Jean Elizabeth CURRIE (1910 - 1984) md SYME, Margaret Isobel CURRIE (1908
+      - 1997) md BLYTH,
+
+'
+    bounds:
+      left: 490
+      right: 1876
+      top: 1674
+      bottom: 1730
+  - text: |
+      Mildred Ethel MACLEAN (1893 - 1972) nee AWDRY, Dorothy MACLEAN (1888 - 1931),
+      Janet Margaret MACLEAN (1897 - 1982) nee ANSON, Christopher Haydon MACLEAN (1845 - 1913),
+      Margaret Elizabeth CURRIE (1884 - 1951) nee MACLEAN, Edith Sarah (Sallie) MACLEAN (1890 - 1971),
+    bounds:
+      left: 456
+      right: 1929
+      top: 1722
+      bottom: 1862
+  - text: 'Dorothy Isabel MACLEAN (1892 - 1971) nee WARD.
+
+'
+    bounds:
+      left: 815
+      right: 1552
+      top: 1863
+      bottom: 1906
+- paragraphs:
+  - text: "::: ***\n"
+    bounds:
+      left: 1999
+      right: 2014
+      top: 2081
+      bottom: 2164
+- paragraphs:
+  - text: "*\n"
+    bounds:
+      left: 1883
+      right: 1892
+      top: 2226
+      bottom: 2259
+- paragraphs:
+  - text: "* .\n"
+    bounds:
+      left: 1899
+      right: 1923
+      top: 2325
+      bottom: 2347
+- paragraphs:
+  - text: 'SERIE '
+    bounds:
+      left: 1660
+      right: 1686
+      top: 2626
+      bottom: 2664
+- paragraphs:
+  - text: |
+      Photo from: Rev Jr Maclean
+      Anne Margaret Palmer ROSS (1915 - ) nee dMACLEAN, Kenneth Joseph Palmer (Joe) MACLEAN (1917 - 1992),
+    bounds:
+      left: 403
+      right: 2063
+      top: 3056
+      bottom: 3142
+  - text: 'John Raglan MACLEAN (1919 - ), James Nelson (Jim) MACLEAN (1919 - 1991).
+
+'
+    bounds:
+      left: 598
+      right: 1793
+      top: 3138
+      bottom: 3184
+- paragraphs:
+  - text: '596
+
+'
+    bounds:
+      left: 1152
+      right: 1228
+      top: 3302
+      bottom: 3350

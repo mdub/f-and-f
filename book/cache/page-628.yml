@@ -1,0 +1,331 @@
+---
+blocks:
+- paragraphs:
+  - text: "[2.09.00\n"
+    bounds:
+      left: 2153
+      right: 2332
+      top: 315
+      bottom: 379
+- paragraphs:
+  - text: |
+      WILLIAMS, Emma Caroline
+      = NELSON, William
+    bounds:
+      left: 828
+      right: 1343
+      top: 796
+      bottom: 902
+- paragraphs:
+  - text: |
+      Lionel (Jack)
+      -CHAMBERS. Esther Margaret
+    bounds:
+      left: 821
+      right: 1135
+      top: 994
+      bottom: 1068
+- paragraphs:
+  - text: |
+      Hilda Margaret
+      -COTTERILL. George Robert
+    bounds:
+      left: 1325
+      right: 1626
+      top: 997
+      bottom: 1054
+- paragraphs:
+  - text: 'NELSON, Beatrice Esther
+
+'
+    bounds:
+      left: 839
+      right: 1113
+      top: 1097
+      bottom: 1131
+  - text: |
+      -COTTERILL, Enid Mary
+      -SCHUCARD, Carl
+    bounds:
+      left: 837
+      right: 1575
+      top: 1089
+      bottom: 1166
+  - text: |
+      -STEWART, Eric Joseph
+      NELSON. Hugh Douglas
+    bounds:
+      left: 838
+      right: 1591
+      top: 1122
+      bottom: 1200
+  - text: |
+      -COTTERILL. George William
+      -SMITH. Cynthia Helen Margaret
+      NELSON, John Dudley
+    bounds:
+      left: 838
+      right: 1644
+      top: 1159
+      bottom: 1265
+  - text: |
+      SARLL, Georgina Sybil Gratwick
+      NELSON, Guy Harold
+      -MATTHEWS. Rhoda Anne Marriott (Bobbie)
+      NELSON. Kathleen Margaret
+      =THOMSON. Charles Herbert
+      NELSON, Michael
+      =ADAMS, Jean Emily
+    bounds:
+      left: 837
+      right: 1313
+      top: 1261
+      bottom: 1499
+- paragraphs:
+  - text: '2.09.01
+
+'
+    bounds:
+      left: 2169
+      right: 2327
+      top: 1643
+      bottom: 1706
+- paragraphs:
+  - text: |
+      NELSON, Lionel (Jack)
+      = CHAMBERS, Esther Margaret
+    bounds:
+      left: 896
+      right: 1507
+      top: 1695
+      bottom: 1799
+- paragraphs:
+  - text: 'Beatrice Esther Hugh Douglas
+
+'
+    bounds:
+      left: 391
+      right: 747
+      top: 1891
+      bottom: 1924
+  - text: |
+      John Dudley
+      Guy Harold
+    bounds:
+      left: 995
+      right: 1520
+      top: 1893
+      bottom: 1927
+  - text: |
+      Kathleen Margaret
+      -SCHUCARD. Carl =SMITH, Cynthia Helen Margaret -SARLL. Georgina Sybil Gratwick =MATTHEWS, Rhoda Anne Marriott (Bobbie) -THOMSON, Charles Herbert
+    bounds:
+      left: 395
+      right: 2204
+      top: 1863
+      bottom: 1998
+- paragraphs:
+  - text: |
+      NELSON, Anne Caroline
+      =HILSON, Robin John Douglas
+      NELSON. Mary Jane Rosamond
+      4000IE. John Eisdell
+      NELSON. Virginia Frances
+    bounds:
+      left: 1407
+      right: 1736
+      top: 1995
+      bottom: 2162
+- paragraphs:
+  - text: "- NELSON, Jennifer Helen\n"
+    bounds:
+      left: 602
+      right: 879
+      top: 1992
+      bottom: 2024
+  - text: |
+      NELSON. Rosemary Margaret
+      -HUNT, John Hamilton
+    bounds:
+      left: 615
+      right: 1302
+      top: 1992
+      bottom: 2060
+  - text: |
+      =KEMP, Kenneth Peter
+      +NELSON, Derek Anthony
+    bounds:
+      left: 601
+      right: 1247
+      top: 2026
+      bottom: 2092
+  - text: |
+      -NELSON, Janet
+      --GREENOUGH, Joan
+    bounds:
+      left: 613
+      right: 1160
+      top: 2060
+      bottom: 2124
+  - text: |
+      =(1 JALLEN, Robert
+      NELSON, Timothy Denis
+    bounds:
+      left: 613
+      right: 1209
+      top: 2092
+      bottom: 2160
+  - text: |
+      a(2)COOPER. Anthony S
+      NELSON, Richard Rupert Lionel - NELSON, William Lionel
+      =WEBSTER, Elizabeth
+    bounds:
+      left: 614
+      right: 1269
+      top: 2125
+      bottom: 2226
+  - text: |
+      -CKENNA, Jeanne
+      NELSON, John Mason
+      -BURPEE, Sandra Jean
+    bounds:
+      left: 1006
+      right: 1248
+      top: 2198
+      bottom: 2289
+  - text: |
+      NELSON, James Edward
+      NELSON, Lionel (Jack) - CHAMBERS, Esther Margaret (cont)
+    bounds:
+      left: 198
+      right: 1244
+      top: 2288
+      bottom: 2352
+  - text: |
+      HABEY, Bridget Ann
+      NELSON, George Stephen
+    bounds:
+      left: 1005
+      right: 1269
+      top: 2326
+      bottom: 2393
+  - text: |
+      -MASOY-ELLIOTT, Diana Mary
+      Michael
+      -ADAMS. Jean Emily
+    bounds:
+      left: 427
+      right: 1317
+      top: 2389
+      bottom: 2493
+- paragraphs:
+  - text: "+THOMSON, Malcolm William (Bill)\n"
+    bounds:
+      left: 1895
+      right: 2288
+      top: 1998
+      bottom: 2032
+  - text: |
+      =BENNETT, Lyndon
+      -THOMSON, Nancy Patricia
+    bounds:
+      left: 1899
+      right: 2189
+      top: 2034
+      bottom: 2099
+  - text: |
+      STRATFORD, Warwick
+      · THOMSON, Christine Margaret
+    bounds:
+      left: 1896
+      right: 2241
+      top: 2102
+      bottom: 2168
+  - text: |
+      -PYNER, Jeremy Dorian
+      THOMSON, Anne Mary (Min)
+      =(1 REEVES, lan James Stewart
+      -(2)LEE, Mike
+    bounds:
+      left: 1906
+      right: 2264
+      top: 2166
+      bottom: 2298
+- paragraphs:
+  - text: '2.09.02
+
+'
+    bounds:
+      left: 2167
+      right: 2317
+      top: 2522
+      bottom: 2565
+- paragraphs:
+  - text: |
+      NELSON. Linda Ruth
+      -SINNER. James Albert
+      NELSON, Cristobal Miguel
+      -LAWSON, Wendy
+      +NELSON, Ximena Jean
+    bounds:
+      left: 427
+      right: 730
+      top: 2525
+      bottom: 2684
+- paragraphs:
+  - text: |
+      NELSON, Hilda Margaret
+      = COTTERILL, George Robert
+    bounds:
+      left: 1372
+      right: 1960
+      top: 2566
+      bottom: 2667
+- paragraphs:
+  - text: 'George William
+
+'
+    bounds:
+      left: 1765
+      right: 1936
+      top: 2765
+      bottom: 2790
+- paragraphs:
+  - text: |
+      Enid Mary
+      -STEWART. Eric Joseph
+    bounds:
+      left: 1433
+      right: 1690
+      top: 2764
+      bottom: 2819
+- paragraphs:
+  - text: |
+      STEWART, Sally
+      -TURNER. Henry Thomas
+      STEWART. Ann
+    bounds:
+      left: 1448
+      right: 1700
+      top: 2859
+      bottom: 2952
+  - text: |
+      KLACHLAN, Edward Morris
+      STEWART, Janet Mary
+      <TAYLOR, Mervyn (Buster)
+      STEWART, Jill
+      -MORLEY. John Henry
+    bounds:
+      left: 1445
+      right: 1751
+      top: 2960
+      bottom: 3120
+- paragraphs:
+  - text: '630
+
+'
+    bounds:
+      left: 1154
+      right: 1228
+      top: 3269
+      bottom: 3319

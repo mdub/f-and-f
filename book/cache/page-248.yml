@@ -1,0 +1,408 @@
+---
+blocks:
+- paragraphs:
+  - text: '1.05.06
+
+'
+    bounds:
+      left: 2160
+      right: 2317
+      top: 294
+      bottom: 353
+- paragraphs:
+  - text: |
+      WILLIAMS, Wyvern Henry
+      = MASON, Evelyn Muriel
+    bounds:
+      left: 306
+      right: 802
+      top: 368
+      bottom: 470
+- paragraphs:
+  - text: |
+      Wyvern Annie
+      -BUNNY, William lan
+    bounds:
+      left: 448
+      right: 681
+      top: 565
+      bottom: 630
+- paragraphs:
+  - text: "-BUNNY. Beveley Ann\n"
+    bounds:
+      left: 446
+      right: 679
+      top: 664
+      bottom: 692
+  - text: |
+      -ARMISTEAD, Cyril James
+      +BUNNY, Thomas William
+      -LEWIS, Diana Katherine
+    bounds:
+      left: 444
+      right: 735
+      top: 694
+      bottom: 798
+- paragraphs:
+  - text: '1.05.09 ||
+
+'
+    bounds:
+      left: 2165
+      right: 2371
+      top: 796
+      bottom: 862
+- paragraphs:
+  - text: |
+      WILLIAMS, Eila Mabel
+      = REED, Vernon Herbert
+    bounds:
+      left: 1239
+      right: 1729
+      top: 809
+      bottom: 913
+- paragraphs:
+  - text: |
+      Thomas Walton
+      -HENDERSON, Hannah Eleanor Evelyn
+    bounds:
+      left: 994
+      right: 1397
+      top: 1014
+      bottom: 1073
+- paragraphs:
+  - text: |
+      Nigel Vernon
+      -LANGSTAFF, Ellen Elizabeth
+    bounds:
+      left: 1427
+      right: 1755
+      top: 1011
+      bottom: 1071
+- paragraphs:
+  - text: |
+      Elfie Clare Temple
+      -ELLIOTT, James Kennedy
+    bounds:
+      left: 1863
+      right: 2152
+      top: 1007
+      bottom: 1077
+- paragraphs:
+  - text: |
+      REED, Judith Mary
+      -CROPPER, Nicholas
+      REED, Kirsty Evelyn
+    bounds:
+      left: 1010
+      right: 1242
+      top: 1113
+      bottom: 1209
+  - text: |
+      KGILL, Ian William
+      -REED. Vernon David Lang
+      -COOK, Mary Ann
+    bounds:
+      left: 995
+      right: 1287
+      top: 1211
+      bottom: 1311
+- paragraphs:
+  - text: "-REED, Eila Josephine\n"
+    bounds:
+      left: 1425
+      right: 1679
+      top: 1109
+      bottom: 1139
+  - text: |
+      -ELLIOTT, Ann Eila
+      -SEARLES, Clive Barrington (Barry) -GREEN, Michael James Bay
+      -REED, Nigel John Vernon
+    bounds:
+      left: 1424
+      right: 2186
+      top: 1106
+      bottom: 1208
+  - text: |
+      ELLIOTT, Nigel Kennedy
+      ÞREED. Caroline Sarah
+      -HILL, James Charles
+    bounds:
+      left: 1423
+      right: 2148
+      top: 1171
+      bottom: 1282
+- paragraphs:
+  - text: "|1.05.10 ||\n"
+    bounds:
+      left: 2141
+      right: 2358
+      top: 1286
+      bottom: 1345
+- paragraphs:
+  - text: |
+      WILLIAMS, Algar Temple
+      = BOYLE, Janet
+    bounds:
+      left: 272
+      right: 776
+      top: 1282
+      bottom: 1409
+  - text: |
+      T
+      Juliet David Temple Belinda Temple
+    bounds:
+      left: 268
+      right: 705
+      top: 1413
+      bottom: 1518
+  - text: "*FITZGERALD. Gerald\n"
+    bounds:
+      left: 541
+      right: 770
+      top: 1516
+      bottom: 1550
+- paragraphs:
+  - text: 'FITZGERALO, Edward Temple Guy
+
+'
+    bounds:
+      left: 546
+      right: 902
+      top: 1585
+      bottom: 1619
+  - text: |
+      MCCLELLANO, Lisa Jane
+      FITZGERALD. Patrick David Temple
+      =PATTRICK, Wendy Ruth
+      FITZGERALD, Caroline Temple
+    bounds:
+      left: 549
+      right: 939
+      top: 1620
+      bottom: 1753
+- paragraphs:
+  - text: '1.05.11
+
+'
+    bounds:
+      left: 2152
+      right: 2310
+      top: 1790
+      bottom: 1853
+- paragraphs:
+  - text: |
+      WILLIAMS, Elva Mildred (Una)
+      = HOARE , Reginald Arthur
+    bounds:
+      left: 1273
+      right: 1902
+      top: 1851
+      bottom: 1955
+- paragraphs:
+  - text: 'Merrick Colt Temple Anne Temple Githa
+
+'
+    bounds:
+      left: 1240
+      right: 1698
+      top: 2046
+      bottom: 2083
+  - text: "*TWEEDIE. Vere Justin\n"
+    bounds:
+      left: 1496
+      right: 1750
+      top: 2079
+      bottom: 2117
+- paragraphs:
+  - text: |
+      Reginald Merrick
+      -BUCKLAND. Barbara Jean
+    bounds:
+      left: 1822
+      right: 2106
+      top: 2048
+      bottom: 2105
+- paragraphs:
+  - text: "-TWEEDIE, Sarah Patricia »HOARE, Diana Charlotte\n"
+    bounds:
+      left: 1492
+      right: 2102
+      top: 2144
+      bottom: 2177
+  - text: |
+      =TOWNSEND. Edward Charles -TAUNTON. William
+      TWEEDIE, Amanda Jane Anne -HOARE. Clare Githa
+      -ARIGHT, John
+    bounds:
+      left: 1507
+      right: 2054
+      top: 2179
+      bottom: 2279
+  - text: |
+      PHOARE, Charles Mark
+      TWEEDIE, Simon Vere
+    bounds:
+      left: 1507
+      right: 2066
+      top: 2246
+      bottom: 2311
+  - text: |
+      HOARE. Paul Reginald Richard
+      O'KELLY. Margaret Mary
+    bounds:
+      left: 1523
+      right: 2182
+      top: 2280
+      bottom: 2340
+- paragraphs:
+  - text: |
+      WILLIAMS, Enid Githa
+      = FERGUSSON, James Andrew
+    bounds:
+      left: 422
+      right: 993
+      top: 2331
+      bottom: 2438
+- paragraphs:
+  - text: '11.05.12
+
+'
+    bounds:
+      left: 2147
+      right: 2321
+      top: 2416
+      bottom: 2459
+- paragraphs:
+  - text: 'Anne Mary
+
+'
+    bounds:
+      left: 1128
+      right: 1235
+      top: 2532
+      bottom: 2557
+- paragraphs:
+  - text: |
+      Edith Margaret
+      -SCHOLFIELD. Ralph
+    bounds:
+      left: 186
+      right: 400
+      top: 2536
+      bottom: 2596
+- paragraphs:
+  - text: 'Augusta Susan
+
+'
+    bounds:
+      left: 429
+      right: 585
+      top: 2533
+      bottom: 2563
+  - text: |
+      Jean Annie
+      MARX. George Francis Locke -ORR-EWING, Edward Lindsay
+    bounds:
+      left: 445
+      right: 1098
+      top: 2534
+      bottom: 2595
+- paragraphs:
+  - text: |
+      -MARX, Andrew John Locke
+      -(1 COLLINS. Rosemary
+    bounds:
+      left: 430
+      right: 722
+      top: 2632
+      bottom: 2695
+  - text: |
+      (2 REID. Amanda
+      MARX, David George Locke
+      -0ICKIE, Jill Morag
+    bounds:
+      left: 442
+      right: 732
+      top: 2701
+      bottom: 2795
+- paragraphs:
+  - text: 'WILLIAMS, Erl Temple
+
+'
+    bounds:
+      left: 1215
+      right: 1659
+      top: 2776
+      bottom: 2832
+  - text: 'VALLANCE, Eila Mary
+
+'
+    bounds:
+      left: 1260
+      right: 1684
+      top: 2831
+      bottom: 2881
+- paragraphs:
+  - text: '1.05.13
+
+'
+    bounds:
+      left: 2160
+      right: 2322
+      top: 2740
+      bottom: 2828
+- paragraphs:
+  - text: |
+      Audrey Temple
+      -LITTLE, James Robert
+    bounds:
+      left: 1123
+      right: 1377
+      top: 2980
+      bottom: 3036
+- paragraphs:
+  - text: 'Michael Charles Temple Peter Temple
+
+'
+    bounds:
+      left: 1408
+      right: 1839
+      top: 2970
+      bottom: 3006
+  - text: "-BONHAM CARTER. Daphne Mary\n"
+    bounds:
+      left: 1703
+      right: 2026
+      top: 3005
+      bottom: 3031
+- paragraphs:
+  - text: |
+      -LITTLE. Henry Michael
+      LITTLE, Harold
+    bounds:
+      left: 1126
+      right: 1390
+      top: 3076
+      bottom: 3141
+- paragraphs:
+  - text: |
+      -WILLIAMS, Felicity
+      *(1 HOLMO00, Richard
+      *(2 GILBERTSON. Graeme penzies
+      WILLIAMS, Gabrielle (Gay)
+      --EYER, John Hunter
+    bounds:
+      left: 1699
+      right: 2077
+      top: 3071
+      bottom: 3234
+- paragraphs:
+  - text: '249
+
+'
+    bounds:
+      left: 1282
+      right: 1354
+      top: 3298
+      bottom: 3347

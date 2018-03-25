@@ -1,0 +1,236 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, Henry and COLDHAM, Marianne
+
+'
+    bounds:
+      left: 199
+      right: 1496
+      top: 183
+      bottom: 244
+  - text: |
+      JWILLIAMS, Thomas Coldham and BEETHAM, Anne Palmer (Annie)
+      JWILLIAMS, Guy Coldham and HOPE-LEWIS, Eileen.
+    bounds:
+      left: 570
+      right: 2032
+      top: 231
+      bottom: 343
+  - text: |
+      WILLIAMS, Nancy Hope and BORTHWICK, Patrick John
+      IBORTHWICK, Patricia Mary and BELL, Francis Michael Dillon
+      IBELL, Sarah Mary and BROUGHTON, Roger
+      03> BROUGHTON, Rosie Amanda
+    bounds:
+      left: 570
+      right: 2044
+      top: 335
+      bottom: 601
+  - text: 'b 14.09.1989
+
+'
+    bounds:
+      left: 673
+      right: 888
+      top: 600
+      bottom: 643
+- paragraphs:
+  - text: |
+      03> BELL, Johnathan Dillon m on 07.07.1990 to GRAHAM, Lilias
+      b 05.10.1960
+    bounds:
+      left: 498
+      right: 1899
+      top: 730
+      bottom: 848
+  - text: |
+      b 16.02.1960
+      Lady Lilias, d/o the Duke and Duchess of Montrose. Address: 29 Gaya Grove, Wellington.
+      Johnny was educated at Christ's College (1974-78) and Canterbury University. He is a registered
+      engineer working for Telecom in Wellington,
+    bounds:
+      left: 588
+      right: 2126
+      top: 797
+      bottom: 999
+- paragraphs:
+  - text: '01> BELL, Charles Michael Dillon
+
+'
+    bounds:
+      left: 574
+      right: 1383
+      top: 1042
+      bottom: 1091
+  - text: 'b 09.01.1993
+
+'
+    bounds:
+      left: 675
+      right: 890
+      top: 1100
+      bottom: 1143
+- paragraphs:
+  - text: '02> BELL, Eleanor Caroline
+
+'
+    bounds:
+      left: 575
+      right: 1223
+      top: 1182
+      bottom: 1248
+  - text: 'b 08.10.1994
+
+'
+    bounds:
+      left: 676
+      right: 891
+      top: 1250
+      bottom: 1293
+- paragraphs:
+  - text: |
+      04> BELL, Nicola Mary m on 18.03.1989 to WILKINS, Marcus
+      b 05.07.1962
+    bounds:
+      left: 503
+      right: 1801
+      top: 1393
+      bottom: 1496
+  - text: |
+      b 08.03.1961
+      Marcus, s/o Marcus and Jan Wilkins, Te Puke. Address: 14 11th Avenue, Tauranga.
+      Nicola was educated at Woodford House (1975-79) and Canterbury University (1980-82), graduating
+      with a Commerce degree. She now works part-time as a market research consultant and is actively
+      involved with the Anglican Church.
+      After attending King's College in Auckland, Marcus obtained Law degree from Canterbury University.
+      He now practices as a lawyer in Tauranga and is an active member of the Anglican Church.
+    bounds:
+      left: 594
+      right: 2215
+      top: 1440
+      bottom: 1799
+- paragraphs:
+  - text: '01> WILKINS, Marcus George
+
+'
+    bounds:
+      left: 584
+      right: 1236
+      top: 1840
+      bottom: 1891
+  - text: 'b 24.08.1991
+
+'
+    bounds:
+      left: 684
+      right: 894
+      top: 1903
+      bottom: 1942
+- paragraphs:
+  - text: '02> WILKINS, Patrick James
+
+'
+    bounds:
+      left: 581
+      right: 1239
+      top: 1989
+      bottom: 2043
+  - text: 'b 15.01.1993
+
+'
+    bounds:
+      left: 683
+      right: 898
+      top: 2050
+      bottom: 2093
+- paragraphs:
+  - text: '03> WILKINS, Guy Michael
+
+'
+    bounds:
+      left: 581
+      right: 1186
+      top: 2130
+      bottom: 2196
+  - text: 'b 12.07.1995
+
+'
+    bounds:
+      left: 685
+      right: 894
+      top: 2200
+      bottom: 2245
+- paragraphs:
+  - text: |
+      03> BORTHWICK, Robin John m on 26.04.1962 to MCGREGOR, Robin
+      b 21.03.1938
+    bounds:
+      left: 432
+      right: 1838
+      top: 2338
+      bottom: 2443
+  - text: |
+      b 26.12.1937
+      Robin, d/o Norman James McGregor and Joan Marie Leslie Monckton. Address: "Te Whanga", RD 4, Masterton.
+      Robin is a stud breeder of Angus cattle.
+    bounds:
+      left: 526
+      right: 2329
+      top: 2388
+      bottom: 2547
+- paragraphs:
+  - text: |
+      01> BORTHWICK, Belinda Hope m on 26.11.1994 to MURRAY, Andrew Brent
+      b 27.11.1963
+    bounds:
+      left: 513
+      right: 2088
+      top: 2581
+      bottom: 2693
+  - text: |
+      b 07.04.1961
+      Belinda b. and m. at Masterton. Andrew, s/o Fergus John Murray and Barbara Annette Cresswell, b.
+      at Blenheim. Address: The Tummil, RD 6, Blenheim.
+      Belinda is an international travel consultant with the House of Travel in Blenheim.
+      Andrew is a sheep and cattle farmer in the Waihopai Valley.
+    bounds:
+      left: 604
+      right: 2208
+      top: 2639
+      bottom: 2899
+- paragraphs:
+  - text: '01> MURRAY, Phoebe Robin
+
+'
+    bounds:
+      left: 592
+      right: 1201
+      top: 2934
+      bottom: 2996
+  - text: |
+      b 18.11.1997
+      Phoebe b. at Blenheim.
+    bounds:
+      left: 684
+      right: 1052
+      top: 2999
+      bottom: 3096
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 215
+      right: 840
+      top: 3288
+      bottom: 3357
+- paragraphs:
+  - text: '260
+
+'
+    bounds:
+      left: 1232
+      right: 1304
+      top: 3293
+      bottom: 3335

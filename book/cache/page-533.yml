@@ -1,0 +1,221 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, William and NELSON, Jane
+
+'
+    bounds:
+      left: 209
+      right: 1436
+      top: 191
+      bottom: 246
+  - text: |
+      WILLIAMS. William Leonard and WANKLYN. Sarah
+      JWILLIAMS, Margaret Ellen and MACLEAN, Christopher Haydon
+      JMACLEAN, Margaret Elizabeth and CURRIE, George William
+      JCURRIE, Margaret Isobel and BLYTH, Harrison David
+      JBLYTH, James William and DRAIN, Joanne Elisabeth
+    bounds:
+      left: 581
+      right: 2022
+      top: 247
+      bottom: 495
+- paragraphs:
+  - text: |
+      02> BLYTH, James William m on 12.06.1996 to (2) DRAIN, Joanne Elisabeth
+      b 15.01.1945
+    bounds:
+      left: 511
+      right: 2165
+      top: 547
+      bottom: 653
+  - text: |
+      b 14.01.1960
+      James m. at Palmerston North. Joanne b. at Christchurch. Address: Annedale, Tinui, Wairarapa.
+      James was educated at Huntley School and Wanganui Collegiate School (cricket eleven, house prefect)
+      and is farming on the property once owned by TC Williams.
+    bounds:
+      left: 593
+      right: 2202
+      top: 604
+      bottom: 798
+- paragraphs:
+  - text: |
+      02> CURRIE, Jean Elizabeth m on 28.12.1935 to SYME, David Atkin
+      b 08.05.1910 d 13.01.1984
+    bounds:
+      left: 432
+      right: 1905
+      top: 895
+      bottom: 995
+  - text: |
+      b 20.11.1900 d 21.02.1991
+      Jean b. at Wanganui and m, at Christ Church, Wanganui. David, s/o George Syme and Amy Sargeant, b. at
+    bounds:
+      left: 518
+      right: 2217
+      top: 956
+      bottom: 1052
+  - text: |
+      Midhurst, Taranaki.
+      Jean was a Karitane nurse and David was a manufacturer's representative.
+    bounds:
+      left: 519
+      right: 1683
+      top: 1056
+      bottom: 1148
+- paragraphs:
+  - text: |
+      01> SYME, Janet Elizabeth am on 26.01.1963 to WOOD, David Edwin
+      b 23.02.1940
+    bounds:
+      left: 509
+      right: 1959
+      top: 1197
+      bottom: 1294
+  - text: |
+      b 28.08.1938
+      Janet b. at Wellington and m. at St Mary's Church, Karori. David, s/o Theo Wood and Margaret May,
+      b. at Wellington. Address: 53 Raroa Terrace, Linden, Wellington.
+      Janet trained as a Karitane nurse and also does interior decorating. David is Manager Corporate
+      Reporting with the New Zealand Fire Service.
+    bounds:
+      left: 592
+      right: 2221
+      top: 1256
+      bottom: 1498
+- paragraphs:
+  - text: '01> WOOD, Catherine Elizabeth
+
+'
+    bounds:
+      left: 582
+      right: 1317
+      top: 1544
+      bottom: 1595
+  - text: |
+      b 27.12.1963
+      Catherine is a registered nurse. She travelled overseas during 1987-91 and is presently working
+      in the Oncology Unit at Wellington Hospital.
+    bounds:
+      left: 670
+      right: 2167
+      top: 1604
+      bottom: 1751
+- paragraphs:
+  - text: |
+      02> WOOD, Helen Amanda m on 25.10.1986 to MOORE, Peter
+      b 08.08.1965
+    bounds:
+      left: 584
+      right: 1830
+      top: 1800
+      bottom: 1895
+  - text: |
+      b 21.09.1965
+      Address: 31 Redwood Avenue, Tawa, Wellington.
+      Peter is a shop manager.
+    bounds:
+      left: 675
+      right: 1754
+      top: 1852
+      bottom: 2003
+- paragraphs:
+  - text: '01> MOORE, Matthew David
+
+'
+    bounds:
+      left: 655
+      right: 1270
+      top: 2038
+      bottom: 2100
+  - text: |
+      b 24.03.1992
+      02> MOORE, Jonathon Bruce
+    bounds:
+      left: 659
+      right: 1290
+      top: 2104
+      bottom: 2248
+  - text: 'b 09.08.1994
+
+'
+    bounds:
+      left: 760
+      right: 976
+      top: 2252
+      bottom: 2295
+- paragraphs:
+  - text: '03> MOORE, Rachel Elizabeth
+
+'
+    bounds:
+      left: 662
+      right: 1342
+      top: 2342
+      bottom: 2396
+  - text: 'b 09.12.1997
+
+'
+    bounds:
+      left: 763
+      right: 974
+      top: 2402
+      bottom: 2444
+- paragraphs:
+  - text: |
+      03> WOOD, Sarah Ann Louise m on 25.03.1995 to HOLDAWAY, Allan
+      b 27.02.1969
+    bounds:
+      left: 588
+      right: 2012
+      top: 2530
+      bottom: 2647
+  - text: |
+      b 08.06.1970
+      Address: 4 Mercury Way, Whitby, Wellington.
+      Sarah graduated BCA in May 1991. She is an office manager and Allan manages a factory making
+      blinds.
+    bounds:
+      left: 678
+      right: 2236
+      top: 2600
+      bottom: 2796
+- paragraphs:
+  - text: |
+      02> SYME, Diana Mary m on 24.11.1962 to PETERSEN, David Marius
+      b 18.03.1942
+    bounds:
+      left: 510
+      right: 1960
+      top: 2889
+      bottom: 2997
+  - text: |
+      b 14.09.1937
+      Diana b. at Wellington and m. at St Mary's Church, Karori, Wellington, David, s/o Carl Marius
+      Petersen and Laila Bessie Eddy, b. at Waipawa. Address: Te Puna, Farm Road, RD 4, Waipukurau.
+      Diana is an ex-nurse and a partner in an antique business. She is a councillor for the Central
+      Hawkes Bay District Council. David is a farmer.
+    bounds:
+      left: 608
+      right: 2184
+      top: 2952
+      bottom: 3200
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 209
+      right: 839
+      top: 3294
+      bottom: 3352
+- paragraphs:
+  - text: '535
+
+'
+    bounds:
+      left: 1228
+      right: 1297
+      top: 3299
+      bottom: 3347

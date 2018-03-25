@@ -1,0 +1,245 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, William and NELSON, Jane
+
+'
+    bounds:
+      left: 207
+      right: 1428
+      top: 178
+      bottom: 240
+  - text: |
+      JWILLIAMS, Emma Caroline and NELSON, William
+      INELSON, Lionel (Jack) and CHAMBERS, Esther Margaret
+      INELSON, Michael and ADAMS, Jean Emily
+      SNELSON, Linda Ruth and SINNER, James Albert
+    bounds:
+      left: 577
+      right: 1891
+      top: 237
+      bottom: 439
+- paragraphs:
+  - text: |
+      01> NELSON, Linda Ruthm on 08.11.1986 to SINNER, James Albert
+      b 02.12.1957
+    bounds:
+      left: 429
+      right: 1876
+      top: 485
+      bottom: 594
+  - text: |
+      b 04.06.1959
+      Linda b. at Palo Alto, California, USA and m, at Washington DC. Linda is known by her maiden name.
+      James, s/o George Sinner (Governor of North Dakota, 1985-92) and Jane Baute. Address: 27 Victoria
+      Heights, Nelson; Email: sinnerji@ts.co.nz.
+      Linda graduated PhD from Cornell University and is now a policy analyst with the Ministry of Fisheries,
+      and a member of the Environmental Risk Management Authority.
+      James graduated MSc from Cornell University and is now a consultant in resource economics and trade
+      policy.
+    bounds:
+      left: 516
+      right: 2165
+      top: 550
+      bottom: 940
+- paragraphs:
+  - text: '01> SINNER, Michael Nelson
+
+'
+    bounds:
+      left: 504
+      right: 1155
+      top: 977
+      bottom: 1045
+  - text: 'b 19.07.1993
+
+'
+    bounds:
+      left: 603
+      right: 818
+      top: 1046
+      bottom: 1086
+- paragraphs:
+  - text: '02> NELSON, Monica Jane Sinner
+
+'
+    bounds:
+      left: 505
+      right: 1263
+      top: 1137
+      bottom: 1190
+  - text: 'b 01.12.1995
+
+'
+    bounds:
+      left: 601
+      right: 814
+      top: 1196
+      bottom: 1236
+- paragraphs:
+  - text: |
+      02> NELSON, Cristobal Miguel m on 06.02.1993 to LAWSON, Wendy
+      b 04.03.1963
+    bounds:
+      left: 427
+      right: 1851
+      top: 1330
+      bottom: 1436
+  - text: |
+      b ** ** ****
+      Cristobal b. at Buenos Aires, Argentina. Address: 37 Rocking Horse Road, Christchurch.
+      Cristobal completed an MSc in Geology at Auckland University. Wendy graduated PhD from Cambridge
+      University and is now lecturing in the Department of Geography at Canterbury University.
+      01> NELSON, Sarah Kate
+    bounds:
+      left: 498
+      right: 2179
+      top: 1386
+      bottom: 1701
+  - text: 'b ** ** ****
+
+'
+    bounds:
+      left: 603
+      right: 817
+      top: 1692
+      bottom: 1735
+- paragraphs:
+  - text: '03> NELSON, Ximena Jean
+
+'
+    bounds:
+      left: 426
+      right: 1005
+      top: 1834
+      bottom: 1892
+  - text: |
+      b 11.02.1975
+      Ximena b. at Mexico City. Address: 134 Canon Street, Christchurch.
+      Ximena was educated at the Grange School in Santiago and graduated MSc from the University of
+      Canterbury in 1998. Her thesis concerns behavioural patterns in spiders. She is a keen skier and has
+      continued her interest in outdoor pursuits since living in New Zealand.
+    bounds:
+      left: 518
+      right: 2111
+      top: 1895
+      bottom: 2143
+- paragraphs:
+  - text: |
+      02>' NELSON, Hilda Margaret m on 15.09.1910 to COTTERILL, George Robert
+      b 21.11.1888 d 21.07.1918
+    bounds:
+      left: 278
+      right: 1933
+      top: 2234
+      bottom: 2336
+  - text: |
+      b 02.11.1879 d ** **. 1956
+      Hilda b. at Waikoko and d. at Hastings.
+    bounds:
+      left: 377
+      right: 1834
+      top: 2292
+      bottom: 2388
+- paragraphs:
+  - text: |
+      01> COTTERILL, Enid Mary m on 03.09.1939 to STEWART, Eric Joseph
+      b 20.06.1911
+    bounds:
+      left: 354
+      right: 1857
+      top: 2441
+      bottom: 2536
+  - text: 'b 11.05.1907 d 20.12.1951
+
+'
+    bounds:
+      left: 1383
+      right: 1852
+      top: 2494
+      bottom: 2536
+- paragraphs:
+  - text: |
+      01> STEWART, Sally m on 06.06.1964 to TURNER, Henry Thomas
+      b 31.08.1940
+    bounds:
+      left: 426
+      right: 1779
+      top: 2582
+      bottom: 2685
+  - text: 'b 28.09.1931
+
+'
+    bounds:
+      left: 1279
+      right: 1495
+      top: 2646
+      bottom: 2684
+- paragraphs:
+  - text: 'On
+
+'
+    bounds:
+      left: 1241
+      right: 1275
+      top: 2755
+      bottom: 2778
+- paragraphs:
+  - text: "** ** ****\n"
+    bounds:
+      left: 1302
+      right: 1470
+      top: 2748
+      bottom: 2770
+- paragraphs:
+  - text: |
+      01> TURNER, Robert Stewart m on ** ** **** to RICHARDSON, Sandra
+      b 19.09.1966
+    bounds:
+      left: 504
+      right: 2008
+      top: 2737
+      bottom: 2835
+  - text: 'b ** ** ****
+
+'
+    bounds:
+      left: 1594
+      right: 1805
+      top: 2793
+      bottom: 2829
+- paragraphs:
+  - text: '01> TURNER, Thomas James
+
+'
+    bounds:
+      left: 580
+      right: 1188
+      top: 2887
+      bottom: 2935
+  - text: 'b 16.11.1996
+
+'
+    bounds:
+      left: 681
+      right: 895
+      top: 2948
+      bottom: 2986
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 201
+      right: 827
+      top: 3282
+      bottom: 3345
+- paragraphs:
+  - text: '642
+
+'
+    bounds:
+      left: 1218
+      right: 1290
+      top: 3289
+      bottom: 3335

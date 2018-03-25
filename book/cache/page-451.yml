@@ -1,0 +1,47 @@
+---
+blocks:
+- paragraphs:
+  - text: 'The Descendants of William and Jane Williams
+
+'
+    bounds:
+      left: 223
+      right: 1321
+      top: 228
+      bottom: 292
+- paragraphs:
+  - text: |
+      Photo from; Mrs MDB Hollinrake
+      Douglas Wanklyn GRAY (1896 - 1969).
+    bounds:
+      left: 378
+      right: 1094
+      top: 1608
+      bottom: 1682
+- paragraphs:
+  - text: |
+      Photo from: Mrs MDB Hollinrake
+      Emma Millicent GRAY (1896 - 1973) nee HALL.
+    bounds:
+      left: 1360
+      right: 2140
+      top: 1607
+      bottom: 1679
+- paragraphs:
+  - text: |
+      Photo from: Mrs MDB Hollinrake
+      Charles Roderick (Rory) GRAY (1924 - 1945).
+    bounds:
+      left: 859
+      right: 1617
+      top: 3125
+      bottom: 3200
+- paragraphs:
+  - text: '452
+
+'
+    bounds:
+      left: 1153
+      right: 1225
+      top: 3319
+      bottom: 3365

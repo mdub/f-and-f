@@ -1,0 +1,308 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, Henry and COLDHAM, Marianne
+
+'
+    bounds:
+      left: 204
+      right: 1509
+      top: 175
+      bottom: 245
+  - text: 'JWILLIAMS, John William and BUSBY, Sarah
+
+'
+    bounds:
+      left: 582
+      right: 1585
+      top: 240
+      bottom: 288
+  - text: |
+      WILLIAMS, George Alexander and COOPER, Edith Ida
+      JWILLIAMS, Sarah Cooper (Sally) and WIGLEY, Edward Thomas Cranstoun
+    bounds:
+      left: 580
+      right: 2280
+      top: 290
+      bottom: 393
+  - text: |
+      JWIGLEY, Sarah Charlotte Cranstoun and VAN DER ZIJPP, Jacob
+      03> VAN DER ZIJPP, Jane
+    bounds:
+      left: 502
+      right: 2071
+      top: 385
+      bottom: 546
+  - text: 'b ** ** 1968 d ** ** 1968
+
+'
+    bounds:
+      left: 603
+      right: 1076
+      top: 547
+      bottom: 591
+- paragraphs:
+  - text: '03> WIGLEY, Marianne Cranstoun m on 27.02.1960 to PATCHETT, Irving Anthony
+
+'
+    bounds:
+      left: 425
+      right: 2185
+      top: 684
+      bottom: 749
+  - text: |
+      Hetherington
+      b 26.03.1940
+    bounds:
+      left: 524
+      right: 2006
+      top: 718
+      bottom: 870
+  - text: |
+      b 02.01.1939
+      Address: 588 Blockhouse Bay Road, Blockhouse Bay, Auckland.
+      Marianne is a secretary and Irving is a dental technician.
+    bounds:
+      left: 521
+      right: 1837
+      top: 801
+      bottom: 948
+- paragraphs:
+  - text: |
+      01> PATCHETT, Philip Edward m on 14.02.1983 to HULME, Lilyan Linda
+      b 20.08.1960
+    bounds:
+      left: 505
+      right: 2058
+      top: 985
+      bottom: 1093
+  - text: 'b 07.03.1964
+
+'
+    bounds:
+      left: 1606
+      right: 1821
+      top: 1049
+      bottom: 1092
+- paragraphs:
+  - text: '01> PATCHETT, Anthony Siosi
+
+'
+    bounds:
+      left: 576
+      right: 1257
+      top: 1133
+      bottom: 1196
+  - text: 'b 06.07.1985
+
+'
+    bounds:
+      left: 678
+      right: 893
+      top: 1198
+      bottom: 1240
+- paragraphs:
+  - text: '02> PATCHETT, Joseph Lisati
+
+'
+    bounds:
+      left: 579
+      right: 1259
+      top: 1285
+      bottom: 1344
+  - text: 'b 28.09.1986
+
+'
+    bounds:
+      left: 680
+      right: 895
+      top: 1348
+      bottom: 1390
+- paragraphs:
+  - text: '03> PATCHETT, Fonima Sarah
+
+'
+    bounds:
+      left: 582
+      right: 1241
+      top: 1440
+      bottom: 1489
+  - text: 'b 01.10.1988
+
+'
+    bounds:
+      left: 677
+      right: 896
+      top: 1499
+      bottom: 1539
+- paragraphs:
+  - text: |
+      02> PATCHETT, Jennifer m on 31.03. 1984 to HUTCHINSON, Toa Sanele
+      b 07.04.1962
+    bounds:
+      left: 507
+      right: 2005
+      top: 1633
+      bottom: 1745
+  - text: 'b 11.04.1960
+
+'
+    bounds:
+      left: 1463
+      right: 1679
+      top: 1700
+      bottom: 1738
+- paragraphs:
+  - text: '01> HUTCHINSON, Michelle Hazel
+
+'
+    bounds:
+      left: 580
+      right: 1340
+      top: 1790
+      bottom: 1841
+  - text: 'b 08.06.1987
+
+'
+    bounds:
+      left: 680
+      right: 896
+      top: 1847
+      bottom: 1894
+- paragraphs:
+  - text: '02> HUTCHINSON, Lisa Tulei Paoli
+
+'
+    bounds:
+      left: 579
+      right: 1386
+      top: 1933
+      bottom: 1997
+  - text: 'b 23.09.1989
+
+'
+    bounds:
+      left: 681
+      right: 896
+      top: 1998
+      bottom: 2040
+- paragraphs:
+  - text: '03> PATCHETT, Marianne
+
+'
+    bounds:
+      left: 506
+      right: 1061
+      top: 2133
+      bottom: 2196
+  - text: 'b 14.12.1965
+
+'
+    bounds:
+      left: 606
+      right: 821
+      top: 2198
+      bottom: 2240
+- paragraphs:
+  - text: '04> PATCHETT, Irving Thomas
+
+'
+    bounds:
+      left: 511
+      right: 1192
+      top: 2289
+      bottom: 2344
+  - text: 'b 01.06.1975
+
+'
+    bounds:
+      left: 606
+      right: 821
+      top: 2348
+      bottom: 2390
+- paragraphs:
+  - text: |
+      04> WIGLEY, Benjamin Alexander Cranstoun m on ** ** 1968 to ROADLEY, Elaine
+      b 07.12.1945
+    bounds:
+      left: 435
+      right: 2210
+      top: 2479
+      bottom: 2595
+  - text: 'b ** ** ****
+
+'
+    bounds:
+      left: 1942
+      right: 2158
+      top: 2542
+      bottom: 2584
+- paragraphs:
+  - text: '01> WIGLEY, Alick Cranstoun
+
+'
+    bounds:
+      left: 506
+      right: 1194
+      top: 2633
+      bottom: 2692
+  - text: 'b 26.12.1968 d 18.01.1992
+
+'
+    bounds:
+      left: 609
+      right: 1080
+      top: 2698
+      bottom: 2742
+- paragraphs:
+  - text: '02> WIGLEY, Timothy
+
+'
+    bounds:
+      left: 514
+      right: 997
+      top: 2789
+      bottom: 2844
+  - text: 'b ** ** 1970
+
+'
+    bounds:
+      left: 613
+      right: 830
+      top: 2848
+      bottom: 2890
+- paragraphs:
+  - text: '03> WIGLEY, Cindy
+
+'
+    bounds:
+      left: 512
+      right: 944
+      top: 2937
+      bottom: 2996
+  - text: 'b ****.1972
+
+'
+    bounds:
+      left: 614
+      right: 829
+      top: 3004
+      bottom: 3040
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 210
+      right: 837
+      top: 3287
+      bottom: 3348
+- paragraphs:
+  - text: '282
+
+'
+    bounds:
+      left: 1227
+      right: 1299
+      top: 3296
+      bottom: 3342

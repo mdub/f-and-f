@@ -1,0 +1,270 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, William and NELSON, Jane
+
+'
+    bounds:
+      left: 201
+      right: 1429
+      top: 189
+      bottom: 239
+  - text: |
+      JWILLIAMS, William Leonard and WANKLYN, Sarah
+      JWILLIAMS, Agnes Maria and GARDINER, Allen Francis
+      JGARDINER, George Falkland and HICKS, Gladys
+      VGARDINER, Jill and DAVIES, Michael de la Cour
+    bounds:
+      left: 574
+      right: 1831
+      top: 241
+      bottom: 448
+- paragraphs:
+  - text: '02> DAVIES, Isla Yasmin
+
+'
+    bounds:
+      left: 578
+      right: 1153
+      top: 482
+      bottom: 549
+  - text: 'b 07.02.1995
+
+'
+    bounds:
+      left: 675
+      right: 891
+      top: 552
+      bottom: 590
+- paragraphs:
+  - text: '05> DAVIES, Margaret
+
+'
+    bounds:
+      left: 502
+      right: 1000
+      top: 688
+      bottom: 742
+  - text: |
+      b 11.11.1965
+      Margaret b. at Napier. Address: 165 Grafton Road, Hataitai, Wellington.
+    bounds:
+      left: 600
+      right: 1731
+      top: 751
+      bottom: 844
+  - text: |
+      Margaret has a Diploma of Fine Arts (Otago) and is exhibition officer at the Dowse Art Museum,
+      Lower Hutt.
+    bounds:
+      left: 584
+      right: 2117
+      top: 852
+      bottom: 943
+- paragraphs:
+  - text: '06> DAVIES, Sally
+
+'
+    bounds:
+      left: 496
+      right: 926
+      top: 986
+      bottom: 1044
+  - text: |
+      b 08.09.1968
+      Sally b. at Napier. Address: 79 Lonsdale Street, New Brighton, Christchurch.
+      Sally has a BPhysEd (Otago) and was a New Zealand under 21 hockey rep. She played in the World Cup
+      at Ottawa in 1989. She is presently teaching.
+    bounds:
+      left: 590
+      right: 2239
+      top: 1049
+      bottom: 1247
+- paragraphs:
+  - text: |
+      02> GARDINER, John Allen m on 08.10.1955 to PIKE, Diana
+      b 16.04.1930 d 04.12.1982
+    bounds:
+      left: 425
+      right: 1692
+      top: 1334
+      bottom: 1438
+  - text: |
+      b 15.07.1935
+      John b. at Napier. Diana remarried to William Davidson. Address: 16 Muritai Crescent, Havelock North.
+    bounds:
+      left: 517
+      right: 2172
+      top: 1396
+      bottom: 1492
+- paragraphs:
+  - text: |
+      01> GARDINER, Robyn Marianne m on 06.10.1996 to REID, John Anthony
+      b 17.08.1957
+    bounds:
+      left: 502
+      right: 2054
+      top: 1544
+      bottom: 1639
+  - text: |
+      b 08.09.1962
+      Address: 5 Rautara Street, Orakei, Auckland.
+    bounds:
+      left: 597
+      right: 1849
+      top: 1598
+      bottom: 1691
+- paragraphs:
+  - text: '01> REID, Samuel John Antone
+
+'
+    bounds:
+      left: 578
+      right: 1282
+      top: 1734
+      bottom: 1792
+  - text: 'b 30.09.1997
+
+'
+    bounds:
+      left: 679
+      right: 889
+      top: 1800
+      bottom: 1838
+- paragraphs:
+  - text: |
+      02> GARDINER, Jennifer Jane m on 26.03.1983 to HAMMOND, Mark James
+      b 26.08.1958
+    bounds:
+      left: 503
+      right: 2053
+      top: 1939
+      bottom: 2039
+  - text: |
+      b 24.08.1956
+      Address: 171 Rosebank Drive, Hamilton.
+    bounds:
+      left: 595
+      right: 1817
+      top: 1998
+      bottom: 2091
+- paragraphs:
+  - text: '01> HAMMOND, Nicholas John
+
+'
+    bounds:
+      left: 583
+      right: 1231
+      top: 2130
+      bottom: 2192
+  - text: 'b 25.08.1986
+
+'
+    bounds:
+      left: 679
+      right: 893
+      top: 2197
+      bottom: 2238
+- paragraphs:
+  - text: '02> HAMMOND, Charlotte Sarah
+
+'
+    bounds:
+      left: 582
+      right: 1282
+      top: 2286
+      bottom: 2340
+  - text: |
+      b 28.09.1988
+      Twin.
+    bounds:
+      left: 669
+      right: 891
+      top: 2340
+      bottom: 2439
+- paragraphs:
+  - text: '03> HAMMOND, Olivia Jane
+
+'
+    bounds:
+      left: 581
+      right: 1178
+      top: 2478
+      bottom: 2540
+  - text: |
+      b 28.09.1988
+      Twin.
+    bounds:
+      left: 671
+      right: 894
+      top: 2543
+      bottom: 2636
+- paragraphs:
+  - text: |
+      03> GARDINER, Thomas Falkland m on 19.02.1993 to CAMERON, Penny Jo-Anne
+      b 18.08.1961
+    bounds:
+      left: 505
+      right: 2183
+      top: 2735
+      bottom: 2835
+  - text: |
+      b 03.03.1963
+      Address: 14a Formby Avenue, Point Chevalier, Auckland.
+    bounds:
+      left: 597
+      right: 1893
+      top: 2792
+      bottom: 2888
+- paragraphs:
+  - text: '01> GARDINER, John Cameron
+
+'
+    bounds:
+      left: 584
+      right: 1235
+      top: 2925
+      bottom: 2993
+  - text: 'b 28.12.1993
+
+'
+    bounds:
+      left: 681
+      right: 895
+      top: 2993
+      bottom: 3038
+- paragraphs:
+  - text: '02> GARDINER, Samantha Jane
+
+'
+    bounds:
+      left: 586
+      right: 1260
+      top: 3082
+      bottom: 3140
+  - text: 'b 21.10.1995 d 10.11.1995
+
+'
+    bounds:
+      left: 684
+      right: 1155
+      top: 3144
+      bottom: 3187
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 202
+      right: 827
+      top: 3281
+      bottom: 3346
+- paragraphs:
+  - text: '575
+
+'
+    bounds:
+      left: 1218
+      right: 1292
+      top: 3288
+      bottom: 3334
