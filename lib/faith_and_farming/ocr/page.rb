@@ -22,6 +22,14 @@ module FaithAndFarming
         bounds.map(&:x).max
       end
 
+      def top
+        bounds.map(&:y).min
+      end
+
+      def bottom
+        bounds.map(&:y).max
+      end
+
     end
 
     class Symbol < Element

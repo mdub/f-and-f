@@ -13,7 +13,7 @@ Clamp do
 
     def execute
       page.blocks.each do |block|
-        puts "\n--- {left #{block.left}, right #{block.right}}\n"
+        puts "\n--- {left #{block.left}, right #{block.right}, top #{block.top}, bottom #{block.bottom}}\n"
         puts block.text
       end
     end
