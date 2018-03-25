@@ -3,7 +3,7 @@
 $: << File.expand_path("../../lib", __FILE__)
 
 require "clamp"
-require "faith_and_farming"
+require "faith_and_farming/ocr"
 
 Clamp do
 
@@ -21,7 +21,7 @@ Clamp do
     private
 
     def page
-      FaithAndFarming::Page.load(page_index)
+      FaithAndFarming::OCR::Page.load(page_index)
     end
 
   end
@@ -29,7 +29,7 @@ Clamp do
   subcommand "tree", "display the tree" do
 
     def execute
-      FaithAndFarming.pages.each do |page|
+      FaithAndFarming::OCR.pages.each do |page|
         puts "\n--- page #{page.page_index} ---"
         page.tree_entries.each do |entry|
           indent = "  " * (entry.level - 1)

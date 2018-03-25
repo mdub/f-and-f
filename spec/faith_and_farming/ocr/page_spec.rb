@@ -1,8 +1,8 @@
 require "spec_helper"
 
-require "faith_and_farming/page"
+require "faith_and_farming/ocr/page"
 
-describe FaithAndFarming::Page do
+describe FaithAndFarming::OCR::Page do
 
   def load(page_no)
     $cache ||= {}

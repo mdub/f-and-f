@@ -16,7 +16,7 @@ namespace "book" do
 
   page_images = FileList.new("book/as-images/page-*.png")
   page_images.each do |page_image|
-    page_data_file = page_image.sub("book/as-images", "book/ocr-data").sub(".png", ".yml")
+    page_data_file = page_image.sub("book/as-images", "book/gcv-data").sub(".png", ".yml")
     task "ocr" => page_data_file
     file page_data_file => page_image do
       puts "OCR-ing #{page_image}"
