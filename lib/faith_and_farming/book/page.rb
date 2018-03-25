@@ -32,13 +32,10 @@ module FaithAndFarming
       def self.load(page_index)
         cache_file = File.join(PAGE_CACHE, ("page-%03d.yml" % page_index))
         if File.exist?(cache_file)
-          return from_data(YAML.load_file(cache_file)).tap do |page|
-            page.page_index = page_index
-          end
+          return from_data(YAML.load_file(cache_file))
         end
         ocr_page = FaithAndFarming::OCR::Page.load(page_index)
         from_ocr(ocr_page).tap do |page|
-          page.page_index = page_index
           File.write(cache_file, YAML.dump(page.to_data))
         end
       end
@@ -56,8 +53,6 @@ module FaithAndFarming
           end
         end
       end
-
-      attr_accessor :page_index
 
       component_list :blocks do
 

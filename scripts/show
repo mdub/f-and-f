@@ -30,8 +30,8 @@ Clamp do
   subcommand "tree", "display the tree" do
 
     def execute
-      FaithAndFarming::Book.pages.each do |page|
-        puts "\n--- page #{page.page_index} ---"
+      FaithAndFarming::Book.pages.each_with_index do |page, page_index|
+        puts "\n--- page #{page_index} ---"
         page.tree_entries.each do |entry|
           indent = "  " * (entry.level - 1)
           puts "#{entry.level}#{indent}- #{entry.subject.name}"

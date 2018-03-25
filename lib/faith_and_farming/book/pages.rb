@@ -5,11 +5,9 @@ module FaithAndFarming
 
     class Pages
 
-      include Enumerable
-
-      def each
-        73.upto(641) do |n|
-          yield Page.load(n)
+      def each_with_index
+        73.upto(641) do |i|
+          yield Page.load(i), i
         end
       end
 
