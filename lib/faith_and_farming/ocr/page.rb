@@ -104,65 +104,6 @@ module FaithAndFarming
 
       component_list :blocks, type: Block
 
-      def descendants_of
-        @descendants_of ||= begin
-          text = blocks.take(3).map(&:text).grep(/^Descendants of /).first
-          return nil unless text
-          text = text.sub(/^Descendants of /, "").gsub(/^[IJ]/, "")
-          text.split("\n")
-        end
-      end
-
-      def tree_entries
-        @tree_entries ||= [].tap do |y|
-          blocks.each do |block|
-            if block.text =~ /\A0[1-9]> (.*)/
-              y << Entry.new.tap do |e|
-                e.subject.name = $1
-                e.level = calculate_level(block.left)
-              end
-            end
-          end
-        end
-      end
-
-      def entry_offset
-        unless defined?(@entry_offset)
-          @entry_offset = nil
-          blocks.each do |b|
-            if b.text =~ /^1 2 3 4/
-              @entry_offset = b.left
-              break_type
-            end
-          end
-        end
-        @entry_offset
-      end
-
-      # p222
-      # - key: 201
-      # - L2: 272, 272, 268, 272
-      # - L3: 349, 344
-      # - L5: 493
-      # - L6: 571
-      def calculate_level(left)
-        (left - entry_offset + 35) / 75 + 1
-      end
-
-    end
-
-    class Entry < ConfigMapper::ConfigStruct
-
-      component_list :people do
-        attribute :name
-      end
-
-      def subject
-        people[0]
-      end
-
-      attribute :level, Integer
-
     end
 
   end
