@@ -1,0 +1,197 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, Henry and COLDHAM, Marianne
+
+'
+    bounds:
+      left: 200
+      right: 1506
+      top: 186
+      bottom: 240
+  - text: |
+      JWILLIAMS, Edward Marsh and DAVIS, Jane
+      JWILLIAMS, Joseph Heathcote and BUCHANAN, Sarah Nidra (Ally)
+      JWILLIAMS, Norah and SUNDERLAND, Richard
+      ISUNDERLAND, Thomas Marmaduke and COUPER, Mabel Joan Mary
+      JSUNDERLAND, Graeme Bruce and POWELL, Judith Ann
+    bounds:
+      left: 577
+      right: 2087
+      top: 236
+      bottom: 495
+- paragraphs:
+  - text: |
+      04> SUNDERLAND, Graeme Bruce m on 28.04.1984 to POWELL, Judith Ann
+      b 05.12.1958
+    bounds:
+      left: 501
+      right: 2052
+      top: 531
+      bottom: 641
+  - text: |
+      b 16.11.1960
+      Address: 911 Lyall Street, Hastings.
+      Graeme works for Danny Bearsley growing produce for canning and fattening cattle for export beef.
+    bounds:
+      left: 600
+      right: 2167
+      top: 597
+      bottom: 749
+- paragraphs:
+  - text: |
+      04> WILLIAMS, Marjorie m on 01.06.1915 to MACKAY, Lionel John Mytton Handcock
+      b 30.05.1890 d 13.08.1970
+    bounds:
+      left: 354
+      right: 2182
+      top: 841
+      bottom: 946
+  - text: |
+      b 15.02.1884 d 19.01.1956
+      Marjorie b. at Frimley, Hastings and both d. at Nelson and bd. at Lower Moutere.
+      Lionel was educated at Wanganui Collegiate School and Auckland University (BA) and was ordained at Wells
+      Cathedral. He served as a curate at Havelock North and Vicar of Ormondville and was later an orchardist at
+      Lower Moutere. They retired about 1948 to live in Nelson.
+    bounds:
+      left: 445
+      right: 2164
+      top: 897
+      bottom: 1144
+- paragraphs:
+  - text: |
+      01> MACKAY, Denis Handcock m on 13.07.1946 to (1) YOUNGER, Mary Elizabeth
+      b 19.03.1916
+    bounds:
+      left: 428
+      right: 2137
+      top: 1183
+      bottom: 1291
+  - text: |
+      b 27.03.1922
+      Denis b, at Havelock North. He served in the Royal Navy from 1934 to 1957, was awarded the DSC and
+      retired with the rank of Commander. Thereafter he worked in industry and was later employed in
+      management consultancy until 1981.
+    bounds:
+      left: 520
+      right: 2169
+      top: 1240
+      bottom: 1445
+- paragraphs:
+  - text: |
+      01> MACKAY, Lionel James m on 16.04.1977 to MARTYR, Alison Margaret
+      b 28.01.1949
+    bounds:
+      left: 508
+      right: 2082
+      top: 1489
+      bottom: 1589
+  - text: |
+      b 16.07.1950
+      Lionel b. at Edinburgh, Scotland and m. at Harrow, Middlesex, England. Alison, d/o Richard Graham
+    bounds:
+      left: 600
+      right: 2210
+      top: 1545
+      bottom: 1644
+  - text: |
+      Martyr and Dora Louisa Nissen. Address: 217 Cauldwell Hall Road, Ipswich, Suffolk, England.
+      Lionel is an electrical engineer. From 1978 to 1990 he worked in developing village
+      electrification with a Christian Mission in Nepal. Since 1990 he has worked in electricity
+      distribution engineering in the United Kingdom.
+    bounds:
+      left: 601
+      right: 2117
+      top: 1645
+      bottom: 1845
+- paragraphs:
+  - text: '01> MACKAY, Ruth Ellen
+
+'
+    bounds:
+      left: 587
+      right: 1137
+      top: 1893
+      bottom: 1941
+  - text: |
+      b 31.05.1979
+      Ruth b. at Kathmandu, Nepal.
+    bounds:
+      left: 681
+      right: 1149
+      top: 1949
+      bottom: 2049
+- paragraphs:
+  - text: '02> MACKAY, Fiona Jane
+
+'
+    bounds:
+      left: 585
+      right: 1133
+      top: 2086
+      bottom: 2146
+  - text: |
+      b 24.08.1981
+      Fiona b. at Tansen, Nepal.
+    bounds:
+      left: 681
+      right: 1097
+      top: 2150
+      bottom: 2246
+- paragraphs:
+  - text: |
+      02> MACKAY, Mariele Grace m on 29.08.1995 to SMITH, Martin Clive
+      b 07.10.1952
+    bounds:
+      left: 512
+      right: 2013
+      top: 2327
+      bottom: 2443
+  - text: |
+      b 24.08.1953
+      Mariele b. at Dorset, England. Martin, slo Claude and Ivy Smith. Address: Oakfield, 7 Pottery
+      Lane, Wrecclesham, Farnham, Surrey GU10 4QJ, England.
+      Mariele was educated at St Leonard's School in Scotland and Walnut Hill School in Massachusetts,
+      USA. After college in London she came to New Zealand, and travelled and worked for three years.
+      She then worked in London for many years. Martin is a tax partner in London for Coopers and
+      Lybrand.
+    bounds:
+      left: 604
+      right: 2183
+      top: 2393
+      bottom: 2743
+- paragraphs:
+  - text: '01> SMITH, Thomas Henry
+
+'
+    bounds:
+      left: 593
+      right: 1175
+      top: 2788
+      bottom: 2841
+  - text: |
+      b 13.07.1994
+      Thomas b. at Guildford, England.
+    bounds:
+      left: 686
+      right: 1218
+      top: 2850
+      bottom: 2944
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 217
+      right: 845
+      top: 3287
+      bottom: 3351
+- paragraphs:
+  - text: '138
+
+'
+    bounds:
+      left: 1234
+      right: 1308
+      top: 3293
+      bottom: 3339

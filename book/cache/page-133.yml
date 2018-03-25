@@ -1,0 +1,228 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, Henry and COLDHAM, Marianne
+
+'
+    bounds:
+      left: 200
+      right: 1506
+      top: 196
+      bottom: 250
+  - text: |
+      JWILLIAMS, Edward Marsh and DAVIS, Jane
+      JWILLIAMS, Joseph Heathcote and BUCHANAN, Sarah Nidra (Ally)
+      JWILLIAMS, Violet Maud and BERSCH, Ludwig
+      IBERSCH, Gertrude Maud and BESTEBREURTJE, Arie
+      VBESTEBREURTJE, Hendriekje Maud and ZIRINSKY, Michael Paul
+    bounds:
+      left: 572
+      right: 2083
+      top: 246
+      bottom: 506
+- paragraphs:
+  - text: '01> BESTEBREURTJE, Hendriekje m on 09.10.1965 to ZIRINSKY, Michael Paul
+
+'
+    bounds:
+      left: 495
+      right: 2169
+      top: 539
+      bottom: 606
+  - text: |
+      Maud
+      b 10.01.1943
+    bounds:
+      left: 601
+      right: 854
+      top: 604
+      bottom: 705
+  - text: |
+      b 25.11.1942
+      Hendriekje b. at London, England and m, at Louisville, Kentucky, USA. Michael, s/o Nahman Zirinsky
+      and Edith Silber, b. at Brooklyn, New York, USA. Address: 2731 Terrace Way, Boise, Idaho 83702,
+      USA.
+      Hendriekje is a Professor of English Education and a writer. Michael is a Professor of Middle
+      Eastern History.
+    bounds:
+      left: 589
+      right: 2225
+      top: 656
+      bottom: 955
+- paragraphs:
+  - text: |
+      02> BESTEBREURTJE, Mary Anne m on 28.12.1986 to BAKER, Wilson
+      b 27.09.1948
+    bounds:
+      left: 500
+      right: 1925
+      top: 998
+      bottom: 1101
+  - text: |
+      b 17.04.1940
+      Mary Anne b. at New York. Address: 1422 Crestview Avenue, Tallahassee, Florida 32303, USA.
+      Mary Anne is a lawyer and Wilson is a biologist.
+    bounds:
+      left: 607
+      right: 2137
+      top: 1057
+      bottom: 1209
+- paragraphs:
+  - text: |
+      03> BESTEBREURTJE, Anton James m on 18.06.1977 to CASH, Donna
+      b 22.03.1953
+    bounds:
+      left: 502
+      right: 1929
+      top: 1249
+      bottom: 1353
+  - text: |
+      b 20.10.1954
+      Anton b. at Mount Vernon, New York. Donna b. at Charlottesville, Virginia. Address: 6226 Stonehurst
+      Place, Clifton, Virginia 22024, USA.
+      Anton is a banker and Donna is an accountant and mathematics teacher.
+    bounds:
+      left: 597
+      right: 2226
+      top: 1301
+      bottom: 1505
+- paragraphs:
+  - text: '01> BESTEBREURTJE, Kathleen Erin (Katie)
+
+'
+    bounds:
+      left: 578
+      right: 1582
+      top: 1541
+      bottom: 1606
+  - text: 'b 03.09.1981
+
+'
+    bounds:
+      left: 683
+      right: 899
+      top: 1613
+      bottom: 1652
+- paragraphs:
+  - text: '02> BESTEBREURTJE, Martha Lindsey
+
+'
+    bounds:
+      left: 585
+      right: 1412
+      top: 1691
+      bottom: 1756
+  - text: 'b 19.07.1985
+
+'
+    bounds:
+      left: 683
+      right: 896
+      top: 1761
+      bottom: 1802
+- paragraphs:
+  - text: |
+      04> BESTEBREURTJE, Martha Jane m on 21.06.1997 to BUTTON, Don
+      b 14.11.1954
+    bounds:
+      left: 502
+      right: 1935
+      top: 1892
+      bottom: 2002
+  - text: |
+      6 ** ** ****
+      Martha b. at Mount Vernon, New York. Address: 135 Pleasant Street, Cambridge, MA 02139, USA.
+      Martha is a clinical psychologist.
+    bounds:
+      left: 616
+      right: 2205
+      top: 1945
+      bottom: 2110
+- paragraphs:
+  - text: |
+      04> BERSCH, Barbara Margaret m on 10.03.1941 to HEER, Heinrich Herrmann
+      b 30.10.1917
+    bounds:
+      left: 434
+      right: 2115
+      top: 2191
+      bottom: 2305
+  - text: |
+      b 22.11.1903 d 12.07.1990
+      Barbara b. at Sydney, Australia. Address: Weinbergerstr 86, 8802 Kilchberg, Switzerland.
+    bounds:
+      left: 530
+      right: 2049
+      top: 2249
+      bottom: 2357
+- paragraphs:
+  - text: |
+      01> HEER, Heinrich Johannes m on 26.03.1971 to (1)PIRINEN, Anja Katri
+      b 02.01.1942
+    bounds:
+      left: 514
+      right: 2139
+      top: 2386
+      bottom: 2509
+  - text: |
+      b 18.08.1945
+      Divorced 30.04.1989. Anja b. in Finland.
+      Anja graduated in architecture from the Swiss Federal Institute of Technology and runs her own
+      architectural office in Lostorf.
+    bounds:
+      left: 606
+      right: 2112
+      top: 2450
+      bottom: 2654
+- paragraphs:
+  - text: '01> HEER, Heinrich Olavi (Heikki)
+
+'
+    bounds:
+      left: 587
+      right: 1420
+      top: 2698
+      bottom: 2754
+  - text: |
+      b 29.01.1975
+      Heikki is studying architecture at the Swiss Federal Institute of Technology in Zurich.
+    bounds:
+      left: 692
+      right: 2031
+      top: 2760
+      bottom: 2854
+- paragraphs:
+  - text: '02> HEER, Mathias Fridolin (Matti)
+
+'
+    bounds:
+      left: 593
+      right: 1446
+      top: 2897
+      bottom: 2954
+  - text: |
+      b 12.09.1976
+      Matti is studying material sciences at the Swiss Federal Institute of Technology in Zurich.
+    bounds:
+      left: 697
+      right: 2092
+      top: 2958
+      bottom: 3056
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 223
+      right: 845
+      top: 3299
+      bottom: 3363
+- paragraphs:
+  - text: '134
+
+'
+    bounds:
+      left: 1237
+      right: 1309
+      top: 3302
+      bottom: 3348

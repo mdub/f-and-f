@@ -1,0 +1,151 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, Henry and COLDHAM, Marianne
+
+'
+    bounds:
+      left: 203
+      right: 1506
+      top: 189
+      bottom: 238
+  - text: |
+      WILLIAMS, Edward Marsh and DAVIS, Jane
+      JWILLIAMS, Henry Edward and CONNELL, Isabelle Annie
+      JWILLIAMS, Ernest Harry and CANN, Marion Elizabeth
+      JWILLIAMS, Barbara Isabel Martyn and CHAPMAN, George Palmer
+      JCHAPMAN, Judith Martyn and MYERS, Michael Norman
+    bounds:
+      left: 572
+      right: 2067
+      top: 240
+      bottom: 490
+- paragraphs:
+  - text: |
+      01> CHAPMAN, Judith Martyn m on 25.10.1980 to MYERS, Michael Norman
+      b 24.10.1945
+    bounds:
+      left: 497
+      right: 2074
+      top: 534
+      bottom: 645
+  - text: |
+      b 14.10.1934
+      Judith b. at Dunedin and m, at St Mary's Church, Timaru. Michael, slo
+      Maurice Salom Myers and Alison Enid Halsted, b. at Dunedin. Address: la
+      Herbert Gardens, 186 The Terrace, Wellington.
+      Judith was educated at Craighead School, Timaru and trained as a
+      registered nurse at Dunedin Hospital. Michael is a real estate agent, now
+      retired.
+    bounds:
+      left: 1023
+      right: 2220
+      top: 597
+      bottom: 947
+- paragraphs:
+  - text: |
+      02> CHAPMAN, Helen Rebecca m on 07.04.1984 to SHARPE, Brian William
+      b 20.11.1946
+    bounds:
+      left: 498
+      right: 2083
+      top: 985
+      bottom: 1093
+  - text: |
+      b 29.06.1943
+      Rebecca b. at Timaru and m. at St Mark's Church, Otipua, Timaru, Brian b. at Toronto, Canada but
+      now a New Zealand citizen. He has three children from a previous marriage. Address: 617 Mt Barker
+      Road, Wanaka.
+      Rebecca was educated at Craighead School, Timaru. She worked for the New Zealand Dairy Board for
+      11 years and Brian worked for the New Zealand Dairy Board for 30 years. They lived overseas in
+      Hong Kong and Chile for ten years of this time. They are now retired and living at Wanaka.
+    bounds:
+      left: 593
+      right: 2224
+      top: 1045
+      bottom: 1400
+- paragraphs:
+  - text: |
+      03> WILLIAMS, Henry Edward Martyn m on 19.10.1940 to MAUDSLEY, Valmai June
+      b 18.01.1915 d 16.09.1996
+    bounds:
+      left: 428
+      right: 2183
+      top: 1480
+      bottom: 1596
+  - text: |
+      b 09.06.1917
+      Henry b. at Dunedin and m, at Wellington. Valmai, d/o Charles Ernest Maudsley
+      (m. 29.04.1915) and Amy (Topsy) Dickey, b. at Wellington. Address: 9 Queens
+      Avenue, Christchurch 1.
+      Henry was educated at Waihi Preparatory School and Christ's College. He
+      graduated MBCHB from Otago University and DA from University of Victoria and
+    bounds:
+      left: 956
+      right: 2259
+      top: 1543
+      bottom: 1846
+  - text: |
+      was granted a Fellowship of the Royal Australian College of Surgeons. He saw
+      war service with the 2NZEF in North Africa (1940-44) as a Major. On his return he was an anaesthetist
+      and general practitioner at Dunedin and Christchurch. He served for 50 years with the Order of St John,
+      being District Surgeon for 10 years, was Railway Medical Officer from 1970 to 1990, and was sometime
+      Medical Officer to Civil Defence, and to the Community of the Sacred Name. He retired in 1990.
+    bounds:
+      left: 519
+      right: 2207
+      top: 1846
+      bottom: 2100
+- paragraphs:
+  - text: |
+      01> WILLIAMS, Philippa Marianne m on 13.02.1971 to DYMOCK, Philip Douglas
+      b 13.10.1947
+    bounds:
+      left: 506
+      right: 2232
+      top: 2128
+      bottom: 2244
+  - text: |
+      b 11.11.1947
+      Philippa b. at Dunedin and m. at St Barnabas Church, Christchurch. Philip, s/o Douglas Gordon
+      Dymock and Dawn Cowan. Address: Dymock's Road (PO Box 11), Te Karaka, Gisborne.
+      Philippa was educated at St Hilda's Collegiate School, St Margaret's College and Canterbury
+      University (BSc, 1968). Philip was educated at Wanganui Collegiate School and Lincoln College,
+      graduating with a Diploma in Valuation and Farm Management in 1970. They are now 4th generation
+      farmers on "Hautapu", the family property at Te Karaka. They are actively involved in the local
+      parish and Philip is a non-stipendiary Anglican clergyman.
+    bounds:
+      left: 600
+      right: 2201
+      top: 2191
+      bottom: 2599
+- paragraphs:
+  - text: |
+      01> DYMOCK, Rachel Marianne m on 25.01.1997 to BARTLEY, Simon John
+      b 04.12.1972
+    bounds:
+      left: 590
+      right: 2144
+      top: 2635
+      bottom: 2742
+  - text: |
+      b 10.07.1972
+      Rachel b. at Gisborne and m. at Holy Trinity Church, Gisborne. Simon, slo John Hayward Bartley
+      and Jeannie Sneddon. Address: 352 No 2 Road, RD 2, Te Puke.
+      Rachel was educated at Waikato Diocesan School graduated as a registered nurse from Waikato
+      Polytechnic in 1994, Simon graduated in Veterinary Science from Massey University in 1995.
+      Both are now working in Te Puke.
+    bounds:
+      left: 684
+      right: 2242
+      top: 2690
+      bottom: 2996
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 218
+      right: 840
+      top: 3285
+      bottom: 3351

@@ -1,0 +1,238 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, Henry and COLDHAM, Marianne
+
+'
+    bounds:
+      left: 209
+      right: 1514
+      top: 170
+      bottom: 228
+  - text: 'JWILLIAMS, Edward Marsh and DAVIS, Jane
+
+'
+    bounds:
+      left: 583
+      right: 1562
+      top: 222
+      bottom: 278
+  - text: |
+      WILLIAMS, George Coldham and BRAITHWAITE, Ethel Norma
+      JWILLIAMS, Lois Gwendoline and DISBROWE, Edward Francis
+      VDISBROWE , Noel John Edward and WHITE, Alison Johanna Lovell
+    bounds:
+      left: 582
+      right: 2099
+      top: 276
+      bottom: 431
+- paragraphs:
+  - text: 'I
+
+'
+    bounds:
+      left: 642
+      right: 647
+      top: 368
+      bottom: 422
+- paragraphs:
+  - text: |
+      01> DISBROWE, Noel John Edward m on 01.05.1957 to WHITE, Alison Johanna Lovell
+      b 19.05.1928
+    bounds:
+      left: 432
+      right: 2290
+      top: 469
+      bottom: 585
+  - text: |
+      b 02.09.1932
+      John b. at Portsmouth, England. Address: "Ngamawhetu", Keanes Road, RD 1, Howick, Auckland.
+      John was educated at St Edward's, Oxford then joined the Royal Marines. He emigrated to New Zealand in
+      1954 and farmed until 1962 when he went into the life assurance industry. He retired as branch manager
+      for South Auckland of NZI Life in 1986 and is now running his farm at Maraetai. John and Alison have
+      set up an equine centre for their son, Hamish.
+    bounds:
+      left: 517
+      right: 2209
+      top: 540
+      bottom: 833
+- paragraphs:
+  - text: |
+      01> DISBROWE, Christina Frances m on 12.02.1987 to FORSTER, David Blair
+      b 17.10.1961
+    bounds:
+      left: 504
+      right: 2189
+      top: 873
+      bottom: 988
+  - text: |
+      b 30.04.1961
+      Christina b. at Matamata. Address: Pukenoa, Matakitaki Road, RD 5, Tuakau.
+    bounds:
+      left: 594
+      right: 1947
+      top: 941
+      bottom: 1035
+- paragraphs:
+  - text: '01> FORSTER, Harry Disbrowe
+
+'
+    bounds:
+      left: 576
+      right: 1258
+      top: 1069
+      bottom: 1133
+  - text: 'b 06.06.1990
+
+'
+    bounds:
+      left: 679
+      right: 895
+      top: 1135
+      bottom: 1178
+  - text: |
+      Harry b. at Hastings.
+      02> FORSTER, George Distrowe
+    bounds:
+      left: 578
+      right: 1281
+      top: 1184
+      bottom: 1332
+  - text: 'b 02.11.1994
+
+'
+    bounds:
+      left: 680
+      right: 891
+      top: 1336
+      bottom: 1379
+- paragraphs:
+  - text: |
+      02> DISBROWE, Suzanne Cathryn m on 24.11.1988 to TUCKER, Nic
+      b 19.11.1964
+    bounds:
+      left: 504
+      right: 1907
+      top: 1469
+      bottom: 1583
+  - text: |
+      b ** ** ****
+      Suzanne b. at Hamilton. Nic is a civil engineer working on the new London Library.
+    bounds:
+      left: 591
+      right: 1924
+      top: 1533
+      bottom: 1667
+- paragraphs:
+  - text: '03> DISBROWE, Hamish John
+
+'
+    bounds:
+      left: 504
+      right: 1136
+      top: 1679
+      bottom: 1727
+  - text: |
+      b 02.09.1967
+      Hamish b. at Hamilton. Address: "Ngamawhetu", Keanes Road, RD 1 Howick, Auckland.
+      Hamish was educated at King's College (1981-85) where he was Head of House, Captain of Hockey and
+      joint recipient of the Headmaster's Supreme Award. Hamish teaches riding at home in summer and in
+      Japan in winter. He has had riding experience in Britain, the United States, Japan, Australia and
+      New Zealand and has captained a junior eventing team to Australia.
+    bounds:
+      left: 593
+      right: 2235
+      top: 1736
+      bottom: 2031
+- paragraphs:
+  - text: |
+      DISBROWE, Pamela Loism on 19.04.1986 to ATTWOOD, John
+      b 24.07.1929
+    bounds:
+      left: 527
+      right: 1783
+      top: 2131
+      bottom: 2226
+  - text: |
+      b 21.07.1922
+      Pamela b. at Southsea, Hampshire, England and m, at St Thomas-a-Beckett, Warblington, Havant, Hants,
+      England, John, s/o FN Attwood and Ursule de Salis, b. at East Marden, Sussex, England, Address: 19
+      Pells Close, Guilsborough, Northampton NNG 8QR, England,
+      Pamela was a nurse, midwife and health visitor. John served in the Royal Navy and was an electrical
+      engineer. Both now retired.
+      John is active in church affairs, and takes services in their village church and in surrounding
+      villages. He has retired as a church warden after 20 years service.
+    bounds:
+      left: 516
+      right: 2180
+      top: 2184
+      bottom: 2580
+- paragraphs:
+  - text: |
+      05> WILLIAMS, Lois Gwendoline m on 18.10.1950 to (2)ANDERSON, Horace
+      b 25.04.1900 d 06.12.1985
+    bounds:
+      left: 352
+      right: 1954
+      top: 2679
+      bottom: 2776
+  - text: 'b ** ** **** d ** **.1975
+
+'
+    bounds:
+      left: 1531
+      right: 1999
+      top: 2735
+      bottom: 2774
+- paragraphs:
+  - text: |
+      08> WILLIAMS, George Coldham m on 24.06.1914 to (2) MACLAGAN, Isabel
+      b 26.04.1858 d 08.05.1944
+    bounds:
+      left: 280
+      right: 1851
+      top: 2874
+      bottom: 2983
+  - text: 'b ** ** **** d 08.11.1927
+
+'
+    bounds:
+      left: 1416
+      right: 1886
+      top: 2936
+      bottom: 2979
+- paragraphs:
+  - text: |
+      08> WILLIAMS, George Coldham m on 16.01.1929 to (3) MOLLET, Edith Moncrieff (Molly)
+      b 26.04.1858 d 08.05.1944
+    bounds:
+      left: 280
+      right: 2229
+      top: 3026
+      bottom: 3135
+  - text: |
+      b circa 1896 d 13.06.1980
+      George d. at Wellington. Molly was a nurse.
+    bounds:
+      left: 378
+      right: 1889
+      top: 3088
+      bottom: 3192
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 207
+      right: 831
+      top: 3278
+      bottom: 3336
+- paragraphs:
+  - text: '156
+
+'
+    bounds:
+      left: 1213
+      right: 1285
+      top: 3274
+      bottom: 3337

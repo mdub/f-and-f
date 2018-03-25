@@ -1,0 +1,221 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, Henry and COLDHAM, Marianne
+
+'
+    bounds:
+      left: 205
+      right: 1506
+      top: 190
+      bottom: 246
+  - text: |
+      JWILLIAMS, Edward Marsh and DAVIS, Jane
+      JWILLIAMS, Thomas Sydney and WILLIAMS, Agnes Lydia
+      JWILLIAMS, Rachel Millicent and REED, Alfred Vincent Standish
+      JREED, Richard Sydney and MURPHY, Elizabeth Muriel
+      VREED, Jeremy William and BENNETT, Nicola Josephine
+    bounds:
+      left: 574
+      right: 2115
+      top: 245
+      bottom: 504
+- paragraphs:
+  - text: 'REED, Jeremy William and BENNETT, Nicola Josephine (cont...)
+
+'
+    bounds:
+      left: 583
+      right: 1665
+      top: 556
+      bottom: 599
+  - text: |
+      William has spent time in Australia, Canada and North America. He moved to England in the early
+      1980's and joined the Findhorn Foundation at Inverness, Scotland. Later he moved to the Isle of
+      Erriad to a smaller offshoot community. He now lives near Cheltenham and is studying landscape
+      architecture.
+      Nicola was educated at Putney High School, London and Girton College, Cambridge. She lived in
+      London and worked in museums and galleries and for the Arts Council of Great Britain as an art
+      exhibition organiser before moving to Erriad. She is now organising the Cheltenham Festival of
+      Literature.
+    bounds:
+      left: 586
+      right: 2145
+      top: 603
+      bottom: 1003
+- paragraphs:
+  - text: '01> REED, Joseph Mungo
+
+'
+    bounds:
+      left: 574
+      right: 1131
+      top: 1038
+      bottom: 1105
+  - text: 'b ** **.1986
+
+'
+    bounds:
+      left: 677
+      right: 887
+      top: 1106
+      bottom: 1144
+- paragraphs:
+  - text: |
+      02> REED, Ruth Agnes m on 27.02.1962 to WILSON, Frank Henderson
+      b 12.01.1914 d 06.03.1983
+    bounds:
+      left: 427
+      right: 1905
+      top: 1249
+      bottom: 1351
+  - text: |
+      b 17.12.1904 d 13.12.1980
+      Ruth b, at Gisborne. Ruth and Frank both d. at Eskdale and bd, at Eskdale Cemetery. No children. They
+      had a vineyard at Eskdale. Ruth was a joint owner of the White Heron Coffee Room for eight years.
+    bounds:
+      left: 518
+      right: 2161
+      top: 1300
+      bottom: 1448
+- paragraphs:
+  - text: "(O3> REDD\n"
+    bounds:
+      left: 430
+      right: 718
+      top: 1491
+      bottom: 1532
+- paragraphs:
+  - text: |
+      REED, Barbara Ann m on 12.12.1945 to BAKER, Peter de Bree
+      b 05.08.1916
+    bounds:
+      left: 523
+      right: 1850
+      top: 1500
+      bottom: 1596
+  - text: |
+      b 16.12.1915
+      Barbara b. at Gisborne and m. at Napier. Peter, slo Horace Mathias Baker and Marion Gertrude Lewis.
+      Address: 5 Hansen Court, 125 Tananutu Street, Taupo.
+      Peter was a POW in WW2 and subsequently took up a rehab farm at Tolaga Bay.
+    bounds:
+      left: 519
+      right: 2148
+      top: 1552
+      bottom: 1748
+- paragraphs:
+  - text: |
+      01> BAKER, Elizabeth Ann m on 18.04.1968 to HOLDEN, Roger Thomas
+      b 19.04.1949
+    bounds:
+      left: 501
+      right: 2002
+      top: 1794
+      bottom: 1895
+  - text: |
+      b 17.04.1939
+      Elizabeth b. at Napier. Address: PO Box 551, Gisborne.
+      Ann is actively involved with the IHC and Roger with the St John Ambulance Association.
+    bounds:
+      left: 593
+      right: 2014
+      top: 1852
+      bottom: 1998
+- paragraphs:
+  - text: '01> HOLDEN, John Digby
+
+'
+    bounds:
+      left: 579
+      right: 1134
+      top: 2038
+      bottom: 2100
+  - text: |
+      b 03.06.1973
+      02> HOLDEN, Christopher Peter
+    bounds:
+      left: 575
+      right: 1316
+      top: 2104
+      bottom: 2248
+  - text: 'b 22.08.1975
+
+'
+    bounds:
+      left: 679
+      right: 893
+      top: 2256
+      bottom: 2296
+- paragraphs:
+  - text: |
+      02> BAKER, Sally Ruth m on 07.04.1972 to BERRY, Richard John
+      b 08.07.1950
+    bounds:
+      left: 504
+      right: 1913
+      top: 2386
+      bottom: 2501
+  - text: |
+      b 07.12.1937
+      Sally b. at Napier and m, at Gisborne. Richard, s/o Reginald Berry and Juanita Culpen, b. at Tolaga
+      Bay. Address: 1000 Reka Street, Hastings.
+      Sally is a registered nurse at Hastings Hospital and Richard is a sheepfarmer at Patoka, Hawkes
+      Bay.
+    bounds:
+      left: 596
+      right: 2174
+      top: 2451
+      bottom: 2698
+- paragraphs:
+  - text: '01> BERRY, Julie Ann
+
+'
+    bounds:
+      left: 580
+      right: 1093
+      top: 2742
+      bottom: 2796
+  - text: |
+      b 22.04.1974
+      Julie is a seventh form pupil at Napier Girls' High School.
+    bounds:
+      left: 674
+      right: 1592
+      top: 2804
+      bottom: 2898
+- paragraphs:
+  - text: '02> BERRY, Toni Ruth
+
+'
+    bounds:
+      left: 586
+      right: 1091
+      top: 2938
+      bottom: 2996
+  - text: |
+      b 20.11.1976
+      Toni is a fifth form pupil at Napier Girls' High School.
+    bounds:
+      left: 678
+      right: 1543
+      top: 3005
+      bottom: 3103
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 206
+      right: 838
+      top: 3293
+      bottom: 3358
+- paragraphs:
+  - text: '107
+
+'
+    bounds:
+      left: 1226
+      right: 1295
+      top: 3297
+      bottom: 3345

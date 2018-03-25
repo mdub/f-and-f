@@ -1,0 +1,223 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, Henry and COLDHAM, Marianne
+
+'
+    bounds:
+      left: 210
+      right: 1507
+      top: 188
+      bottom: 252
+  - text: |
+      JWILLIAMS, Edward Marsh and DAVIS, Jane
+      JWILLIAMS, Arthur Frederick and THOMPSON, Leslie Elisabeth Antonia
+      JWILLIAMS, Philip Leslie Bruce and PURCHAS, Esme Guyon
+    bounds:
+      left: 576
+      right: 2249
+      top: 238
+      bottom: 397
+  - text: |
+      WILLIAMS, Leslie Elizabeth Esme and HARVISON, Robert Ernest
+      JHARVISON, Jane Louise and REDDING, Keith James
+    bounds:
+      left: 577
+      right: 2095
+      top: 397
+      bottom: 500
+- paragraphs:
+  - text: '02> REDDING, Sarah Elizabeth
+
+'
+    bounds:
+      left: 576
+      right: 1290
+      top: 537
+      bottom: 605
+  - text: |
+      b 18.10.1991
+      Sarah b. at Auckland.
+    bounds:
+      left: 675
+      right: 1013
+      top: 606
+      bottom: 699
+- paragraphs:
+  - text: |
+      03> HARVISON, Suzanne Ruth m on 13.04.1991 to FAULKNER, Peter James
+      b 26.12.1960
+    bounds:
+      left: 507
+      right: 2083
+      top: 790
+      bottom: 899
+  - text: |
+      b 28.07.1958
+      Address: 6 Laughlin Avenue, Nunawading, Melbourne, Vic, Australia.
+      Sue was a primary school teacher before heading overseas for three years. She met Peter while in
+      London,
+      Peter was in the RAAF and is now working as a service manager, servicing electronic equipment in
+      the scientific field,
+    bounds:
+      left: 594
+      right: 2158
+      top: 856
+      bottom: 1148
+- paragraphs:
+  - text: '01> FAULKNER, Kirsten Ellen
+
+'
+    bounds:
+      left: 584
+      right: 1263
+      top: 1195
+      bottom: 1248
+  - text: 'b 10.08.1993
+
+'
+    bounds:
+      left: 681
+      right: 896
+      top: 1256
+      bottom: 1299
+- paragraphs:
+  - text: '02> FAULKNER, Melanie Sue
+
+'
+    bounds:
+      left: 582
+      right: 1207
+      top: 1349
+      bottom: 1397
+  - text: 'b 18.08.1995
+
+'
+    bounds:
+      left: 683
+      right: 899
+      top: 1405
+      bottom: 1447
+- paragraphs:
+  - text: '04> HARVISON, Grant Robert
+
+'
+    bounds:
+      left: 506
+      right: 1158
+      top: 1546
+      bottom: 1600
+  - text: |
+      b 08.01.1964
+      Grant b. at Auckland. Address: 160 High Street, Wootten Bassett, Wiltshire, England.
+      Grant was educated at King's School and King's College, Auckland then obtained a degree in
+      Mechanical Engineering from Auckland University. He has been working in the computer field in
+      England since 1990.
+    bounds:
+      left: 602
+      right: 2146
+      top: 1608
+      bottom: 1853
+- paragraphs:
+  - text: |
+      03> WILLIAMS, Alison Esme m on 07.05.1955 to LAND, Robert Alan
+      b 15.10.1933
+    bounds:
+      left: 436
+      right: 1883
+      top: 1942
+      bottom: 2047
+  - text: |
+      b 27.01.1930
+      Separated. Address: 903 Albert Street, Hastings,
+    bounds:
+      left: 523
+      right: 1699
+      top: 2003
+      bottom: 2111
+- paragraphs:
+  - text: |
+      01> LAND, Catherine Alison m on 26.01.1985 to BULLOCK, Owen Fred
+      b 02.11.1956
+    bounds:
+      left: 507
+      right: 2020
+      top: 2144
+      bottom: 2247
+  - text: |
+      b 02.01.1967
+      Catherine m. at St Austell, Cornwall, England. Address: Post Office, Waikino, Waihi.
+    bounds:
+      left: 607
+      right: 1957
+      top: 2201
+      bottom: 2300
+- paragraphs:
+  - text: '01> BULLOCK, Thomas Owen
+
+'
+    bounds:
+      left: 587
+      right: 1192
+      top: 2347
+      bottom: 2396
+  - text: |
+      b 05.01.1988
+      Thomas b. at Aberystwyth, Wales,
+    bounds:
+      left: 678
+      right: 1227
+      top: 2405
+      bottom: 2498
+- paragraphs:
+  - text: '02> BULLOCK, Lucy Catherine
+
+'
+    bounds:
+      left: 588
+      right: 1268
+      top: 2542
+      bottom: 2600
+  - text: |
+      b 10.10.1990
+      Lucy b. at Hastings.
+    bounds:
+      left: 678
+      right: 999
+      top: 2604
+      bottom: 2700
+- paragraphs:
+  - text: '63> BULLOCK, Esther Rosemary
+
+'
+    bounds:
+      left: 589
+      right: 1296
+      top: 2738
+      bottom: 2800
+  - text: |
+      b 13.04.1993
+      Esther b. at Nightcaps, Southland.
+    bounds:
+      left: 687
+      right: 1220
+      top: 2804
+      bottom: 2903
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 212
+      right: 840
+      top: 3294
+      bottom: 3356
+- paragraphs:
+  - text: '161
+
+'
+    bounds:
+      left: 1230
+      right: 1302
+      top: 3301
+      bottom: 3343

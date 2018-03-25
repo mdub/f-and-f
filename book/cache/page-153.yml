@@ -1,0 +1,220 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, Henry and COLDHAM, Marianne
+
+'
+    bounds:
+      left: 213
+      right: 1510
+      top: 164
+      bottom: 222
+  - text: |
+      WILLIAMS, Edward Marsh and DAVIS, Jane
+      WILLIAMS, George Coldham and BRAITHWAITE, Ethel Norma
+      JWILLIAMS, Enid Constance and MURPHY, Robert Keith
+      IMURPHY, Selwyn Robert and FALKNER, Charmian Jocelyn
+      JMURPHY, Sally Vena and TRAFFORD, Hugh
+    bounds:
+      left: 579
+      right: 1945
+      top: 219
+      bottom: 475
+- paragraphs:
+  - text: |
+      01> MURPHY, Sally Vena m on 15.12.1972 to TRAFFORD, Hugh
+      b 01.02.1949
+    bounds:
+      left: 509
+      right: 1804
+      top: 523
+      bottom: 620
+  - text: |
+      b 24.12.1947
+      Sally b. at Gisborne and m. at Manutuke Toko Toru Tapu Church, Gisborne. Hugh, slo Maurice Trafford
+      and Diana Boys, b. at Gisborne.
+      Hugh is a farmer on "Mapiri" station, Muriwai.
+    bounds:
+      left: 595
+      right: 2262
+      top: 583
+      bottom: 774
+- paragraphs:
+  - text: '01> TRAFFORD, Julia Sally
+
+'
+    bounds:
+      left: 580
+      right: 1207
+      top: 818
+      bottom: 876
+  - text: 'b 25.12.1973
+
+'
+    bounds:
+      left: 679
+      right: 894
+      top: 879
+      bottom: 921
+  - text: |
+      Julia b. at Gisborne.
+      02> TRAFFORD, Timothy Selwyn Maurice
+    bounds:
+      left: 578
+      right: 1483
+      top: 932
+      bottom: 1080
+  - text: |
+      b 20.02.1975
+      Timothy b. at Gisborne.
+    bounds:
+      left: 671
+      right: 1050
+      top: 1080
+      bottom: 1179
+- paragraphs:
+  - text: '03> TRAFFORD, Olivia Rose
+
+'
+    bounds:
+      left: 583
+      right: 1209
+      top: 1213
+      bottom: 1277
+  - text: |
+      b 16.09.1979
+      Olivia b. at Gisborne.
+    bounds:
+      left: 680
+      right: 1013
+      top: 1280
+      bottom: 1375
+- paragraphs:
+  - text: |
+      02> MURPHY, Robyn Jocelyn m on 28.11.1980 to TOMBLESON, Geoffrey
+      b 07.11.1952
+    bounds:
+      left: 505
+      right: 2005
+      top: 1466
+      bottom: 1571
+  - text: |
+      b 28.02.1953
+      Robyn b. at Gisborne and m. at Manutuke. Geoffrey, s/o Peter Tombleson and Peggy Fraser, b. at
+      Tolaga Bay. Address: "Reripi" Station, 258 Pakowhai Road, RD 2, Gisborne.
+      Robyn and Geoff are farmers.
+    bounds:
+      left: 597
+      right: 2145
+      top: 1532
+      bottom: 1724
+- paragraphs:
+  - text: '01> TOMBLESON, Caroline Robyn
+
+'
+    bounds:
+      left: 578
+      right: 1312
+      top: 1761
+      bottom: 1829
+  - text: |
+      b 19.04.1982
+      Caroline b, at Gisborne.
+    bounds:
+      left: 680
+      right: 1054
+      top: 1832
+      bottom: 1924
+- paragraphs:
+  - text: '02> TOMBLESON, Jenny Anne
+
+'
+    bounds:
+      left: 576
+      right: 1209
+      top: 1966
+      bottom: 2029
+  - text: |
+      b 12.12.1983
+      Jenny b. at Gisborne.
+    bounds:
+      left: 670
+      right: 1009
+      top: 2032
+      bottom: 2127
+- paragraphs:
+  - text: |
+      03> MURPHY, Deborah Enid m on 22.12.1990 to BELL, Jonathan Charles
+      b 25.11.1957
+    bounds:
+      left: 509
+      right: 2061
+      top: 2225
+      bottom: 2322
+  - text: |
+      b 15.11.1956
+      Deborah b. and m. at Gisborne. Jonathan, s/o Russell Alexander Bell and Francis Barbara Gilling, b.
+      at Oamaru. Address; 39 Murphy Road, Wainui Beach, Gisborne.
+      Deborah is a travel consultant and Johathan is a horticultural consultant.
+    bounds:
+      left: 599
+      right: 2189
+      top: 2282
+      bottom: 2474
+- paragraphs:
+  - text: |
+      04> MURPHY, Philip James (Pip) m on 21.01.1949 to WHITE, June Katherine
+      b 27.05.1921
+    bounds:
+      left: 432
+      right: 2111
+      top: 2570
+      bottom: 2672
+  - text: |
+      b 27.01.1923
+      Pip b. at Gisborne and m. at Patutahi. June, d/o H M White and Kate Sherratt, b. at Gisborne. Address:
+      7 Grant Road, Gisborne.
+      Pip was educated at Huntley School and Wanganui Collegiate School and farmed on "Tararau" station,
+      Muriwai. June was educated at Gisborne Girls' High School and Woodford House and trained as a Karitane
+      nurse.
+    bounds:
+      left: 525
+      right: 2222
+      top: 2627
+      bottom: 2921
+- paragraphs:
+  - text: |
+      01> MURPHY, Jonathan Robert m on 21.09.1975 to DURDY, Fay
+      b 01.07.1950
+    bounds:
+      left: 504
+      right: 1833
+      top: 2970
+      bottom: 3075
+  - text: |
+      b 07.08.1956
+      Jonathan b. at Gisborne and m, at Wairoa. Fay, d/o Royce Durdy and Pauline Ethyl Edwards, b. at
+      Wairoa. Address: 16 River Road, Tewantin, Qld, Australia.
+    bounds:
+      left: 598
+      right: 2162
+      top: 3028
+      bottom: 3181
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 207
+      right: 836
+      top: 3269
+      bottom: 3333
+- paragraphs:
+  - text: '154
+
+'
+    bounds:
+      left: 1222
+      right: 1297
+      top: 3277
+      bottom: 3322

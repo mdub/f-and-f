@@ -1,0 +1,222 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, Henry and COLDHAM, Marianne
+
+'
+    bounds:
+      left: 210
+      right: 1513
+      top: 189
+      bottom: 245
+  - text: |
+      JWILLIAMS, Edward Marsh and DAVIS, Jane
+      JWILLIAMS, Henry Edward and CONNELL, Isabelle Annie
+    bounds:
+      left: 582
+      right: 1868
+      top: 242
+      bottom: 346
+  - text: |
+      WILLIAMS, Claud Herbert and EGERTON, Dorothy Lesley
+      JWILLIAMS, Stella Frances and OVERBYE, Jon Douglas
+      VOVERBYE, Ralph Douglas and SCHMIDT, Michelle Ănn
+    bounds:
+      left: 581
+      right: 1892
+      top: 341
+      bottom: 509
+- paragraphs:
+  - text: 'OVERBYE, Ralph Douglas and SCHMIDT, Michelle Ann (cont...)
+
+'
+    bounds:
+      left: 585
+      right: 1633
+      top: 548
+      bottom: 603
+  - text: 'Michelle is a full-time homemaker. Both serve as elders at Son City Apostolic
+      Church in Gisborne.
+
+'
+    bounds:
+      left: 612
+      right: 2158
+      top: 604
+      bottom: 651
+- paragraphs:
+  - text: '01> OVERBYE, Sarah Michelle
+
+'
+    bounds:
+      left: 576
+      right: 1261
+      top: 686
+      bottom: 752
+  - text: |
+      b 05.10.1992
+      Sarah b. at Gisborne.
+    bounds:
+      left: 676
+      right: 1006
+      top: 751
+      bottom: 848
+- paragraphs:
+  - text: '02> OVERBYE, Daniel Liam
+
+'
+    bounds:
+      left: 577
+      right: 1192
+      top: 886
+      bottom: 949
+  - text: |
+      b 11.11.1994
+      Daniel b. at Gisborne.
+    bounds:
+      left: 674
+      right: 1022
+      top: 951
+      bottom: 1052
+- paragraphs:
+  - text: '03> OVERBYE, Joshua Nathan
+
+'
+    bounds:
+      left: 575
+      right: 1234
+      top: 1087
+      bottom: 1152
+  - text: |
+      b 17.11.1996
+      Joshua b. at Gisborne.
+    bounds:
+      left: 669
+      right: 1026
+      top: 1152
+      bottom: 1248
+- paragraphs:
+  - text: '04>''WILLIAMS, Leslie Edward
+
+'
+    bounds:
+      left: 353
+      right: 1035
+      top: 1339
+      bottom: 1398
+  - text: |
+      b 20.10.1877 d 07.11.1905
+      Leslie b. at Auckland and d. and bd. at Dunedin.
+      Leslie was a lawyer. He was an accomplished musician and used to sing solo in the Cathedral choir in
+      Dunedin.
+    bounds:
+      left: 444
+      right: 2042
+      top: 1401
+      bottom: 1595
+- paragraphs:
+  - text: |
+      05> WILLIAMS, Henry Carleton m on 15.02.1911 to MILLS, Catherine Leslie
+      b 18.08.1880 d 03.07.1961
+    bounds:
+      left: 354
+      right: 2031
+      top: 1640
+      bottom: 1746
+  - text: |
+      b 05.11.1885 d 31.05.1966
+      Carleton b. at Auckland and m, at Napier. Leslie, d/o John Mills and Annie Burt. Leslie was
+      cremated and her ashes are on Rerepe, the highest point on "Sherwood" station.
+      The family moved to Dunedin in 1881/2 and Carl was educated at Otago Boys' High School. He
+      learnt farming at Te Aute with his Uncle Allen. In 1905 he bought part of "Wairakaia"
+      station at Muriwai, Gisborne which he called "Sherwood". Until his retirement in 1950 he
+    bounds:
+      left: 680
+      right: 2195
+      top: 1702
+      bottom: 1997
+  - text: |
+      farmed in partnership with his brother, Claud who owned the adjoining property, "Coventry".
+      Carl served as a Lieutenant in the New Zealand Rifle Brigade in France in WW1 and was wounded in action. He
+      had a particular interest in the planting and propagation of trees.
+    bounds:
+      left: 451
+      right: 2218
+      top: 2002
+      bottom: 2153
+- paragraphs:
+  - text: |
+      01> WILLIAMS, Elisabeth Carleton m on 11.06.1938 to BUNNY, Ralph
+      b 19.02.1912 d 27.06.1996
+    bounds:
+      left: 433
+      right: 1938
+      top: 2189
+      bottom: 2296
+  - text: |
+      b 14.03.1913
+      Elisabeth b, and m. at Gisborne. Ralph, s/o Edward William Bunny and Aileen Madelein
+      Riddiford, b. at Masterton. Address: 77 Titoki Street, Masterton.
+      Elisabeth was educated at Marsden Collegiate School, Karori and was a Karitane nurse
+      before marriage and later involved with CAB and meals on wheels. She was a long-serving
+      member of the Save the Children Fund Committee in Masterton, Ralph is a retired farmer,
+      He served as a Lieutenant in the 3rd Div Pacific from 1942 to 1944.
+    bounds:
+      left: 766
+      right: 2186
+      top: 2249
+      bottom: 2600
+- paragraphs:
+  - text: |
+      01> BUNNY, Jillian Mary m on 01.12.1962 to (1) BARTON, Richard Hugh
+      b 14.02.1940
+    bounds:
+      left: 512
+      right: 2068
+      top: 2641
+      bottom: 2745
+  - text: |
+      b 21.11.1939
+      Jill b, and educated at Masterton. Divorced.
+    bounds:
+      left: 602
+      right: 1721
+      top: 2700
+      bottom: 2797
+- paragraphs:
+  - text: |
+      01> BARTON, Richard Mark m on 31.10.1992 to CROWL, Julia Mary
+      b 29.08.1964
+    bounds:
+      left: 586
+      right: 2015
+      top: 2836
+      bottom: 2946
+  - text: |
+      b 09.03.1964
+      Address: 1 Yathong Street, Wagga Wagga 2650, NSW, Australia.
+      Richard has been farming in Australia since 1987 and is now works on a farm supplying roses for
+      the cut flower market.
+    bounds:
+      left: 678
+      right: 2217
+      top: 2892
+      bottom: 3099
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 215
+      right: 840
+      top: 3294
+      bottom: 3351
+- paragraphs:
+  - text: '90
+
+'
+    bounds:
+      left: 1253
+      right: 1300
+      top: 3299
+      bottom: 3341

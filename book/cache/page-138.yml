@@ -1,0 +1,223 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, Henry and COLDHAM, Marianne
+
+'
+    bounds:
+      left: 207
+      right: 1504
+      top: 192
+      bottom: 248
+  - text: |
+      JWILLIAMS, Edward Marsh and DAVIS, Jane
+      JWILLIAMS, Joseph Heathcote and BUCHANAN, Sarah Nidra (Ally)
+      JWILLIAMS, Marjorie and MACKAY, Lionel John Mytton Handcock
+      IMACKAY, Denis Handcock and YOUNGER, Mary Elizabeth
+    bounds:
+      left: 572
+      right: 2087
+      top: 247
+      bottom: 449
+- paragraphs:
+  - text: 'saran di rantaux
+
+'
+    bounds:
+      left: 1623
+      right: 2063
+      top: 261
+      bottom: 423
+- paragraphs:
+  - text: '03> MACKAY, Rachel Jane
+
+'
+    bounds:
+      left: 502
+      right: 1076
+      top: 494
+      bottom: 552
+  - text: 'b 20.08.1954
+
+'
+    bounds:
+      left: 603
+      right: 813
+      top: 558
+      bottom: 596
+- paragraphs:
+  - text: |
+      01> MACKAY, Denis Handcock m on 23.07.1976 to (2)BIGGS, Clare Mignon
+      b 19.03.1916
+    bounds:
+      left: 426
+      right: 2029
+      top: 689
+      bottom: 805
+  - text: |
+      b 21.09.1926 d 09.03.1996
+      Address: 2/905 Gordon Road, Hastings.
+    bounds:
+      left: 519
+      right: 1976
+      top: 758
+      bottom: 852
+- paragraphs:
+  - text: |
+      02> MACKAY, Colin Keith m on 03.11.1948 to HARLEY, Jeannette Constance Kerr
+      b 28.03.1918
+    bounds:
+      left: 429
+      right: 2204
+      top: 899
+      bottom: 995
+  - text: |
+      b 20.04.1923
+      Colin b. at Lower Moutere and m. at Christ Church Cathedral, Nelson. Jeannette, d/o Howard CK Harley
+      and Winifred Isobel Paradise. Address: 101 Aranui Road, Mapua, Nelson.
+      Colin studied engineering. He served in the armed forces in WW2 and was a prisoner of war in Italy and
+      Austria. He was then an orchardist in Lower Moutere until about 1971 when he retired to Mapua for
+      health reasons. Jeanette trained in opera singing in Sydney and later became a full-time school
+      teacher.
+    bounds:
+      left: 509
+      right: 2198
+      top: 945
+      bottom: 1298
+- paragraphs:
+  - text: '01> MACKAY, Timothy John m on 18.04.1981 to PATTERSON, Katharine Linda
+
+'
+    bounds:
+      left: 502
+      right: 2154
+      top: 1346
+      bottom: 1400
+  - text: |
+      Holmes (Kate)
+      b 19.05.1950
+    bounds:
+      left: 601
+      right: 1946
+      top: 1401
+      bottom: 1498
+  - text: |
+      b 14.09.1953
+      Timothy b. at Nelson and m, at Blenheim. Katharine, d/o Dr Kenneth Hardie Patterson and Joan
+      Margaret Holmes, b. at Blenheim. 196 Nile Street E, Nelson.
+      Tim attended Hereworth School (1960-62) and Nelson College (1963-67). He worked on his father's
+      orchard before entering radio in 1968. He lived in England (1975-80) then worked in radio in
+      Greymouth, Timaru and Invercargill before moving to Wellington in 1989. He was Creative Director
+      on 2ZB in Wellington before moving back to Nelson in 1996 where he is now working in tourism
+      consultancy. Kate was formerly a secondary school teacher in Auckland and now works for a
+      Norwegian company in Richmond.
+    bounds:
+      left: 589
+      right: 2192
+      top: 1455
+      bottom: 1903
+- paragraphs:
+  - text: '01> MACKAY, Lisa Katharine
+
+'
+    bounds:
+      left: 579
+      right: 1227
+      top: 1942
+      bottom: 2004
+  - text: |
+      b 06.11.1984
+      Lisa b. at Timaru.
+    bounds:
+      left: 674
+      right: 957
+      top: 2006
+      bottom: 2100
+- paragraphs:
+  - text: '02> MACKAY, Stephanie Mariele
+
+'
+    bounds:
+      left: 580
+      right: 1307
+      top: 2142
+      bottom: 2200
+  - text: |
+      b 22.04.1987
+      Stephanie b. at Invercargill.
+    bounds:
+      left: 672
+      right: 1105
+      top: 2208
+      bottom: 2300
+- paragraphs:
+  - text: |
+      02> MACKAY, Penelope Christine and STARNES, Colin Keith
+      b 22.07.1953
+    bounds:
+      left: 505
+      right: 1867
+      top: 2390
+      bottom: 2499
+  - text: |
+      b 20.10.1953
+      Penelope b. at Nelson. Colin, s/o Tom and Isobel Starnes. Address: 35 Rainbow Drive, Nelson.
+      Penelope is a part time commercial pilot and flying instructor and Colin is a tutor at the Commerce
+      Department of the Nelson Polytechnic. Both are interested in sailing and diving.
+    bounds:
+      left: 598
+      right: 2138
+      top: 2453
+      bottom: 2650
+- paragraphs:
+  - text: '01> STARNES, Kim Rachel
+
+'
+    bounds:
+      left: 580
+      right: 1163
+      top: 2694
+      bottom: 2748
+  - text: 'b 24.12.1983
+
+'
+    bounds:
+      left: 684
+      right: 900
+      top: 2756
+      bottom: 2799
+- paragraphs:
+  - text: '02> STARNES, Hannah Jane
+
+'
+    bounds:
+      left: 579
+      right: 1182
+      top: 2838
+      bottom: 2900
+  - text: 'b 27.12.1987
+
+'
+    bounds:
+      left: 684
+      right: 899
+      top: 2908
+      bottom: 2951
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 208
+      right: 836
+      top: 3294
+      bottom: 3356
+- paragraphs:
+  - text: '139
+
+'
+    bounds:
+      left: 1220
+      right: 1290
+      top: 3298
+      bottom: 3352

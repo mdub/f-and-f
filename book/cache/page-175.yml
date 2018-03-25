@@ -1,0 +1,593 @@
+---
+blocks:
+- paragraphs:
+  - text: "|1.02.00 ||\n"
+    bounds:
+      left: 2156
+      right: 2386
+      top: 178
+      bottom: 237
+- paragraphs:
+  - text: |
+      WILLIAMS, Marianne
+      = DAVIES. Christopher Pearson
+    bounds:
+      left: 977
+      right: 1631
+      top: 319
+      bottom: 431
+- paragraphs:
+  - text: |
+      George Henry
+      GODFREY, Rose Aima
+    bounds:
+      left: 224
+      right: 457
+      top: 518
+      bottom: 580
+- paragraphs:
+  - text: 'Henry Marianne Caroline
+
+'
+    bounds:
+      left: 619
+      right: 902
+      top: 520
+      bottom: 552
+  - text: "*BUSBY, Hilliam\n"
+    bounds:
+      left: 697
+      right: 880
+      top: 554
+      bottom: 584
+- paragraphs:
+  - text: |
+      Christopher Pearson
+      HILLIAMS, Mary Anne
+    bounds:
+      left: 1066
+      right: 1305
+      top: 524
+      bottom: 591
+- paragraphs:
+  - text: 'William Edward Thomas Marsh
+
+'
+    bounds:
+      left: 1384
+      right: 1724
+      top: 526
+      bottom: 559
+  - text: "*BARR, Agres Lyali\n"
+    bounds:
+      left: 1575
+      right: 1795
+      top: 561
+      bottom: 596
+- paragraphs:
+  - text: 'Kathleen Heathcote Eliza Pearson
+
+'
+    bounds:
+      left: 1822
+      right: 2231
+      top: 531
+      bottom: 570
+- paragraphs:
+  - text: '重量是一
+
+'
+    bounds:
+      left: 58
+      right: 1768
+      top: 247
+      bottom: 1091
+- paragraphs:
+  - text: |
+      DAVIESGeorge William Godfrey
+      *KELLY, Nord Creina
+      -DAYIES. Leofric Pearson
+      DAVIES. Ethleen Rose
+    bounds:
+      left: 221
+      right: 601
+      top: 616
+      bottom: 755
+  - text: |
+      DAVIES, Green Temple
+      | DAYIES. Edith Race
+    bounds:
+      left: 209
+      right: 464
+      top: 749
+      bottom: 817
+  - text: |
+      WILLER, Harold Gladstorne
+      -DAVIES, Christopher ap Rhys
+      | MAKES. Lian Margaret
+      ~DAYTES, Thornas
+      >DAVIES, Henry
+    bounds:
+      left: 213
+      right: 560
+      top: 818
+      bottom: 989
+- paragraphs:
+  - text: 'NBUSBY, Agnes
+
+'
+    bounds:
+      left: 697
+      right: 858
+      top: 622
+      bottom: 655
+  - text: |
+      ~DAVIES, Eileen Pearson
+      -BUSBY, Kathleen Hary
+    bounds:
+      left: 696
+      right: 1342
+      top: 623
+      bottom: 691
+  - text: |
+      *DAVIES, Freda Lilian
+      *CANNING, Davis
+    bounds:
+      left: 714
+      right: 1325
+      top: 656
+      bottom: 718
+  - text: |
+      | WONGSHUN, Gordon Nawley
+      *BUSBY, Elsie
+    bounds:
+      left: 697
+      right: 1367
+      top: 691
+      bottom: 756
+  - text: |
+      DAY TES, Hird Pearson
+      +BLISBY, Beatrix
+    bounds:
+      left: 697
+      right: 1321
+      top: 728
+      bottom: 785
+  - text: |
+      PEERSON, Peder
+      *JEFFERD, Charles Tams
+    bounds:
+      left: 709
+      right: 1270
+      top: 762
+      bottom: 824
+  - text: |
+      | DAVIES, Hilliam Pearson
+      *BUSBY, George Alexander
+    bounds:
+      left: 693
+      right: 1358
+      top: 792
+      bottom: 858
+  - text: |
+      WTERITHISE, Dorothy Bianche
+      BLISBY, Helm
+      »BUSBY, Elearnor Haud (Lena)
+    bounds:
+      left: 691
+      right: 1048
+      top: 854
+      bottom: 959
+  - text: 'JEFFERD. Frederic Reader
+
+'
+    bounds:
+      left: 722
+      right: 1012
+      top: 958
+      bottom: 990
+- paragraphs:
+  - text: |
+      DAVIES, George Henry
+      = GODFREY, Rose Alma
+    bounds:
+      left: 949
+      right: 1407
+      top: 1091
+      bottom: 1197
+- paragraphs:
+  - text: "|1.02.011\n"
+    bounds:
+      left: 2151
+      right: 2382
+      top: 1118
+      bottom: 1177
+- paragraphs:
+  - text: |
+      George William Godfrey
+      KELLY. Nora Creina
+    bounds:
+      left: 158
+      right: 426
+      top: 1286
+      bottom: 1351
+- paragraphs:
+  - text: 'Leofric Pearson Ethleen Rose Gwen Temple Edith Race
+
+'
+    bounds:
+      left: 585
+      right: 1239
+      top: 1285
+      bottom: 1322
+  - text: 'MILLER. Harold Gladstone
+
+'
+    bounds:
+      left: 1141
+      right: 1424
+      top: 1325
+      bottom: 1355
+- paragraphs:
+  - text: 'Thomas Henry
+
+'
+    bounds:
+      left: 1943
+      right: 2105
+      top: 1296
+      bottom: 1326
+- paragraphs:
+  - text: |
+      Christopher ap Rhys
+      “HAAKES, Lilian Margaret
+    bounds:
+      left: 1548
+      right: 1839
+      top: 1296
+      bottom: 1358
+- paragraphs:
+  - text: |
+      * DAVIES. Geten Roseriary Alma
+      |-ARMELD, Edgar Lamson unr
+      DAVIES, Ian Godfrey
+      CK, Dapine
+      DAVIES, John Douglas Geoffrey
+    bounds:
+      left: 156
+      right: 522
+      top: 1388
+      bottom: 1554
+  - text: |
+      HARRIS, Gertrude eiba Elizabeth
+      -DAVIES. Kathleen Edith Rosalie
+      *BOARD,Timothy
+    bounds:
+      left: 157
+      right: 573
+      top: 1554
+      bottom: 1653
+- paragraphs:
+  - text: 'MILLER, John Owen
+
+'
+    bounds:
+      left: 1140
+      right: 1337
+      top: 1393
+      bottom: 1421
+  - text: |
+      ~DAVIES, George Reville
+      O'BRIEH, Janie
+    bounds:
+      left: 1149
+      right: 1826
+      top: 1391
+      bottom: 1457
+  - text: |
+      =TOOD, Talerie Ethe
+      *HILLER, taryrose
+    bounds:
+      left: 1126
+      right: 1794
+      top: 1426
+      bottom: 1488
+  - text: |
+      DAVIES. Helen Rose
+      |-WILSH, Godfrey Edward Armstrong "VICKERMAN, John D'Arcy
+      -MILLER. Rachel Godfrey
+    bounds:
+      left: 1122
+      right: 1839
+      top: 1460
+      bottom: 1557
+  - text: |
+      »DAVIES. James Pearson(Jim)
+      | HAL SE. lceta
+      DAVIES. Hargaret Dorothy
+      -BRAHLEY, Frank Hiliam (Bill)
+    bounds:
+      left: 1546
+      right: 1929
+      top: 1529
+      bottom: 1661
+- paragraphs:
+  - text: |
+      DAVIES, Marianne Caroline
+      = BUSBY,W711iam
+    bounds:
+      left: 659
+      right: 1222
+      top: 1793
+      bottom: 1894
+- paragraphs:
+  - text: "|1.02.03\n"
+    bounds:
+      left: 2132
+      right: 2333
+      top: 1800
+      bottom: 1865
+- paragraphs:
+  - text: "……\n"
+    bounds:
+      left: 684
+      right: 701
+      top: 1930
+      bottom: 1956
+- paragraphs:
+  - text: 'Agnes Kathleen Mary
+
+'
+    bounds:
+      left: 154
+      right: 392
+      top: 1978
+      bottom: 2009
+  - text: 'CANNING, Davis
+
+'
+    bounds:
+      left: 248
+      right: 419
+      top: 2010
+      bottom: 2042
+- paragraphs:
+  - text: 'Elsie Beatrix
+
+'
+    bounds:
+      left: 690
+      right: 857
+      top: 1982
+      bottom: 2006
+  - text: "=JEFFERD, Charles Toms\n"
+    bounds:
+      left: 772
+      right: 1039
+      top: 2015
+      bottom: 2045
+- paragraphs:
+  - text: |
+      George Alexander
+      WATERHOUSE, Dorothy Blanche
+    bounds:
+      left: 1175
+      right: 1515
+      top: 1981
+      bottom: 2042
+- paragraphs:
+  - text: 'Helen Eleanor Maud (Lena)
+
+'
+    bounds:
+      left: 1558
+      right: 1866
+      top: 1983
+      bottom: 2016
+  - text: 'eEFFERD. Frederic Reader
+
+'
+    bounds:
+      left: 1640
+      right: 1945
+      top: 2018
+      bottom: 2045
+- paragraphs:
+  - text: 'NCANNING, John Davis (Jack)
+
+'
+    bounds:
+      left: 236
+      right: 563
+      top: 2078
+      bottom: 2109
+  - text: |
+      *BARRET, Bertha
+      NCANNING, Eisie Hary McQueen (Munie)
+    bounds:
+      left: 234
+      right: 673
+      top: 2114
+      bottom: 2177
+  - text: |
+      MYINE-LEWIS, Thomas Herbert (Tc)
+      CANNING, William Busby
+      ~CAIRING, Davis (Peter)
+    bounds:
+      left: 236
+      right: 664
+      top: 2176
+      bottom: 2277
+  - text: |
+      SWAN, Nancy
+      SCANNING, Beatrix Busby (Betty)
+    bounds:
+      left: 237
+      right: 610
+      top: 2280
+      bottom: 2347
+  - text: |
+      DONKIN, Douglas Sydney (Pat)
+      | CANNING, Malmsiey
+    bounds:
+      left: 221
+      right: 605
+      top: 2344
+      bottom: 2410
+  - text: |
+      COX, Doren Mary
+      •CANNING. Robert Alexander
+    bounds:
+      left: 233
+      right: 552
+      top: 2410
+      bottom: 2475
+  - text: 'PATTISON, Fanny
+
+'
+    bounds:
+      left: 255
+      right: 448
+      top: 2476
+      bottom: 2508
+- paragraphs:
+  - text: "- JEFERO, John Busby (Jack)\n"
+    bounds:
+      left: 769
+      right: 1102
+      top: 2077
+      bottom: 2115
+  - text: |
+      |-BUSBY, Hilliam Richard (Dick》
+      | REEVES. Hargaret Shirley Leigh BUSBY, Beatrice
+      JEFERD. Harris Busby
+    bounds:
+      left: 774
+      right: 1539
+      top: 2079
+      bottom: 2183
+  - text: |
+      »BUSBY, Mary Dorothy (Holly)
+      FAISER, Eva Dahr
+    bounds:
+      left: 781
+      right: 1517
+      top: 2147
+      bottom: 2211
+  - text: |
+      CONN,Janes Linburn
+      >BUSBY, John Gordon
+    bounds:
+      left: 1176
+      right: 1442
+      top: 2183
+      bottom: 2247
+  - text: |
+      中EARES, Helen Angela
+      -BUSBY, Judith Margaret
+      *SINCLAIR, Robin Brignal)
+    bounds:
+      left: 1176
+      right: 1493
+      top: 2246
+      bottom: 2352
+- paragraphs:
+  - text: 'JEFFERD, Janet Mary
+
+'
+    bounds:
+      left: 1648
+      right: 1880
+      top: 2085
+      bottom: 2115
+  - text: |
+      *OKCKTON, Christopter Martin
+      参JEFFERD, William Busby (Digger)
+    bounds:
+      left: 1637
+      right: 2030
+      top: 2119
+      bottom: 2185
+  - text: "*ILOOKIE,ery audith\n"
+    bounds:
+      left: 1666
+      right: 1929
+      top: 2180
+      bottom: 2216
+- paragraphs:
+  - text: |
+      |1.02.04 |
+      DAVIES, Christopher Pearson
+      = WILLIAMS, Mary Anne
+    bounds:
+      left: 1490
+      right: 2339
+      top: 2575
+      bottom: 2715
+- paragraphs:
+  - text: 'William Pearson
+
+'
+    bounds:
+      left: 2098
+      right: 2283
+      top: 2804
+      bottom: 2827
+- paragraphs:
+  - text: 'Eileen Pearson Freda Lilian
+
+'
+    bounds:
+      left: 1292
+      right: 1629
+      top: 2799
+      bottom: 2824
+  - text: "-DODGSHUN, Gordon Mawley\n"
+    bounds:
+      left: 1484
+      right: 1775
+      top: 2830
+      bottom: 2860
+- paragraphs:
+  - text: |
+      Nina Pearson
+      | sPEDERSON, Peter
+    bounds:
+      left: 1865
+      right: 2069
+      top: 2802
+      bottom: 2862
+- paragraphs:
+  - text: "~DODGSHUN, Joseph Terence (Joe)\n"
+    bounds:
+      left: 1484
+      right: 1864
+      top: 2896
+      bottom: 2928
+  - text: |
+      *OODS, Aure Shirley
+      *XHZGSHER, Sydney Yarke
+    bounds:
+      left: 1491
+      right: 1763
+      top: 2928
+      bottom: 2992
+  - text: |
+      -KOODWARD, Dorothy Virginia
+      :CONGSHEN, Truby Ethiard
+      DOGSHUN, Kenneth Christopher
+      *SHUSHALL,Renda Joy
+    bounds:
+      left: 1484
+      right: 1852
+      top: 2998
+      bottom: 3127
+- paragraphs:
+  - text: '176
+
+'
+    bounds:
+      left: 1156
+      right: 1232
+      top: 3289
+      bottom: 3333

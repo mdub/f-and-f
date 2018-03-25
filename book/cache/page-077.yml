@@ -1,0 +1,438 @@
+---
+blocks:
+- paragraphs:
+  - text: '1.01.05
+
+'
+    bounds:
+      left: 2164
+      right: 2324
+      top: 213
+      bottom: 272
+- paragraphs:
+  - text: |
+      WILLIAMS, Allen Marsh
+      = BUCHANAN, Annabelle Milne (Bella)
+    bounds:
+      left: 752
+      right: 1540
+      top: 289
+      bottom: 397
+- paragraphs:
+  - text: |
+      T
+      Nellie Mabel Buchanan Edward Gordon
+    bounds:
+      left: 415
+      right: 864
+      top: 426
+      bottom: 529
+  - text: "=EMPSON, Judith Mary\n"
+    bounds:
+      left: 706
+      right: 947
+      top: 526
+      bottom: 556
+- paragraphs:
+  - text: |
+      Allen Douglas
+      -KNIGHT, Clara Olive
+    bounds:
+      left: 1105
+      right: 1347
+      top: 494
+      bottom: 555
+- paragraphs:
+  - text: |
+      Muriel Buchanan
+      = FAULKNER. Albert Joseph
+    bounds:
+      left: 1561
+      right: 1852
+      top: 487
+      bottom: 552
+- paragraphs:
+  - text: |
+      -WILLIAMS, David Empson
+      -WILLIAMS, Bruce Buchanan
+    bounds:
+      left: 702
+      right: 1409
+      top: 589
+      bottom: 627
+  - text: |
+      FAULKNER, Jean Anabelle
+      =(1 JELKORTHY. Josephine
+      -LEWIS, May
+    bounds:
+      left: 717
+      right: 1851
+      top: 588
+      bottom: 660
+  - text: |
+      -PARKER, Richard Charles
+      *(2 JUNWIN, Evelyn (Indy)
+      WILLIAMS, Amy Margaret (Meg)
+    bounds:
+      left: 718
+      right: 1861
+      top: 622
+      bottom: 692
+  - text: |
+      FAULKNER, Frederick Edward
+      -(3 JFAULKNER, Muriel Mary
+      =TRIPE. Richard Edward
+    bounds:
+      left: 719
+      right: 1885
+      top: 656
+      bottom: 726
+  - text: |
+      MURPHY, Ethel Mary
+      -WILLIAMS. Stephen Empson
+      WILLIAMS. Allen Donald Buchanan
+    bounds:
+      left: 702
+      right: 1800
+      top: 692
+      bottom: 761
+  - text: |
+      FAULKNER. Sheila Prudence
+      =FIRTH, Joyce Patricia
+    bounds:
+      left: 716
+      right: 1873
+      top: 723
+      bottom: 795
+  - text: |
+      WALLS. Elizabeth Marion Gwendoline - FAULKNER, Muriel Mary
+      -WILLIAMS, Clemency Agnes Enson
+    bounds:
+      left: 702
+      right: 1823
+      top: 760
+      bottom: 828
+  - text: |
+      =WILLIAMS. David Empson
+      -RENNIE, James Maoate
+    bounds:
+      left: 719
+      right: 1848
+      top: 790
+      bottom: 862
+  - text: |
+      FAULKNER, Ian Douglas Allen
+      WILLIAMS, Dinah Gordon
+    bounds:
+      left: 718
+      right: 1898
+      top: 824
+      bottom: 894
+  - text: |
+      -CHEESEMAN, Margaret
+      --GOOCH, John
+    bounds:
+      left: 714
+      right: 1812
+      top: 847
+      bottom: 938
+- paragraphs:
+  - text: "(1.01.06\n"
+    bounds:
+      left: 2147
+      right: 2322
+      top: 977
+      bottom: 1036
+- paragraphs:
+  - text: |
+      WILLIAMS, Joseph Heathcote
+      = BUCHANAN, Sarah Nidra (Aly)
+    bounds:
+      left: 810
+      right: 1487
+      top: 1058
+      bottom: 1166
+- paragraphs:
+  - text: |
+      Violet Maud
+      =BERSCH, Ludwig
+    bounds:
+      left: 433
+      right: 615
+      top: 1262
+      bottom: 1328
+- paragraphs:
+  - text: |
+      >BERSCH, Marie Cecil (Mariele)
+      BERSCH, Elizabeth Luise
+      =HAGGENMACHER. Ulrich
+      -BERSCH, Gertrude Maud
+    bounds:
+      left: 433
+      right: 797
+      top: 1363
+      bottom: 1492
+  - text: |
+      =BESTEBREURTJE, Arie
+      »BERSCH, Barbara Margaret
+      ==HEER. Heinrich Hermann
+    bounds:
+      left: 432
+      right: 737
+      top: 1503
+      bottom: 1592
+- paragraphs:
+  - text: |
+      Cecil Margaret
+      Norah
+    bounds:
+      left: 813
+      right: 1165
+      top: 1263
+      bottom: 1292
+  - text: |
+      Marjorie
+      WILLIAMS, Henry (Hal) --SUNDERLAND. Richard O
+    bounds:
+      left: 824
+      right: 1626
+      top: 1264
+      bottom: 1326
+  - text: |
+      --MACKAY, Lionel John Mytton Handcock
+      See Chart 1.06.09
+    bounds:
+      left: 818
+      right: 1968
+      top: 1284
+      bottom: 1380
+  - text: |
+      -SUNDERLAND. Joseph Langdale (Joe) -MACKAY, Denis Handcock
+      =CROSSE, Joan Elizabeth (Sem)
+    bounds:
+      left: 1103
+      right: 1806
+      top: 1359
+      bottom: 1428
+  - text: |
+      =(1 YOUNGER. Mary Elizabeth
+      »SUNDERLAND. Thomas Marmaduke
+    bounds:
+      left: 1101
+      right: 1870
+      top: 1392
+      bottom: 1462
+  - text: |
+      =(2 JBIGGS, Clare Mignon
+      COUPER, Mabel Joan Mary
+    bounds:
+      left: 1123
+      right: 1820
+      top: 1428
+      bottom: 1493
+  - text: |
+      MACKAY. Colin Keith
+      =HARLEY, Jeannette Constance Kerr
+      MACKAY, Brian French
+      >MACKAY. Peter Buchanan
+      =NATHAN, Valerie Constance
+    bounds:
+      left: 1530
+      right: 1945
+      top: 1462
+      bottom: 1627
+- paragraphs:
+  - text: 'SIE
+
+'
+    bounds:
+      left: 1106
+      right: 1831
+      top: 1066
+      bottom: 1705
+- paragraphs:
+  - text: "|1.01.07 |\n"
+    bounds:
+      left: 2148
+      right: 2355
+      top: 1758
+      bottom: 1824
+- paragraphs:
+  - text: |
+      WILLIAMS, Alfred Owen
+      = GASTER, Alice
+    bounds:
+      left: 879
+      right: 1353
+      top: 1928
+      bottom: 2029
+- paragraphs:
+  - text: |
+      Wilfrid Gaster
+      =CHALK, Madeline
+    bounds:
+      left: 417
+      right: 613
+      top: 2130
+      bottom: 2192
+- paragraphs:
+  - text: 'Olive Gaster Keith Gaster Ulric Gaster
+
+'
+    bounds:
+      left: 858
+      right: 1344
+      top: 2125
+      bottom: 2156
+  - text: "=THURLING. Mary May\n"
+    bounds:
+      left: 1200
+      right: 1431
+      top: 2158
+      bottom: 2188
+- paragraphs:
+  - text: |
+      Garth Gaster
+      =(1)KIOD. Kathleen Marion
+    bounds:
+      left: 1591
+      right: 1894
+      top: 2126
+      bottom: 2189
+- paragraphs:
+  - text: "-WILLIAMS. Wilfrid Maurice Chalk\n"
+    bounds:
+      left: 417
+      right: 806
+      top: 2227
+      bottom: 2258
+  - text: |
+      =BARNES. Kathleen Penelope (Penny)
+      -WILLIAMS, Sybil Mary
+      =WOODS. Samuel 'Edward
+    bounds:
+      left: 417
+      right: 844
+      top: 2261
+      bottom: 2358
+- paragraphs:
+  - text: |
+      -WILLIAMS, Owen Neville (Peter) -WILLIAMS, Myra Colgate (Winks)
+      =AUGER, Patricia
+    bounds:
+      left: 1199
+      right: 1965
+      top: 2221
+      bottom: 2284
+  - text: |
+      -ORUATOND. Dan Francis
+      =(2)VICKERS. Rhoda
+      -WILLIAMS, Keith Colgate
+    bounds:
+      left: 1590
+      right: 1880
+      top: 2255
+      bottom: 2355
+  - text: 'GRAHAM, Lesley May
+
+'
+    bounds:
+      left: 1617
+      right: 1833
+      top: 2355
+      bottom: 2388
+- paragraphs:
+  - text: '1.01.08 |
+
+'
+    bounds:
+      left: 2164
+      right: 2356
+      top: 2492
+      bottom: 2561
+- paragraphs:
+  - text: |
+      WILLIAMS, George Coldham
+      = BRATHWAITE, Ethel Norma
+    bounds:
+      left: 867
+      right: 1427
+      top: 2580
+      bottom: 2683
+- paragraphs:
+  - text: 'Enid Constance
+
+'
+    bounds:
+      left: 549
+      right: 719
+      top: 2775
+      bottom: 2803
+  - text: |
+      Selwyn Noel Braithwaite Doris Ethel Lois Gwendoline
+      =MURPHY, Robert Keith
+    bounds:
+      left: 556
+      right: 1599
+      top: 2771
+      bottom: 2831
+  - text: |
+      =(1)OISBROWE. Edward Francis
+      |
+      +MURPHY, Ethel Mary
+    bounds:
+      left: 553
+      right: 1756
+      top: 2802
+      bottom: 2899
+  - text: |
+      POISBROWE, Noel John Edward
+      =FAULKNER, Frederick Edward
+    bounds:
+      left: 567
+      right: 1746
+      top: 2869
+      bottom: 2932
+  - text: |
+      =WHITE, Alison Johanna Lovell
+      -MURPHY, Monica Constance
+    bounds:
+      left: 554
+      right: 1781
+      top: 2899
+      bottom: 2967
+  - text: |
+      DISBROWE, Pamela Lois
+      -NEWTON, Edward Thomas Charles
+    bounds:
+      left: 567
+      right: 1682
+      top: 2933
+      bottom: 3004
+  - text: |
+      -ATTKO00, John
+      -MURPHY, Selwyn Robert
+    bounds:
+      left: 553
+      right: 1599
+      top: 2967
+      bottom: 3037
+  - text: |
+      *(2)ANDERSON, Horace
+      |-FALKNER. Chanmian Jocelyn
+      -MURPKY, Philip James (Pip)
+      -KHITE, June Katherine
+    bounds:
+      left: 552
+      right: 1662
+      top: 3001
+      bottom: 3137
+- paragraphs:
+  - text: '78
+
+'
+    bounds:
+      left: 1177
+      right: 1229
+      top: 3290
+      bottom: 3339

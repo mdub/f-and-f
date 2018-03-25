@@ -1,7 +1,7 @@
-require "faith_and_farming/ocr/page"
+require "faith_and_farming/book/page"
 
 module FaithAndFarming
-  module OCR
+  module Book
 
     class Pages
 

@@ -1,0 +1,204 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, Henry and COLDHAM, Marianne
+
+'
+    bounds:
+      left: 205
+      right: 1508
+      top: 190
+      bottom: 244
+  - text: 'JWILLIAMS, Edward Marsh and DAVIS, Jane
+
+'
+    bounds:
+      left: 575
+      right: 1554
+      top: 243
+      bottom: 293
+  - text: |
+      WILLIAMS, Henry Edward and CONNELL, Isabelle Annie
+      JWILLIAMS, Henry Carleton and MILLS, Catherine Leslie
+      JWILLIAMS, Virginia Carleton and ROBINSON, Hugh Amuri
+      JROBINSON, Guy Francis and STONE , Rosemary
+      01> ROBINSON, Samuel Jesse
+    bounds:
+      left: 573
+      right: 1911
+      top: 295
+      bottom: 600
+  - text: |
+      b 17.02.1984
+      Jesse b. at Whangarei.
+    bounds:
+      left: 669
+      right: 1022
+      top: 604
+      bottom: 699
+- paragraphs:
+  - text: '02> ROBINSON, Tui Mercedes St Helen
+
+'
+    bounds:
+      left: 575
+      right: 1457
+      top: 745
+      bottom: 795
+  - text: |
+      b 12.05.1986
+      Tui b. at Whangarei.
+    bounds:
+      left: 670
+      right: 994
+      top: 804
+      bottom: 898
+- paragraphs:
+  - text: |
+      06> WILLIAMS, Violet Isabel m on 25.02.1913 to BIRCH, Cyril William
+      b 17.09.1885 d 09.11.1968
+    bounds:
+      left: 352
+      right: 1932
+      top: 997
+      bottom: 1094
+  - text: |
+      b 24.07.1880 d 26.01.1974
+      Violet b. at Dunedin. Cyril b, at Folkstone, Kent, England and came to New Zealand at age
+      19. He served in WW1 (1916-19) as a Captain in the Infantry then for a year with the Army of
+      Occupation in Germany. Returning to New Zealand, he joined the head office of the National
+      Insurance Company in Dunedin where he became General Manager in 1938 and a Director in 1948.
+      He retired in 1954 but remained a member of the Board.
+      Violet was, for many years, actively involved with St Matthew's Anglican Church in Dunedin.
+    bounds:
+      left: 676
+      right: 2246
+      top: 1052
+      bottom: 1399
+- paragraphs:
+  - text: |
+      01> BIRCH, Mary Rowena (Molly) m on 01.06.1940 to HERRICK, Dennis Trevelyan
+      b 16.05.1914
+    bounds:
+      left: 430
+      right: 2210
+      top: 1442
+      bottom: 1546
+  - text: |
+      b 06.10.1912 d 30.06.1941
+      Molly b. at Dunedin and m. at St Matthew's Church, Dunedin. Dennis, s/o EJ Herrick and E Smith, bd. at
+      Lorient, France. Address: 69 Beachville Road, Christchurch 8.
+      Dennis was a farmer near Otane. He was awarded the George Medal for bravery in rescuing the pilot of an
+      Oxford aircraft which crashed at Taieri in 1940. The plane was carrying a 25016 bomb.
+    bounds:
+      left: 514
+      right: 2204
+      top: 1502
+      bottom: 1751
+- paragraphs:
+  - text: |
+      01> HERRICK, Dennis Anthony m on 10.11.1965 to (1)USSHER, Robin Frances
+      b 18.05.1941
+    bounds:
+      left: 505
+      right: 2182
+      top: 1796
+      bottom: 1894
+  - text: |
+      b 11.12.1943
+      Divorced 1981. Robin, d/o G A Ussher and Ella Bath of Timaru.
+    bounds:
+      left: 597
+      right: 1822
+      top: 1848
+      bottom: 1946
+- paragraphs:
+  - text: '01> HERRICK, Katherine Mary
+
+'
+    bounds:
+      left: 585
+      right: 1261
+      top: 1997
+      bottom: 2043
+  - text: |
+      b 29.07.1967
+      Katherine b. at Timaru.
+    bounds:
+      left: 676
+      right: 1043
+      top: 2053
+      bottom: 2148
+- paragraphs:
+  - text: '02> HERRICK, Gabrielle Frances
+
+'
+    bounds:
+      left: 583
+      right: 1334
+      top: 2190
+      bottom: 2248
+  - text: |
+      b 01.01.1969
+      Gabrielle b. at Timaru.
+    bounds:
+      left: 678
+      right: 1036
+      top: 2253
+      bottom: 2348
+- paragraphs:
+  - text: '03> HERRICK, David Edward
+
+'
+    bounds:
+      left: 584
+      right: 1219
+      top: 2390
+      bottom: 2448
+  - text: |
+      b 14.09.1971
+      David b. at Timaru. He graduated Master of Resource Management from Lincoln University in 1997
+      and is now working for the Canterbury Regional Council.
+    bounds:
+      left: 674
+      right: 2261
+      top: 2453
+      bottom: 2599
+- paragraphs:
+  - text: |
+      01> HERRICK, Dennis Anthony m on 28.03.1987 to (2) BEALE, Barbara Lillian
+      b 18.05.1941
+    bounds:
+      left: 512
+      right: 2220
+      top: 2681
+      bottom: 2800
+  - text: |
+      b 23.08.1943
+      Dennis b. at Dunedin and m. at Christchurch. Barbara, d/o E Legg and Eva Prattley. Address: 4
+      Cephas Close, Upper Riccarton, Christchurch 4.
+      Dennis was born profoundly deaf. He is a technician in the Animal Science Department at Lincoln
+      University.
+    bounds:
+      left: 602
+      right: 2144
+      top: 2748
+      bottom: 2999
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 214
+      right: 839
+      top: 3298
+      bottom: 3352
+- paragraphs:
+  - text: '100
+
+'
+    bounds:
+      left: 1226
+      right: 1300
+      top: 3298
+      bottom: 3345

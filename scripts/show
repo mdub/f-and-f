@@ -3,7 +3,7 @@
 $: << File.expand_path("../../lib", __FILE__)
 
 require "clamp"
-require "faith_and_farming/ocr"
+require "faith_and_farming/book"
 
 Clamp do
 
@@ -13,7 +13,8 @@ Clamp do
 
     def execute
       page.blocks.each do |block|
-        puts "\n--- {left #{block.left}, right #{block.right}, top #{block.top}, bottom #{block.bottom}}\n"
+        bounds = block.bounds
+        puts "\n--- {left #{bounds.left}, right #{bounds.right}, top #{bounds.top}, bottom #{bounds.bottom}}\n"
         puts block.text
       end
     end
@@ -21,7 +22,7 @@ Clamp do
     private
 
     def page
-      FaithAndFarming::OCR::Page.load(page_index)
+      FaithAndFarming::Book::Page.load(page_index)
     end
 
   end
@@ -29,7 +30,7 @@ Clamp do
   subcommand "tree", "display the tree" do
 
     def execute
-      FaithAndFarming::OCR.pages.each do |page|
+      FaithAndFarming::Book.pages.each do |page|
         puts "\n--- page #{page.page_index} ---"
         page.tree_entries.each do |entry|
           indent = "  " * (entry.level - 1)

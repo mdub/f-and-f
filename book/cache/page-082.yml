@@ -1,0 +1,209 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, Henry and COLDHAM, Marianne
+
+'
+    bounds:
+      left: 207
+      right: 1510
+      top: 176
+      bottom: 230
+  - text: |
+      JWILLIAMS, Edward Marsh and DAVIS, Jane
+      JWILLIAMS, Henry Edward and CONNELL, Isabelle Annie
+      JWILLIAMS, Ernest Harry and CANN, Marion Elizabeth
+      JWILLIAMS, Henry Edward Martyn and MAUDSLEY, Valmai June
+      WILLIAMS, Philippa Marianne and DYMOCK, Philip Douglas
+    bounds:
+      left: 578
+      right: 1991
+      top: 223
+      bottom: 489
+- paragraphs:
+  - text: '02> DYMOCK, Caroline Sybilla
+
+'
+    bounds:
+      left: 579
+      right: 1286
+      top: 530
+      bottom: 584
+  - text: |
+      b 06.05.1975
+      Caroline b. at Gisborne. She was educated at Waikato Diocesan School and graduated BCApSc from
+      Otago University in 1996. She is presently travelling overseas.
+    bounds:
+      left: 675
+      right: 2263
+      top: 592
+      bottom: 735
+- paragraphs:
+  - text: '03> DYMOCK, Henry Douglas
+
+'
+    bounds:
+      left: 574
+      right: 1203
+      top: 778
+      bottom: 836
+  - text: |
+      b 09.11.1976
+      Henry b. at Gisborne. He was educated at Wanganui Collegiate School and Lincoln University and
+      is now shepherding in Hawkes Bay.
+    bounds:
+      left: 671
+      right: 2226
+      top: 839
+      bottom: 987
+- paragraphs:
+  - text: '04> DYMOCK, Susannah Mary
+
+'
+    bounds:
+      left: 579
+      right: 1203
+      top: 1025
+      bottom: 1089
+  - text: |
+      b 26.03.1980
+      Susannah b. at Gisborne. She was educated at Waikato Diocesan School and is now studying
+      Resource Management at Lincoln University.
+    bounds:
+      left: 671
+      right: 2131
+      top: 1089
+      bottom: 1239
+- paragraphs:
+  - text: |
+      02> WILLIAMS, Gabrielle Henrietta m on 07.08.1971 to STEEL, Warwick James
+      b 26.04.1949
+    bounds:
+      left: 502
+      right: 2232
+      top: 1326
+      bottom: 1438
+  - text: |
+      b 01.11.1948
+      Gabrielle b. at Dunedin and m. at St Barnabas Church, Christchurch. Warwick, s/o George Harris
+      Steel and Margaret Donella Martin. Address: 138 Bleakhouse Road, Howick, Auckland. Gabrielle is a
+      registered nurse and Warwick is a financial consultant and company director.
+    bounds:
+      left: 595
+      right: 2198
+      top: 1390
+      bottom: 1584
+- paragraphs:
+  - text: '01> STEEL, Katherine Anna
+
+'
+    bounds:
+      left: 576
+      right: 1209
+      top: 1625
+      bottom: 1689
+  - text: |
+      b 25.02.1973
+      Katherine b. at Guelph, Ontario, Canada.
+    bounds:
+      left: 675
+      right: 1321
+      top: 1689
+      bottom: 1782
+- paragraphs:
+  - text: '02> STEEL, Marcus James
+
+'
+    bounds:
+      left: 583
+      right: 1160
+      top: 1826
+      bottom: 1889
+  - text: |
+      b 05.12.1974
+      Marcus b. at Ridgewood, New Jersey, USA.
+    bounds:
+      left: 683
+      right: 1375
+      top: 1892
+      bottom: 1984
+- paragraphs:
+  - text: '03> STEEL, Samuel Harris
+
+'
+    bounds:
+      left: 584
+      right: 1181
+      top: 2026
+      bottom: 2084
+  - text: |
+      b 01.02.1978
+      Samuel b. at Christchurch.
+    bounds:
+      left: 672
+      right: 1092
+      top: 2089
+      bottom: 2183
+- paragraphs:
+  - text: |
+      03> WILLIAMS, Julia Mary m on 08.10.1977 to NURSE, William Andrew
+      b 17.08.1953
+    bounds:
+      left: 505
+      right: 2041
+      top: 2279
+      bottom: 2380
+  - text: |
+      b 11.01.1954
+      Julia b. at Dunedin and m. at St Barnabas Church, Fendalton, Christchurch. Andrew, s/o William Hugh
+      Nurse and Janet Henderson Steele. 4 Highgate Avenue, Christchurch.
+      Julia is a district nurse but working only part-time since 1981. Andrew is a farm management
+      consultant and valuer.
+    bounds:
+      left: 597
+      right: 2232
+      top: 2329
+      bottom: 2586
+- paragraphs:
+  - text: '01> NURSE, Charles William
+
+'
+    bounds:
+      left: 583
+      right: 1247
+      top: 2622
+      bottom: 2684
+  - text: |
+      b 02.07.1981
+      Charles b. at Napier.
+    bounds:
+      left: 685
+      right: 1008
+      top: 2689
+      bottom: 2785
+- paragraphs:
+  - text: '02> NURSE, Guy Andrew
+
+'
+    bounds:
+      left: 590
+      right: 1124
+      top: 2826
+      bottom: 2884
+  - text: |
+      b 13.05.1983
+      Guy b. at Napier.
+    bounds:
+      left: 685
+      right: 957
+      top: 2889
+      bottom: 2984
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 212
+      right: 840
+      top: 3278
+      bottom: 3340

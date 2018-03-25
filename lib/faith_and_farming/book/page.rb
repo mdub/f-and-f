@@ -12,6 +12,8 @@ module FaithAndFarming
       attribute :top, Integer
       attribute :bottom, Integer
 
+      alias_method :to_data, :to_h
+
       def self.encompassing(bs)
         new.tap do |bounds|
           bounds.left = bs.map(&:left).min
@@ -28,8 +30,17 @@ module FaithAndFarming
       PAGE_CACHE = File.expand_path("../../../../book/cache", __FILE__)
 
       def self.load(page_index)
+        cache_file = File.join(PAGE_CACHE, ("page-%03d.yml" % page_index))
+        if File.exist?(cache_file)
+          return from_data(YAML.load_file(cache_file)).tap do |page|
+            page.page_index = page_index
+          end
+        end
         ocr_page = FaithAndFarming::OCR::Page.load(page_index)
-        from_ocr(ocr_page)
+        from_ocr(ocr_page).tap do |page|
+          page.page_index = page_index
+          File.write(cache_file, YAML.dump(page.to_data))
+        end
       end
 
       def self.from_ocr(ocr_page)
@@ -50,22 +61,41 @@ module FaithAndFarming
 
       component_list :blocks do
 
-        def text
-          paragraphs.map(&:text).join
-        end
-
         component_list :paragraphs do
 
           attribute :text
 
           component :bounds, type: Bounds
 
+          def to_data
+            {
+              "text" => text,
+              "bounds" => bounds.to_data
+            }
+          end
+
+        end
+
+        def text
+          paragraphs.map(&:text).join
+        end
+
+        def to_data
+          {
+            "paragraphs" => paragraphs.map(&:to_data)
+          }
         end
 
         def bounds
           Bounds.encompassing(paragraphs.map(&:bounds))
         end
 
+      end
+
+      def to_data
+        {
+          "blocks" => blocks.map(&:to_data)
+        }
       end
 
       def descendants_of

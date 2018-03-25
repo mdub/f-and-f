@@ -1,0 +1,220 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Descendants of WILLIAMS, Henry and COLDHAM, Marianne
+
+'
+    bounds:
+      left: 199
+      right: 1502
+      top: 202
+      bottom: 251
+  - text: |
+      JWILLIAMS, Edward Marsh and DAVIS, Jane
+      JWILLIAMS, Arthur Frederick and THOMPSON, Leslie Elisabeth Antonia
+      JWILLIAMS, Brian Leslie and HOLDERNESS, Patricia Mary
+      JWILLIAMS, Elizabeth Jane and SYKES, Murray Girvan
+      JSYKES, Raylene Patricia and BECKER, Paul Daniel
+    bounds:
+      left: 571
+      right: 2246
+      top: 245
+      bottom: 506
+- paragraphs:
+  - text: '02> BECKER, David James
+
+'
+    bounds:
+      left: 574
+      right: 1149
+      top: 553
+      bottom: 613
+  - text: |
+      b 21.09.1983
+      David b. at Wellington. He is a student at Raphael House Rudolf Steiner School, Belmont.
+    bounds:
+      left: 671
+      right: 2083
+      top: 608
+      bottom: 711
+- paragraphs:
+  - text: '03> BECKER, Susannah Mary
+
+'
+    bounds:
+      left: 572
+      right: 1206
+      top: 748
+      bottom: 808
+  - text: |
+      b 18.08.1986
+      Susannah b. at Wellington. She is a student at Raphael House Rudolf Steiner School, Belmont.
+    bounds:
+      left: 666
+      right: 2159
+      top: 809
+      bottom: 911
+- paragraphs:
+  - text: '04> BECKER, Grace Kathleen
+
+'
+    bounds:
+      left: 575
+      right: 1225
+      top: 948
+      bottom: 1012
+  - text: |
+      b 08.11.1991
+      Grace b. at Petone. She is a student at Raphael House Rudolf Steiner School, Belmont.
+    bounds:
+      left: 673
+      right: 2035
+      top: 1010
+      bottom: 1111
+- paragraphs:
+  - text: |
+      05> SYKES, David Martin m on 07.01.1989 to RAMMERS, Casandra (Sandy)
+      b 08.06.1962
+    bounds:
+      left: 504
+      right: 2095
+      top: 1200
+      bottom: 1307
+  - text: |
+      b 15.03.1957
+      David b. and m. at Masterton. Address: 98 Swallow Drive, Erskine Park, NSW 2759, Australia.
+      David was educated at Makora College, Masterton, and trained as an electrician in New Zealand
+      before moving to Australia. He is now Sales Manager - Automation with NHP in Sydney.
+      Sandy works as an advertising consultant.
+    bounds:
+      left: 595
+      right: 2124
+      top: 1255
+      bottom: 1510
+- paragraphs:
+  - text: '01> SYKES, Troy Wayne
+
+'
+    bounds:
+      left: 579
+      right: 1105
+      top: 1550
+      bottom: 1611
+  - text: |
+      b 21.10.1979
+      Troy is an apprentice refrigeration and air-conditioning engineer in Sydney and lives at home.
+    bounds:
+      left: 671
+      right: 2143
+      top: 1606
+      bottom: 1710
+- paragraphs:
+  - text: '02> SYKES, Elisa Marie
+
+'
+    bounds:
+      left: 577
+      right: 1132
+      top: 1749
+      bottom: 1809
+  - text: |
+      b 27.06.1983
+      Elisa is a student at Erskine Park High School and enjoys netball and socialising.
+    bounds:
+      left: 679
+      right: 1941
+      top: 1807
+      bottom: 1909
+- paragraphs:
+  - text: |
+      03> WILLIAMS, Anne Christine m on 05.08.1961 to SEYMOUR, Royston Hereaitirangi
+      b 10.07.1938
+    bounds:
+      left: 432
+      right: 2282
+      top: 2001
+      bottom: 2107
+  - text: |
+      b 04.04.1938
+      Anne b. at Waipawa and m, at Christ Church, Pukehou, Royston, s/o Pitihira Seymour and Titihuia Raana
+      Te Hiko. Address: 6 Rose Street, Waipawa.
+      Anne was educated at Otane School and Iona College, Havelock North. She studied art at Canterbury
+      University and taught art at Central Hawkes Bay College from 1972 to 1975, then trained as an enrolled
+      nurse. She is still working as a nurse and Royston is a farm advisory trustee. Both Anne and Roy have
+      a deep interest in live theatre and that interest has been passed on to their daughters.
+    bounds:
+      left: 520
+      right: 2192
+      top: 2059
+      bottom: 2408
+- paragraphs:
+  - text: |
+      01> SEYMOUR, Roberta Huia Christine m on 30.11.1981 to HILL, Stephen
+      b 22.12.1961
+    bounds:
+      left: 512
+      right: 2118
+      top: 2446
+      bottom: 2555
+  - text: |
+      b ** ** ****
+      Divorced. Address: 19 Bibby Street, Waipawa.
+      Roberta has a very active and talented interest in amateur musicals and drama. She has recently
+      moved from Taupo to Waipawa to be near her family and to study for her BEd.
+    bounds:
+      left: 602
+      right: 2112
+      top: 2501
+      bottom: 2752
+- paragraphs:
+  - text: '01> HILL, Sarah Anne Te Ahumai
+
+'
+    bounds:
+      left: 590
+      right: 1342
+      top: 2754
+      bottom: 2802
+  - text: 'b 06.10.1987
+
+'
+    bounds:
+      left: 684
+      right: 900
+      top: 2814
+      bottom: 2858
+- paragraphs:
+  - text: '02> HILL, Samuel Te Wiremu
+
+'
+    bounds:
+      left: 587
+      right: 1241
+      top: 2894
+      bottom: 2959
+  - text: 'b 04.10.1989
+
+'
+    bounds:
+      left: 687
+      right: 906
+      top: 2966
+      bottom: 3007
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9
+
+'
+    bounds:
+      left: 216
+      right: 838
+      top: 3300
+      bottom: 3365
+- paragraphs:
+  - text: '166
+
+'
+    bounds:
+      left: 1227
+      right: 1303
+      top: 3309
+      bottom: 3353
