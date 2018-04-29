@@ -6,7 +6,7 @@ module FaithAndFarming
     class Pages
 
       def each_with_index
-        73.upto(641) do |i|
+        1.upto(720) do |i|
           yield Page.load(i), i
         end
       end

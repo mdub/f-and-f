@@ -1,0 +1,69 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Published by...
+
+'
+    bounds:
+      left: 242
+      right: 493
+      top: 328
+      bottom: 380
+- paragraphs:
+  - text: |
+      EVAGEAN Publishing
+      266 Shaw Road
+      Titirangi
+      Auckland
+      New Zealand
+    bounds:
+      left: 238
+      right: 628
+      top: 426
+      bottom: 665
+- paragraphs:
+  - text: |
+      ISBN 1-877194-51-4 (soft cover)
+      ISBN 1-877194-52-2 (hard cover)
+      ISBN 1-877194-53-0 (leather bound)
+    bounds:
+      left: 236
+      right: 867
+      top: 808
+      bottom: 953
+- paragraphs:
+  - text: |
+      The compilation of this publication was carried out by Evagean Publishing
+      on behalf of families of Henry and William Williams,
+    bounds:
+      left: 252
+      right: 1508
+      top: 2279
+      bottom: 2376
+- paragraphs:
+  - text: |
+      The data contained in this book have been printed by computer
+      using the EVAGEAN Genealogical Publishing Programme. No part of
+      this publication may be reproduced by any means, electronic,
+    bounds:
+      left: 247
+      right: 1442
+      top: 2419
+      bottom: 2572
+  - text: |
+      mechanical, electrostatic photocopying or otherwise, or stored
+      in a retrieval system without the prior permission of the Publishers.
+      Partial or complete printouts of current data may be obtained
+      on application to the Publisher.
+    bounds:
+      left: 246
+      right: 1389
+      top: 2563
+      bottom: 2760
+- paragraphs:
+  - text: "©Copyright 1998 Rex Evans\n"
+    bounds:
+      left: 255
+      right: 740
+      top: 2806
+      bottom: 2853

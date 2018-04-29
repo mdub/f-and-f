@@ -1,0 +1,270 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Williams Family Distribution
+
+'
+    bounds:
+      left: 634
+      right: 1278
+      top: 358
+      bottom: 420
+- paragraphs:
+  - text: 'I
+
+'
+    bounds:
+      left: 692
+      right: 695
+      top: 372
+      bottom: 409
+- paragraphs:
+  - text: 'Otago Southland
+
+'
+    bounds:
+      left: 1836
+      right: 2132
+      top: 421
+      bottom: 471
+- paragraphs:
+  - text: '2%
+
+'
+    bounds:
+      left: 1956
+      right: 2011
+      top: 474
+      bottom: 518
+- paragraphs:
+  - text: 'Rest of World
+
+'
+    bounds:
+      left: 1438
+      right: 1680
+      top: 479
+      bottom: 521
+  - text: |
+      2%
+      USA/Canada
+    bounds:
+      left: 1367
+      right: 1596
+      top: 532
+      bottom: 649
+  - text: |
+      3%
+      UK
+      10%
+    bounds:
+      left: 1341
+      right: 1503
+      top: 657
+      bottom: 822
+- paragraphs:
+  - text: |
+      Canterbury
+      5%
+      Nelson Marlborough
+    bounds:
+      left: 1967
+      right: 2456
+      top: 549
+      bottom: 717
+  - text: |
+      2%
+      Wellington
+      9%
+      Wairarapa
+    bounds:
+      left: 2245
+      right: 2557
+      top: 723
+      bottom: 963
+  - text: '4%
+
+'
+    bounds:
+      left: 2435
+      right: 2485
+      top: 969
+      bottom: 1011
+- paragraphs:
+  - text: '..... ..'':"A.
+
+'
+    bounds:
+      left: 1488
+      right: 1521
+      top: 896
+      bottom: 1111
+- paragraphs:
+  - text: 'Manawatu
+
+'
+    bounds:
+      left: 2402
+      right: 2575
+      top: 1044
+      bottom: 1083
+  - text: '2%
+
+'
+    bounds:
+      left: 2458
+      right: 2509
+      top: 1095
+      bottom: 1131
+- paragraphs:
+  - text: 'Australia
+
+'
+    bounds:
+      left: 1047
+      right: 1198
+      top: 1088
+      bottom: 1135
+  - text: '12%
+
+'
+    bounds:
+      left: 1085
+      right: 1159
+      top: 1143
+      bottom: 1182
+- paragraphs:
+  - text: 'Wanganui
+
+'
+    bounds:
+      left: 2411
+      right: 2578
+      top: 1167
+      bottom: 1211
+  - text: |
+      2%
+      Taranaki
+    bounds:
+      left: 2394
+      right: 2552
+      top: 1216
+      bottom: 1329
+  - text: '1%
+
+'
+    bounds:
+      left: 2450
+      right: 2501
+      top: 1340
+      bottom: 1379
+- paragraphs:
+  - text: "::::::::::::::::::\n"
+    bounds:
+      left: 1242
+      right: 1502
+      top: 1332
+      bottom: 1360
+- paragraphs:
+  - text: ":\n"
+    bounds:
+      left: 2046
+      right: 2049
+      top: 1358
+      bottom: 1369
+- paragraphs:
+  - text: 'Northland
+
+'
+    bounds:
+      left: 1028
+      right: 1194
+      top: 1399
+      bottom: 1443
+- paragraphs:
+  - text: '4%
+
+'
+    bounds:
+      left: 1077
+      right: 1132
+      top: 1449
+      bottom: 1495
+- paragraphs:
+  - text: 'Central Hawkes Bay
+
+'
+    bounds:
+      left: 2283
+      right: 2645
+      top: 1536
+      bottom: 1583
+  - text: '11%
+
+'
+    bounds:
+      left: 2426
+      right: 2501
+      top: 1592
+      bottom: 1630
+- paragraphs:
+  - text: |
+      Auckland
+      13%
+    bounds:
+      left: 1178
+      right: 1345
+      top: 1721
+      bottom: 1816
+  - text: 'Rotorua Taupo
+
+'
+    bounds:
+      left: 1283
+      right: 1552
+      top: 1840
+      bottom: 1891
+- paragraphs:
+  - text: 'East Coast
+
+'
+    bounds:
+      left: 2002
+      right: 2201
+      top: 1844
+      bottom: 1891
+  - text: '11%
+
+'
+    bounds:
+      left: 2056
+      right: 2137
+      top: 1897
+      bottom: 1939
+- paragraphs:
+  - text: '4%
+
+'
+    bounds:
+      left: 1393
+      right: 1449
+      top: 1894
+      bottom: 1939
+- paragraphs:
+  - text: 'Bay of Plenty
+
+'
+    bounds:
+      left: 1449
+      right: 1681
+      top: 1969
+      bottom: 2013
+- paragraphs:
+  - text: '4%
+
+'
+    bounds:
+      left: 1543
+      right: 1595
+      top: 2017
+      bottom: 2061

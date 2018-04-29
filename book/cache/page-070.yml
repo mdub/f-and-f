@@ -1,0 +1,87 @@
+---
+blocks:
+- paragraphs:
+  - text: 'The Descendants of Henry and Marianne Williams
+
+'
+    bounds:
+      left: 353
+      right: 1499
+      top: 208
+      bottom: 273
+- paragraphs:
+  - text: |
+      Photo from: Mr M Hadfield
+      Selwyn Tancred HADFIELD (1907 - 1973).
+    bounds:
+      left: 453
+      right: 1167
+      top: 1427
+      bottom: 1507
+- paragraphs:
+  - text: |
+      Photo from: Mr M Hadfield
+      Rosamond Mary Templer HADFIELD (1909 - ) nee HARPER,
+    bounds:
+      left: 1329
+      right: 2267
+      top: 1423
+      bottom: 1506
+  - text: |
+      Michael Strachey HADFIELD (1938 - ),
+      Dawn Gay (Sue) HADFIELD (1940 - ) md SUTCLIFF.
+    bounds:
+      left: 1390
+      right: 2151
+      top: 1505
+      bottom: 1597
+- paragraphs:
+  - text: 'Einarsson --
+
+'
+    bounds:
+      left: 839
+      right: 970
+      top: 2292
+      bottom: 2317
+- paragraphs:
+  - text: "* - ann -\n"
+    bounds:
+      left: 865
+      right: 936
+      top: 2351
+      bottom: 2368
+- paragraphs:
+  - text: 'Photo fron: Mrs M J Hanna
+
+'
+    bounds:
+      left: 1988
+      right: 2273
+      top: 3052
+      bottom: 3076
+- paragraphs:
+  - text: |
+      Hereward Reginald LUDBROOK (1897 - 1918), Ronald Henry LUDBROOK (1899 - 1953),
+      Samuel Lawrence LUDBROOK (1895 - 1976), Henry Samuel (Harry) LUDBROOK (1859 - 1949),
+    bounds:
+      left: 606
+      right: 2035
+      top: 3086
+      bottom: 3179
+  - text: |
+      Kenneth William LUDBROOK (1908 - 1952), John Kinsella LUDBROOK (1910 - 1992),
+      Hana LUDBROOK (1874 - 1955) nee KINSELLA, Geoffrey Valentine LUDBROOK (1904 - 1989),
+    bounds:
+      left: 646
+      right: 2005
+      top: 3177
+      bottom: 3270
+  - text: 'Cecil Edward Blomfield LUDBROOK (1902 - 1988).
+
+'
+    bounds:
+      left: 939
+      right: 1708
+      top: 3268
+      bottom: 3311

@@ -1,0 +1,1379 @@
+---
+blocks:
+- paragraphs:
+  - text: '270
+
+'
+    bounds:
+      left: 2207
+      right: 2261
+      top: 321
+      bottom: 364
+- paragraphs:
+  - text: '389
+
+'
+    bounds:
+      left: 1157
+      right: 1219
+      top: 476
+      bottom: 515
+- paragraphs:
+  - text: |
+      187
+      187
+    bounds:
+      left: 1153
+      right: 1222
+      top: 569
+      bottom: 663
+- paragraphs:
+  - text: '203
+
+'
+    bounds:
+      left: 2210
+      right: 2266
+      top: 1169
+      bottom: 1207
+- paragraphs:
+  - text: '203
+
+'
+    bounds:
+      left: 2213
+      right: 2271
+      top: 1667
+      bottom: 1705
+- paragraphs:
+  - text: 'WILSON, Marianne Rachel
+
+'
+    bounds:
+      left: 265
+      right: 750
+      top: 215
+      bottom: 269
+  - text: |
+      16.05.1959 188 WRIGHT, Eleanor Mary
+      m to CLEVERLEY, Barthold
+    bounds:
+      left: 312
+      right: 1740
+      top: 214
+      bottom: 318
+  - text: 'Tweedie
+
+'
+    bounds:
+      left: 1333
+      right: 1482
+      top: 271
+      bottom: 316
+  - text: '13.08.1984
+
+'
+    bounds:
+      left: 1953
+      right: 2121
+      top: 275
+      bottom: 314
+  - text: |
+      270
+      WILSON, Mary Elizabeth
+    bounds:
+      left: 265
+      right: 2259
+      top: 274
+      bottom: 367
+  - text: 'WRIGHT, John
+
+'
+    bounds:
+      left: 1296
+      right: 1574
+      top: 320
+      bottom: 366
+  - text: |
+      06.12.1932
+      (Betsy)
+    bounds:
+      left: 300
+      right: 2124
+      top: 323
+      bottom: 416
+  - text: '10.02.1916
+
+'
+    bounds:
+      left: 904
+      right: 1079
+      top: 376
+      bottom: 415
+  - text: '332
+
+'
+    bounds:
+      left: 1158
+      right: 1212
+      top: 376
+      bottom: 411
+  - text: |
+      m to TWEEDIE, Amanda Jane Anne
+      m to NEWLAND, David Leon
+    bounds:
+      left: 309
+      right: 1911
+      top: 372
+      bottom: 470
+  - text: 'WRIGHT, Mark Andrew
+
+'
+    bounds:
+      left: 1297
+      right: 1747
+      top: 421
+      bottom: 467
+  - text: '09.08.1967
+
+'
+    bounds:
+      left: 1951
+      right: 2126
+      top: 425
+      bottom: 464
+  - text: |
+      626
+      WILSON, Mary Rose
+    bounds:
+      left: 265
+      right: 2261
+      top: 424
+      bottom: 520
+  - text: |
+      ** **.1913
+      WRIGHT, Norah de Vesci
+    bounds:
+      left: 910
+      right: 1760
+      top: 466
+      bottom: 520
+  - text: '09.11.1896
+
+'
+    bounds:
+      left: 1948
+      right: 2129
+      top: 473
+      bottom: 517
+  - text: |
+      236
+      m to LUDBROOK, John Kinsella
+    bounds:
+      left: 312
+      right: 2260
+      top: 473
+      bottom: 570
+  - text: |
+      m to WARREN, Greville Williams
+      WILSON, Paul Benedict
+    bounds:
+      left: 262
+      right: 1881
+      top: 522
+      bottom: 617
+  - text: '11.03.1954
+
+'
+    bounds:
+      left: 908
+      right: 1084
+      top: 576
+      bottom: 613
+  - text: |
+      WRIGHT, Thomas Henry
+      WILSON, Sarah Anne
+    bounds:
+      left: 263
+      right: 1756
+      top: 570
+      bottom: 667
+  - text: |
+      25.01.1956
+      Fitzherbert
+    bounds:
+      left: 907
+      right: 1540
+      top: 624
+      bottom: 667
+  - text: '30.01.1988
+
+'
+    bounds:
+      left: 1950
+      right: 2127
+      top: 623
+      bottom: 664
+  - text: |
+      270
+      and SMITH, Richard Stanley Peche
+    bounds:
+      left: 298
+      right: 2264
+      top: 624
+      bottom: 722
+  - text: 'WYNNE-LEWIS, David Canning 01.01.1932
+
+'
+    bounds:
+      left: 1300
+      right: 2123
+      top: 668
+      bottom: 716
+  - text: |
+      202
+      WILSON, Scott Harvey
+    bounds:
+      left: 262
+      right: 2261
+      top: 671
+      bottom: 770
+  - text: '20.09.1964
+
+'
+    bounds:
+      left: 908
+      right: 1083
+      top: 726
+      bottom: 765
+  - text: '170
+
+'
+    bounds:
+      left: 1163
+      right: 1216
+      top: 726
+      bottom: 763
+  - text: |
+      m to TODD, Shirley Anne
+      m to WILLIAMS, Victoria Maree
+    bounds:
+      left: 309
+      right: 1756
+      top: 701
+      bottom: 843
+  - text: 'WYNNE-LEWIS, Gemma Kate
+
+'
+    bounds:
+      left: 1300
+      right: 1861
+      top: 769
+      bottom: 816
+  - text: '03.07.1991
+
+'
+    bounds:
+      left: 1956
+      right: 2124
+      top: 773
+      bottom: 814
+  - text: |
+      202
+      WILSON, Sharyn Ailsa
+    bounds:
+      left: 264
+      right: 2262
+      top: 772
+      bottom: 872
+  - text: '13.07.1975
+
+'
+    bounds:
+      left: 905
+      right: 1081
+      top: 822
+      bottom: 867
+  - text: |
+      338
+      WYNNE-LEWIS, Harry Thomas
+    bounds:
+      left: 1158
+      right: 1884
+      top: 819
+      bottom: 867
+  - text: '15.05.1990
+
+'
+    bounds:
+      left: 1955
+      right: 2130
+      top: 820
+      bottom: 863
+  - text: |
+      203
+      WILSON, William Frederick
+    bounds:
+      left: 265
+      right: 2262
+      top: 822
+      bottom: 920
+  - text: '07.11.1946
+
+'
+    bounds:
+      left: 906
+      right: 1080
+      top: 872
+      bottom: 916
+  - text: |
+      337
+      WYNNE-LEWIS, John
+    bounds:
+      left: 1161
+      right: 1707
+      top: 869
+      bottom: 916
+  - text: '05.09.1935
+
+'
+    bounds:
+      left: 1954
+      right: 2125
+      top: 873
+      bottom: 912
+  - text: |
+      203
+      m to KEMP, Allison Fae
+    bounds:
+      left: 312
+      right: 2265
+      top: 875
+      bottom: 970
+  - text: |
+      m to LINWOOD, Gillian Jane
+      WINCHCOMBE, Ngaire Frances
+    bounds:
+      left: 264
+      right: 1804
+      top: 922
+      bottom: 1024
+  - text: '03.03.1949
+
+'
+    bounds:
+      left: 908
+      right: 1081
+      top: 972
+      bottom: 1016
+  - text: |
+      538
+      WYNNE-LEWIS, Jonathan
+    bounds:
+      left: 1160
+      right: 1790
+      top: 970
+      bottom: 1015
+  - text: '13.10.1965
+
+'
+    bounds:
+      left: 1952
+      right: 2124
+      top: 973
+      bottom: 1008
+  - text: |
+      204
+      m to SHERRIFF, John Richard
+    bounds:
+      left: 312
+      right: 2265
+      top: 975
+      bottom: 1067
+  - text: 'WYNNE-LEWIS, Katherine
+
+'
+    bounds:
+      left: 1297
+      right: 1800
+      top: 1014
+      bottom: 1067
+  - text: '27.06.1968
+
+'
+    bounds:
+      left: 1955
+      right: 2130
+      top: 1023
+      bottom: 1062
+  - text: |
+      204
+      WOOD, Ada Mary Louise
+    bounds:
+      left: 257
+      right: 2264
+      top: 1022
+      bottom: 1119
+  - text: '19.02.1878
+
+'
+    bounds:
+      left: 911
+      right: 1081
+      top: 1073
+      bottom: 1114
+  - text: |
+      360
+      WYNNE-LEWIS, Peter Thomas
+    bounds:
+      left: 1165
+      right: 1872
+      top: 1070
+      bottom: 1114
+  - text: '16.02.1959
+
+'
+    bounds:
+      left: 1957
+      right: 2128
+      top: 1070
+      bottom: 1111
+  - text: |
+      202
+      m to HADFIELD, Ernest Frederick
+    bounds:
+      left: 314
+      right: 2265
+      top: 1070
+      bottom: 1167
+  - text: |
+      m to MORRISSEY, Joanne
+      WOOD, Catherine Elizabeth
+    bounds:
+      left: 260
+      right: 1766
+      top: 1122
+      bottom: 1218
+  - text: '27.12.1963
+
+'
+    bounds:
+      left: 906
+      right: 1080
+      top: 1172
+      bottom: 1216
+  - text: '535
+
+'
+    bounds:
+      left: 1161
+      right: 1217
+      top: 1172
+      bottom: 1211
+  - text: |
+      WYNNE-LEWIS, Richard Eric 11.02.1963
+      WOOD, David Edwin
+    bounds:
+      left: 260
+      right: 2127
+      top: 1168
+      bottom: 1270
+  - text: '28.08.1938
+
+'
+    bounds:
+      left: 908
+      right: 1087
+      top: 1221
+      bottom: 1264
+  - text: '535
+
+'
+    bounds:
+      left: 1165
+      right: 1213
+      top: 1224
+      bottom: 1262
+  - text: |
+      m to LOWRY, Alessandra Mary (Sana)
+      m to SYME, Janet Elizabeth
+    bounds:
+      left: 312
+      right: 1963
+      top: 1221
+      bottom: 1317
+  - text: 'WYNNE-LEWIS, Richard Eric 12.02.1963
+
+'
+    bounds:
+      left: 1300
+      right: 2127
+      top: 1269
+      bottom: 1314
+  - text: |
+      619
+      WOOD, Helen Amanda
+    bounds:
+      left: 259
+      right: 2268
+      top: 1270
+      bottom: 1370
+  - text: '08.08.1965 535
+
+'
+    bounds:
+      left: 910
+      right: 1218
+      top: 1320
+      bottom: 1368
+  - text: |
+      m to LOWRY, Alessandra Mary (Sana)
+      m to MOORE, Peter
+    bounds:
+      left: 315
+      right: 1963
+      top: 1321
+      bottom: 1417
+  - text: 'WYNNE-LEWIS, Robyn Joan
+
+'
+    bounds:
+      left: 1305
+      right: 1842
+      top: 1367
+      bottom: 1415
+  - text: '20.05.1960
+
+'
+    bounds:
+      left: 1959
+      right: 2128
+      top: 1368
+      bottom: 1409
+  - text: |
+      202
+      WOOD, Penelope Anne
+    bounds:
+      left: 259
+      right: 2268
+      top: 1368
+      bottom: 1467
+  - text: |
+      25.05.1956
+      | 97
+      WYNNE-LEWIS, Susan
+    bounds:
+      left: 912
+      right: 1731
+      top: 1416
+      bottom: 1463
+  - text: '30.07.1961
+
+'
+    bounds:
+      left: 1959
+      right: 2133
+      top: 1419
+      bottom: 1456
+  - text: |
+      202
+      m to ROBINSON, Samuel Amuri
+    bounds:
+      left: 313
+      right: 2266
+      top: 1419
+      bottom: 1517
+  - text: |
+      m to ROBINSON, Donald Guy Thomas
+      WOOD, Sarah Ann Louise
+    bounds:
+      left: 263
+      right: 1967
+      top: 1469
+      bottom: 1565
+  - text: '27.02.1969
+
+'
+    bounds:
+      left: 909
+      right: 1083
+      top: 1521
+      bottom: 1565
+  - text: '535
+
+'
+    bounds:
+      left: 1163
+      right: 1220
+      top: 1521
+      bottom: 1562
+  - text: |
+      WYNNE-LEWIS, Thomas
+      m to HOLDAWAY, Allan
+    bounds:
+      left: 313
+      right: 1770
+      top: 1518
+      bottom: 1617
+  - text: 'Herbert (Toc)
+
+'
+    bounds:
+      left: 1353
+      right: 1590
+      top: 1573
+      bottom: 1612
+  - text: '18.06.1897
+
+'
+    bounds:
+      left: 1955
+      right: 2130
+      top: 1566
+      bottom: 1609
+  - text: |
+      202
+      WOOD, Violet Lethridge
+    bounds:
+      left: 258
+      right: 2268
+      top: 1568
+      bottom: 1670
+  - text: '19.09.1882
+
+'
+    bounds:
+      left: 913
+      right: 1082
+      top: 1624
+      bottom: 1663
+  - text: '108
+
+'
+    bounds:
+      left: 1168
+      right: 1221
+      top: 1624
+      bottom: 1661
+  - text: |
+      m to CANNING, Elsie Mary McQueen (Nunie)
+      m to WILLIAMS, Oswald Temple (Gos)
+    bounds:
+      left: 316
+      right: 2091
+      top: 1619
+      bottom: 1719
+  - text: |
+      WYNNE-LEWIS, Timothy David 19.10.1967
+      WOOD, Wendy Alison
+    bounds:
+      left: 261
+      right: 2135
+      top: 1667
+      bottom: 1768
+  - text: |
+      10.03.1937
+      WYNNE-LEWIS, Tom Huw
+    bounds:
+      left: 913
+      right: 1817
+      top: 1715
+      bottom: 1764
+  - text: '04.03.1992
+
+'
+    bounds:
+      left: 1960
+      right: 2135
+      top: 1714
+      bottom: 1757
+  - text: |
+      203
+      m to BORTHWICK, Thomas Malcolm
+    bounds:
+      left: 316
+      right: 2267
+      top: 1718
+      bottom: 1817
+  - text: 'YELLOWLEES, Ruth Grace
+
+'
+    bounds:
+      left: 1293
+      right: 1824
+      top: 1768
+      bottom: 1812
+  - text: '05.05.1923
+
+'
+    bounds:
+      left: 1958
+      right: 2135
+      top: 1767
+      bottom: 1808
+  - text: |
+      499
+      WOODARD, ??
+    bounds:
+      left: 262
+      right: 2269
+      top: 1766
+      bottom: 1870
+  - text: |
+      m to GRAY, James Errol
+      m to ARNOLD, Gigi
+    bounds:
+      left: 312
+      right: 1747
+      top: 1818
+      bottom: 1922
+  - text: 'YOUNG, Julie Anne
+
+'
+    bounds:
+      left: 1296
+      right: 1664
+      top: 1863
+      bottom: 1915
+  - text: '17.01.1944
+
+'
+    bounds:
+      left: 1961
+      right: 2136
+      top: 1867
+      bottom: 1906
+  - text: |
+      388
+      WOODS, Christopher Samuel
+    bounds:
+      left: 259
+      right: 2270
+      top: 1867
+      bottom: 1970
+  - text: '15.01.1943
+
+'
+    bounds:
+      left: 913
+      right: 1089
+      top: 1922
+      bottom: 1963
+  - text: '146
+
+'
+    bounds:
+      left: 1171
+      right: 1224
+      top: 1922
+      bottom: 1959
+  - text: |
+      m to LUDBROOK, Kenneth James
+      m to HOWARD, Katherine Isabella (Kathy)
+    bounds:
+      left: 318
+      right: 1896
+      top: 1918
+      bottom: 2018
+  - text: 'YOUNG, Susan Gaye
+
+'
+    bounds:
+      left: 1296
+      right: 1684
+      top: 1967
+      bottom: 2011
+  - text: '08.11.1959
+
+'
+    bounds:
+      left: 1964
+      right: 2135
+      top: 1964
+      bottom: 2005
+  - text: |
+      573
+      WOODS, Edward Richard
+    bounds:
+      left: 265
+      right: 2272
+      top: 1964
+      bottom: 2067
+  - text: '20.09.1941
+
+'
+    bounds:
+      left: 915
+      right: 1092
+      top: 2021
+      bottom: 2064
+  - text: '145
+
+'
+    bounds:
+      left: 1173
+      right: 1220
+      top: 2022
+      bottom: 2059
+  - text: |
+      m to DAVIES, Peter Cornwall
+      m to PROBY, Joanna Margaret
+    bounds:
+      left: 319
+      right: 1826
+      top: 2018
+      bottom: 2119
+  - text: 'YOUNGER, Mary Elizabeth
+
+'
+    bounds:
+      left: 1295
+      right: 1815
+      top: 2062
+      bottom: 2115
+  - text: |
+      27.03.1922
+      WOODS, Francis Henry
+    bounds:
+      left: 262
+      right: 2138
+      top: 2062
+      bottom: 2172
+  - text: '20.05.1981
+
+'
+    bounds:
+      left: 916
+      right: 1093
+      top: 2121
+      bottom: 2162
+  - text: '147
+
+'
+    bounds:
+      left: 1173
+      right: 1226
+      top: 2124
+      bottom: 2156
+  - text: |
+      m to MACKAY, Denis Handcock
+      WOODS, Isabella Gabrielle
+    bounds:
+      left: 262
+      right: 1878
+      top: 2115
+      bottom: 2222
+  - text: '29.11.1977
+
+'
+    bounds:
+      left: 916
+      right: 1090
+      top: 2171
+      bottom: 2212
+  - text: |
+      146
+      ZIRINSKY, Michael Paul
+    bounds:
+      left: 1173
+      right: 1763
+      top: 2166
+      bottom: 2210
+  - text: |
+      25.11.1942
+      WOODS, James Christopher
+    bounds:
+      left: 268
+      right: 2136
+      top: 2164
+      bottom: 2270
+  - text: '28.01.1972
+
+'
+    bounds:
+      left: 920
+      right: 1093
+      top: 2222
+      bottom: 2259
+  - text: '146
+
+'
+    bounds:
+      left: 1174
+      right: 1227
+      top: 2222
+      bottom: 2259
+  - text: |
+      m to BESTEBREURTJE, Hendriekje Maud
+      WOODS, Lydia Mary Charlotte
+    bounds:
+      left: 264
+      right: 2034
+      top: 2215
+      bottom: 2320
+  - text: '04.03.1989
+
+'
+    bounds:
+      left: 923
+      right: 1095
+      top: 2274
+      bottom: 2307
+  - text: |
+      147
+      ZOHRAB, Allen Anthony
+    bounds:
+      left: 1176
+      right: 1768
+      top: 2264
+      bottom: 2308
+  - text: '28.03.1961
+
+'
+    bounds:
+      left: 1963
+      right: 2140
+      top: 2262
+      bottom: 2303
+  - text: |
+      361
+      WOODS, Madeline Bridget
+    bounds:
+      left: 265
+      right: 2275
+      top: 2264
+      bottom: 2370
+  - text: '12.08.1979
+
+'
+    bounds:
+      left: 919
+      right: 1092
+      top: 2322
+      bottom: 2361
+  - text: '147
+
+'
+    bounds:
+      left: 1176
+      right: 1229
+      top: 2322
+      bottom: 2359
+  - text: |
+      ZOHRAB, Allen Edward
+      WOODS, Marianne Sybil
+    bounds:
+      left: 267
+      right: 1756
+      top: 2309
+      bottom: 2426
+  - text: '11.05.1948
+
+'
+    bounds:
+      left: 923
+      right: 1093
+      top: 2371
+      bottom: 2412
+  - text: |
+      147
+      Hadfield
+    bounds:
+      left: 1175
+      right: 1509
+      top: 2368
+      bottom: 2410
+  - text: |
+      06.03.1935 361
+      m to SMITH, John Rhys Baxter
+    bounds:
+      left: 320
+      right: 2274
+      top: 2361
+      bottom: 2472
+  - text: |
+      m to (1)WHITEHOUSE, Jacqueline
+      WOODS, Rosemary Clemence
+    bounds:
+      left: 270
+      right: 1910
+      top: 2415
+      bottom: 2519
+  - text: '30.12.1945
+
+'
+    bounds:
+      left: 920
+      right: 1092
+      top: 2472
+      bottom: 2513
+  - text: '147
+
+'
+    bounds:
+      left: 1174
+      right: 1232
+      top: 2470
+      bottom: 2510
+  - text: |
+      ZOHRAB, Allen Edward
+      WOODS, Samuel Edward
+    bounds:
+      left: 267
+      right: 1758
+      top: 2466
+      bottom: 2567
+  - text: '13.07.1910
+
+'
+    bounds:
+      left: 921
+      right: 1098
+      top: 2522
+      bottom: 2563
+  - text: |
+      144
+      Hadfield
+    bounds:
+      left: 1180
+      right: 1512
+      top: 2518
+      bottom: 2559
+  - text: '06.03.1935
+
+'
+    bounds:
+      left: 1970
+      right: 2139
+      top: 2510
+      bottom: 2553
+  - text: |
+      362
+      m to WILLIAMS, Sybil Mary
+    bounds:
+      left: 323
+      right: 2278
+      top: 2515
+      bottom: 2617
+  - text: |
+      m to (2)COOPER, Janet Alice
+      WOODS, Samuel Richard
+    bounds:
+      left: 273
+      right: 1823
+      top: 2566
+      bottom: 2665
+  - text: '07.05.1973
+
+'
+    bounds:
+      left: 926
+      right: 1096
+      top: 2622
+      bottom: 2661
+  - text: |
+      146
+      ZOHRAB, Andrew
+    bounds:
+      left: 1179
+      right: 1655
+      top: 2615
+      bottom: 2659
+  - text: |
+      363
+      WOODS, Sarah Elizabeth
+    bounds:
+      left: 270
+      right: 2276
+      top: 2613
+      bottom: 2719
+  - text: |
+      16.01.1949
+      | 148
+      ZOHRAB, Anna Rosemary
+    bounds:
+      left: 922
+      right: 1801
+      top: 2666
+      bottom: 2712
+  - text: '09.10.1962
+
+'
+    bounds:
+      left: 1973
+      right: 2143
+      top: 2661
+      bottom: 2702
+  - text: |
+      362
+      m to RUTHERFORD, Gordon Alexander
+    bounds:
+      left: 325
+      right: 2278
+      top: 2663
+      bottom: 2767
+  - text: 'ZOHRAB, Edith Mary
+
+'
+    bounds:
+      left: 1299
+      right: 1720
+      top: 2711
+      bottom: 2763
+  - text: '01.04.1933
+
+'
+    bounds:
+      left: 1971
+      right: 2144
+      top: 2713
+      bottom: 2750
+  - text: |
+      360
+      WOODS, Thomas Edmund
+    bounds:
+      left: 270
+      right: 2280
+      top: 2712
+      bottom: 2820
+  - text: |
+      m to HARDIE BOYS, Michael
+      Christopher
+    bounds:
+      left: 311
+      right: 1842
+      top: 2764
+      bottom: 2870
+  - text: '13.06.1983
+
+'
+    bounds:
+      left: 923
+      right: 1098
+      top: 2822
+      bottom: 2860
+  - text: |
+      147
+      ZOHRAB, Gina
+    bounds:
+      left: 1178
+      right: 1596
+      top: 2814
+      bottom: 2860
+  - text: "********\n"
+    bounds:
+      left: 1979
+      right: 2146
+      top: 2812
+      bottom: 2839
+  - text: |
+      363
+      WOODWARD, Dorothy Virginia
+    bounds:
+      left: 273
+      right: 2279
+      top: 2814
+      bottom: 2918
+  - text: '07.12.1926
+
+'
+    bounds:
+      left: 927
+      right: 1099
+      top: 2868
+      bottom: 2912
+  - text: |
+      |219
+      ZOHRAB, James Hadfield
+    bounds:
+      left: 1154
+      right: 1793
+      top: 2864
+      bottom: 2911
+  - text: '14.09.1936
+
+'
+    bounds:
+      left: 1972
+      right: 2148
+      top: 2862
+      bottom: 2902
+  - text: |
+      362
+      m to DODGSHUN, Sydney Yorke
+    bounds:
+      left: 325
+      right: 2278
+      top: 2863
+      bottom: 2970
+  - text: |
+      m to BOYD, Patricia Rosemary
+      WORLEY, John Henry
+      643 ZOHRAB, Jeffrey
+    bounds:
+      left: 271
+      right: 1854
+      top: 2918
+      bottom: 3022
+  - text: |
+      363
+      m to STEWART, Jill
+    bounds:
+      left: 328
+      right: 2283
+      top: 2962
+      bottom: 3068
+  - text: 'ZOHRAB, Joanna
+
+'
+    bounds:
+      left: 1303
+      right: 1641
+      top: 3015
+      bottom: 3063
+  - text: '24.04.1963
+
+'
+    bounds:
+      left: 1975
+      right: 2147
+      top: 3016
+      bottom: 3051
+  - text: |
+      362
+      WRIGHT, Anjelica Jane
+    bounds:
+      left: 274
+      right: 2283
+      top: 3012
+      bottom: 3122
+  - text: |
+      m to TE AUKURA, Isaia
+      Davida
+    bounds:
+      left: 317
+      right: 1759
+      top: 3066
+      bottom: 3168
+  - text: |
+      02.07.1990
+      ZOHRAB, John Fortescue
+    bounds:
+      left: 926
+      right: 1790
+      top: 3116
+      bottom: 3163
+  - text: |
+      19.09.1902 360
+      WRIGHT, David Philip
+    bounds:
+      left: 274
+      right: 2282
+      top: 3108
+      bottom: 3219
+  - text: '24.11.1942
+
+'
+    bounds:
+      left: 931
+      right: 1104
+      top: 3169
+      bottom: 3212
+  - text: '626
+
+'
+    bounds:
+      left: 1188
+      right: 1243
+      top: 3174
+      bottom: 3212
+  - text: |
+      m to HADFIELD, Dorothy
+      m to WILLIAMS, Judith Margaret (Judy)
+    bounds:
+      left: 327
+      right: 1790
+      top: 3168
+      bottom: 3275
+- paragraphs:
+  - text: '259
+
+'
+    bounds:
+      left: 1165
+      right: 1227
+      top: 1721
+      bottom: 1761
+- paragraphs:
+  - text: "********\n"
+    bounds:
+      left: 923
+      right: 1086
+      top: 1826
+      bottom: 1848
+- paragraphs:
+  - text: '178
+
+'
+    bounds:
+      left: 1167
+      right: 1223
+      top: 1820
+      bottom: 1861
+- paragraphs:
+  - text: '138
+
+'
+    bounds:
+      left: 2219
+      right: 2275
+      top: 2065
+      bottom: 2103
+- paragraphs:
+  - text: '134
+
+'
+    bounds:
+      left: 2216
+      right: 2274
+      top: 2163
+      bottom: 2207
+- paragraphs:
+  - text: "** ** ****\n"
+    bounds:
+      left: 1980
+      right: 2144
+      top: 2617
+      bottom: 2639
+- paragraphs:
+  - text: "** ** *****\n"
+    bounds:
+      left: 938
+      right: 1100
+      top: 2976
+      bottom: 2997
+- paragraphs:
+  - text: "**光光 ****\n"
+    bounds:
+      left: 1974
+      right: 2142
+      top: 2965
+      bottom: 2987
+- paragraphs:
+  - text: '270
+
+'
+    bounds:
+      left: 1183
+      right: 1240
+      top: 3120
+      bottom: 3161
+- paragraphs:
+  - text: '721
+
+'
+    bounds:
+      left: 1233
+      right: 1303
+      top: 3315
+      bottom: 3359

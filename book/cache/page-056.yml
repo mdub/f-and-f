@@ -1,0 +1,113 @@
+---
+blocks:
+- paragraphs:
+  - text: 'The Descendants of Henry and Marianne Williams
+
+'
+    bounds:
+      left: 343
+      right: 1496
+      top: 204
+      bottom: 268
+- paragraphs:
+  - text: 'APIE ********
+
+'
+    bounds:
+      left: 1350
+      right: 1374
+      top: 1009
+      bottom: 1106
+- paragraphs:
+  - text: 'NES:
+
+'
+    bounds:
+      left: 2100
+      right: 2155
+      top: 1291
+      bottom: 1361
+- paragraphs:
+  - text: |
+      Photo from: Mrs M W McBain
+      Samuel WILLIAMS (1822 - 1907),
+    bounds:
+      left: 574
+      right: 1286
+      top: 1529
+      bottom: 1604
+- paragraphs:
+  - text: 'Mary WILLIAMS (1826 – 1900) nee WILLIAMS
+
+'
+    bounds:
+      left: 1492
+      right: 2115
+      top: 1576
+      bottom: 1619
+- paragraphs:
+  - text: "|\n"
+    bounds:
+      left: 1257
+      right: 1274
+      top: 2247
+      bottom: 2473
+- paragraphs:
+  - text: ":: -\n"
+    bounds:
+      left: 829
+      right: 844
+      top: 2682
+      bottom: 2695
+- paragraphs:
+  - text: 'viene '
+    bounds:
+      left: 712
+      right: 733
+      top: 2690
+      bottom: 2716
+- paragraphs:
+  - text: ". : :. --R\n"
+    bounds:
+      left: 686
+      right: 790
+      top: 2727
+      bottom: 2755
+- paragraphs:
+  - text: "\". ...:. : : --\n"
+    bounds:
+      left: 490
+      right: 665
+      top: 2746
+      bottom: 2777
+  - text: ":'. :\n"
+    bounds:
+      left: 537
+      right: 556
+      top: 2778
+      bottom: 2795
+- paragraphs:
+  - text: "..:....:\n"
+    bounds:
+      left: 1941
+      right: 1976
+      top: 2929
+      bottom: 2937
+- paragraphs:
+  - text: |
+      Photo from: Alexander Turnbull Library, Wellington, NZ.
+      Samuel WILLIAMS (1822 - 1907).
+    bounds:
+      left: 572
+      right: 1275
+      top: 3020
+      bottom: 3090
+- paragraphs:
+  - text: |
+      Photo from: Alexander Tumbull Library, Wellington, NZ.
+      Samuel WILLIAMS (1822 - 1907).
+    bounds:
+      left: 1538
+      right: 2266
+      top: 3019
+      bottom: 3093

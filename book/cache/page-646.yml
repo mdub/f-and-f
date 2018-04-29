@@ -1,0 +1,128 @@
+---
+blocks:
+- paragraphs:
+  - text: "***\n"
+    bounds:
+      left: 344
+      right: 497
+      top: 202
+      bottom: 332
+- paragraphs:
+  - text: |
+      1 2 3 45 67 891011 12
+      13. 14 15 16 17 18 19 20 21 22
+    bounds:
+      left: 1237
+      right: 2116
+      top: 227
+      bottom: 412
+- paragraphs:
+  - text: 'Grandchildren of Henry and Marianne Williams and William and Jane Williams
+      taken on the
+
+'
+    bounds:
+      left: 277
+      right: 2129
+      top: 1281
+      bottom: 1345
+  - text: |
+      occasion of the dedication of the Williams Memorial Church at Paihia in 1924.
+      (1) Henry Samuel (Harry) LUDBROOK (1859 - 1949), (2) Winifred Beetham NELSON (1872 - 1935) nee WILLIAMS,
+    bounds:
+      left: 300
+      right: 2100
+      top: 1334
+      bottom: 1449
+  - text: "(3) Heathcote Beetham WILLIAMS (1868 - 1961), (4) John William (Jack) WILLIAMS
+      (1867 - 1950),\n"
+    bounds:
+      left: 396
+      right: 2007
+      top: 1444
+      bottom: 1499
+  - text: "(5) Eila Mabel REED (1876 - 1959) nee WILLIAMS, (6) William Williams LUDBROOK
+      (1865 - 1938),\n"
+    bounds:
+      left: 437
+      right: 1967
+      top: 1492
+      bottom: 1547
+  - text: |
+      (7) Francis Carleton HADFIELD (1874 - 1947), (8) Samuel Blomfield LUDBROOK (1861 - 1942),
+      (9) Percy Temple WILLIAMS (1866 - 1933), (10) Sarah Catherine (Kitty) TAPLIN (1876 - 1956) nee WILLIAMS,
+    bounds:
+      left: 342
+      right: 2061
+      top: 1544
+      bottom: 1647
+  - text: |
+      (11) Kenneth Stuart WILLIAMS (1870 - 1935), (12) Guy Coldham WILLIAMS (1868 - 1947),
+      (13) Norman Theodore WILLIAMS (1864 - 1928), (14) Arthur Frederick WILLIAMS (1860 - 1936),
+      (15) Marion Jane LUDBROOK (1863 - 1935), (16) Lydia Catherine (Kate) WILLIAMS (1841 - 1931),
+    bounds:
+      left: 400
+      right: 2006
+      top: 1639
+      bottom: 1797
+  - text: |
+      (17) George Coldham WILLIAMS (1858 - 1944), (18) Ethel Alice RUSSELL (1863 - 1949) nee WILLIAMS,
+      (19) Edward Heathcote WILLIAMS (1859 - 1931), (20) Gertrude Mary Beetham RUSSELL (1873 - 1964) nee WILLIAMS,
+    bounds:
+      left: 269
+      right: 2134
+      top: 1791
+      bottom: 1900
+  - text: "(21) Herbert William WILLIAMS (1860 - 1937), (22) Francis James Volkner
+      (Frank) WILLIAMS (1866 - 1938).\n"
+    bounds:
+      left: 319
+      right: 2099
+      top: 1896
+      bottom: 1947
+- paragraphs:
+  - text: ". "
+    bounds:
+      left: 989
+      right: 992
+      top: 2243
+      bottom: 2254
+- paragraphs:
+  - text: 'poio.
+
+'
+    bounds:
+      left: 467
+      right: 666
+      top: 2784
+      bottom: 2837
+- paragraphs:
+  - text: "**.\n"
+    bounds:
+      left: 492
+      right: 506
+      top: 2998
+      bottom: 3016
+- paragraphs:
+  - text: "'', ...:.\n"
+    bounds:
+      left: 1246
+      right: 1261
+      top: 2991
+      bottom: 3050
+- paragraphs:
+  - text: "*** '\n"
+    bounds:
+      left: 1940
+      right: 1958
+      top: 3190
+      bottom: 3230
+- paragraphs:
+  - text: '648
+
+'
+    bounds:
+      left: 1174
+      right: 1248
+      top: 3290
+      bottom: 3341

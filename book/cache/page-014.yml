@@ -1,0 +1,306 @@
+---
+blocks:
+- paragraphs:
+  - text: 'FAMILY CONNECTIONS OF THOMAS AND REBECCA WILLIAMS
+
+'
+    bounds:
+      left: 623
+      right: 2866
+      top: 238
+      bottom: 339
+- paragraphs:
+  - text: |
+      Mary ISGER
+      (1647 - 27.11.1738)
+    bounds:
+      left: 2040
+      right: 2246
+      top: 432
+      bottom: 515
+- paragraphs:
+  - text: |
+      George HAMMOND
+      m. Mary
+    bounds:
+      left: 235
+      right: 580
+      top: 640
+      bottom: 741
+- paragraphs:
+  - text: |
+      John ISGAR
+      (1678 - 08.10.1735
+      m. Lydia
+      (1678 - 09.07.1755)
+    bounds:
+      left: 1465
+      right: 1678
+      top: 628
+      bottom: 788
+- paragraphs:
+  - text: |
+      Hannah ISGAR
+      (1685 - 09.08. 1743)
+    bounds:
+      left: 2083
+      right: 2346
+      top: 632
+      bottom: 729
+- paragraphs:
+  - text: |
+      James HAMMONDFLydia ISGAR
+      (1698 - 13.02.1858)
+    bounds:
+      left: 230
+      right: 860
+      top: 914
+      bottom: 996
+  - text: "(1700 - 21.11.1788)\n"
+    bounds:
+      left: 642
+      right: 844
+      top: 959
+      bottom: 992
+- paragraphs:
+  - text: |
+      John ISGAR
+      (1701 -01.06.1743)
+    bounds:
+      left: 1411
+      right: 1624
+      top: 909
+      bottom: 983
+- paragraphs:
+  - text: |
+      Rebecca ISGAR
+      (1713 - 08.04.1799)
+      m06.08.175o Thomas WILLIAMS
+      (1724-19.06:1770)
+    bounds:
+      left: 2357
+      right: 2867
+      top: 900
+      bottom: 1061
+- paragraphs:
+  - text: 'N James HAMMOND
+
+'
+    bounds:
+      left: 200
+      right: 567
+      top: 1190
+      bottom: 1235
+  - text: 'd. 31.01.1739 aged nine months
+
+'
+    bounds:
+      left: 239
+      right: 558
+      top: 1231
+      bottom: 1268
+- paragraphs:
+  - text: |
+      James HAMMOND
+      d. 25.02.1745 aged two years
+    bounds:
+      left: 1234
+      right: 1564
+      top: 1178
+      bottom: 1262
+- paragraphs:
+  - text: |
+      Lydia HAMMOND
+      (1740 - 1815)
+      m. (1)Sir John CLERKE, RN
+      (**** - 1788)
+      m. (2)Rev Joseph TOWNSEND
+      (04.04.1739 - 06. 11.1816)
+      Rector of Pewsey, Wilts
+    bounds:
+      left: 641
+      right: 1145
+      top: 1177
+      bottom: 1453
+- paragraphs:
+  - text: |
+      Rebecca WILLIAMS
+      (01.05.1751 - 15.05. 1835)
+      m. 10.02.1789 John VOKE
+      m. 10.02.17
+      (1749 - 02.05.1822)
+    bounds:
+      left: 234
+      right: 602
+      top: 1565
+      bottom: 1729
+- paragraphs:
+  - text: "Thomas WILLIAMS\n(27.05.1753 - 06:01:1804)\nm 17.04.1783 Mary MARSH\n(10.04.1756.-07.11.1831) "
+    bounds:
+      left: 1267
+      right: 1657
+      top: 1557
+      bottom: 1713
+- paragraphs:
+  - text: |
+      Lydia Elan WILLIAMS
+      (24.07.1757 - ****)
+      m. 28.04.1784 John FENN
+      (**** _ ****)
+    bounds:
+      left: 2289
+      right: 2690
+      top: 1549
+      bottom: 1703
+- paragraphs:
+  - text: 'Mary
+
+'
+    bounds:
+      left: 257
+      right: 329
+      top: 1843
+      bottom: 1886
+- paragraphs:
+  - text: |
+      WILLIAMS
+      (02.03.1784 - 19.04.1796)
+    bounds:
+      left: 239
+      right: 506
+      top: 1891
+      bottom: 1964
+- paragraphs:
+  - text: 'Thomas Sydney
+
+'
+    bounds:
+      left: 566
+      right: 830
+      top: 1839
+      bottom: 1884
+  - text: |
+      WILLIAMS
+      (11.02.1786 - 12.02.1869)
+      m. 08.04.1814 Caroline
+      Eliza HEATH
+      (18.03.1793 - 31.12.1862)
+    bounds:
+      left: 557
+      right: 862
+      top: 1887
+      bottom: 2087
+- paragraphs:
+  - text: 'Lydia
+
+'
+    bounds:
+      left: 926
+      right: 1021
+      top: 1839
+      bottom: 1878
+  - text: |
+      WILLIAMS
+      (17.01.1788 - 13.12.1859)
+      m. 07.07.1813 Edward
+      Garrard MARSH
+      (08.02.1783 - 20.09.1862)
+    bounds:
+      left: 925
+      right: 1217
+      top: 1882
+      bottom: 2084
+- paragraphs:
+  - text: |
+      John WILLIAMS
+      (22.03. 1789 - 09.03.1855)
+      m. 07.04.1818 Elizabeth
+      ATTENBOROUGH
+      (07.03.1796 – 18.11.1886)
+    bounds:
+      left: 1267
+      right: 1596
+      top: 1832
+      bottom: 2033
+- paragraphs:
+  - text: |
+      Mary Rebecca
+      WILLIAMS
+      (03.06. 1795 - 17.12.1838)
+    bounds:
+      left: 2291
+      right: 2556
+      top: 1825
+      bottom: 1948
+- paragraphs:
+  - text: 'Henry
+
+'
+    bounds:
+      left: 1693
+      right: 1783
+      top: 1831
+      bottom: 1870
+  - text: |
+      WILLIAMS
+      (1L02:1792 - 16.07.1867).
+      m. 20.01.1818
+      Marianne
+      COLDHAM
+      (12.12 1793 - 16:12.1879)
+    bounds:
+      left: 1680
+      right: 1962
+      top: 1876
+      bottom: 2110
+- paragraphs:
+  - text: 'Joseph
+
+'
+    bounds:
+      left: 2010
+      right: 2120
+      top: 1828
+      bottom: 1871
+  - text: |
+      WILLIAMS
+      (27.10.1793 -
+      **.08.1799)
+    bounds:
+      left: 2008
+      right: 2215
+      top: 1872
+      bottom: 1976
+- paragraphs:
+  - text: 'Catherine
+
+'
+    bounds:
+      left: 2644
+      right: 2791
+      top: 1826
+      bottom: 1863
+  - text: |
+      WILIAMS
+      (28.07.1797 - 11.07.1881)
+      m. 09.10.1827 Edward
+      HEATHCOTE
+      (1797 - 23.01.1835)
+    bounds:
+      left: 2633
+      right: 2927
+      top: 1870
+      bottom: 2072
+- paragraphs:
+  - text: |
+      William
+      WILLIAMS
+      (18:07.1800 - 09.02:1878)
+      m. 11.07:1825. Jane
+      NELSON
+      (05:04, 1801 - 06.10.1896)
+    bounds:
+      left: 2975
+      right: 3244
+      top: 1825
+      bottom: 2076

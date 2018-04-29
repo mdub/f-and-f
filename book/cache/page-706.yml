@@ -1,0 +1,1395 @@
+---
+blocks:
+- paragraphs:
+  - text: '12.04.1968
+
+'
+    bounds:
+      left: 1950
+      right: 2125
+      top: 228
+      bottom: 267
+- paragraphs:
+  - text: '643
+
+'
+    bounds:
+      left: 2207
+      right: 2260
+      top: 228
+      bottom: 265
+- paragraphs:
+  - text: '28.09.1931
+
+'
+    bounds:
+      left: 1945
+      right: 2126
+      top: 324
+      bottom: 368
+- paragraphs:
+  - text: '642
+
+'
+    bounds:
+      left: 2209
+      right: 2262
+      top: 327
+      bottom: 364
+- paragraphs:
+  - text: '09.01.1985
+
+'
+    bounds:
+      left: 1951
+      right: 2126
+      top: 426
+      bottom: 465
+- paragraphs:
+  - text: '373
+
+'
+    bounds:
+      left: 2210
+      right: 2263
+      top: 427
+      bottom: 464
+- paragraphs:
+  - text: '04.09.1936
+
+'
+    bounds:
+      left: 1948
+      right: 2123
+      top: 523
+      bottom: 566
+- paragraphs:
+  - text: '239
+
+'
+    bounds:
+      left: 2208
+      right: 2261
+      top: 525
+      bottom: 562
+- paragraphs:
+  - text: '15.09.1954
+
+'
+    bounds:
+      left: 1952
+      right: 2127
+      top: 626
+      bottom: 665
+- paragraphs:
+  - text: '373
+
+'
+    bounds:
+      left: 2210
+      right: 2259
+      top: 623
+      bottom: 666
+- paragraphs:
+  - text: '26.11.1892
+
+'
+    bounds:
+      left: 1952
+      right: 2122
+      top: 726
+      bottom: 765
+- paragraphs:
+  - text: '541
+
+'
+    bounds:
+      left: 2209
+      right: 2265
+      top: 723
+      bottom: 766
+- paragraphs:
+  - text: "** ** ****\n"
+    bounds:
+      left: 914
+      right: 1076
+      top: 780
+      bottom: 802
+- paragraphs:
+  - text: '19.09.1966
+
+'
+    bounds:
+      left: 1954
+      right: 2127
+      top: 821
+      bottom: 864
+- paragraphs:
+  - text: '642
+
+'
+    bounds:
+      left: 2210
+      right: 2263
+      top: 825
+      bottom: 862
+- paragraphs:
+  - text: '373
+
+'
+    bounds:
+      left: 2208
+      right: 2265
+      top: 923
+      bottom: 961
+- paragraphs:
+  - text: |
+      06.09.1982
+      16.11.1996
+      22.02.1987
+      02.11.1948
+    bounds:
+      left: 1949
+      right: 2131
+      top: 923
+      bottom: 1113
+- paragraphs:
+  - text: |
+      642
+      373
+      270
+    bounds:
+      left: 2209
+      right: 2265
+      top: 975
+      bottom: 1109
+- paragraphs:
+  - text: |
+      28.01.1985
+      26.12.1986
+      07.06.1991
+      09.06.1988
+      04.02.1947
+    bounds:
+      left: 1953
+      right: 2131
+      top: 1169
+      bottom: 1416
+- paragraphs:
+  - text: |
+      270
+      270
+      271
+      270
+      269
+    bounds:
+      left: 2210
+      right: 2268
+      top: 1173
+      bottom: 1407
+- paragraphs:
+  - text: '154
+
+'
+    bounds:
+      left: 1166
+      right: 1221
+      top: 1472
+      bottom: 1515
+- paragraphs:
+  - text: '26.05.1954
+
+'
+    bounds:
+      left: 1957
+      right: 2130
+      top: 1468
+      bottom: 1512
+- paragraphs:
+  - text: '270
+
+'
+    bounds:
+      left: 2209
+      right: 2266
+      top: 1470
+      bottom: 1512
+- paragraphs:
+  - text: '21.08.1914
+
+'
+    bounds:
+      left: 1958
+      right: 2133
+      top: 1569
+      bottom: 1610
+- paragraphs:
+  - text: '269
+
+'
+    bounds:
+      left: 2214
+      right: 2269
+      top: 1569
+      bottom: 1607
+- paragraphs:
+  - text: 'TOMBLESON, Michael John
+
+'
+    bounds:
+      left: 241
+      right: 775
+      top: 224
+      bottom: 268
+  - text: |
+      25.08.1921 495 TURNER, Caroline Mary
+      m to GRAY, Olive Sheila
+    bounds:
+      left: 309
+      right: 1753
+      top: 217
+      bottom: 318
+  - text: |
+      m to JORDAN, Crispin Hugo
+      TOMBLESON, Natalie Claire
+    bounds:
+      left: 242
+      right: 1799
+      top: 270
+      bottom: 372
+  - text: '18.08.1955
+
+'
+    bounds:
+      left: 903
+      right: 1076
+      top: 327
+      bottom: 368
+  - text: '486
+
+'
+    bounds:
+      left: 1156
+      right: 1214
+      top: 325
+      bottom: 365
+  - text: |
+      TURNER, Henry Thomas
+      m to (1)PETERSON, Bruce St Clair
+    bounds:
+      left: 309
+      right: 1751
+      top: 321
+      bottom: 420
+  - text: |
+      m to STEWART, Sally
+      TOMBLESON, Natalie Claire
+    bounds:
+      left: 241
+      right: 1692
+      top: 374
+      bottom: 472
+  - text: '486
+
+'
+    bounds:
+      left: 1162
+      right: 1212
+      top: 425
+      bottom: 464
+  - text: |
+      TURNER, Jane Diana
+      m to (2)HARPER, Timothy Tane (Timm)
+    bounds:
+      left: 305
+      right: 1686
+      top: 423
+      bottom: 523
+  - text: |
+      TURNER, Jenifer Jane
+      TOMBLESON, Robert Grahame 28.08.1958
+    bounds:
+      left: 245
+      right: 1704
+      top: 474
+      bottom: 571
+  - text: '487
+
+'
+    bounds:
+      left: 1159
+      right: 1213
+      top: 526
+      bottom: 564
+  - text: |
+      Mandeville
+      m to JEFFARES, Kerri Mae
+    bounds:
+      left: 308
+      right: 1537
+      top: 526
+      bottom: 620
+  - text: |
+      m to WARREN, Roger Greville
+      TOMBLESON, Sophie May
+    bounds:
+      left: 243
+      right: 1834
+      top: 573
+      bottom: 676
+  - text: '10.12.1988
+
+'
+    bounds:
+      left: 907
+      right: 1075
+      top: 626
+      bottom: 669
+  - text: '495
+
+'
+    bounds:
+      left: 1159
+      right: 1212
+      top: 626
+      bottom: 663
+  - text: |
+      TURNER, John Douglas
+      TOMS, Mary Olive
+    bounds:
+      left: 239
+      right: 1727
+      top: 621
+      bottom: 724
+  - text: '21.06.1949
+
+'
+    bounds:
+      left: 903
+      right: 1080
+      top: 677
+      bottom: 718
+  - text: '324
+
+'
+    bounds:
+      left: 1160
+      right: 1214
+      top: 676
+      bottom: 714
+  - text: |
+      m to HASLETT, Diana Beatrice
+      m to HUTTON, Karl Edward
+    bounds:
+      left: 309
+      right: 1843
+      top: 669
+      bottom: 775
+  - text: |
+      TURNER, May Harcourt
+      TOWNER, Michele
+    bounds:
+      left: 244
+      right: 1741
+      top: 721
+      bottom: 823
+  - text: '180
+
+'
+    bounds:
+      left: 1159
+      right: 1212
+      top: 776
+      bottom: 813
+  - text: |
+      m to MACLEAN, Eric Wanklyn
+      m to DAVIES, Stephen Godfrey
+    bounds:
+      left: 308
+      right: 1847
+      top: 774
+      bottom: 872
+  - text: |
+      TURNER, Robert Stewart
+      TOWNSEND, Charles
+    bounds:
+      left: 242
+      right: 1764
+      top: 824
+      bottom: 924
+  - text: |
+      m to RICHARDSON, Sandra
+      Tweedie Edward
+    bounds:
+      left: 295
+      right: 1793
+      top: 875
+      bottom: 968
+  - text: |
+      22.04.1981 270 TURNER, Sarah Margaret
+      TOWNSEND, Edward Charles
+    bounds:
+      left: 243
+      right: 1771
+      top: 918
+      bottom: 1021
+  - text: '25.10.1942
+
+'
+    bounds:
+      left: 908
+      right: 1077
+      top: 979
+      bottom: 1018
+  - text: '269
+
+'
+    bounds:
+      left: 1161
+      right: 1215
+      top: 978
+      bottom: 1016
+  - text: |
+      TURNER, Thomas James
+      m to TWEEDIE, Sarah Patricia
+    bounds:
+      left: 308
+      right: 1749
+      top: 972
+      bottom: 1070
+  - text: |
+      TURNER, Thomas John Haslett
+      TOWNSEND, James
+    bounds:
+      left: 248
+      right: 1871
+      top: 1021
+      bottom: 1120
+  - text: |
+      TWEEDIE, Amanda Jane Anne
+      Pendrill Charles
+    bounds:
+      left: 300
+      right: 1867
+      top: 1071
+      bottom: 1170
+  - text: '24.12.1971
+
+'
+    bounds:
+      left: 907
+      right: 1080
+      top: 1127
+      bottom: 1164
+  - text: '270
+
+'
+    bounds:
+      left: 1160
+      right: 1218
+      top: 1125
+      bottom: 1165
+  - text: |
+      m to WRIGHT, John
+      TOWNSEND, Roslyn Diana
+    bounds:
+      left: 241
+      right: 1666
+      top: 1122
+      bottom: 1224
+  - text: '17.12.1968
+
+'
+    bounds:
+      left: 906
+      right: 1081
+      top: 1177
+      bottom: 1216
+  - text: '287
+
+'
+    bounds:
+      left: 1160
+      right: 1218
+      top: 1173
+      bottom: 1213
+  - text: |
+      TWEEDIE, Angus
+      m to THOMAS, Michael William Donald
+    bounds:
+      left: 310
+      right: 1623
+      top: 1158
+      bottom: 1287
+  - text: |
+      TWEEDIE, Francesca
+      TOWNSEND, Victoria
+    bounds:
+      left: 246
+      right: 1686
+      top: 1210
+      bottom: 1334
+  - text: |
+      TWEEDIE, Helen
+      Sarah Hoare
+    bounds:
+      left: 301
+      right: 1611
+      top: 1271
+      bottom: 1369
+  - text: '01.03.1983
+
+'
+    bounds:
+      left: 912
+      right: 1082
+      top: 1327
+      bottom: 1366
+  - text: '270
+
+'
+    bounds:
+      left: 1161
+      right: 1219
+      top: 1326
+      bottom: 1363
+  - text: |
+      TWEEDIE, Oliver
+      TOWNSEND, William
+    bounds:
+      left: 243
+      right: 1626
+      top: 1320
+      bottom: 1419
+  - text: |
+      TWEEDIE, Sarah Patricia
+      Southcote Edward
+    bounds:
+      left: 299
+      right: 1770
+      top: 1371
+      bottom: 1468
+  - text: '14.05.1974
+
+'
+    bounds:
+      left: 905
+      right: 1080
+      top: 1424
+      bottom: 1467
+  - text: '270
+
+'
+    bounds:
+      left: 1161
+      right: 1216
+      top: 1426
+      bottom: 1464
+  - text: |
+      m to TOWNSEND, Edward Charles
+      TRAFFORD, Hugh
+    bounds:
+      left: 243
+      right: 1913
+      top: 1421
+      bottom: 1522
+  - text: '24.12.1947
+
+'
+    bounds:
+      left: 911
+      right: 1086
+      top: 1474
+      bottom: 1517
+  - text: |
+      TWEEDIE, Simon Vere
+      m to MURPHY, Sally Vena
+    bounds:
+      left: 311
+      right: 1722
+      top: 1470
+      bottom: 1570
+  - text: |
+      m to O'KELLY, Margaret Mary
+      TRAFFORD, Julia Sally
+    bounds:
+      left: 246
+      right: 1850
+      top: 1522
+      bottom: 1621
+  - text: '25.12.1973
+
+'
+    bounds:
+      left: 908
+      right: 1082
+      top: 1574
+      bottom: 1615
+  - text: '154
+
+'
+    bounds:
+      left: 1165
+      right: 1218
+      top: 1574
+      bottom: 1611
+  - text: |
+      TWEEDIE, Vere Justin
+      TRAFFORD, Olivia Rose
+    bounds:
+      left: 243
+      right: 1719
+      top: 1570
+      bottom: 1672
+  - text: '16.09.1979
+
+'
+    bounds:
+      left: 912
+      right: 1081
+      top: 1627
+      bottom: 1666
+  - text: '154
+
+'
+    bounds:
+      left: 1165
+      right: 1222
+      top: 1625
+      bottom: 1661
+  - text: |
+      m to HOARE, Anne Temple Githa
+      TRAFFORD, Timothy
+    bounds:
+      left: 244
+      right: 1886
+      top: 1620
+      bottom: 1725
+  - text: |
+      TYLEE, Alice Elizabeth Jane
+      Selwyn Maurice
+    bounds:
+      left: 305
+      right: 1824
+      top: 1667
+      bottom: 1771
+  - text: '20.02.1975
+
+'
+    bounds:
+      left: 911
+      right: 1082
+      top: 1725
+      bottom: 1765
+  - text: '154
+
+'
+    bounds:
+      left: 1168
+      right: 1221
+      top: 1724
+      bottom: 1761
+  - text: |
+      TYLEE, Ann Patricia
+      TRIPE, Richard Edward
+    bounds:
+      left: 245
+      right: 1682
+      top: 1714
+      bottom: 1820
+  - text: '12.04.1905
+
+'
+    bounds:
+      left: 914
+      right: 1082
+      top: 1776
+      bottom: 1815
+  - text: '123
+
+'
+    bounds:
+      left: 1168
+      right: 1223
+      top: 1772
+      bottom: 1815
+  - text: |
+      m to MACLEAN, Peter Samuel
+      m to WILLIAMS, Amy Margaret (Meg)
+    bounds:
+      left: 312
+      right: 1848
+      top: 1769
+      bottom: 1875
+  - text: |
+      TYLEE, Ann Patricia (Ani)
+      TRIPE, Susan Elizabeth
+    bounds:
+      left: 244
+      right: 1791
+      top: 1822
+      bottom: 1921
+  - text: '06.07.1932
+
+'
+    bounds:
+      left: 915
+      right: 1085
+      top: 1875
+      bottom: 1916
+  - text: '123
+
+'
+    bounds:
+      left: 1166
+      right: 1224
+      top: 1873
+      bottom: 1913
+  - text: |
+      m to MACLEAN, Peter Samuel
+      m to (1)SALMOND, Graham Wilson
+    bounds:
+      left: 314
+      right: 1845
+      top: 1869
+      bottom: 1971
+  - text: |
+      TYLEE, Elizabeth Mary
+      TRIPE, Susan Elizabeth
+    bounds:
+      left: 246
+      right: 1745
+      top: 1917
+      bottom: 2021
+  - text: '06.07.1932
+
+'
+    bounds:
+      left: 917
+      right: 1085
+      top: 1972
+      bottom: 2016
+  - text: '124
+
+'
+    bounds:
+      left: 1169
+      right: 1222
+      top: 1974
+      bottom: 2011
+  - text: |
+      Haines
+      m to (2)LINDEMAN, Johannes Petrus Geradus
+    bounds:
+      left: 313
+      right: 1467
+      top: 1971
+      bottom: 2071
+  - text: |
+      TYLEE, George Richard
+      TUCKER, Nic
+    bounds:
+      left: 249
+      right: 1747
+      top: 2018
+      bottom: 2124
+  - text: "********\n"
+    bounds:
+      left: 921
+      right: 1087
+      top: 2075
+      bottom: 2103
+  - text: '156
+
+'
+    bounds:
+      left: 1171
+      right: 1227
+      top: 2072
+      bottom: 2115
+  - text: |
+      | Nelson
+      m to DISBROWE, Suzanne Cathryn
+    bounds:
+      left: 313
+      right: 1466
+      top: 2073
+      bottom: 2170
+  - text: |
+      TYLEE, Michael Palmer
+      TUCKER, Timothy Peter
+    bounds:
+      left: 246
+      right: 1750
+      top: 2119
+      bottom: 2224
+  - text: '31.05.1968
+
+'
+    bounds:
+      left: 914
+      right: 1091
+      top: 2173
+      bottom: 2214
+  - text: |
+      m to HAINES, Robin
+      m to HILSON, Jane Jollie
+    bounds:
+      left: 316
+      right: 1686
+      top: 2170
+      bottom: 2268
+  - text: |
+      TYLEE, Robert Michael
+      TUCKEY, Arthur William
+    bounds:
+      left: 248
+      right: 1744
+      top: 2218
+      bottom: 2324
+  - text: "** ** 1886\n"
+    bounds:
+      left: 921
+      right: 1090
+      top: 2270
+      bottom: 2314
+  - text: '318
+
+'
+    bounds:
+      left: 1173
+      right: 1228
+      top: 2273
+      bottom: 2309
+  - text: |
+      m to NELSON, Jane Palmer
+      m to BRANCH, Freda Christine
+    bounds:
+      left: 315
+      right: 1796
+      top: 2267
+      bottom: 2371
+  - text: |
+      TYLEE, Tessa Alice
+      TUCKEY, Elizabeth Rhodes
+    bounds:
+      left: 248
+      right: 1667
+      top: 2317
+      bottom: 2420
+  - text: '25.09.1869
+
+'
+    bounds:
+      left: 917
+      right: 1090
+      top: 2372
+      bottom: 2415
+  - text: |
+      UNWIN, Evelyn (Indy)
+      m to HADFIELD, Henry Samuel
+    bounds:
+      left: 318
+      right: 1716
+      top: 2366
+      bottom: 2470
+  - text: |
+      m to WILLIAMS, David Empson
+      TUFFERY, Cappi
+    bounds:
+      left: 250
+      right: 1880
+      top: 2419
+      bottom: 2521
+  - text: '04.05.1993
+
+'
+    bounds:
+      left: 921
+      right: 1090
+      top: 2473
+      bottom: 2513
+  - text: '162
+
+'
+    bounds:
+      left: 1172
+      right: 1225
+      top: 2472
+      bottom: 2509
+  - text: |
+      UPJOHN, Sheila
+      TUFFERY, Dawn
+    bounds:
+      left: 249
+      right: 1605
+      top: 2467
+      bottom: 2572
+  - text: '09.10.1982
+
+'
+    bounds:
+      left: 922
+      right: 1092
+      top: 2522
+      bottom: 2563
+  - text: |
+      Margaret Holland
+      TUFFERY, Graham
+    bounds:
+      left: 257
+      right: 1679
+      top: 2514
+      bottom: 2619
+  - text: '10.01.1958
+
+'
+    bounds:
+      left: 917
+      right: 1094
+      top: 2572
+      bottom: 2613
+  - text: |
+      m to CROSSE, Simon Courtenay
+      m to LAND, Rosemary Margaret
+    bounds:
+      left: 318
+      right: 1873
+      top: 2567
+      bottom: 2670
+  - text: |
+      USSHER, Robin Frances
+      TUFFERY, Tallulah
+    bounds:
+      left: 253
+      right: 1750
+      top: 2615
+      bottom: 2717
+  - text: '24.01.1989
+
+'
+    bounds:
+      left: 924
+      right: 1094
+      top: 2673
+      bottom: 2708
+  - text: '162
+
+'
+    bounds:
+      left: 1178
+      right: 1229
+      top: 2674
+      bottom: 2706
+  - text: |
+      m to HERRICK, Dennis Anthony
+      TUFFERY, Tobias
+    bounds:
+      left: 251
+      right: 1876
+      top: 2667
+      bottom: 2770
+  - text: '12.06.1984
+
+'
+    bounds:
+      left: 919
+      right: 1092
+      top: 2722
+      bottom: 2761
+  - text: '162
+
+'
+    bounds:
+      left: 1173
+      right: 1230
+      top: 2722
+      bottom: 2759
+  - text: |
+      VALLANCE, Eila Mary
+      TUFFERY, Yasmin
+    bounds:
+      left: 251
+      right: 1744
+      top: 2716
+      bottom: 2820
+  - text: '23.02.1991
+
+'
+    bounds:
+      left: 922
+      right: 1097
+      top: 2772
+      bottom: 2811
+  - text: '162
+
+'
+    bounds:
+      left: 1177
+      right: 1231
+      top: 2769
+      bottom: 2811
+  - text: |
+      m to WILLIAMS, Erl Temple
+      TULLOCH, Jessie Mary
+    bounds:
+      left: 256
+      right: 1825
+      top: 2768
+      bottom: 2869
+  - text: '06.12.1946
+
+'
+    bounds:
+      left: 922
+      right: 1097
+      top: 2822
+      bottom: 2861
+  - text: |
+      539 VAN DEN BEUKEN, Nellie
+      m to SHERRIFF, Laurence Patrick (Paddy)
+    bounds:
+      left: 319
+      right: 1810
+      top: 2812
+      bottom: 2923
+  - text: |
+      m to VANSTONE, Nicholas Philip
+      TULLOCH, Leone Leith
+    bounds:
+      left: 252
+      right: 1901
+      top: 2865
+      bottom: 2969
+  - text: '25.06.1912
+
+'
+    bounds:
+      left: 920
+      right: 1097
+      top: 2921
+      bottom: 2962
+  - text: |
+      519 VAN DER VELDE, Martinus J
+      m to MACLEAN, Antony Russell
+    bounds:
+      left: 321
+      right: 1873
+      top: 2915
+      bottom: 3020
+  - text: |
+      m to PILKINGTON, Lesley Anne
+      TURNER, Beatrice Maitland
+    bounds:
+      left: 257
+      right: 1888
+      top: 2961
+      bottom: 3069
+  - text: '17.01.1926
+
+'
+    bounds:
+      left: 924
+      right: 1101
+      top: 3021
+      bottom: 3062
+  - text: |
+      527 van der VLOODT,
+      m to MACLEAN, John Raglan
+    bounds:
+      left: 324
+      right: 1649
+      top: 3018
+      bottom: 3120
+  - text: |
+      Catharina Margaret Johanna
+      TURNER, Caroline Emily
+    bounds:
+      left: 257
+      right: 1893
+      top: 3064
+      bottom: 3174
+  - text: |
+      van der VLOODT,
+      (Emmy)
+    bounds:
+      left: 310
+      right: 1649
+      top: 3110
+      bottom: 3223
+  - text: '19.03.1872 593
+
+'
+    bounds:
+      left: 923
+      right: 1234
+      top: 3172
+      bottom: 3216
+  - text: |
+      Frederik Hendrik
+      m to WILLIAMS, Arthur Edward
+    bounds:
+      left: 326
+      right: 1680
+      top: 3165
+      bottom: 3278
+  - text: 'm to BRAMLEY, Susan Margaret
+
+'
+    bounds:
+      left: 1377
+      right: 1902
+      top: 3219
+      bottom: 3261
+- paragraphs:
+  - text: |
+      01.03.1990
+      31.08.1958
+    bounds:
+      left: 1959
+      right: 2134
+      top: 1670
+      bottom: 1759
+- paragraphs:
+  - text: |
+      610
+      610
+    bounds:
+      left: 2211
+      right: 2275
+      top: 1664
+      bottom: 1762
+- paragraphs:
+  - text: '31.08.1958 532
+
+'
+    bounds:
+      left: 1958
+      right: 2267
+      top: 1816
+      bottom: 1860
+- paragraphs:
+  - text: '24.02.1995
+
+'
+    bounds:
+      left: 1960
+      right: 2134
+      top: 1968
+      bottom: 2007
+- paragraphs:
+  - text: '610
+
+'
+    bounds:
+      left: 2220
+      right: 2271
+      top: 1965
+      bottom: 2004
+- paragraphs:
+  - text: '610
+
+'
+    bounds:
+      left: 2220
+      right: 2275
+      top: 2066
+      bottom: 2103
+- paragraphs:
+  - text: |
+      07.09.1986
+      04.10.1956
+    bounds:
+      left: 1964
+      right: 2139
+      top: 2068
+      bottom: 2159
+- paragraphs:
+  - text: '610
+
+'
+    bounds:
+      left: 2221
+      right: 2273
+      top: 2115
+      bottom: 2153
+- paragraphs:
+  - text: '637
+
+'
+    bounds:
+      left: 1168
+      right: 1232
+      top: 2167
+      bottom: 2213
+- paragraphs:
+  - text: '26.11.1930
+
+'
+    bounds:
+      left: 1965
+      right: 2140
+      top: 2216
+      bottom: 2255
+- paragraphs:
+  - text: '609
+
+'
+    bounds:
+      left: 2223
+      right: 2272
+      top: 2213
+      bottom: 2253
+- paragraphs:
+  - text: |
+      03.07.1960
+      17.11.1908
+    bounds:
+      left: 1963
+      right: 2141
+      top: 2316
+      bottom: 2406
+- paragraphs:
+  - text: |
+      610
+      120
+    bounds:
+      left: 2221
+      right: 2276
+      top: 2317
+      bottom: 2400
+- paragraphs:
+  - text: '346
+
+'
+    bounds:
+      left: 1171
+      right: 1234
+      top: 2370
+      bottom: 2412
+- paragraphs:
+  - text: '162
+
+'
+    bounds:
+      left: 1174
+      right: 1229
+      top: 2520
+      bottom: 2559
+- paragraphs:
+  - text: '28.11.1930
+
+'
+    bounds:
+      left: 1963
+      right: 2145
+      top: 2516
+      bottom: 2555
+- paragraphs:
+  - text: '158
+
+'
+    bounds:
+      left: 2222
+      right: 2279
+      top: 2514
+      bottom: 2550
+- paragraphs:
+  - text: '162
+
+'
+    bounds:
+      left: 1176
+      right: 1229
+      top: 2572
+      bottom: 2609
+- paragraphs:
+  - text: '11.12.1943
+
+'
+    bounds:
+      left: 1967
+      right: 2140
+      top: 2611
+      bottom: 2654
+- paragraphs:
+  - text: '100
+
+'
+    bounds:
+      left: 2224
+      right: 2277
+      top: 2613
+      bottom: 2650
+- paragraphs:
+  - text: '31.05.1891
+
+'
+    bounds:
+      left: 1969
+      right: 2144
+      top: 2714
+      bottom: 2753
+- paragraphs:
+  - text: '273
+
+'
+    bounds:
+      left: 2224
+      right: 2277
+      top: 2713
+      bottom: 2750
+- paragraphs:
+  - text: '02.03.****
+
+'
+    bounds:
+      left: 1971
+      right: 2143
+      top: 2812
+      bottom: 2850
+- paragraphs:
+  - text: '493
+
+'
+    bounds:
+      left: 2225
+      right: 2278
+      top: 2813
+      bottom: 2850
+- paragraphs:
+  - text: '20.04.1955 86
+
+'
+    bounds:
+      left: 1969
+      right: 2273
+      top: 2908
+      bottom: 2956
+- paragraphs:
+  - text: '05.10.1993 197
+
+'
+    bounds:
+      left: 1976
+      right: 2285
+      top: 3059
+      bottom: 3105
+- paragraphs:
+  - text: '23.07.1958 197
+
+'
+    bounds:
+      left: 1970
+      right: 2285
+      top: 3155
+      bottom: 3209
+- paragraphs:
+  - text: '708
+
+'
+    bounds:
+      left: 1230
+      right: 1302
+      top: 3315
+      bottom: 3361

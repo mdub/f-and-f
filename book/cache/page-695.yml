@@ -1,0 +1,1499 @@
+---
+blocks:
+- paragraphs:
+  - text: |
+      11.01.1990
+      16.10.1991
+    bounds:
+      left: 1947
+      right: 2125
+      top: 220
+      bottom: 314
+- paragraphs:
+  - text: |
+      289
+      289
+    bounds:
+      left: 2202
+      right: 2261
+      top: 223
+      bottom: 311
+- paragraphs:
+  - text: '80
+
+'
+    bounds:
+      left: 1169
+      right: 1202
+      top: 323
+      bottom: 367
+- paragraphs:
+  - text: '573
+
+'
+    bounds:
+      left: 2203
+      right: 2261
+      top: 371
+      bottom: 411
+- paragraphs:
+  - text: |
+      27.07.1990
+      06.12.1955
+    bounds:
+      left: 1944
+      right: 2121
+      top: 371
+      bottom: 463
+- paragraphs:
+  - text: '573
+
+'
+    bounds:
+      left: 2203
+      right: 2257
+      top: 423
+      bottom: 458
+- paragraphs:
+  - text: '232
+
+'
+    bounds:
+      left: 1157
+      right: 1209
+      top: 474
+      bottom: 520
+- paragraphs:
+  - text: |
+      06.09.1995
+      05.09.1992
+      24.07.1919
+    bounds:
+      left: 1946
+      right: 2124
+      top: 518
+      bottom: 663
+- paragraphs:
+  - text: |
+      573
+      573
+      567
+    bounds:
+      left: 2203
+      right: 2260
+      top: 521
+      bottom: 661
+- paragraphs:
+  - text: '25.07.1996
+
+'
+    bounds:
+      left: 1950
+      right: 2123
+      top: 718
+      bottom: 762
+- paragraphs:
+  - text: '126
+
+'
+    bounds:
+      left: 2206
+      right: 2263
+      top: 721
+      bottom: 757
+- paragraphs:
+  - text: '16.01.1930
+
+'
+    bounds:
+      left: 1947
+      right: 2123
+      top: 821
+      bottom: 863
+- paragraphs:
+  - text: '383
+
+'
+    bounds:
+      left: 2207
+      right: 2260
+      top: 823
+      bottom: 858
+- paragraphs:
+  - text: '03.09.1969
+
+'
+    bounds:
+      left: 1951
+      right: 2126
+      top: 921
+      bottom: 961
+- paragraphs:
+  - text: '129
+
+'
+    bounds:
+      left: 2205
+      right: 2260
+      top: 917
+      bottom: 961
+- paragraphs:
+  - text: '506
+
+'
+    bounds:
+      left: 1160
+      right: 1215
+      top: 1022
+      bottom: 1066
+- paragraphs:
+  - text: |
+      18.09.1968
+      05.11.1961
+    bounds:
+      left: 1949
+      right: 2128
+      top: 1021
+      bottom: 1111
+- paragraphs:
+  - text: |
+      384
+      384
+    bounds:
+      left: 2207
+      right: 2267
+      top: 1021
+      bottom: 1106
+- paragraphs:
+  - text: '08.06.1930
+
+'
+    bounds:
+      left: 1952
+      right: 2129
+      top: 1169
+      bottom: 1211
+- paragraphs:
+  - text: '125
+
+'
+    bounds:
+      left: 2212
+      right: 2264
+      top: 1169
+      bottom: 1206
+- paragraphs:
+  - text: '18.06.1960
+
+'
+    bounds:
+      left: 1950
+      right: 2126
+      top: 1268
+      bottom: 1310
+- paragraphs:
+  - text: '126
+
+'
+    bounds:
+      left: 2209
+      right: 2267
+      top: 1269
+      bottom: 1307
+- paragraphs:
+  - text: |
+      21.06.1966
+      28.02.1968
+    bounds:
+      left: 1952
+      right: 2130
+      top: 1366
+      bottom: 1461
+- paragraphs:
+  - text: |
+      384
+      127
+    bounds:
+      left: 2209
+      right: 2266
+      top: 1367
+      bottom: 1456
+- paragraphs:
+  - text: "** ** ****\n"
+    bounds:
+      left: 917
+      right: 1084
+      top: 1427
+      bottom: 1452
+- paragraphs:
+  - text: '01.09.1957
+
+'
+    bounds:
+      left: 1960
+      right: 2130
+      top: 1517
+      bottom: 1557
+- paragraphs:
+  - text: '125
+
+'
+    bounds:
+      left: 2212
+      right: 2265
+      top: 1515
+      bottom: 1553
+- paragraphs:
+  - text: '384
+
+'
+    bounds:
+      left: 2214
+      right: 2269
+      top: 1617
+      bottom: 1654
+- paragraphs:
+  - text: |
+      19.04.1990
+      29.09.1993
+    bounds:
+      left: 1954
+      right: 2132
+      top: 1617
+      bottom: 1707
+- paragraphs:
+  - text: '384
+
+'
+    bounds:
+      left: 2213
+      right: 2268
+      top: 1665
+      bottom: 1701
+- paragraphs:
+  - text: 'O''RORKE, Edith Jacqueline
+
+'
+    bounds:
+      left: 246
+      right: 760
+      top: 218
+      bottom: 272
+  - text: '13.12.1932
+
+'
+    bounds:
+      left: 903
+      right: 1072
+      top: 227
+      bottom: 267
+  - text: |
+      PANTER, Elysia Ruth
+      m to DUNCAN, John David
+    bounds:
+      left: 306
+      right: 1685
+      top: 220
+      bottom: 319
+  - text: |
+      PANTER, Genevieve Kathleen
+      O'RORKE, Forbes
+    bounds:
+      left: 246
+      right: 1831
+      top: 256
+      bottom: 380
+  - text: '31.07.1905
+
+'
+    bounds:
+      left: 898
+      right: 1074
+      top: 325
+      bottom: 367
+  - text: |
+      PANTON, Charlotte
+      m to WILLIAMS, Letty Martyn
+    bounds:
+      left: 306
+      right: 1649
+      top: 318
+      bottom: 426
+  - text: |
+      Grace Davies
+      O'RORKE, Mary Letitia
+    bounds:
+      left: 245
+      right: 1568
+      top: 369
+      bottom: 474
+  - text: '26.11.1939
+
+'
+    bounds:
+      left: 903
+      right: 1078
+      top: 425
+      bottom: 467
+  - text: '81
+
+'
+    bounds:
+      left: 1166
+      right: 1206
+      top: 425
+      bottom: 468
+  - text: |
+      PANTON, Hamish Bruce
+      OJALA, Eric Mervyn
+    bounds:
+      left: 243
+      right: 1737
+      top: 412
+      bottom: 528
+  - text: '16.09.1916
+
+'
+    bounds:
+      left: 899
+      right: 1073
+      top: 473
+      bottom: 518
+  - text: |
+      m to DAVIES, Susan (Sue)
+      m to WILLIAMS, Patricia Mary
+    bounds:
+      left: 308
+      right: 1758
+      top: 467
+      bottom: 574
+  - text: |
+      PANTON, Marcus Henry Davies
+      OJALA, Helen Jean
+    bounds:
+      left: 245
+      right: 1868
+      top: 513
+      bottom: 628
+  - text: '11.01.1963
+
+'
+    bounds:
+      left: 901
+      right: 1076
+      top: 575
+      bottom: 615
+  - text: '232
+
+'
+    bounds:
+      left: 1156
+      right: 1209
+      top: 574
+      bottom: 612
+  - text: |
+      PANTON, Sophie Rose Davies
+      m to LUCY, Michael Francis
+    bounds:
+      left: 306
+      right: 1832
+      top: 567
+      bottom: 671
+  - text: |
+      PARK, Marion Tory
+      OJALA, Robin Athol
+    bounds:
+      left: 244
+      right: 1657
+      top: 614
+      bottom: 725
+  - text: '24.11.1964
+
+'
+    bounds:
+      left: 902
+      right: 1077
+      top: 677
+      bottom: 717
+  - text: '233
+
+'
+    bounds:
+      left: 1154
+      right: 1210
+      top: 672
+      bottom: 716
+  - text: |
+      m to WILLIAMS, Quentin
+      and DAVIES, Melonie Jane
+    bounds:
+      left: 290
+      right: 1745
+      top: 670
+      bottom: 774
+  - text: |
+      PARKER, Alice Susan
+      ORMEROD, Charles Fray
+    bounds:
+      left: 241
+      right: 1687
+      top: 715
+      bottom: 823
+  - text: '23.12.1920
+
+'
+    bounds:
+      left: 900
+      right: 1075
+      top: 772
+      bottom: 816
+  - text: '507
+
+'
+    bounds:
+      left: 1160
+      right: 1215
+      top: 771
+      bottom: 814
+  - text: |
+      PARKER, Anthony Gordon
+      m to MONEYPENNY, Robena Louise (Penny)
+    bounds:
+      left: 307
+      right: 1788
+      top: 764
+      bottom: 873
+  - text: |
+      Hastie (Tony)
+      ORMEROD, Olin Barton
+    bounds:
+      left: 244
+      right: 1578
+      top: 822
+      bottom: 924
+  - text: '22.05.1893
+
+'
+    bounds:
+      left: 902
+      right: 1076
+      top: 877
+      bottom: 917
+  - text: '505
+
+'
+    bounds:
+      left: 1160
+      right: 1214
+      top: 874
+      bottom: 913
+  - text: |
+      m to LUDBROOK, Diana Robin
+      m to GRAY, Edith Lucy
+    bounds:
+      left: 309
+      right: 1847
+      top: 869
+      bottom: 973
+  - text: |
+      PARKER, Caroline Ann
+      ORMEROD, Robin Ann
+    bounds:
+      left: 239
+      right: 1725
+      top: 917
+      bottom: 1022
+  - text: '31.01.1946
+
+'
+    bounds:
+      left: 904
+      right: 1081
+      top: 977
+      bottom: 1011
+  - text: '509
+
+'
+    bounds:
+      left: 1157
+      right: 1211
+      top: 976
+      bottom: 1015
+  - text: |
+      m to MURRAY, Hamish
+      ORMEROD, Shirley
+    bounds:
+      left: 241
+      right: 1727
+      top: 969
+      bottom: 1074
+  - text: '10.12.1916
+
+'
+    bounds:
+      left: 905
+      right: 1079
+      top: 1025
+      bottom: 1063
+  - text: |
+      PARKER, Diana Elizabeth
+      ORMOND, Phillida Ann
+    bounds:
+      left: 240
+      right: 1775
+      top: 1017
+      bottom: 1125
+  - text: '03.05.1941
+
+'
+    bounds:
+      left: 901
+      right: 1082
+      top: 1073
+      bottom: 1118
+  - text: '617
+
+'
+    bounds:
+      left: 1165
+      right: 1219
+      top: 1076
+      bottom: 1115
+  - text: |
+      PARKER, Geoffrey Kent
+      m to RUSSELL, John Rolleston
+    bounds:
+      left: 308
+      right: 1738
+      top: 1070
+      bottom: 1173
+  - text: |
+      m to ROBERTSON, Angela Grace
+      ORR, Helen Anne
+    bounds:
+      left: 239
+      right: 1878
+      top: 1116
+      bottom: 1225
+  - text: '22.06.1943
+
+'
+    bounds:
+      left: 906
+      right: 1081
+      top: 1175
+      bottom: 1217
+  - text: |
+      611 PARKER, James Allen
+      m to NELSON, James Palmer
+    bounds:
+      left: 310
+      right: 1703
+      top: 1168
+      bottom: 1273
+  - text: |
+      m to MATTHEWS, Lesley Anne
+      ORR-EWING, Edward Lindsay
+    bounds:
+      left: 243
+      right: 1856
+      top: 1217
+      bottom: 1325
+  - text: "** ** 1898\n"
+    bounds:
+      left: 912
+      right: 1083
+      top: 1275
+      bottom: 1310
+  - text: |
+      273 PARKER, Jan Mary
+      m to FERGUSSON, Jean Annie
+    bounds:
+      left: 309
+      right: 1657
+      top: 1266
+      bottom: 1371
+  - text: |
+      m to GYENGE, George John
+      OSBORNE-SMITH, June
+    bounds:
+      left: 243
+      right: 1803
+      top: 1317
+      bottom: 1422
+  - text: |
+      PARKER, John Ludbrook
+      Sheila (Topsy)
+    bounds:
+      left: 301
+      right: 1766
+      top: 1365
+      bottom: 1471
+  - text: '613
+
+'
+    bounds:
+      left: 1167
+      right: 1215
+      top: 1425
+      bottom: 1462
+  - text: |
+      PARKER, Julie Diane
+      m to DEANS, William Russell
+    bounds:
+      left: 313
+      right: 1688
+      top: 1418
+      bottom: 1523
+  - text: |
+      m to ELLINGHAM, Mark
+      OVERBYE, Alison Frances
+    bounds:
+      left: 245
+      right: 1755
+      top: 1467
+      bottom: 1571
+  - text: '09.09.1964
+
+'
+    bounds:
+      left: 907
+      right: 1083
+      top: 1522
+      bottom: 1564
+  - text: '89
+
+'
+    bounds:
+      left: 1175
+      right: 1215
+      top: 1521
+      bottom: 1564
+  - text: |
+      PARKER, Kay Suzanne
+      m to GARRETT, William Edward John
+    bounds:
+      left: 312
+      right: 1724
+      top: 1515
+      bottom: 1621
+  - text: |
+      m to SMITH, Frederick Colin
+      OVERBYE, Andrew Michael
+    bounds:
+      left: 246
+      right: 1813
+      top: 1566
+      bottom: 1673
+  - text: '20.06.1994
+
+'
+    bounds:
+      left: 908
+      right: 1087
+      top: 1625
+      bottom: 1665
+  - text: '89
+
+'
+    bounds:
+      left: 1183
+      right: 1212
+      top: 1627
+      bottom: 1658
+  - text: |
+      PARKER, Lydia Lucy
+      OVERBYE, Carl Vincent
+    bounds:
+      left: 242
+      right: 1700
+      top: 1611
+      bottom: 1731
+  - text: '12.08.1963
+
+'
+    bounds:
+      left: 911
+      right: 1086
+      top: 1673
+      bottom: 1715
+  - text: '88
+
+'
+    bounds:
+      left: 1176
+      right: 1216
+      top: 1673
+      bottom: 1716
+  - text: |
+      PARKER, Madeleine Rose
+      m to MILLS, Dorraine
+    bounds:
+      left: 313
+      right: 1770
+      top: 1663
+      bottom: 1771
+  - text: |
+      PARKER, Margaret Alice
+      OVERBYE, Daniel Liam
+    bounds:
+      left: 248
+      right: 1764
+      top: 1715
+      bottom: 1822
+  - text: '11.11.1994
+
+'
+    bounds:
+      left: 912
+      right: 1087
+      top: 1775
+      bottom: 1814
+  - text: |
+      Janette
+      OVERBYE, Hugh William
+    bounds:
+      left: 247
+      right: 1476
+      top: 1771
+      bottom: 1873
+  - text: '14.10.1967
+
+'
+    bounds:
+      left: 913
+      right: 1087
+      top: 1826
+      bottom: 1864
+  - text: |
+      m to JACKSON, Michael Rhodes
+      m to HORSFALL, Jane Vivienne
+    bounds:
+      left: 313
+      right: 1872
+      top: 1817
+      bottom: 1921
+  - text: |
+      PARKER, Michael Kenneth
+      OVERBYE, Jon Douglas
+    bounds:
+      left: 248
+      right: 1799
+      top: 1866
+      bottom: 1973
+  - text: '04.11.1929
+
+'
+    bounds:
+      left: 912
+      right: 1090
+      top: 1926
+      bottom: 1962
+  - text: '88
+
+'
+    bounds:
+      left: 1182
+      right: 1220
+      top: 1926
+      bottom: 1960
+  - text: |
+      PARKER, Nichola Anne
+      m to WILLIAMS, Stella Frances
+    bounds:
+      left: 315
+      right: 1739
+      top: 1911
+      bottom: 2024
+  - text: |
+      m to COPPIN, Christopher
+      OVERBYE, Joshua Nathan
+    bounds:
+      left: 244
+      right: 1771
+      top: 1965
+      bottom: 2075
+  - text: '17.11.1996
+
+'
+    bounds:
+      left: 915
+      right: 1089
+      top: 2023
+      bottom: 2061
+  - text: '90
+
+'
+    bounds:
+      left: 1181
+      right: 1221
+      top: 2021
+      bottom: 2064
+  - text: |
+      PARKER, Peter Richard
+      OVERBYE, Ralph Douglas
+    bounds:
+      left: 250
+      right: 1747
+      top: 2015
+      bottom: 2125
+  - text: '28.07.1969
+
+'
+    bounds:
+      left: 916
+      right: 1091
+      top: 2075
+      bottom: 2115
+  - text: |
+      m to CAMERON, Bette Joan
+      m to SCHMIDT, Michelle Ann
+    bounds:
+      left: 316
+      right: 1807
+      top: 2064
+      bottom: 2171
+  - text: |
+      PARKER, Philip Peter
+      OVERBYE, Richard James
+    bounds:
+      left: 251
+      right: 1710
+      top: 2114
+      bottom: 2225
+  - text: '11.11.1991
+
+'
+    bounds:
+      left: 917
+      right: 1092
+      top: 2172
+      bottom: 2214
+  - text: '89
+
+'
+    bounds:
+      left: 1186
+      right: 1218
+      top: 2175
+      bottom: 2210
+  - text: |
+      m to NIMON, Sara
+      OVERBYE, Sarah Michelle
+    bounds:
+      left: 253
+      right: 1651
+      top: 2168
+      bottom: 2270
+  - text: '05.10.1992
+
+'
+    bounds:
+      left: 918
+      right: 1090
+      top: 2225
+      bottom: 2261
+  - text: |
+      PARKER, Richard Charles
+      OVERBYE, Sinead Anne
+    bounds:
+      left: 254
+      right: 1795
+      top: 2215
+      bottom: 2322
+  - text: '05.10.1996
+
+'
+    bounds:
+      left: 919
+      right: 1092
+      top: 2273
+      bottom: 2311
+  - text: '89
+
+'
+    bounds:
+      left: 1188
+      right: 1220
+      top: 2275
+      bottom: 2310
+  - text: |
+      m to FAULKNER, Jean Anabelle
+      PAGE, Andrew Edward
+    bounds:
+      left: 252
+      right: 1874
+      top: 2268
+      bottom: 2370
+  - text: '13.02.1964
+
+'
+    bounds:
+      left: 919
+      right: 1094
+      top: 2325
+      bottom: 2365
+  - text: '240
+
+'
+    bounds:
+      left: 1175
+      right: 1227
+      top: 2321
+      bottom: 2356
+  - text: |
+      PARKER, Simon Charles
+      m to WARREN, Juliet Roese
+    bounds:
+      left: 318
+      right: 1762
+      top: 2308
+      bottom: 2421
+  - text: |
+      m to REYNOLDS, Sally
+      PAGE, Matthew Edward
+    bounds:
+      left: 250
+      right: 1735
+      top: 2367
+      bottom: 2470
+  - text: '17.07.1996
+
+'
+    bounds:
+      left: 918
+      right: 1093
+      top: 2421
+      bottom: 2462
+  - text: '240
+
+'
+    bounds:
+      left: 1179
+      right: 1234
+      top: 2419
+      bottom: 2462
+  - text: |
+      PARKER, Suzanne Jean
+      PAINE, Anne
+    bounds:
+      left: 250
+      right: 1744
+      top: 2411
+      bottom: 2522
+  - text: '23.12.1933
+
+'
+    bounds:
+      left: 917
+      right: 1094
+      top: 2471
+      bottom: 2513
+  - text: '548
+
+'
+    bounds:
+      left: 1177
+      right: 1230
+      top: 2472
+      bottom: 2510
+  - text: |
+      m to GIESEN, John Hugh
+      m to MACLEAN, Michael Anson
+    bounds:
+      left: 321
+      right: 1758
+      top: 2459
+      bottom: 2571
+  - text: |
+      PARKER, Tanya Sally
+      PAINE, David Charles Haydon
+    bounds:
+      left: 255
+      right: 1717
+      top: 2510
+      bottom: 2623
+  - text: '05.04.1972
+
+'
+    bounds:
+      left: 922
+      right: 1097
+      top: 2571
+      bottom: 2613
+  - text: '514
+
+'
+    bounds:
+      left: 1179
+      right: 1233
+      top: 2572
+      bottom: 2611
+  - text: |
+      and HARRÉ, Miro
+      PAINE, Fiona Margaret
+    bounds:
+      left: 254
+      right: 1647
+      top: 2564
+      bottom: 2673
+  - text: '29.10.1973
+
+'
+    bounds:
+      left: 920
+      right: 1096
+      top: 2620
+      bottom: 2662
+  - text: '514
+
+'
+    bounds:
+      left: 1176
+      right: 1234
+      top: 2622
+      bottom: 2661
+  - text: |
+      PARKER, Victoria Susan
+      PAINE, Niven Charles
+    bounds:
+      left: 252
+      right: 1769
+      top: 2614
+      bottom: 2720
+  - text: '05.06.1944
+
+'
+    bounds:
+      left: 923
+      right: 1096
+      top: 2672
+      bottom: 2710
+  - text: '513
+
+'
+    bounds:
+      left: 1181
+      right: 1234
+      top: 2672
+      bottom: 2710
+  - text: |
+      m to HAZLETT, David
+      m to ANDREWS, Keitha Susan
+    bounds:
+      left: 325
+      right: 1732
+      top: 2663
+      bottom: 2769
+  - text: |
+      PARKER, Wendy Jane
+      PALMER, Beatrice Daisy
+    bounds:
+      left: 257
+      right: 1729
+      top: 2713
+      bottom: 2826
+  - text: '09.11.1879
+
+'
+    bounds:
+      left: 926
+      right: 1101
+      top: 2771
+      bottom: 2813
+  - text: '524
+
+'
+    bounds:
+      left: 1181
+      right: 1237
+      top: 2768
+      bottom: 2812
+  - text: |
+      PARMITTER, Charles Adrian
+      m to MACLEAN, Kenneth Edward
+    bounds:
+      left: 324
+      right: 1868
+      top: 2760
+      bottom: 2871
+  - text: |
+      m to MARSHALL, Nina Evelyn
+      PALMER, Patricia Florence
+    bounds:
+      left: 257
+      right: 1872
+      top: 2813
+      bottom: 2920
+  - text: '15.05.1914
+
+'
+    bounds:
+      left: 924
+      right: 1103
+      top: 2873
+      bottom: 2913
+  - text: '609
+
+'
+    bounds:
+      left: 1180
+      right: 1238
+      top: 2869
+      bottom: 2910
+  - text: |
+      PARMITTER, Charles Nigel
+      m to NELSON, James Francis (Jim)
+    bounds:
+      left: 327
+      right: 1832
+      top: 2858
+      bottom: 2972
+  - text: |
+      PARMITTER, Pauline Huberte
+      PALMER, Robert William
+    bounds:
+      left: 258
+      right: 1878
+      top: 2910
+      bottom: 3025
+  - text: '06.02.1946
+
+'
+    bounds:
+      left: 927
+      right: 1102
+      top: 2973
+      bottom: 3013
+  - text: '181
+
+'
+    bounds:
+      left: 1180
+      right: 1235
+      top: 2972
+      bottom: 3011
+  - text: |
+      PARSONS, Maree Colleen
+      m to DAVIES, Wendy Elizabeth
+    bounds:
+      left: 328
+      right: 1787
+      top: 2962
+      bottom: 3071
+  - text: |
+      m to CAVE, Philip Russell
+      PAMMENT, Gillian Lynn
+    bounds:
+      left: 262
+      right: 1784
+      top: 3015
+      bottom: 3124
+  - text: '25.05.1947
+
+'
+    bounds:
+      left: 929
+      right: 1102
+      top: 3070
+      bottom: 3114
+  - text: |
+      PASSMORE, Helen Jane
+      m to WILLIAMS, Simon Charles Allen
+    bounds:
+      left: 329
+      right: 1767
+      top: 3063
+      bottom: 3173
+  - text: |
+      m to HAYCOCK, Phillip
+      PANTER, David Anthony
+    bounds:
+      left: 261
+      right: 1753
+      top: 3115
+      bottom: 3224
+  - text: |
+      18.09.1958 289 PASSMORE, Jillian Mary
+      m to ROBINSON, Jessica Ruth Caccia
+    bounds:
+      left: 332
+      right: 1788
+      top: 3162
+      bottom: 3275
+  - text: 'm to GRIGG, Simon Christopher
+
+'
+    bounds:
+      left: 1377
+      right: 1878
+      top: 3214
+      bottom: 3266
+- paragraphs:
+  - text: '90
+
+'
+    bounds:
+      left: 1180
+      right: 1217
+      top: 1771
+      bottom: 1811
+- paragraphs:
+  - text: '10.09.1930
+
+'
+    bounds:
+      left: 1960
+      right: 2134
+      top: 1768
+      bottom: 1806
+- paragraphs:
+  - text: '228
+
+'
+    bounds:
+      left: 2216
+      right: 2270
+      top: 1767
+      bottom: 1799
+- paragraphs:
+  - text: |
+      03.09.1959
+      19.07.1956
+    bounds:
+      left: 1960
+      right: 2139
+      top: 1865
+      bottom: 1956
+- paragraphs:
+  - text: |
+      126
+      125
+    bounds:
+      left: 2209
+      right: 2278
+      top: 1863
+      bottom: 1953
+- paragraphs:
+  - text: '15.09.1933
+
+'
+    bounds:
+      left: 1965
+      right: 2135
+      top: 2015
+      bottom: 2055
+- paragraphs:
+  - text: '126
+
+'
+    bounds:
+      left: 2218
+      right: 2272
+      top: 2013
+      bottom: 2052
+- paragraphs:
+  - text: "*\n"
+    bounds:
+      left: 1182
+      right: 1208
+      top: 2016
+      bottom: 2165
+- paragraphs:
+  - text: '22.09.1961
+
+'
+    bounds:
+      left: 1964
+      right: 2139
+      top: 2113
+      bottom: 2155
+- paragraphs:
+  - text: '126
+
+'
+    bounds:
+      left: 2220
+      right: 2275
+      top: 2113
+      bottom: 2152
+- paragraphs:
+  - text: '90
+
+'
+    bounds:
+      left: 1187
+      right: 1223
+      top: 2215
+      bottom: 2261
+- paragraphs:
+  - text: '01.10.1904
+
+'
+    bounds:
+      left: 1966
+      right: 2141
+      top: 2215
+      bottom: 2255
+- paragraphs:
+  - text: '125
+
+'
+    bounds:
+      left: 2220
+      right: 2271
+      top: 2209
+      bottom: 2249
+- paragraphs:
+  - text: '28.09.1938
+
+'
+    bounds:
+      left: 1963
+      right: 2140
+      top: 2313
+      bottom: 2353
+- paragraphs:
+  - text: '128
+
+'
+    bounds:
+      left: 2222
+      right: 2280
+      top: 2311
+      bottom: 2349
+- paragraphs:
+  - text: '07.03.1935
+
+'
+    bounds:
+      left: 1964
+      right: 2140
+      top: 2410
+      bottom: 2453
+- paragraphs:
+  - text: '127
+
+'
+    bounds:
+      left: 2223
+      right: 2280
+      top: 2411
+      bottom: 2448
+- paragraphs:
+  - text: '12.06.1965
+
+'
+    bounds:
+      left: 1969
+      right: 2144
+      top: 2513
+      bottom: 2553
+- paragraphs:
+  - text: "| 128\n"
+    bounds:
+      left: 2172
+      right: 2280
+      top: 2512
+      bottom: 2547
+- paragraphs:
+  - text: '31.05.1967
+
+'
+    bounds:
+      left: 1967
+      right: 2143
+      top: 2611
+      bottom: 2653
+- paragraphs:
+  - text: '128
+
+'
+    bounds:
+      left: 2223
+      right: 2285
+      top: 2611
+      bottom: 2650
+- paragraphs:
+  - text: |
+      11.06.1964
+      ** **, 1903
+    bounds:
+      left: 1971
+      right: 2147
+      top: 2713
+      bottom: 2804
+- paragraphs:
+  - text: |
+      126
+      359
+    bounds:
+      left: 2226
+      right: 2284
+      top: 2711
+      bottom: 2800
+- paragraphs:
+  - text: |
+      ****. 1939
+      **** 1936
+      12.09.1964
+    bounds:
+      left: 1972
+      right: 2149
+      top: 2859
+      bottom: 3003
+- paragraphs:
+  - text: |
+      359
+      359
+      615
+    bounds:
+      left: 2229
+      right: 2285
+      top: 2859
+      bottom: 2999
+- paragraphs:
+  - text: '84
+
+'
+    bounds:
+      left: 1196
+      right: 1233
+      top: 3071
+      bottom: 3111
+- paragraphs:
+  - text: '01.04.1964
+
+'
+    bounds:
+      left: 1976
+      right: 2151
+      top: 3063
+      bottom: 3103
+- paragraphs:
+  - text: '490
+
+'
+    bounds:
+      left: 2228
+      right: 2287
+      top: 3059
+      bottom: 3099
+- paragraphs:
+  - text: '29.04.1966 490
+
+'
+    bounds:
+      left: 1973
+      right: 2286
+      top: 3154
+      bottom: 3208
+- paragraphs:
+  - text: '697
+
+'
+    bounds:
+      left: 1236
+      right: 1308
+      top: 3314
+      bottom: 3357

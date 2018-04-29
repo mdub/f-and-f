@@ -1,0 +1,1334 @@
+---
+blocks:
+- paragraphs:
+  - text: '546
+
+'
+    bounds:
+      left: 2207
+      right: 2266
+      top: 469
+      bottom: 511
+- paragraphs:
+  - text: '217
+
+'
+    bounds:
+      left: 2207
+      right: 2264
+      top: 716
+      bottom: 759
+- paragraphs:
+  - text: 'WILLIAMS, Toby
+
+'
+    bounds:
+      left: 260
+      right: 582
+      top: 223
+      bottom: 266
+  - text: |
+      WILLIAMSON, Arthur
+      Heathcote Beetham
+    bounds:
+      left: 305
+      right: 1711
+      top: 212
+      bottom: 318
+  - text: '23.12.1980
+
+'
+    bounds:
+      left: 903
+      right: 1078
+      top: 275
+      bottom: 314
+  - text: |
+      606
+      Robert Maxwell
+    bounds:
+      left: 1158
+      right: 1621
+      top: 272
+      bottom: 315
+  - text: |
+      31.10.1912 335
+      WILLIAMS, Tui
+    bounds:
+      left: 257
+      right: 2259
+      top: 269
+      bottom: 369
+  - text: '21.07.1992
+
+'
+    bounds:
+      left: 905
+      right: 1075
+      top: 323
+      bottom: 364
+  - text: '234
+
+'
+    bounds:
+      left: 1159
+      right: 1214
+      top: 324
+      bottom: 360
+  - text: |
+      m to KEMP, Dwillis Ettie
+      WILLIAMS, Ulric Gaster
+    bounds:
+      left: 261
+      right: 1733
+      top: 320
+      bottom: 421
+  - text: '22.05.1890
+
+'
+    bounds:
+      left: 907
+      right: 1076
+      top: 377
+      bottom: 416
+  - text: |
+      149
+      WILLIAMSON, Jessie Mackie
+    bounds:
+      left: 1160
+      right: 1839
+      top: 364
+      bottom: 419
+  - text: '26.08.1876
+
+'
+    bounds:
+      left: 1947
+      right: 2122
+      top: 367
+      bottom: 410
+  - text: |
+      284
+      m to THURLING, Mary May
+    bounds:
+      left: 307
+      right: 2262
+      top: 373
+      bottom: 473
+  - text: |
+      m to WILLIAMS, John William (Jack)
+      WILLIAMS, Ursula
+    bounds:
+      left: 261
+      right: 1940
+      top: 419
+      bottom: 520
+  - text: '15.05.1891
+
+'
+    bounds:
+      left: 904
+      right: 1077
+      top: 472
+      bottom: 515
+  - text: |
+      555
+      WILLIMENT, Winifred Mary
+    bounds:
+      left: 1159
+      right: 1838
+      top: 465
+      bottom: 520
+  - text: |
+      06.03.1933
+      WILLIAMS, Vera
+    bounds:
+      left: 261
+      right: 2128
+      top: 469
+      bottom: 569
+  - text: '19.05.1893
+
+'
+    bounds:
+      left: 902
+      right: 1078
+      top: 525
+      bottom: 566
+  - text: '555
+
+'
+    bounds:
+      left: 1159
+      right: 1213
+      top: 525
+      bottom: 563
+  - text: |
+      m to MACLEAN, Michael Anson
+      m to SEWELL, Taare Warneford (Rua)
+    bounds:
+      left: 308
+      right: 1870
+      top: 520
+      bottom: 621
+  - text: 'WILLIS, Genevra
+
+'
+    bounds:
+      left: 1301
+      right: 1607
+      top: 572
+      bottom: 616
+  - text: '17.10.1909
+
+'
+    bounds:
+      left: 1949
+      right: 2122
+      top: 572
+      bottom: 611
+  - text: |
+      235
+      WILLIAMS, Verity Maria
+    bounds:
+      left: 255
+      right: 2259
+      top: 571
+      bottom: 673
+  - text: '15.01.1940
+
+'
+    bounds:
+      left: 904
+      right: 1079
+      top: 627
+      bottom: 666
+  - text: '251
+
+'
+    bounds:
+      left: 1162
+      right: 1216
+      top: 626
+      bottom: 664
+  - text: |
+      m to WILLIAMS, Charles Athol
+      m to BLAKENEY, Henry John Mervyn
+    bounds:
+      left: 308
+      right: 1848
+      top: 622
+      bottom: 722
+  - text: 'WILLIS, Hannah Nancy
+
+'
+    bounds:
+      left: 1299
+      right: 1727
+      top: 669
+      bottom: 719
+  - text: '05.01.1980
+
+'
+    bounds:
+      left: 1954
+      right: 2127
+      top: 670
+      bottom: 710
+  - text: |
+      217
+      WILLIAMS, Victoria Kathryn
+    bounds:
+      left: 261
+      right: 2266
+      top: 670
+      bottom: 773
+  - text: '09.02.1994
+
+'
+    bounds:
+      left: 907
+      right: 1077
+      top: 725
+      bottom: 766
+  - text: |
+      564
+      WILLIS, Henry David Jefferd
+    bounds:
+      left: 1161
+      right: 1833
+      top: 719
+      bottom: 767
+  - text: |
+      28.11.1981
+      WILLIAMS, Victoria Maree
+    bounds:
+      left: 259
+      right: 2125
+      top: 721
+      bottom: 821
+  - text: '25.01.1969
+
+'
+    bounds:
+      left: 908
+      right: 1078
+      top: 775
+      bottom: 816
+  - text: |
+      170
+      WILLIS, Jacob Ian
+    bounds:
+      left: 1160
+      right: 1638
+      top: 768
+      bottom: 817
+  - text: '31.05.1983
+
+'
+    bounds:
+      left: 1952
+      right: 2126
+      top: 773
+      bottom: 807
+  - text: |
+      238
+      m to WILSON, Scott Harvey
+    bounds:
+      left: 307
+      right: 2264
+      top: 770
+      bottom: 872
+  - text: 'WILLIS, Matthew Samuel
+
+'
+    bounds:
+      left: 1302
+      right: 1765
+      top: 821
+      bottom: 863
+  - text: '07.04.1979
+
+'
+    bounds:
+      left: 1956
+      right: 2125
+      top: 820
+      bottom: 859
+  - text: |
+      238
+      WILLIAMS, Violet Isabel
+    bounds:
+      left: 263
+      right: 2266
+      top: 819
+      bottom: 920
+  - text: '17.09.1885
+
+'
+    bounds:
+      left: 906
+      right: 1080
+      top: 877
+      bottom: 914
+  - text: |
+      100
+      WILLIS, Peter Ian
+    bounds:
+      left: 1161
+      right: 1626
+      top: 868
+      bottom: 916
+  - text: '14.02.1951
+
+'
+    bounds:
+      left: 1952
+      right: 2126
+      top: 870
+      bottom: 907
+  - text: |
+      238
+      m to BIRCH, Cyril William
+    bounds:
+      left: 308
+      right: 2267
+      top: 869
+      bottom: 969
+  - text: |
+      m to WARREN, Susan Mary
+      WILLIAMS, Violet Maud
+    bounds:
+      left: 261
+      right: 1792
+      top: 920
+      bottom: 1021
+  - text: '12.05.1881
+
+'
+    bounds:
+      left: 906
+      right: 1081
+      top: 976
+      bottom: 1011
+  - text: |
+      133
+      WILLIS, Sally Marianne
+    bounds:
+      left: 1163
+      right: 1739
+      top: 968
+      bottom: 1015
+  - text: '14.02.1985
+
+'
+    bounds:
+      left: 1952
+      right: 2129
+      top: 970
+      bottom: 1006
+  - text: |
+      217
+      m to BERSCH, Ludwig
+    bounds:
+      left: 311
+      right: 2270
+      top: 971
+      bottom: 1070
+  - text: 'WILLIS, Tarquin Geoffrey
+
+'
+    bounds:
+      left: 1306
+      right: 1783
+      top: 1013
+      bottom: 1067
+  - text: '22.11.1982
+
+'
+    bounds:
+      left: 1955
+      right: 2128
+      top: 1017
+      bottom: 1057
+  - text: |
+      238
+      WILLIAMS, Virginia Carleton
+    bounds:
+      left: 261
+      right: 2268
+      top: 1017
+      bottom: 1125
+  - text: |
+      05.11.1923
+      97 WILLIS, Thomas David
+    bounds:
+      left: 910
+      right: 1729
+      top: 1065
+      bottom: 1117
+  - text: '14.01.1950
+
+'
+    bounds:
+      left: 1955
+      right: 2130
+      top: 1070
+      bottom: 1109
+  - text: |
+      217
+      m to ROBINSON, Hugh Amuri
+    bounds:
+      left: 310
+      right: 2264
+      top: 1070
+      bottom: 1170
+  - text: |
+      m to JEFFERD, Jillian Mary
+      WILLIAMS, Virginia
+    bounds:
+      left: 259
+      right: 1794
+      top: 1120
+      bottom: 1221
+  - text: 'WILLOCK, Andrew Seymour
+
+'
+    bounds:
+      left: 1303
+      right: 1834
+      top: 1167
+      bottom: 1215
+  - text: '16.05.1974
+
+'
+    bounds:
+      left: 1957
+      right: 2132
+      top: 1168
+      bottom: 1207
+  - text: |
+      220
+      Margaret (Gee)
+    bounds:
+      left: 315
+      right: 2268
+      top: 1166
+      bottom: 1269
+  - text: '25.08.1949
+
+'
+    bounds:
+      left: 910
+      right: 1085
+      top: 1225
+      bottom: 1264
+  - text: |
+      625
+      WILLOCK, Deborah Margot
+    bounds:
+      left: 1166
+      right: 1820
+      top: 1212
+      bottom: 1267
+  - text: '24.12.1981
+
+'
+    bounds:
+      left: 1954
+      right: 2128
+      top: 1218
+      bottom: 1257
+  - text: |
+      540
+      m to SMITH, Patrick John
+    bounds:
+      left: 311
+      right: 2269
+      top: 1218
+      bottom: 1320
+  - text: |
+      WILLOCK, Joanna Mary
+      WILLIAMS, Warwick Rodney 10.10.1934
+    bounds:
+      left: 263
+      right: 1761
+      top: 1264
+      bottom: 1370
+  - text: |
+      569
+      (Janna)
+    bounds:
+      left: 1166
+      right: 1473
+      top: 1321
+      bottom: 1365
+  - text: '21.04.1972
+
+'
+    bounds:
+      left: 1953
+      right: 2129
+      top: 1315
+      bottom: 1356
+  - text: |
+      220
+      m to HASSALL, Henare Jane Shearburn
+    bounds:
+      left: 312
+      right: 2268
+      top: 1313
+      bottom: 1420
+  - text: |
+      m to BROAD, Michael Lowther
+      WILLIAMS, Wendy Esme Gerard 12.07.1938 295 WILLOCK, Michael John
+    bounds:
+      left: 266
+      right: 1849
+      top: 1368
+      bottom: 1469
+  - text: '16.03.1947
+
+'
+    bounds:
+      left: 1957
+      right: 2134
+      top: 1415
+      bottom: 1456
+  - text: |
+      220
+      m to FALLOON, John Gavin
+    bounds:
+      left: 312
+      right: 2270
+      top: 1413
+      bottom: 1518
+  - text: |
+      m to DODGSHUN, Wendy Elizabeth
+      WILLIAMS, Wilfrid Gaster
+    bounds:
+      left: 266
+      right: 1933
+      top: 1467
+      bottom: 1566
+  - text: '19.09.1882
+
+'
+    bounds:
+      left: 910
+      right: 1082
+      top: 1523
+      bottom: 1564
+  - text: |
+      142
+      WILLOCK, Nicola Jane
+    bounds:
+      left: 1165
+      right: 1734
+      top: 1516
+      bottom: 1563
+  - text: '08.03.1979
+
+'
+    bounds:
+      left: 1957
+      right: 2134
+      top: 1515
+      bottom: 1556
+  - text: |
+      540
+      m to CHALK, Madeline
+    bounds:
+      left: 315
+      right: 2273
+      top: 1517
+      bottom: 1618
+  - text: 'WILLOCK, Paddy Sherriff
+
+'
+    bounds:
+      left: 1308
+      right: 1791
+      top: 1567
+      bottom: 1612
+  - text: '01.10.1985
+
+'
+    bounds:
+      left: 1957
+      right: 2132
+      top: 1563
+      bottom: 1606
+  - text: |
+      540
+      WILLIAMS, Wilfrid
+    bounds:
+      left: 267
+      right: 2271
+      top: 1563
+      bottom: 1669
+  - text: 'WILLOCK, Patrick David
+
+'
+    bounds:
+      left: 1310
+      right: 1775
+      top: 1617
+      bottom: 1660
+  - text: '28.11.1949
+
+'
+    bounds:
+      left: 1960
+      right: 2135
+      top: 1616
+      bottom: 1655
+  - text: |
+      540
+      Maurice Chalk
+    bounds:
+      left: 317
+      right: 2269
+      top: 1615
+      bottom: 1716
+  - text: |
+      31.08.1912
+      | 143
+    bounds:
+      left: 909
+      right: 1221
+      top: 1669
+      bottom: 1713
+  - text: |
+      m to SHERRIFF, Margot Elizabeth
+      m to BARNES, Kathleen Penelope (Penny)
+    bounds:
+      left: 312
+      right: 1895
+      top: 1664
+      bottom: 1773
+  - text: 'WILLOCK, William Patrick
+
+'
+    bounds:
+      left: 1310
+      right: 1817
+      top: 1713
+      bottom: 1763
+  - text: '13.04.1983
+
+'
+    bounds:
+      left: 1961
+      right: 2136
+      top: 1716
+      bottom: 1755
+  - text: |
+      540
+      WILLIAMS, William
+    bounds:
+      left: 267
+      right: 2268
+      top: 1715
+      bottom: 1818
+  - text: '18.07.1800
+
+'
+    bounds:
+      left: 913
+      right: 1088
+      top: 1773
+      bottom: 1812
+  - text: |
+      472
+      WILSON, Aaron Bernard
+    bounds:
+      left: 1169
+      right: 1761
+      top: 1760
+      bottom: 1815
+  - text: |
+      05.10.1973
+      m to NELSON, Jane
+    bounds:
+      left: 314
+      right: 2133
+      top: 1764
+      bottom: 1869
+  - text: |
+      WILSON, Andrew Munro
+      WILLIAMS, William Andrew
+    bounds:
+      left: 270
+      right: 1768
+      top: 1812
+      bottom: 1918
+  - text: '12.08.1964
+
+'
+    bounds:
+      left: 916
+      right: 1088
+      top: 1873
+      bottom: 1908
+  - text: |
+      560
+      Ludbrook
+    bounds:
+      left: 1171
+      right: 1530
+      top: 1867
+      bottom: 1911
+  - text: '09.10.1967
+
+'
+    bounds:
+      left: 1961
+      right: 2138
+      top: 1862
+      bottom: 1903
+  - text: |
+      378
+      m to SEWELL, Philippa Blackwood
+    bounds:
+      left: 317
+      right: 2273
+      top: 1863
+      bottom: 1968
+  - text: 'WILSON, Anna Munro Ludbrook 17.10.1964
+
+'
+    bounds:
+      left: 1315
+      right: 2134
+      top: 1912
+      bottom: 1960
+  - text: |
+      378
+      WILLIAMS, William
+    bounds:
+      left: 270
+      right: 2277
+      top: 1910
+      bottom: 2016
+  - text: 'WILSON, Campbell Munro
+
+'
+    bounds:
+      left: 1314
+      right: 1800
+      top: 1960
+      bottom: 2012
+  - text: '23.05.1939
+
+'
+    bounds:
+      left: 1963
+      right: 2138
+      top: 1961
+      bottom: 2004
+  - text: |
+      378
+      Athol (Bill)
+    bounds:
+      left: 303
+      right: 2270
+      top: 1963
+      bottom: 2067
+  - text: '20.09.1928
+
+'
+    bounds:
+      left: 914
+      right: 1091
+      top: 2021
+      bottom: 2062
+  - text: '234
+
+'
+    bounds:
+      left: 1173
+      right: 1227
+      top: 2020
+      bottom: 2058
+  - text: |
+      m to LUDBROOK, Elisabeth Hana
+      m to BATHGATE, Vivienne Cecilia
+    bounds:
+      left: 316
+      right: 1900
+      top: 2016
+      bottom: 2118
+  - text: 'WILSON, Frank Henderson
+
+'
+    bounds:
+      left: 1320
+      right: 1810
+      top: 2059
+      bottom: 2111
+  - text: '17.12.1904
+
+'
+    bounds:
+      left: 1966
+      right: 2141
+      top: 2059
+      bottom: 2102
+  - text: |
+      107
+      WILLIAMS, William Cyril
+    bounds:
+      left: 270
+      right: 2273
+      top: 2061
+      bottom: 2165
+  - text: '29.10.1946
+
+'
+    bounds:
+      left: 917
+      right: 1092
+      top: 2123
+      bottom: 2162
+  - text: '621
+
+'
+    bounds:
+      left: 1172
+      right: 1225
+      top: 2120
+      bottom: 2157
+  - text: |
+      m to REED, Ruth Agnes
+      WILLIAMS, William Hamilton
+    bounds:
+      left: 265
+      right: 1739
+      top: 2116
+      bottom: 2221
+  - text: '05.11.1962
+
+'
+    bounds:
+      left: 915
+      right: 1091
+      top: 2171
+      bottom: 2212
+  - text: "| 235\n"
+    bounds:
+      left: 1149
+      right: 1230
+      top: 2168
+      bottom: 2212
+  - text: |
+      WILSON, Godfrey Edward
+      WILLIAMS, William John
+    bounds:
+      left: 266
+      right: 1803
+      top: 2160
+      bottom: 2269
+  - text: 'Armstrong
+
+'
+    bounds:
+      left: 1353
+      right: 1547
+      top: 2219
+      bottom: 2260
+  - text: |
+      02.09.1926 186
+      Samuel
+    bounds:
+      left: 306
+      right: 2276
+      top: 2209
+      bottom: 2314
+  - text: '08.01.1926
+
+'
+    bounds:
+      left: 921
+      right: 1090
+      top: 2268
+      bottom: 2311
+  - text: '229
+
+'
+    bounds:
+      left: 1174
+      right: 1229
+      top: 2266
+      bottom: 2304
+  - text: |
+      m to MILLER, Maryrose
+      WILLIAMS, William Leonard
+    bounds:
+      left: 273
+      right: 1745
+      top: 2266
+      bottom: 2366
+  - text: '22.07.1829
+
+'
+    bounds:
+      left: 918
+      right: 1092
+      top: 2323
+      bottom: 2362
+  - text: |
+      473
+      WILSON, Harold Ralph
+    bounds:
+      left: 1174
+      right: 1745
+      top: 2310
+      bottom: 2361
+  - text: |
+      10.09.1918 335
+      m to WANKLYN, Sarah
+    bounds:
+      left: 320
+      right: 2272
+      top: 2309
+      bottom: 2416
+  - text: |
+      m to NEWLAND, Clare Agnes
+      WILLIAMS, William Leonard
+    bounds:
+      left: 270
+      right: 1846
+      top: 2364
+      bottom: 2466
+  - text: '22.07.1829
+
+'
+    bounds:
+      left: 922
+      right: 1097
+      top: 2421
+      bottom: 2460
+  - text: '477
+
+'
+    bounds:
+      left: 1177
+      right: 1231
+      top: 2418
+      bottom: 2456
+  - text: |
+      WILSON, James Frederic
+      m to WANKLYN, Sarah
+    bounds:
+      left: 317
+      right: 1767
+      top: 2409
+      bottom: 2516
+  - text: "(Fritz)\n"
+    bounds:
+      left: 1354
+      right: 1466
+      top: 2465
+      bottom: 2508
+  - text: |
+      05.04.1888
+      WILLIAMS, William Martyn
+    bounds:
+      left: 272
+      right: 2146
+      top: 2464
+      bottom: 2568
+  - text: '24.09.1927
+
+'
+    bounds:
+      left: 922
+      right: 1097
+      top: 2521
+      bottom: 2560
+  - text: '560
+
+'
+    bounds:
+      left: 1176
+      right: 1233
+      top: 2519
+      bottom: 2555
+  - text: |
+      m to KEMP, Edith Sarah
+      m to WALLIS, Kathleen Mary
+    bounds:
+      left: 321
+      right: 1749
+      top: 2514
+      bottom: 2618
+  - text: 'WILSON, Janet Robyn
+
+'
+    bounds:
+      left: 1322
+      right: 1723
+      top: 2564
+      bottom: 2606
+  - text: '24.10.1958
+
+'
+    bounds:
+      left: 1967
+      right: 2144
+      top: 2560
+      bottom: 2601
+  - text: |
+      214
+      WILLIAMS, William
+    bounds:
+      left: 270
+      right: 2277
+      top: 2561
+      bottom: 2666
+  - text: |
+      m to BUSBY, Richard Alexander Dearden
+      Rolleston Standish (Bill)
+    bounds:
+      left: 316
+      right: 2026
+      top: 2613
+      bottom: 2717
+  - text: '20.07.1947
+
+'
+    bounds:
+      left: 923
+      right: 1098
+      top: 2669
+      bottom: 2708
+  - text: |
+      591
+      WILSON, Jean Margaret
+    bounds:
+      left: 1178
+      right: 1760
+      top: 2661
+      bottom: 2711
+  - text: '28.02.1915
+
+'
+    bounds:
+      left: 1970
+      right: 2145
+      top: 2662
+      bottom: 2701
+  - text: |
+      395
+      m to DAVEY, Jillian Myrtle
+    bounds:
+      left: 321
+      right: 2277
+      top: 2657
+      bottom: 2765
+  - text: |
+      m to LUDBROOK, Reginald Humphrey
+      WILLIAMS, William Temple
+    bounds:
+      left: 274
+      right: 1988
+      top: 2711
+      bottom: 2819
+  - text: '16.03.1856
+
+'
+    bounds:
+      left: 924
+      right: 1099
+      top: 2771
+      bottom: 2810
+  - text: |
+      228
+      WILSON, Jessica Mary
+    bounds:
+      left: 1180
+      right: 1731
+      top: 2756
+      bottom: 2811
+  - text: '20.10.1957
+
+'
+    bounds:
+      left: 1970
+      right: 2145
+      top: 2762
+      bottom: 2801
+  - text: |
+      188
+      m to PUCKEY, Annie Matilda Sophia Marilla
+    bounds:
+      left: 322
+      right: 2280
+      top: 2761
+      bottom: 2869
+  - text: |
+      and MILLER, Norman Michael
+      WILLIAMS, Winifred Beetham
+    bounds:
+      left: 273
+      right: 1856
+      top: 2812
+      bottom: 2917
+  - text: '18.01.1872
+
+'
+    bounds:
+      left: 925
+      right: 1098
+      top: 2868
+      bottom: 2911
+  - text: |
+      609
+      WILSON, John Bernard
+    bounds:
+      left: 1183
+      right: 1751
+      top: 2862
+      bottom: 2908
+  - text: |
+      28.07.1984
+      m to NELSON, Francis Ernest
+    bounds:
+      left: 324
+      right: 2149
+      top: 2860
+      bottom: 2968
+  - text: 'WILSON, John Paul
+
+'
+    bounds:
+      left: 1322
+      right: 1686
+      top: 2913
+      bottom: 2958
+  - text: '05.10.1955
+
+'
+    bounds:
+      left: 1970
+      right: 2147
+      top: 2910
+      bottom: 2951
+  - text: |
+      200
+      WILLIAMS, Wyvern Annie
+    bounds:
+      left: 278
+      right: 2284
+      top: 2911
+      bottom: 3016
+  - text: '26.05.1910
+
+'
+    bounds:
+      left: 924
+      right: 1099
+      top: 2968
+      bottom: 3010
+  - text: |
+      m to POORE, Elizabeth Julia
+      m to BUNNY, William Ian
+    bounds:
+      left: 326
+      right: 1814
+      top: 2964
+      bottom: 3066
+  - text: 'WILSON, Kirsty Anne
+
+'
+    bounds:
+      left: 1326
+      right: 1720
+      top: 3010
+      bottom: 3059
+  - text: '06.02.1961
+
+'
+    bounds:
+      left: 1973
+      right: 2148
+      top: 3012
+      bottom: 3051
+  - text: |
+      607
+      WILLIAMS, Wyvern Henry
+    bounds:
+      left: 279
+      right: 2285
+      top: 3009
+      bottom: 3120
+  - text: '15.05.1870 263
+
+'
+    bounds:
+      left: 927
+      right: 1235
+      top: 3068
+      bottom: 3113
+  - text: |
+      m to WILLIAMS, David Heathcote Beetham
+      m to MASON, Evelyn Muriel
+    bounds:
+      left: 325
+      right: 2068
+      top: 3063
+      bottom: 3173
+  - text: |
+      WILSON, Laura Munro Ludbook 30.01.1966 378
+      WILLIAMS, Zoe
+    bounds:
+      left: 279
+      right: 2283
+      top: 3109
+      bottom: 3221
+  - text: |
+      30.10.1889
+      555 WILSON, Lois Ann
+    bounds:
+      left: 929
+      right: 1670
+      top: 3164
+      bottom: 3213
+  - text: '27.04.1952
+
+'
+    bounds:
+      left: 1978
+      right: 2149
+      top: 3162
+      bottom: 3201
+  - text: |
+      335
+      WILLIAMS-PORTEOUS,
+      Henry Thomas
+    bounds:
+      left: 280
+      right: 2287
+      top: 3161
+      bottom: 3326
+  - text: '10.02.1997
+
+'
+    bounds:
+      left: 932
+      right: 1107
+      top: 3270
+      bottom: 3313
+  - text: '234
+
+'
+    bounds:
+      left: 1186
+      right: 1241
+      top: 3272
+      bottom: 3310
+  - text: '720
+
+'
+    bounds:
+      left: 1232
+      right: 1305
+      top: 3313
+      bottom: 3355
+- paragraphs:
+  - text: '337
+
+'
+    bounds:
+      left: 2218
+      right: 2275
+      top: 1763
+      bottom: 1809
+- paragraphs:
+  - text: '1888 332
+
+'
+    bounds:
+      left: 2070
+      right: 2276
+      top: 2447
+      bottom: 2504
+- paragraphs:
+  - text: '200
+
+'
+    bounds:
+      left: 2228
+      right: 2284
+      top: 2859
+      bottom: 2898
+- paragraphs:
+  - text: '263
+
+'
+    bounds:
+      left: 1178
+      right: 1235
+      top: 2967
+      bottom: 3009

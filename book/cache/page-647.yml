@@ -1,0 +1,199 @@
+---
+blocks:
+- paragraphs:
+  - text: '1 2 3 4 5 6 7 8 9 10 11 12
+
+'
+    bounds:
+      left: 1343
+      right: 2070
+      top: 224
+      bottom: 281
+  - text: |
+      14 15 16 17 18 19 20 21 22 23 24
+      25 26 27 28 29 30 31 32 33 34
+    bounds:
+      left: 1326
+      right: 2096
+      top: 275
+      bottom: 392
+  - text: '35 36 37
+
+'
+    bounds:
+      left: 1424
+      right: 1637
+      top: 400
+      bottom: 459
+- paragraphs:
+  - text: 'REI MOMO
+
+'
+    bounds:
+      left: 318
+      right: 974
+      top: 322
+      bottom: 481
+- paragraphs:
+  - text: '39 40 41 42 43425
+
+'
+    bounds:
+      left: 1403
+      right: 1801
+      top: 431
+      bottom: 515
+- paragraphs:
+  - text: '46
+
+'
+    bounds:
+      left: 1914
+      right: 1964
+      top: 468
+      bottom: 509
+- paragraphs:
+  - text: 'La 19 le. A ahe
+
+'
+    bounds:
+      left: 487
+      right: 1798
+      top: 723
+      bottom: 892
+- paragraphs:
+  - text: 'COPPA
+
+'
+    bounds:
+      left: 426
+      right: 2205
+      top: 420
+      bottom: 1370
+- paragraphs:
+  - text: |
+      Great Grandchildren of Henry and Marianne Williams and William and Jane Williams
+      (1) Cecil Edward Blomfield LUDBROOK (1902 - 1988), (2) Samuel Marsh WILLIAMS (1908 - ),
+    bounds:
+      left: 457
+      right: 2178
+      top: 1310
+      bottom: 1418
+  - text: |
+      (3) Bruce Buchanan WILLIAMS (1908 - ****), (4) Not identified,
+      (5) Alister Coldham WILLIAMS (1908 - 1971), (6) Kenneth William LUDBROOK (1908 - 1952),
+      (7) Paul Henry Metcalfe WILLIAMS (1908 - 1976), (8) Geoffrey Valentine LUDBROOK (1904 - 1989),
+      (9) Herbert Meyric WILLIAMS (1903 - 1983), (10) Patrick Heathcote Temple WILLIAMS (1909 - 1974),
+    bounds:
+      left: 486
+      right: 2151
+      top: 1413
+      bottom: 1617
+  - text: "(11) Wilfrid Gaster WILLIAMS (1882 - 1953), (12) James Francis (Jim) NELSON
+      (1903 - 1995),\n"
+    bounds:
+      left: 558
+      right: 2075
+      top: 1613
+      bottom: 1669
+  - text: |
+      (13) Claud Herbert WILLIAMS (1876 - 1970), (14) Barbara Hope DEANS (1906 - 1972) nee WILLIAMS,
+      (15) Jean Anabelle PARKER (1907 - 1997) nee FAULKNER, (16) George Murray Swinburne KELLY (1904 - 1970),
+    bounds:
+      left: 436
+      right: 2192
+      top: 1673
+      bottom: 1770
+  - text: |
+      (17) Sarah Cooper (Sally) WIGLEY (1907 - 1987) nee WILLIAMS, (18) Joan Elfie DILLON (1913 - ) nee WILLIAMS,
+      (19) Amy Margaret (Meg) TRIPE (1910 - ) nee WILLIAMS, (20) Margaret Gertrude LOWRY (1906 - 1993) nee RUSSELL,
+      (21) Winifred Gwendoline MALDEN (1897 - 1973) nee NELSON, (22) Joan Wilder JONES (1911 - 1990) nee WILLIAMS,
+    bounds:
+      left: 411
+      right: 2221
+      top: 1763
+      bottom: 1919
+  - text: |
+      (23) Nancy Mary CACCIA-BIRCH (1904 - 1972) nee WILLIAMS, (24) Mary Temple WILLIAMS (1912 - 1993),
+      (25) Nancy Hope BORTHWICK (1910 - 1984) nee WILLIAMS, (26) Jocelyn Anne PERRY (1909 - 1940) nee LUDBROOK,
+    bounds:
+      left: 421
+      right: 2213
+      top: 1913
+      bottom: 2018
+  - text: |
+      (27) Ellen Mary (Molly) WILLIAMS (1903 - ), (28) Ernestine Miriam HADFIELD (1903 - 1959),
+      (29) Ethel Ida BIRCH (1886 - ****) nee RUSSELL, (30) Not identified, (31) Ursula WILLIAMS (1891 - 1960),
+      (32) Vera SEWELL (1893 - 1984) nee WILLIAMS, (33) Beatrix Hamilton RUSSELL (1888 - ****),
+    bounds:
+      left: 481
+      right: 2156
+      top: 2013
+      bottom: 2167
+  - text: |
+      (34) Dorothy MACLEAN (1888 - 1931), (35) Thomas Walton REED (1910 - ),
+      (36) John Kinsella LUDBROOK (1910 - 1992), (37) Morvyn (Tim) WILLIAMS (1910 - 1989), (38) Not identified,
+    bounds:
+      left: 405
+      right: 2228
+      top: 2161
+      bottom: 2266
+  - text: |
+      (39) Evelyn Gillian (Jill) BARTON (1919 - 1985) nee WILLIAMS, (40) Janet Mary WILLIAMS (1918 - 1979) nee WILLIAMS,
+      (41) Elfie Clare Temple ELLIOTT (1917 - 1991) nee REED, (42) Not identified, (43) Not identified, (44) Not identified,
+    bounds:
+      left: 360
+      right: 2277
+      top: 2264
+      bottom: 2368
+  - text: "(45) Not identified, (46) Shona Mackintosh KERSEY (1914 - 1994) nee WILLIAMS,
+      (47) Not identified,\n"
+    bounds:
+      left: 510
+      right: 2128
+      top: 2361
+      bottom: 2418
+- paragraphs:
+  - text: 'E 6 7 8 9 10 11
+
+'
+    bounds:
+      left: 715
+      right: 1218
+      top: 2453
+      bottom: 2541
+- paragraphs:
+  - text: '13 14 15 16 17 18
+
+'
+    bounds:
+      left: 506
+      right: 949
+      top: 2508
+      bottom: 2613
+- paragraphs:
+  - text: |
+      Left: The Reunion Committee for the 150th Anniversary Reunion at Paihia - May 1973
+      (1) Nigel WILLIAMS (1901 - 1980), (2) James Francis (Jim) NELSON (1903 - 1995),
+      (3) Charles Kenneth WILLIAMS (1899 - 1978), (4) Charles Athol WILLIAMS (1899 - 1990),
+      (5) Leonard Heathcote (Bill) WILLIAMS (1912 - 1979), (6) William Athol (Bill) WILLIAMS (1928 - ),
+      (7) Heathcote Beetham (Bill) WILLIAMS (1922 - ), (8) Thomas Walton REED (1910 - ),
+      (9) Hannah Eleanor Evelyn REED (1921 - 1995) nee HENDERSON, (10) Anthony Leonard WILLIAMS (1934 - ),
+      (11) Cecil Edward Blomfield LUDBROOK (1902 - 1988), (12) Nora WILLIAMS (1902 - 1996) nee CASTEL,
+      (13) Miss J CRAIG (Secretary),(14) Sarah Cooper (Sally) WIGLEY (1907 - 1987) nee WILLIAMS,
+      (15) Janet Mary WILLIAMS (1918 - 1979) nee WILLIAMS, (16) Elfie Clare Temple ELLIOTT (1917 - 1991) nee REED,
+      (17) Patricia Elizabeth WILLIAMS (1924 - ) nee NOLAN, (18) Mary Temple WILLIAMS (1912 - 1993),
+      (19) Dinah Allison WILLIAMS (1941 - ) nee NORRIS.
+    bounds:
+      left: 362
+      right: 2140
+      top: 2721
+      bottom: 3279
+  - text: '649
+
+'
+    bounds:
+      left: 1290
+      right: 1366
+      top: 3293
+      bottom: 3337

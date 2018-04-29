@@ -1,0 +1,270 @@
+---
+blocks:
+- paragraphs:
+  - text: 'HOW TO READ YOUR BOOK
+
+'
+    bounds:
+      left: 704
+      right: 1857
+      top: 194
+      bottom: 287
+- paragraphs:
+  - text: "| Descendants of\n"
+    bounds:
+      left: 223
+      right: 601
+      top: 407
+      bottom: 472
+- paragraphs:
+  - text: |
+      THOMPSON, Harold James and CAMERON, Alice Mary
+      ITHOMPSON, George Thomas and FINDLAY, Margaret Eileen
+      VTHOMPSON, Lily Margaret and ANDERSON, Frederick Alan
+    bounds:
+      left: 680
+      right: 2029
+      top: 402
+      bottom: 566
+- paragraphs:
+  - text: 'ORD, Patricia o 11.05. 1989 m. Australia.
+
+'
+    bounds:
+      left: 1404
+      right: 2247
+      top: 564
+      bottom: 787
+- paragraphs:
+  - text: 'www.,
+
+'
+    bounds:
+      left: 2335
+      right: 2344
+      top: 598
+      bottom: 680
+- paragraphs:
+  - text: |
+      04>ANDERSON, Brian Thomas Alan m on 16.10.1939 to CRAWFORD, Patricia Colleen.
+      b 05.06. 1916
+    bounds:
+      left: 256
+      right: 1943
+      top: 611
+      bottom: 716
+  - text: 'b 07.06. 1919
+
+'
+    bounds:
+      left: 1402
+      right: 1622
+      top: 666
+      bottom: 715
+  - text: |
+      d 11.05. 1989
+      Brian b. at Dannevirke and m. at Masterton. Colleen, d/o James Crawford and Maria Patricia Smith, b, at Geelong, Australia.
+      Address: 19a King Street, Palmerston North.
+      Brian was educated at .......
+    bounds:
+      left: 333
+      right: 2230
+      top: 666
+      bottom: 876
+- paragraphs:
+  - text: |
+      01>ANDERSON, Gerald Brian
+      b 02.09.1940
+    bounds:
+      left: 330
+      right: 904
+      top: 914
+      bottom: 1020
+  - text: 'd 04.09.1940
+
+'
+    bounds:
+      left: 764
+      right: 983
+      top: 971
+      bottom: 1014
+- paragraphs:
+  - text: "-- -- -- --*_\n"
+    bounds:
+      left: 230
+      right: 238
+      top: 999
+      bottom: 1082
+- paragraphs:
+  - text: |
+      02>ANDERSON, Sheryl Elizabeth m on 10.08.1963 to (1)MCRAE, Gary (Butch)
+      b 09.08.1947
+    bounds:
+      left: 327
+      right: 1851
+      top: 1055
+      bottom: 1166
+  - text: 'b ** ** 1938
+
+'
+    bounds:
+      left: 1622
+      right: 1849
+      top: 1119
+      bottom: 1158
+- paragraphs:
+  - text: 'Page Header
+
+'
+    bounds:
+      left: 267
+      right: 508
+      top: 1360
+      bottom: 1404
+  - text: |
+      The header is a quick guide to where the Descendants on each page of the book are located within the family.
+      • It traces the direct line of descent from the earliest couple in the book down to the first person listed on this page.
+    bounds:
+      left: 267
+      right: 2253
+      top: 1399
+      bottom: 1508
+  - text: |
+      In the example above, Brian Thomas Alan Anderson is the son of Lily Margaret Thompson who is the daughter of
+      George Thomas Thompson who is the son of Harold James Thompson.
+    bounds:
+      left: 333
+      right: 2258
+      top: 1502
+      bottom: 1608
+- paragraphs:
+  - text: 'Name Line
+
+'
+    bounds:
+      left: 275
+      right: 474
+      top: 1660
+      bottom: 1708
+  - text: |
+      The first name on the line is the registered (Birth Certificate) name of the Descendant.
+      . The number preceding the Descendant's name indicates his birth order (Brian is the 4th child of Lily and Frederick)
+    bounds:
+      left: 273
+      right: 2301
+      top: 1699
+      bottom: 1808
+  - text: 'If the Descendant is married or has a partner, the second name is that
+      of the Spouse (Patricia Colleen Fay Crawford
+
+'
+    bounds:
+      left: 338
+      right: 2312
+      top: 1799
+      bottom: 1858
+  - text: |
+      is Brian's wife. Crawford was her surname prior to her marriage to Brian).
+      . If there is no formal marriage, the terms 'and' or 'de facto' are used in place of a marriage date.
+    bounds:
+      left: 273
+      right: 1964
+      top: 1848
+      bottom: 1956
+  - text: 'If a Descendant has had more than one marriage (or partner), the Spouse''s
+      name is preceded by a (1), (2) etc (e.g.
+
+'
+    bounds:
+      left: 340
+      right: 2283
+      top: 1946
+      bottom: 2008
+  - text: |
+      Gary McRae is the first of two spouses of Sheryl Anderson)
+      - Where a person is known by a name other than their first Christian name, the known-as name is underlined (e.g.
+    bounds:
+      left: 275
+      right: 2246
+      top: 1998
+      bottom: 2108
+  - text: 'Colleen instead of Patricia). Nicknames are enclosed in brackets (e.g.
+      Butch instead of Gary)
+
+'
+    bounds:
+      left: 351
+      right: 1919
+      top: 2096
+      bottom: 2156
+- paragraphs:
+  - text: |
+      Date Line
+      e Dates are expressed in English format i.e. dd.mm yyyy.
+    bounds:
+      left: 274
+      right: 1271
+      top: 2207
+      bottom: 2308
+  - text: |
+      An unknown date is denoted by stars (e.g. ** ** **** - see Gary McRae's birth date)
+      • The abbreviations, b, d and m preceding dates denote born, died and married.
+    bounds:
+      left: 274
+      right: 1783
+      top: 2296
+      bottom: 2415
+- paragraphs:
+  - text: |
+      Text
+      • The abbreviations b., m., d, and bd. within the text always precede the places of birth, marriage, death and burial.
+      • The terms 'd/%' and 's/o' are short for 'daughter of and 'son of and always precede the names of the parent or
+    bounds:
+      left: 279
+      right: 2280
+      top: 2449
+      bottom: 2608
+  - text: |
+      parents of the Spouse.
+      The Spouse's parents are listed with the father's name first followed by the mother's name. The mother is usually
+      listed by her maiden name as is customary in genealogical records.
+    bounds:
+      left: 349
+      right: 2248
+      top: 2606
+      bottom: 2760
+  - text: |
+      The address is that of the Couple (or if separated, the Descendant) at the time of publication.
+      * The biographical notes are as supplied by the Descendant or near relative(s). They are edited for style, spelling and
+    bounds:
+      left: 281
+      right: 2314
+      top: 2746
+      bottom: 2860
+  - text: 'grammatical form but not content.
+
+'
+    bounds:
+      left: 350
+      right: 932
+      top: 2858
+      bottom: 2912
+- paragraphs:
+  - text: 'Indentations
+
+'
+    bounds:
+      left: 272
+      right: 525
+      top: 2960
+      bottom: 3012
+  - text: |
+      The vertical lines at the left side of the page indicate generation levels. In the above example, Gerald and Sheryl are
+      both children of Brian and Colleen.
+      The numbers 1 thru 9 at the foot of each page are intended to assist the tracing of generation levels through
+      successive pages.
+    bounds:
+      left: 349
+      right: 2316
+      top: 2994
+      bottom: 3215

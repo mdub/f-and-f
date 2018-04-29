@@ -1,0 +1,88 @@
+---
+blocks:
+- paragraphs:
+  - text: 'The Descendants of Henry and Marianne Williams
+
+'
+    bounds:
+      left: 227
+      right: 1381
+      top: 213
+      bottom: 274
+- paragraphs:
+  - text: |
+      Photo from; Mrs M Jefferd
+      Margaret Shirley Leigh JEFFERD (1924 - ) nee REEVES.
+    bounds:
+      left: 258
+      right: 1050
+      top: 1595
+      bottom: 1673
+- paragraphs:
+  - text: |
+      Photo from: Mrs M Jefferd
+      John Busby (Jack) JEFFERD (1918 - 1981).
+    bounds:
+      left: 1354
+      right: 2145
+      top: 1602
+      bottom: 1682
+- paragraphs:
+  - text: 'USYTEWENSRE4A
+
+'
+    bounds:
+      left: 1189
+      right: 1201
+      top: 1962
+      bottom: 2028
+- paragraphs:
+  - text: "|-\n"
+    bounds:
+      left: 1480
+      right: 1536
+      top: 1979
+      bottom: 2000
+- paragraphs:
+  - text: "...ES\n"
+    bounds:
+      left: 1612
+      right: 1751
+      top: 2867
+      bottom: 2882
+- paragraphs:
+  - text: |
+      Photo from: Mr KC Dodgshun
+      Truby Edward DODGSHUN (1922 - 1944).
+    bounds:
+      left: 1367
+      right: 2151
+      top: 3040
+      bottom: 3120
+- paragraphs:
+  - text: 'Christopher Pearson DAVIES (1849 - 1924),
+
+'
+    bounds:
+      left: 393
+      right: 1031
+      top: 3083
+      bottom: 3126
+  - text: |
+      Eileen Pearson DAVIES (1884 - 1980),
+      Freda Lilian DAVIES (1885 - 1966) nee DAVIES,
+      Nina Pearson DAVIES (1888 - 1952) nee DAVIES.
+    bounds:
+      left: 377
+      right: 1054
+      top: 3131
+      bottom: 3262
+- paragraphs:
+  - text: '56
+
+'
+    bounds:
+      left: 1171
+      right: 1220
+      top: 3307
+      bottom: 3354

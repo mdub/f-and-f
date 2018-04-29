@@ -1,0 +1,421 @@
+---
+blocks:
+- paragraphs:
+  - text: 'PREFACE
+
+'
+    bounds:
+      left: 669
+      right: 1026
+      top: 177
+      bottom: 265
+- paragraphs:
+  - text: 'Acknowledgements
+
+'
+    bounds:
+      left: 1325
+      right: 1701
+      top: 179
+      bottom: 236
+  - text: |
+      This book is the result of contributions from individual family
+      The publication of this revised edition of Faith and Farming members who responded so willingly to the questionnaires that
+      has been completed in conjunction with the Williams Family were sent out. So many of them have kindly pointed out the
+      Reunion held at Paihia on 16th to 19th April 1998 to silly mistakes that we had made and have added their own useful
+      commemorate the 175th anniversary of the arrival of Henry comments and suggestions. They will see the fruits of their
+      and Marianne Williams in the Bay of Islands.
+    bounds:
+      left: 355
+      right: 2263
+      top: 246
+      bottom: 525
+  - text: |
+      efforts in the sections of the family to which they contributed.
+      A data verification programme was commenced in July
+    bounds:
+      left: 420
+      right: 2265
+      top: 471
+      bottom: 581
+  - text: |
+      My sincere thanks are extended particularly to all members of
+      1997. By the time the files were closed in August 1998, we
+    bounds:
+      left: 357
+      right: 2267
+      top: 518
+      bottom: 625
+  - text: |
+      the Reunion Committee who encouraged and supported the
+      had sent draft printouts to 1,149 members of the family for
+    bounds:
+      left: 363
+      right: 2264
+      top: 562
+      bottom: 671
+  - text: |
+      project in so many ways. Our particular thanks go to Tid
+      whom addresses had been obtained. Each of these people was
+    bounds:
+      left: 367
+      right: 2264
+      top: 608
+      bottom: 717
+  - text: |
+      tained. Each of these people was Ludbrook who bore the brunt of our requests for help. We also
+      sent two printouts, the first when the programme first
+    bounds:
+      left: 362
+      right: 2262
+      top: 652
+      bottom: 761
+  - text: |
+      express our sincere appreciation to George Davies for permitting
+      commenced and the second just prior to closing of the files.
+    bounds:
+      left: 361
+      right: 2266
+      top: 698
+      bottom: 808
+  - text: |
+      the use of his wonderful book, Shield of Faith, in the historical
+      Notice of corrections and additional information was received section of the book. By extension, all those who helped George
+      from 446 correspondents. There are many who did not correct
+    bounds:
+      left: 357
+      right: 2267
+      top: 742
+      bottom: 897
+  - text: |
+      in his work, also receive our grateful thanks. Many others, too
+      and return their draft printouts and, as a consequence, there are
+    bounds:
+      left: 359
+      right: 2264
+      top: 832
+      bottom: 943
+  - text: |
+      numerous to mention individually, have helped with their own
+      likely to be errors and omissions in the record which might
+    bounds:
+      left: 356
+      right: 2269
+      top: 877
+      bottom: 987
+  - text: |
+      family groups and I extend to them my sincere appreciation.
+      otherwise have been avoided.
+    bounds:
+      left: 364
+      right: 2269
+      top: 922
+      bottom: 1031
+  - text: 'If, despite my best endeavours, mistakes or omissions have
+
+'
+    bounds:
+      left: 1328
+      right: 2266
+      top: 968
+      bottom: 1013
+  - text: |
+      occurred, I extend my sincere apologies to those affected. Please
+      The text notes following each entry in the book include the
+    bounds:
+      left: 421
+      right: 2268
+      top: 1012
+      bottom: 1089
+  - text: |
+      inform me of any necessary corrections so that the files can be
+      current addresses for all those family members who received
+      draft printouts. A listing of all these addresses is held by
+    bounds:
+      left: 358
+      right: 2269
+      top: 1058
+      bottom: 1177
+  - text: |
+      updated for any future reprints.
+      Evagean Publishing for future use and reference by members Statistics of the Family
+      of the family. It is our hope that their inclusion within the text For those with a statistical bent I have abstracted some figures
+      notes will help the family to maintain contact and assist other from the computer files which may say something about the
+      researchers to carry on the work that has yet to be done. The
+    bounds:
+      left: 357
+      right: 2269
+      top: 1102
+      bottom: 1359
+  - text: |
+      growth of the family. The files record 3,072 descendants and
+      notes also contain a range of additional biographical
+    bounds:
+      left: 368
+      right: 2268
+      top: 1314
+      bottom: 1403
+  - text: |
+      1,364 spouses. (This represents an increase of 373 descendants
+      information. For some sections of the family these data are and 179 spouses since the completion of the first edition six
+      comprehensive and will be of great interest to future generations.
+    bounds:
+      left: 360
+      right: 2269
+      top: 1357
+      bottom: 1493
+  - text: |
+      years ago) Henry and William Williams jointly comprises the
+      Those not so well covered should be encouraged to assemble
+    bounds:
+      left: 366
+      right: 2270
+      top: 1450
+      bottom: 1539
+  - text: |
+      first generation of the family in this record. They between
+      similar information for the benefit of their own future
+    bounds:
+      left: 369
+      right: 2274
+      top: 1496
+      bottom: 1583
+  - text: |
+      them had 20 children and these comprise the second generation.
+      descendants.
+    bounds:
+      left: 369
+      right: 2273
+      top: 1540
+      bottom: 1627
+  - text: |
+      There are 94 offspring recorded in the third generation, 225 in
+      Format of the Book
+    bounds:
+      left: 369
+      right: 2270
+      top: 1586
+      bottom: 1689
+  - text: 'the fourth, 465 in the fifth, 1,052 in the sixth, 1,083 in the
+
+'
+    bounds:
+      left: 1332
+      right: 2271
+      top: 1628
+      bottom: 1675
+  - text: |
+      seventh, and to date 131 in the eighth.
+      The Family Tree listing uses a format known as the Indented
+      Descendants’ Chart. Advice on how to read it is contained on The Publishers
+      the previous page.
+    bounds:
+      left: 360
+      right: 1918
+      top: 1676
+      bottom: 1848
+  - text: |
+      Evagean Publishing specialise in the compilation and
+      In presenting the information submitted to me I have publication of genealogies and family histories. It is owned
+      adopted a number of general conventions which should be and operated by genealogists, Rex and Adriene Evans who
+      noted. Relationships which do not involve a legal marriage undertake publishing commissions from private family
+      have been included where the family have informed me of them. researchers and from family reunion committees. They operate
+      The expression, 'm on ** ** **** to’ has been replaced with throughout New Zealand and have franchise agreements in other
+      'and' or 'de facto’. In some cases children are listed to persons countries.
+      for whom no spouse is recorded. Occasionally the name of the
+    bounds:
+      left: 365
+      right: 2278
+      top: 1795
+      bottom: 2169
+  - text: |
+      This book is the one hundredth in a series of family
+      child’s father (or mother) is mentioned in a note. Where children histories compiled and published by Evagean Publishing since
+      have been raised by persons other than their parents, they are 1989. Other titles in the series are:
+      generally listed as part of the family in which they were raised.
+      Adoptions have been noted only where the person or his parents
+    bounds:
+      left: 372
+      right: 2275
+      top: 2122
+      bottom: 2349
+  - text: |
+      1. The Hansens and the Kings (1,157 pp in 2 vols)
+      have informed me of the fact. The inclusion of any person in
+    bounds:
+      left: 373
+      right: 2151
+      top: 2283
+      bottom: 2396
+  - text: |
+      2. Te Whanau de Flavelle (382 pp)
+      this record does not necessarily imply any legal rights or
+    bounds:
+      left: 370
+      right: 1915
+      top: 2328
+      bottom: 2439
+  - text: |
+      The Descendants of James Wright and Hannah Austain
+      obligations. In cases where both partners are descendants of
+    bounds:
+      left: 372
+      right: 2284
+      top: 2372
+      bottom: 2485
+  - text: |
+      (537pp)
+      the original couple, their descendants are listed following the
+    bounds:
+      left: 370
+      right: 1540
+      top: 2424
+      bottom: 2529
+  - text: |
+      The Wynyard Family Tree 1559 - 1990 (141 pp)
+      entry for the male. Biographical notes include reference to
+    bounds:
+      left: 376
+      right: 2155
+      top: 2461
+      bottom: 2575
+  - text: |
+      The Descendants of Sarah Vasey, 1841 - 1912 (55 pp)
+      occupations and interests and these are entered in the manner
+    bounds:
+      left: 374
+      right: 2249
+      top: 2508
+      bottom: 2619
+  - text: |
+      The Descendants of Enoch Stanton and Sarah Abbott
+      advised to me.
+    bounds:
+      left: 374
+      right: 2286
+      top: 2550
+      bottom: 2664
+  - text: 'Turner (73 pp)
+
+'
+    bounds:
+      left: 1425
+      right: 1648
+      top: 2601
+      bottom: 2644
+  - text: |
+      The Descendants of William Thomas Fairburn, Missionary
+      On some occasions I have received conflicting information
+    bounds:
+      left: 440
+      right: 2286
+      top: 2642
+      bottom: 2721
+  - text: |
+      (226pp)
+      from different members of the family. I have generally accepted
+    bounds:
+      left: 374
+      right: 1542
+      top: 2665
+      bottom: 2793
+  - text: |
+      The Smiths of Herekino and Their Descendants (125 pp)
+      that the information from the closest relative is more likely to
+    bounds:
+      left: 377
+      right: 2283
+      top: 2732
+      bottom: 2810
+  - text: |
+      Aitchison Oliver and His Descendants (285 pp)
+      be correct. My principal objective has been the production of
+    bounds:
+      left: 380
+      right: 2147
+      top: 2777
+      bottom: 2855
+  - text: |
+      10. The Webbers of French Pass (59 pp)
+      a complete and accurate record. I have sought to temper this
+    bounds:
+      left: 377
+      right: 1984
+      top: 2825
+      bottom: 2902
+  - text: |
+      11. Charles Marshall of the Waikato - Whanau 1830 - 1992
+      with discretion where appropriate. I trust that the few skeletons
+    bounds:
+      left: 388
+      right: 2284
+      top: 2864
+      bottom: 2947
+  - text: |
+      (404pp)
+      that inevitably appear in every family will be seen as part of
+    bounds:
+      left: 374
+      right: 1545
+      top: 2917
+      bottom: 2992
+  - text: |
+      12. Faith and Farming - The Legacy of Henry Williams and
+      the colourful fabric of this family's history.
+    bounds:
+      left: 375
+      right: 2289
+      top: 2955
+      bottom: 3037
+  - text: |
+      William Williams (444 pp)
+      Whilst the book contains a great deal of information that is 13. The Descendants of Rebecca Samuel - The Burnham and
+      of historical interest, it does not purport to be a history.
+    bounds:
+      left: 381
+      right: 2288
+      top: 3006
+      bottom: 3137
+  - text: |
+      Bennett Families (185 pp)
+      Biographical notes have been assembled from notes submitted 14. The Reeves of Tolaga Bay and their Descendants (74pp)
+      by family members, and we, the publishers, have made no 15. The Descendants of David Benge and Philadelphia
+      attempt to obtain verification of their accuracy.
+    bounds:
+      left: 380
+      right: 2292
+      top: 3092
+      bottom: 3275
+  - text: 'Roberts of Upper Hutt (267pp)
+
+'
+    bounds:
+      left: 1434
+      right: 1900
+      top: 3230
+      bottom: 3275
+- paragraphs:
+  - text: '3,
+
+'
+    bounds:
+      left: 1348
+      right: 1376
+      top: 2382
+      bottom: 2417
+- paragraphs:
+  - text: "+ n\n"
+    bounds:
+      left: 1341
+      right: 1381
+      top: 2483
+      bottom: 2539
+- paragraphs:
+  - text: '1
+
+'
+    bounds:
+      left: 1336
+      right: 1341
+      top: 3266
+      bottom: 3313

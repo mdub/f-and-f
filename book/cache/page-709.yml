@@ -1,0 +1,1457 @@
+---
+blocks:
+- paragraphs:
+  - text: "** ** ****\n"
+    bounds:
+      left: 1956
+      right: 2122
+      top: 377
+      bottom: 399
+- paragraphs:
+  - text: '361
+
+'
+    bounds:
+      left: 1155
+      right: 1217
+      top: 919
+      bottom: 966
+- paragraphs:
+  - text: '1910 280
+
+'
+    bounds:
+      left: 2053
+      right: 2263
+      top: 1163
+      bottom: 1228
+- paragraphs:
+  - text: 'WATSON, Mark Robert
+
+'
+    bounds:
+      left: 261
+      right: 687
+      top: 222
+      bottom: 265
+  - text: '11.08.1958
+
+'
+    bounds:
+      left: 902
+      right: 1077
+      top: 227
+      bottom: 266
+  - text: |
+      488
+      WHITE, William Espie
+    bounds:
+      left: 1157
+      right: 1703
+      top: 219
+      bottom: 266
+  - text: '01.05.1993
+
+'
+    bounds:
+      left: 1946
+      right: 2120
+      top: 226
+      bottom: 265
+  - text: |
+      371
+      m to WHITFIELD, Karen Patricia
+    bounds:
+      left: 307
+      right: 2257
+      top: 225
+      bottom: 316
+  - text: 'WHITEHOUSE, Jacqueline
+
+'
+    bounds:
+      left: 1289
+      right: 1788
+      top: 270
+      bottom: 319
+  - text: '29.09.1936
+
+'
+    bounds:
+      left: 1943
+      right: 2124
+      top: 271
+      bottom: 314
+  - text: |
+      361
+      WATSON, Matthew Don
+    bounds:
+      left: 258
+      right: 2262
+      top: 276
+      bottom: 372
+  - text: '09.06.1989
+
+'
+    bounds:
+      left: 902
+      right: 1077
+      top: 327
+      bottom: 366
+  - text: '319
+
+'
+    bounds:
+      left: 1157
+      right: 1210
+      top: 324
+      bottom: 361
+  - text: |
+      m to ZOHRAB, Allen Edward Hadfield
+      WATSON, Oliver James
+    bounds:
+      left: 256
+      right: 1949
+      top: 322
+      bottom: 420
+  - text: '18.07.1986
+
+'
+    bounds:
+      left: 903
+      right: 1078
+      top: 375
+      bottom: 414
+  - text: |
+      320
+      WHITFIELD, Karen Patricia
+    bounds:
+      left: 1157
+      right: 1816
+      top: 369
+      bottom: 419
+  - text: |
+      488
+      WATSON, Robert Paul
+    bounds:
+      left: 258
+      right: 2261
+      top: 375
+      bottom: 468
+  - text: '09.02.1989
+
+'
+    bounds:
+      left: 905
+      right: 1075
+      top: 424
+      bottom: 465
+  - text: '488
+
+'
+    bounds:
+      left: 1159
+      right: 1213
+      top: 426
+      bottom: 464
+  - text: |
+      m to WATSON, Mark Robert
+      WATSON, Robert Wallis
+    bounds:
+      left: 256
+      right: 1803
+      top: 424
+      bottom: 519
+  - text: '09.03.1903
+
+'
+    bounds:
+      left: 903
+      right: 1073
+      top: 477
+      bottom: 516
+  - text: |
+      480
+      WHITWORTH, Judith Ann
+    bounds:
+      left: 1159
+      right: 1790
+      top: 471
+      bottom: 516
+  - text: '01.04.1944
+
+'
+    bounds:
+      left: 1948
+      right: 2121
+      top: 474
+      bottom: 511
+  - text: |
+      368
+      m to GRAY, Amy Mary
+    bounds:
+      left: 307
+      right: 2262
+      top: 475
+      bottom: 575
+  - text: |
+      m to LUDBROOK, John
+      WATSON, Sarah Jane
+    bounds:
+      left: 258
+      right: 1722
+      top: 524
+      bottom: 620
+  - text: '05.11.1985
+
+'
+    bounds:
+      left: 905
+      right: 1074
+      top: 574
+      bottom: 617
+  - text: '319
+
+'
+    bounds:
+      left: 1159
+      right: 1210
+      top: 577
+      bottom: 613
+  - text: |
+      WIGGINS, Allysha Jane
+      WATSON, Thomas George Mark
+    bounds:
+      left: 256
+      right: 1731
+      top: 571
+      bottom: 672
+  - text: '11.05.1994
+
+'
+    bounds:
+      left: 900
+      right: 1079
+      top: 625
+      bottom: 669
+  - text: |
+      488
+      Winnona
+    bounds:
+      left: 1159
+      right: 1499
+      top: 623
+      bottom: 665
+  - text: '14.01.1995
+
+'
+    bounds:
+      left: 1950
+      right: 2125
+      top: 624
+      bottom: 663
+  - text: |
+      103
+      WATSON, Timothy Gerard
+    bounds:
+      left: 259
+      right: 2260
+      top: 626
+      bottom: 727
+  - text: '17.11.1965
+
+'
+    bounds:
+      left: 903
+      right: 1075
+      top: 673
+      bottom: 717
+  - text: |
+      489
+      WIGGINS, Damien
+    bounds:
+      left: 1158
+      right: 1637
+      top: 670
+      bottom: 719
+  - text: '30.03.1972
+
+'
+    bounds:
+      left: 1949
+      right: 2122
+      top: 671
+      bottom: 714
+  - text: |
+      103
+      WATSON, Wendy Jane
+    bounds:
+      left: 254
+      right: 2259
+      top: 676
+      bottom: 774
+  - text: '14.07.1959
+
+'
+    bounds:
+      left: 905
+      right: 1080
+      top: 725
+      bottom: 766
+  - text: '488
+
+'
+    bounds:
+      left: 1161
+      right: 1216
+      top: 723
+      bottom: 765
+  - text: |
+      m to PATTERSON, Melanie Jane
+      m to SHANKS, Colin
+    bounds:
+      left: 307
+      right: 1861
+      top: 721
+      bottom: 819
+  - text: 'WIGLEY, Alick Cranstoun
+
+'
+    bounds:
+      left: 1299
+      right: 1779
+      top: 770
+      bottom: 816
+  - text: '26.12.1968
+
+'
+    bounds:
+      left: 1947
+      right: 2128
+      top: 771
+      bottom: 814
+  - text: |
+      282
+      WATTERS, Emily Maryann
+    bounds:
+      left: 256
+      right: 2258
+      top: 771
+      bottom: 876
+  - text: '01.01.1994
+
+'
+    bounds:
+      left: 905
+      right: 1080
+      top: 827
+      bottom: 866
+  - text: |
+      WIGLEY, Benjamin
+      WATTERS, James Michael
+    bounds:
+      left: 253
+      right: 1657
+      top: 804
+      bottom: 942
+  - text: 'Alexander Cranstoun
+
+'
+    bounds:
+      left: 1339
+      right: 1724
+      top: 874
+      bottom: 914
+  - text: '07.12.1945
+
+'
+    bounds:
+      left: 1951
+      right: 2126
+      top: 872
+      bottom: 911
+  - text: |
+      282
+      Fitzgerald
+    bounds:
+      left: 300
+      right: 2259
+      top: 873
+      bottom: 971
+  - text: '17.07.1997
+
+'
+    bounds:
+      left: 904
+      right: 1081
+      top: 925
+      bottom: 966
+  - text: |
+      m to ROADLEY, Elaine
+      WATTERS, Jonathan
+    bounds:
+      left: 254
+      right: 1717
+      top: 922
+      bottom: 1020
+  - text: 'WIGLEY, Bryce Thomas
+
+'
+    bounds:
+      left: 1301
+      right: 1742
+      top: 970
+      bottom: 1015
+  - text: '29.05.1976
+
+'
+    bounds:
+      left: 1949
+      right: 2128
+      top: 972
+      bottom: 1011
+  - text: |
+      283
+      William Fitzgerald
+    bounds:
+      left: 319
+      right: 2261
+      top: 973
+      bottom: 1068
+  - text: '07.12.1953
+
+'
+    bounds:
+      left: 906
+      right: 1076
+      top: 1027
+      bottom: 1066
+  - text: |
+      361
+      WIGLEY, Cindy
+    bounds:
+      left: 1163
+      right: 1593
+      top: 1019
+      bottom: 1065
+  - text: "** ** 1972\n"
+    bounds:
+      left: 1954
+      right: 2123
+      top: 1018
+      bottom: 1062
+  - text: |
+      282
+      m to HARDIE BOYS, Rachel Maryann
+    bounds:
+      left: 310
+      right: 2261
+      top: 1021
+      bottom: 1120
+  - text: 'WIGLEY, Deborah Jean
+
+'
+    bounds:
+      left: 1301
+      right: 1738
+      top: 1068
+      bottom: 1117
+  - text: '26.03.1975
+
+'
+    bounds:
+      left: 1950
+      right: 2124
+      top: 1072
+      bottom: 1111
+  - text: |
+      283
+      WEBB, Gillian Margaret
+    bounds:
+      left: 261
+      right: 2264
+      top: 1071
+      bottom: 1168
+  - text: '04.03.1951
+
+'
+    bounds:
+      left: 907
+      right: 1082
+      top: 1122
+      bottom: 1165
+  - text: '391
+
+'
+    bounds:
+      left: 1160
+      right: 1211
+      top: 1124
+      bottom: 1163
+  - text: |
+      WIGLEY, Edward Thomas
+      m to LUDBROOK, Michael Wilson
+    bounds:
+      left: 310
+      right: 1789
+      top: 1120
+      bottom: 1219
+  - text: 'Cranstoun
+
+'
+    bounds:
+      left: 1345
+      right: 1527
+      top: 1171
+      bottom: 1214
+  - text: '08.03.1910
+
+'
+    bounds:
+      left: 1952
+      right: 2127
+      top: 1172
+      bottom: 1211
+  - text: |
+      280
+      WEBB, Ian
+    bounds:
+      left: 257
+      right: 2261
+      top: 1172
+      bottom: 1268
+  - text: '14.05.1946
+
+'
+    bounds:
+      left: 908
+      right: 1083
+      top: 1225
+      bottom: 1266
+  - text: '519
+
+'
+    bounds:
+      left: 1163
+      right: 1217
+      top: 1224
+      bottom: 1262
+  - text: |
+      m to WILLIAMS, Sarah Cooper (Sally)
+      m to MACLEAN, Shona Leith
+    bounds:
+      left: 310
+      right: 1956
+      top: 1219
+      bottom: 1318
+  - text: 'WIGLEY, Marianne Cranstoun 2603.1940
+
+'
+    bounds:
+      left: 1304
+      right: 2130
+      top: 1267
+      bottom: 1314
+  - text: |
+      282
+      WEBB, Michael
+    bounds:
+      left: 258
+      right: 2265
+      top: 1270
+      bottom: 1369
+  - text: '04.08.1978
+
+'
+    bounds:
+      left: 910
+      right: 1079
+      top: 1325
+      bottom: 1364
+  - text: '519
+
+'
+    bounds:
+      left: 1163
+      right: 1217
+      top: 1324
+      bottom: 1362
+  - text: |
+      m to PATCHETT, Irving Anthony Hetherington
+      WEBER, Amy Louise
+    bounds:
+      left: 256
+      right: 2100
+      top: 1318
+      bottom: 1424
+  - text: '13.03.1975
+
+'
+    bounds:
+      left: 906
+      right: 1080
+      top: 1375
+      bottom: 1412
+  - text: '328
+
+'
+    bounds:
+      left: 1164
+      right: 1219
+      top: 1374
+      bottom: 1409
+  - text: |
+      WIGLEY, Marjorie Julia
+      WEBER, Ian Albert
+    bounds:
+      left: 259
+      right: 1745
+      top: 1370
+      bottom: 1467
+  - text: '11.05.1950
+
+'
+    bounds:
+      left: 909
+      right: 1085
+      top: 1425
+      bottom: 1460
+  - text: |
+      328
+      Cranstoun
+    bounds:
+      left: 1163
+      right: 1528
+      top: 1421
+      bottom: 1463
+  - text: '18.05.1937
+
+'
+    bounds:
+      left: 1952
+      right: 2129
+      top: 1420
+      bottom: 1461
+  - text: |
+      280
+      m to HUTTON, Jill
+    bounds:
+      left: 310
+      right: 2265
+      top: 1419
+      bottom: 1515
+  - text: |
+      m to MANNION, Neil de Vere
+      WEBER, Kathleen Mary
+    bounds:
+      left: 256
+      right: 1825
+      top: 1470
+      bottom: 1573
+  - text: '11.05.1951
+
+'
+    bounds:
+      left: 905
+      right: 1082
+      top: 1523
+      bottom: 1564
+  - text: '230
+
+'
+    bounds:
+      left: 1164
+      right: 1218
+      top: 1524
+      bottom: 1562
+  - text: |
+      WIGLEY, Richard Thomas
+      m to COTCHING, John Alexander
+    bounds:
+      left: 313
+      right: 1790
+      top: 1519
+      bottom: 1618
+  - text: 'Cranstoun
+
+'
+    bounds:
+      left: 1349
+      right: 1530
+      top: 1570
+      bottom: 1614
+  - text: '24.10.1947
+
+'
+    bounds:
+      left: 1955
+      right: 2130
+      top: 1570
+      bottom: 1608
+  - text: |
+      283
+      WEBER, Rachael Marie
+    bounds:
+      left: 259
+      right: 2265
+      top: 1570
+      bottom: 1667
+  - text: '16.08.1971
+
+'
+    bounds:
+      left: 909
+      right: 1083
+      top: 1624
+      bottom: 1661
+  - text: '328
+
+'
+    bounds:
+      left: 1165
+      right: 1220
+      top: 1624
+      bottom: 1659
+  - text: |
+      m to BYLES, Nancy Dianne
+      WEBER, Trudy Ann
+    bounds:
+      left: 260
+      right: 1787
+      top: 1621
+      bottom: 1721
+  - text: '19.03.1977
+
+'
+    bounds:
+      left: 908
+      right: 1085
+      top: 1673
+      bottom: 1714
+  - text: '328
+
+'
+    bounds:
+      left: 1166
+      right: 1221
+      top: 1674
+      bottom: 1709
+  - text: |
+      WIGLEY, Sarah
+      WEBSTER, Elizabeth
+    bounds:
+      left: 261
+      right: 1596
+      top: 1661
+      bottom: 1783
+  - text: |
+      633
+      Charlotte Cranstoun
+    bounds:
+      left: 1169
+      right: 1716
+      top: 1717
+      bottom: 1762
+  - text: '18.07.1938
+
+'
+    bounds:
+      left: 1957
+      right: 2132
+      top: 1718
+      bottom: 1757
+  - text: |
+      281
+      m to NELSON, Richard Rupert Lionel
+    bounds:
+      left: 313
+      right: 2268
+      top: 1719
+      bottom: 1816
+  - text: |
+      m to VAN DER ZIJPP, Jacob
+      WHIBLEY, Lucy
+      24.05.1900 379 WIGLEY, Timothy
+    bounds:
+      left: 256
+      right: 1811
+      top: 1768
+      bottom: 1872
+  - text: "** **.1970\n"
+    bounds:
+      left: 1961
+      right: 2132
+      top: 1815
+      bottom: 1853
+  - text: |
+      282
+      m to LUDBROOK, Geoffrey Valentine
+    bounds:
+      left: 312
+      right: 2263
+      top: 1817
+      bottom: 1918
+  - text: |
+      WILDER, Maud Margaret
+      WHITCOMBE, Joan Mary
+    bounds:
+      left: 261
+      right: 1776
+      top: 1867
+      bottom: 1969
+  - text: "(Pearlie)\n"
+    bounds:
+      left: 1345
+      right: 1494
+      top: 1920
+      bottom: 1961
+  - text: '17.05.1879
+
+'
+    bounds:
+      left: 1959
+      right: 2132
+      top: 1915
+      bottom: 1958
+  - text: |
+      620
+      Somerset
+    bounds:
+      left: 300
+      right: 2268
+      top: 1917
+      bottom: 2016
+  - text: '14.04.1916
+
+'
+    bounds:
+      left: 914
+      right: 1084
+      top: 1972
+      bottom: 2013
+  - text: '526
+
+'
+    bounds:
+      left: 1166
+      right: 1220
+      top: 1972
+      bottom: 2010
+  - text: |
+      m to WILLIAMS, Cyril Nelson Beetham
+      m to MACLEAN, Kenneth Joseph Palmer (Joe)
+    bounds:
+      left: 315
+      right: 1990
+      top: 1968
+      bottom: 2068
+  - text: 'WILDING, Edwyn Peter
+
+'
+    bounds:
+      left: 1308
+      right: 1742
+      top: 2018
+      bottom: 2060
+  - text: '15.05.1930
+
+'
+    bounds:
+      left: 1957
+      right: 2130
+      top: 2013
+      bottom: 2056
+  - text: |
+      562
+      WHITE, Alison Johanna
+    bounds:
+      left: 262
+      right: 2267
+      top: 2016
+      bottom: 2118
+  - text: |
+      m to BURBURY, Helen Christine Eleanor
+      Lovell
+    bounds:
+      left: 303
+      right: 2009
+      top: 2065
+      bottom: 2167
+  - text: |
+      02.09.1932
+      | 156
+      WILKINS, Guy Michael
+    bounds:
+      left: 917
+      right: 1736
+      top: 2116
+      bottom: 2162
+  - text: '12.07.1995
+
+'
+    bounds:
+      left: 1955
+      right: 2130
+      top: 2113
+      bottom: 2156
+  - text: |
+      260
+      m to DISBROWE, Noel John Edward
+    bounds:
+      left: 316
+      right: 2269
+      top: 2110
+      bottom: 2216
+  - text: 'WILKINS, Marcus
+
+'
+    bounds:
+      left: 1312
+      right: 1641
+      top: 2164
+      bottom: 2212
+  - text: '08.03.1961
+
+'
+    bounds:
+      left: 1958
+      right: 2133
+      top: 2163
+      bottom: 2206
+  - text: |
+      260
+      WHITE, Anne
+    bounds:
+      left: 263
+      right: 2271
+      top: 2166
+      bottom: 2266
+  - text: '23.09.1953
+
+'
+    bounds:
+      left: 912
+      right: 1086
+      top: 2221
+      bottom: 2262
+  - text: '501
+
+'
+    bounds:
+      left: 1170
+      right: 1223
+      top: 2221
+      bottom: 2258
+  - text: |
+      m to BELL, Nicola Mary
+      m to GRAY, Robert Charles
+    bounds:
+      left: 315
+      right: 1739
+      top: 2217
+      bottom: 2316
+  - text: 'WILKINS, Marcus George
+
+'
+    bounds:
+      left: 1315
+      right: 1782
+      top: 2266
+      bottom: 2311
+  - text: '24.08.1991
+
+'
+    bounds:
+      left: 1957
+      right: 2133
+      top: 2263
+      bottom: 2304
+  - text: |
+      260
+      WHITE, Christopher Stephen
+    bounds:
+      left: 261
+      right: 2273
+      top: 2265
+      bottom: 2369
+  - text: '05.04.1959
+
+'
+    bounds:
+      left: 916
+      right: 1091
+      top: 2323
+      bottom: 2362
+  - text: |
+      370
+      WILKINS, Patrick James
+    bounds:
+      left: 1168
+      right: 1760
+      top: 2315
+      bottom: 2359
+  - text: '15.01.1993
+
+'
+    bounds:
+      left: 1964
+      right: 2137
+      top: 2314
+      bottom: 2351
+  - text: |
+      260
+      m to NEWTON, Claire Elizabeth
+    bounds:
+      left: 318
+      right: 2274
+      top: 2313
+      bottom: 2416
+  - text: 'WILLIAMS, Ada Frances
+
+'
+    bounds:
+      left: 1318
+      right: 1768
+      top: 2365
+      bottom: 2408
+  - text: '06.05.1869
+
+'
+    bounds:
+      left: 1963
+      right: 2136
+      top: 2364
+      bottom: 2401
+  - text: |
+      171
+      WHITE, Derek
+    bounds:
+      left: 265
+      right: 2268
+      top: 2366
+      bottom: 2466
+  - text: 'WILLIAMS, Adam Gareth
+
+'
+    bounds:
+      left: 1313
+      right: 1787
+      top: 2414
+      bottom: 2459
+  - text: '02.08.1985
+
+'
+    bounds:
+      left: 1962
+      right: 2136
+      top: 2413
+      bottom: 2454
+  - text: |
+      479
+      m to HUTTON, Gail
+    bounds:
+      left: 315
+      right: 2272
+      top: 2417
+      bottom: 2516
+  - text: |
+      WILLIAMS, Adrian
+      WHITE, Edwin Arnold Brassey
+    bounds:
+      left: 264
+      right: 1672
+      top: 2463
+      bottom: 2568
+  - text: '22.10.1996
+
+'
+    bounds:
+      left: 918
+      right: 1093
+      top: 2521
+      bottom: 2562
+  - text: |
+      371
+      Christopher Charles
+    bounds:
+      left: 1174
+      right: 1721
+      top: 2513
+      bottom: 2559
+  - text: '19.03.1945
+
+'
+    bounds:
+      left: 1963
+      right: 2136
+      top: 2511
+      bottom: 2554
+  - text: |
+      621
+      WHITE, Jonty
+    bounds:
+      left: 266
+      right: 2273
+      top: 2514
+      bottom: 2620
+  - text: '16.05.1991
+
+'
+    bounds:
+      left: 918
+      right: 1090
+      top: 2569
+      bottom: 2613
+  - text: |
+      380
+      WILLIAMS, Adrian Herbert
+    bounds:
+      left: 1175
+      right: 1824
+      top: 2565
+      bottom: 2610
+  - text: '10.05.1930
+
+'
+    bounds:
+      left: 1966
+      right: 2141
+      top: 2561
+      bottom: 2604
+  - text: |
+      563
+      WHITE, June Katherine
+    bounds:
+      left: 264
+      right: 2275
+      top: 2564
+      bottom: 2668
+  - text: '27.01.1923
+
+'
+    bounds:
+      left: 917
+      right: 1092
+      top: 2621
+      bottom: 2660
+  - text: '154
+
+'
+    bounds:
+      left: 1174
+      right: 1227
+      top: 2620
+      bottom: 2657
+  - text: |
+      m to BUSBY, Elizabeth Anne
+      m to MURPHY, Philip James (Pip)
+    bounds:
+      left: 318
+      right: 1814
+      top: 2617
+      bottom: 2721
+  - text: 'WILLIAMS, Agnes Lydia
+
+'
+    bounds:
+      left: 1321
+      right: 1771
+      top: 2662
+      bottom: 2711
+  - text: '09.07.1855
+
+'
+    bounds:
+      left: 1965
+      right: 2135
+      top: 2664
+      bottom: 2703
+  - text: |
+      | 101
+      WHITE, Laila Moore (Kewpie)
+    bounds:
+      left: 264
+      right: 2273
+      top: 2664
+      bottom: 2772
+  - text: '18.11.1917
+
+'
+    bounds:
+      left: 915
+      right: 1092
+      top: 2723
+      bottom: 2762
+  - text: '478
+
+'
+    bounds:
+      left: 1172
+      right: 1227
+      top: 2720
+      bottom: 2755
+  - text: |
+      m to WILLIAMS, Thomas Sydney
+      m to WILLIAMS, Peter Standish
+    bounds:
+      left: 319
+      right: 1892
+      top: 2715
+      bottom: 2819
+  - text: 'WILLIAMS, Agnes Lydia
+
+'
+    bounds:
+      left: 1316
+      right: 1768
+      top: 2758
+      bottom: 2811
+  - text: '09.07.1855
+
+'
+    bounds:
+      left: 1967
+      right: 2137
+      top: 2761
+      bottom: 2802
+  - text: |
+      277
+      WHITE, Lucinda
+    bounds:
+      left: 263
+      right: 2276
+      top: 2760
+      bottom: 2870
+  - text: '22.06.1994
+
+'
+    bounds:
+      left: 923
+      right: 1092
+      top: 2820
+      bottom: 2859
+  - text: '380
+
+'
+    bounds:
+      left: 1174
+      right: 1228
+      top: 2820
+      bottom: 2855
+  - text: |
+      m to WILLIAMS, Thomas Sydney
+      WHITE, Melanie Lisa
+    bounds:
+      left: 265
+      right: 1896
+      top: 2815
+      bottom: 2920
+  - text: '31.05.1965
+
+'
+    bounds:
+      left: 922
+      right: 1092
+      top: 2869
+      bottom: 2910
+  - text: |
+      371
+      WILLIAMS, Agnes Maria
+    bounds:
+      left: 1178
+      right: 1776
+      top: 2861
+      bottom: 2908
+  - text: '21.07.1862
+
+'
+    bounds:
+      left: 1963
+      right: 2139
+      top: 2862
+      bottom: 2903
+  - text: |
+      572
+      and ROPER, Adrian Richard
+    bounds:
+      left: 305
+      right: 2276
+      top: 2861
+      bottom: 2966
+  - text: |
+      m to GARDINER, Allen Francis
+      WHITE, Peter
+    bounds:
+      left: 265
+      right: 1863
+      top: 2914
+      bottom: 3020
+  - text: '29.04.1997
+
+'
+    bounds:
+      left: 924
+      right: 1099
+      top: 2968
+      bottom: 3009
+  - text: |
+      381
+      WILLIAMS, Alan Stephen
+    bounds:
+      left: 1178
+      right: 1788
+      top: 2962
+      bottom: 3011
+  - text: '02.04.1986
+
+'
+    bounds:
+      left: 1967
+      right: 2141
+      top: 2964
+      bottom: 3003
+  - text: |
+      163
+      WHITE, Robert Edwin
+      02.09.1930 370 WILLIAMS, Alastair Henry
+    bounds:
+      left: 271
+      right: 2279
+      top: 2964
+      bottom: 3068
+  - text: '17.07.1979
+
+'
+    bounds:
+      left: 1969
+      right: 2144
+      top: 3014
+      bottom: 3053
+  - text: |
+      313
+      m to LUDBROOK, Barbara Rosemary
+    bounds:
+      left: 322
+      right: 2275
+      top: 3011
+      bottom: 3118
+  - text: 'WILLIAMS, Alden Norman
+
+'
+    bounds:
+      left: 1322
+      right: 1822
+      top: 3065
+      bottom: 3111
+  - text: '27.05.1986
+
+'
+    bounds:
+      left: 1965
+      right: 2145
+      top: 3064
+      bottom: 3104
+  - text: |
+      592
+      WHITE, Rosemary Gillian
+    bounds:
+      left: 266
+      right: 2280
+      top: 3062
+      bottom: 3172
+  - text: '04.12.1956
+
+'
+    bounds:
+      left: 921
+      right: 1098
+      top: 3121
+      bottom: 3162
+  - text: |
+      370
+      WILLIAMS, Alden William
+    bounds:
+      left: 1180
+      right: 1821
+      top: 3111
+      bottom: 3161
+  - text: '26.09.1905
+
+'
+    bounds:
+      left: 1970
+      right: 2143
+      top: 3114
+      bottom: 3151
+  - text: |
+      588
+      WHITE, Spencer Allan
+    bounds:
+      left: 266
+      right: 2281
+      top: 3113
+      bottom: 3224
+  - text: '25.09.1957 380
+
+'
+    bounds:
+      left: 925
+      right: 1236
+      top: 3172
+      bottom: 3216
+  - text: |
+      WILLIAMS, Alexandra
+      m to LUDBROOK, Deborah Ann
+    bounds:
+      left: 324
+      right: 1737
+      top: 3164
+      bottom: 3271
+  - text: 'Morgan Joy
+
+'
+    bounds:
+      left: 1378
+      right: 1574
+      top: 3217
+      bottom: 3266
+  - text: '02.11.1987 278
+
+'
+    bounds:
+      left: 1973
+      right: 2279
+      top: 3211
+      bottom: 3254
+- paragraphs:
+  - text: "** ** ****\n"
+    bounds:
+      left: 919
+      right: 1084
+      top: 1725
+      bottom: 1748
+- paragraphs:
+  - text: "** ** ****\n"
+    bounds:
+      left: 926
+      right: 1090
+      top: 2425
+      bottom: 2445
+- paragraphs:
+  - text: '328
+
+'
+    bounds:
+      left: 1171
+      right: 1227
+      top: 2416
+      bottom: 2458
+- paragraphs:
+  - text: '711
+
+'
+    bounds:
+      left: 1228
+      right: 1297
+      top: 3314
+      bottom: 3358

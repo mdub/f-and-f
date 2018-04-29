@@ -1,0 +1,1234 @@
+---
+blocks:
+- paragraphs:
+  - text: '389
+
+'
+    bounds:
+      left: 2206
+      right: 2261
+      top: 479
+      bottom: 516
+- paragraphs:
+  - text: '394 LIIDE
+
+'
+    bounds:
+      left: 1160
+      right: 1394
+      top: 960
+      bottom: 1016
+- paragraphs:
+  - text: '385
+
+'
+    bounds:
+      left: 2213
+      right: 2264
+      top: 1075
+      bottom: 1116
+- paragraphs:
+  - text: 'LUDBROOK, David Wilson
+
+'
+    bounds:
+      left: 246
+      right: 752
+      top: 225
+      bottom: 266
+  - text: |
+      01.06.1943
+      391 LUDBROOK, John
+    bounds:
+      left: 908
+      right: 1638
+      top: 224
+      bottom: 269
+  - text: '30.08.1929
+
+'
+    bounds:
+      left: 1952
+      right: 2127
+      top: 228
+      bottom: 267
+  - text: |
+      368
+      m to BEGG, Janet Lillian
+    bounds:
+      left: 313
+      right: 2262
+      top: 228
+      bottom: 318
+  - text: |
+      m to (2)WHITWORTH, Judith Ann
+      LUDBROOK, Deborah Ann
+    bounds:
+      left: 247
+      right: 1895
+      top: 273
+      bottom: 370
+  - text: '07.05.1962
+
+'
+    bounds:
+      left: 905
+      right: 1077
+      top: 326
+      bottom: 367
+  - text: |
+      380
+      LUDBROOK, John Hereward
+    bounds:
+      left: 1158
+      right: 1832
+      top: 323
+      bottom: 371
+  - text: '14.01.1929
+
+'
+    bounds:
+      left: 1952
+      right: 2127
+      top: 328
+      bottom: 367
+  - text: |
+      370
+      m to WHITE, Spencer Allan
+    bounds:
+      left: 313
+      right: 2262
+      top: 328
+      bottom: 421
+  - text: 'LUDBROOK, John Kinsella
+
+'
+    bounds:
+      left: 1284
+      right: 1793
+      top: 374
+      bottom: 418
+  - text: '25.10.1910
+
+'
+    bounds:
+      left: 1953
+      right: 2126
+      top: 376
+      bottom: 420
+  - text: |
+      389
+      LUDBROOK, Diana Elizabeth
+    bounds:
+      left: 240
+      right: 2259
+      top: 379
+      bottom: 475
+  - text: '12.12.1939
+
+'
+    bounds:
+      left: 907
+      right: 1077
+      top: 426
+      bottom: 467
+  - text: '395
+
+'
+    bounds:
+      left: 1160
+      right: 1214
+      top: 428
+      bottom: 466
+  - text: |
+      m to WILSON, Mary Rose
+      m to (1)IRWIN, Jeremy Jon
+    bounds:
+      left: 310
+      right: 1758
+      top: 426
+      bottom: 524
+  - text: 'LUDBROOK, John Wilson
+
+'
+    bounds:
+      left: 1284
+      right: 1778
+      top: 474
+      bottom: 519
+  - text: |
+      05.05.1940
+      LUDBROOK, Diana Elizabeth
+    bounds:
+      left: 244
+      right: 2128
+      top: 477
+      bottom: 571
+  - text: '12.12.1939
+
+'
+    bounds:
+      left: 905
+      right: 1080
+      top: 528
+      bottom: 567
+  - text: '396
+
+'
+    bounds:
+      left: 1159
+      right: 1217
+      top: 528
+      bottom: 565
+  - text: |
+      m to (1)BULL, Rosanne Stewart
+      m to (2)WALDIN, Warren Bridge
+    bounds:
+      left: 312
+      right: 1847
+      top: 526
+      bottom: 623
+  - text: 'LUDBROOK, John Wilson
+
+'
+    bounds:
+      left: 1277
+      right: 1774
+      top: 570
+      bottom: 623
+  - text: '05.05.1940
+
+'
+    bounds:
+      left: 1954
+      right: 2129
+      top: 576
+      bottom: 617
+  - text: |
+      390
+      LUDBROOK, Diana Robin
+    bounds:
+      left: 246
+      right: 2261
+      top: 577
+      bottom: 672
+  - text: '03.10.1932
+
+'
+    bounds:
+      left: 904
+      right: 1081
+      top: 628
+      bottom: 669
+  - text: '383
+
+'
+    bounds:
+      left: 1163
+      right: 1213
+      top: 630
+      bottom: 665
+  - text: |
+      m to (2)CORFE, Wilma
+      m to PARKER, Anthony Gordon Hastie (Tony)
+    bounds:
+      left: 311
+      right: 1703
+      top: 623
+      bottom: 723
+  - text: 'LUDBROOK, Jolyon Wilson
+
+'
+    bounds:
+      left: 1284
+      right: 1805
+      top: 670
+      bottom: 723
+  - text: '22.07.1975
+
+'
+    bounds:
+      left: 1954
+      right: 2128
+      top: 676
+      bottom: 717
+  - text: |
+      391
+      LUDBROOK, Doris Gwyneth
+    bounds:
+      left: 240
+      right: 2263
+      top: 679
+      bottom: 777
+  - text: '29.12.1933
+
+'
+    bounds:
+      left: 902
+      right: 1077
+      top: 725
+      bottom: 768
+  - text: |
+      371
+      LUDBROOK, Josephine Susan
+    bounds:
+      left: 1160
+      right: 1844
+      top: 722
+      bottom: 771
+  - text: '01.04.1939
+
+'
+    bounds:
+      left: 1952
+      right: 2129
+      top: 726
+      bottom: 767
+  - text: |
+      385
+      m to WILLIAMS, Gordon Stewart
+    bounds:
+      left: 309
+      right: 2260
+      top: 728
+      bottom: 823
+  - text: |
+      m to PETHERBRIDGE, Gerald
+      LUDBROOK, Doris Jean
+    bounds:
+      left: 241
+      right: 1837
+      top: 774
+      bottom: 877
+  - text: |
+      22.02.1901
+      372 LUDBROOK, Julia Mary
+    bounds:
+      left: 906
+      right: 1749
+      top: 823
+      bottom: 869
+  - text: '31.12.1991
+
+'
+    bounds:
+      left: 1954
+      right: 2129
+      top: 826
+      bottom: 865
+  - text: |
+      391
+      LUDBROOK, Dorothy Winsome 16.07.1940 386 LUDBROOK, Katherine Ann
+    bounds:
+      left: 246
+      right: 2262
+      top: 829
+      bottom: 923
+  - text: '04.06.1964
+
+'
+    bounds:
+      left: 1958
+      right: 2126
+      top: 876
+      bottom: 914
+  - text: |
+      379
+      m to BROWN, Terence Jewell
+    bounds:
+      left: 311
+      right: 2261
+      top: 876
+      bottom: 971
+  - text: |
+      m to BROWN, Marcus Andrew
+      LUDBROOK, Edward Reginald
+    bounds:
+      left: 244
+      right: 1836
+      top: 926
+      bottom: 1022
+  - text: |
+      17.01.1872
+      LUDBROOK, Kenneth James
+    bounds:
+      left: 906
+      right: 1825
+      top: 970
+      bottom: 1024
+  - text: '06.09.1944
+
+'
+    bounds:
+      left: 1956
+      right: 2131
+      top: 976
+      bottom: 1015
+  - text: |
+      388
+      m to HEATH, Helen Whithell
+    bounds:
+      left: 309
+      right: 2264
+      top: 976
+      bottom: 1071
+  - text: |
+      m to YOUNG, Julie Anne
+      LUDBROOK, Edward Sayers
+    bounds:
+      left: 245
+      right: 1742
+      top: 1029
+      bottom: 1127
+  - text: '23.09.1962
+
+'
+    bounds:
+      left: 910
+      right: 1079
+      top: 1075
+      bottom: 1118
+  - text: |
+      382
+      LUDBROOK, Kenneth William
+    bounds:
+      left: 1162
+      right: 1869
+      top: 1071
+      bottom: 1118
+  - text: |
+      29.02.1908
+      m to BARKER, Victoria Jane
+    bounds:
+      left: 310
+      right: 2132
+      top: 1077
+      bottom: 1171
+  - text: |
+      m to BANKS, Barbara Susan (Tosti)
+      LUDBROOK, Elisabeth Hana
+    bounds:
+      left: 244
+      right: 1910
+      top: 1125
+      bottom: 1223
+  - text: |
+      25.08.1936
+      378 LUDBROOK, Kenneth William
+    bounds:
+      left: 906
+      right: 1869
+      top: 1172
+      bottom: 1219
+  - text: '16.12.1951
+
+'
+    bounds:
+      left: 1958
+      right: 2131
+      top: 1171
+      bottom: 1214
+  - text: |
+      389
+      m to WILSON, Campbell Munro
+    bounds:
+      left: 309
+      right: 2266
+      top: 1176
+      bottom: 1271
+  - text: |
+      m to WAKE, Suzanne
+      LUDBROOK, Emma Whitworth
+      29.06.1982 368 LUDBROOK, Kerry Scott
+    bounds:
+      left: 243
+      right: 1762
+      top: 1226
+      bottom: 1323
+  - text: |
+      01.10.1965 381
+      LUDBROOK, Erica Stephanie
+    bounds:
+      left: 244
+      right: 2266
+      top: 1273
+      bottom: 1375
+  - text: '22.02.1974
+
+'
+    bounds:
+      left: 908
+      right: 1081
+      top: 1328
+      bottom: 1367
+  - text: '388
+
+'
+    bounds:
+      left: 1166
+      right: 1218
+      top: 1327
+      bottom: 1363
+  - text: |
+      and DRYDEN, Shirley Diane
+      LUDBROOK, Geoffrey Sayers
+    bounds:
+      left: 243
+      right: 1800
+      top: 1322
+      bottom: 1424
+  - text: '16.06.1959
+
+'
+    bounds:
+      left: 912
+      right: 1083
+      top: 1378
+      bottom: 1417
+  - text: |
+      382
+      LUDBROOK, Kirsty Anne
+    bounds:
+      left: 1163
+      right: 1776
+      top: 1372
+      bottom: 1417
+  - text: '09.01.1967
+
+'
+    bounds:
+      left: 1958
+      right: 2133
+      top: 1374
+      bottom: 1413
+  - text: |
+      396
+      LUDBROOK, Geoffrey
+    bounds:
+      left: 240
+      right: 2265
+      top: 1375
+      bottom: 1476
+  - text: |
+      LUDBROOK, Lawrence
+      Valentine
+    bounds:
+      left: 305
+      right: 1729
+      top: 1422
+      bottom: 1517
+  - text: '17.08.1904
+
+'
+    bounds:
+      left: 906
+      right: 1081
+      top: 1473
+      bottom: 1516
+  - text: |
+      379
+      Julian Wilson
+    bounds:
+      left: 1164
+      right: 1591
+      top: 1471
+      bottom: 1515
+  - text: |
+      08.04.1949 392
+      m to WHIBLEY, Lucy
+    bounds:
+      left: 311
+      right: 2268
+      top: 1469
+      bottom: 1575
+  - text: |
+      m to MEARS, Joanna
+      LUDBROOK, Geraldine Ann
+    bounds:
+      left: 242
+      right: 1681
+      top: 1527
+      bottom: 1622
+  - text: |
+      09.12.1958
+      367 LUDBROOK, Lilian Mary
+    bounds:
+      left: 912
+      right: 1781
+      top: 1572
+      bottom: 1617
+  - text: '07.01.1870
+
+'
+    bounds:
+      left: 1957
+      right: 2133
+      top: 1570
+      bottom: 1611
+  - text: |
+      394
+      m to (1)FALCHETTA, Piero
+    bounds:
+      left: 314
+      right: 2264
+      top: 1573
+      bottom: 1674
+  - text: |
+      m to WILLIAMS, Kenneth Stuart
+      LUDBROOK, Geraldine Ann
+    bounds:
+      left: 245
+      right: 1870
+      top: 1624
+      bottom: 1720
+  - text: |
+      09.12.1958
+      367 LUDBROOK, Lillian Mary
+    bounds:
+      left: 914
+      right: 1792
+      top: 1671
+      bottom: 1717
+  - text: '07.01.1870
+
+'
+    bounds:
+      left: 1961
+      right: 2136
+      top: 1671
+      bottom: 1710
+  - text: |
+      299
+      and (2)CHINELLATO, Stefano
+    bounds:
+      left: 302
+      right: 2269
+      top: 1670
+      bottom: 1771
+  - text: |
+      m to WILLIAMS, Kenneth Stuart
+      LUDBROOK, Grace Alexandra
+    bounds:
+      left: 247
+      right: 1868
+      top: 1724
+      bottom: 1820
+  - text: |
+      11.11.1992
+      389 LUDBROOK, Louise Rachel
+    bounds:
+      left: 915
+      right: 1817
+      top: 1772
+      bottom: 1815
+  - text: '26.04.1976
+
+'
+    bounds:
+      left: 1959
+      right: 2138
+      top: 1770
+      bottom: 1809
+  - text: |
+      388
+      LUDBROOK, Guy Lawrence
+    bounds:
+      left: 244
+      right: 2271
+      top: 1769
+      bottom: 1877
+  - text: '23.01.1960
+
+'
+    bounds:
+      left: 914
+      right: 1086
+      top: 1829
+      bottom: 1864
+  - text: '367
+
+'
+    bounds:
+      left: 1165
+      right: 1220
+      top: 1824
+      bottom: 1867
+  - text: |
+      LUDBROOK, Lydia Mary
+      m to (1)ASCHE, Catherine Gillian
+    bounds:
+      left: 315
+      right: 1773
+      top: 1818
+      bottom: 1921
+  - text: 'Margaret
+
+'
+    bounds:
+      left: 1366
+      right: 1517
+      top: 1875
+      bottom: 1914
+  - text: '06.07.1988
+
+'
+    bounds:
+      left: 1961
+      right: 2136
+      top: 1870
+      bottom: 1909
+  - text: |
+      391
+      LUDBROOK, Guy Lawrence
+    bounds:
+      left: 244
+      right: 2272
+      top: 1872
+      bottom: 1975
+  - text: '23.01.1960
+
+'
+    bounds:
+      left: 913
+      right: 1086
+      top: 1926
+      bottom: 1965
+  - text: |
+      367
+      LUDBROOK, Maria Rosanne
+    bounds:
+      left: 1168
+      right: 1841
+      top: 1922
+      bottom: 1967
+  - text: '18.06.1972
+
+'
+    bounds:
+      left: 1961
+      right: 2138
+      top: 1918
+      bottom: 1959
+  - text: |
+      390
+      m to (2)GIBBS, Diana Margaret
+    bounds:
+      left: 313
+      right: 2272
+      top: 1920
+      bottom: 2022
+  - text: 'LUDBROOK, Marion Jane
+
+'
+    bounds:
+      left: 1294
+      right: 1796
+      top: 1968
+      bottom: 2018
+  - text: '01.08.1863
+
+'
+    bounds:
+      left: 1961
+      right: 2138
+      top: 1968
+      bottom: 2009
+  - text: |
+      392
+      LUDBROOK, Hamish John Gibbs 05.12.1994
+    bounds:
+      left: 246
+      right: 2270
+      top: 1969
+      bottom: 2072
+  - text: |
+      368
+      LUDBROOK, Mary Jane
+    bounds:
+      left: 1170
+      right: 1758
+      top: 2022
+      bottom: 2066
+  - text: '30.03.1934
+
+'
+    bounds:
+      left: 1962
+      right: 2137
+      top: 2020
+      bottom: 2059
+  - text: |
+      377
+      LUDBROOK, Hamish William 12.12.1983
+    bounds:
+      left: 245
+      right: 2270
+      top: 2016
+      bottom: 2123
+  - text: '389
+
+'
+    bounds:
+      left: 1169
+      right: 1226
+      top: 2076
+      bottom: 2110
+  - text: |
+      m to HANNA, Kimbal Snelling
+      LUDBROOK, Hannah Elizabeth
+    bounds:
+      left: 247
+      right: 1838
+      top: 2070
+      bottom: 2170
+  - text: '14.03.1987
+
+'
+    bounds:
+      left: 915
+      right: 1088
+      top: 2128
+      bottom: 2163
+  - text: |
+      389 LUDBROOK, Matthew
+      LUDBROOK, Hannah Mary
+    bounds:
+      left: 250
+      right: 1727
+      top: 2122
+      bottom: 2224
+  - text: '11.09.1971
+
+'
+    bounds:
+      left: 917
+      right: 1086
+      top: 2176
+      bottom: 2213
+  - text: |
+      390
+      David Ellett
+    bounds:
+      left: 1171
+      right: 1564
+      top: 2170
+      bottom: 2215
+  - text: '11.09.1969
+
+'
+    bounds:
+      left: 1966
+      right: 2136
+      top: 2167
+      bottom: 2208
+  - text: |
+      379
+      LUDBROOK, Henry Charles
+    bounds:
+      left: 249
+      right: 2269
+      top: 2169
+      bottom: 2275
+  - text: '08.11.1984
+
+'
+    bounds:
+      left: 918
+      right: 1091
+      top: 2228
+      bottom: 2265
+  - text: |
+      391
+      LUDBROOK, Michael Geoffrey
+    bounds:
+      left: 1173
+      right: 1882
+      top: 2217
+      bottom: 2263
+  - text: '18.08.1957
+
+'
+    bounds:
+      left: 1966
+      right: 2139
+      top: 2218
+      bottom: 2255
+  - text: |
+      380
+      LUDBROOK, Henry Samuel
+    bounds:
+      left: 248
+      right: 2275
+      top: 2219
+      bottom: 2328
+  - text: |
+      m to (1)GATTI, Alice
+      (Harry)
+    bounds:
+      left: 304
+      right: 1694
+      top: 2270
+      bottom: 2372
+  - text: '15.12.1859
+
+'
+    bounds:
+      left: 918
+      right: 1093
+      top: 2323
+      bottom: 2366
+  - text: |
+      366
+      LUDBROOK, Michael Geoffrey
+    bounds:
+      left: 1173
+      right: 1879
+      top: 2317
+      bottom: 2363
+  - text: |
+      18.08.1957 380
+      m to KINSELLA, Hana
+    bounds:
+      left: 316
+      right: 2272
+      top: 2315
+      bottom: 2422
+  - text: |
+      m to (2)LAWSON, Christine
+      LUDBROOK, Hereward Reginald 10.08.1897
+    bounds:
+      left: 251
+      right: 1802
+      top: 2370
+      bottom: 2471
+  - text: |
+      LUDBROOK, Michael Geoffrey 18.08.1957 380
+      LUDBROOK, Hugo
+    bounds:
+      left: 248
+      right: 2274
+      top: 2415
+      bottom: 2523
+  - text: '02.06.1987
+
+'
+    bounds:
+      left: 921
+      right: 1094
+      top: 2473
+      bottom: 2516
+  - text: '392
+
+'
+    bounds:
+      left: 1175
+      right: 1228
+      top: 2474
+      bottom: 2511
+  - text: |
+      and (3)SKINNER, Laura Margaret Gwendolyn
+      LUDBROOK, India Jane
+    bounds:
+      left: 250
+      right: 2090
+      top: 2469
+      bottom: 2572
+  - text: |
+      22.08.1997
+      LUDBROOK, Michael Wilson
+    bounds:
+      left: 923
+      right: 1854
+      top: 2519
+      bottom: 2565
+  - text: |
+      12.04.1946
+      LUDBROOK, Ingrid Trudi
+    bounds:
+      left: 251
+      right: 2145
+      top: 2519
+      bottom: 2623
+  - text: '14.01.1974
+
+'
+    bounds:
+      left: 923
+      right: 1095
+      top: 2576
+      bottom: 2612
+  - text: '369
+
+'
+    bounds:
+      left: 1178
+      right: 1234
+      top: 2576
+      bottom: 2611
+  - text: |
+      m to WEBB, Gillian Margaret
+      LUDBROOK, Isabella
+    bounds:
+      left: 252
+      right: 1825
+      top: 2570
+      bottom: 2670
+  - text: 'LUDBROOK, Miriam Robin
+
+'
+    bounds:
+      left: 1300
+      right: 1826
+      top: 2618
+      bottom: 2663
+  - text: '22.01.1960
+
+'
+    bounds:
+      left: 1971
+      right: 2146
+      top: 2613
+      bottom: 2656
+  - text: |
+      369
+      Ailsa Gibbs
+    bounds:
+      left: 312
+      right: 2277
+      top: 2619
+      bottom: 2717
+  - text: '01.03.1996
+
+'
+    bounds:
+      left: 923
+      right: 1096
+      top: 2671
+      bottom: 2714
+  - text: |
+      368
+      LUDBROOK, Nicholas John
+    bounds:
+      left: 1177
+      right: 1823
+      top: 2662
+      bottom: 2715
+  - text: '14.04.1986
+
+'
+    bounds:
+      left: 1971
+      right: 2145
+      top: 2666
+      bottom: 2703
+  - text: |
+      391
+      LUDBROOK, Jason Mark
+    bounds:
+      left: 252
+      right: 2277
+      top: 2668
+      bottom: 2771
+  - text: |
+      31.07.1969
+      LUDBROOK, Patricia Marian
+    bounds:
+      left: 920
+      right: 1858
+      top: 2720
+      bottom: 2763
+  - text: '15.09.1931
+
+'
+    bounds:
+      left: 1968
+      right: 2143
+      top: 2717
+      bottom: 2756
+  - text: |
+      375
+      LUDBROOK, Joanna Jane
+    bounds:
+      left: 254
+      right: 2275
+      top: 2716
+      bottom: 2820
+  - text: |
+      m to FINLAYSON, John Angus
+      Sayers
+    bounds:
+      left: 311
+      right: 1861
+      top: 2766
+      bottom: 2872
+  - text: '04.04.1964
+
+'
+    bounds:
+      left: 925
+      right: 1095
+      top: 2824
+      bottom: 2863
+  - text: |
+      LUDBROOK, Peter Henry
+      m to (1)GANNAWAY, Ivan Raymond
+    bounds:
+      left: 326
+      right: 1789
+      top: 2814
+      bottom: 2919
+  - text: 'Whibley
+
+'
+    bounds:
+      left: 1379
+      right: 1510
+      top: 2870
+      bottom: 2914
+  - text: |
+      04.07.1928 380
+      LUDBROOK, Joanna Jane
+    bounds:
+      left: 257
+      right: 2280
+      top: 2864
+      bottom: 2969
+  - text: |
+      m to (1)JONES, Margaret Hingston
+      Sayers
+    bounds:
+      left: 312
+      right: 1919
+      top: 2917
+      bottom: 3024
+  - text: '04.04.1964
+
+'
+    bounds:
+      left: 928
+      right: 1097
+      top: 2973
+      bottom: 3013
+  - text: '383
+
+'
+    bounds:
+      left: 1180
+      right: 1231
+      top: 2973
+      bottom: 3012
+  - text: |
+      LUDBROOK, Peter Henry
+      m to (2)GREER, Peter
+    bounds:
+      left: 323
+      right: 1793
+      top: 2969
+      bottom: 3074
+  - text: 'Whibley
+
+'
+    bounds:
+      left: 1380
+      right: 1506
+      top: 3021
+      bottom: 3067
+  - text: |
+      04.07.1928 381
+      LUDBROOK, Jocelyn Anne
+    bounds:
+      left: 254
+      right: 2278
+      top: 3017
+      bottom: 3123
+  - text: '05.02.1909 395
+
+'
+    bounds:
+      left: 928
+      right: 1232
+      top: 3072
+      bottom: 3116
+  - text: |
+      m to (2)LEWIN, Noeline Mary Theresa
+      m to PERRY, Roland Maunsell
+    bounds:
+      left: 327
+      right: 1983
+      top: 3069
+      bottom: 3171
+  - text: 'LUDBROOK, Peter Wilson
+
+'
+    bounds:
+      left: 1306
+      right: 1805
+      top: 3119
+      bottom: 3165
+  - text: |
+      21.10.1941 390
+      LUDBROOK, John
+    bounds:
+      left: 257
+      right: 2282
+      top: 3112
+      bottom: 3222
+  - text: '30.08.1929 367
+
+'
+    bounds:
+      left: 928
+      right: 1237
+      top: 3172
+      bottom: 3216
+  - text: |
+      m to BUDGE, Louise Margaret
+      m to (1)HARDIE, Margot Constance
+    bounds:
+      left: 327
+      right: 1856
+      top: 3170
+      bottom: 3273
+- paragraphs:
+  - text: '369
+
+'
+    bounds:
+      left: 1173
+      right: 1227
+      top: 2422
+      bottom: 2465
+- paragraphs:
+  - text: '383
+
+'
+    bounds:
+      left: 1175
+      right: 1230
+      top: 2524
+      bottom: 2560
+- paragraphs:
+  - text: '391
+
+'
+    bounds:
+      left: 2225
+      right: 2276
+      top: 2515
+      bottom: 2555
+- paragraphs:
+  - text: "| 369\n"
+    bounds:
+      left: 1157
+      right: 1233
+      top: 2720
+      bottom: 2764
+- paragraphs:
+  - text: '688
+
+'
+    bounds:
+      left: 1233
+      right: 1309
+      top: 3314
+      bottom: 3362

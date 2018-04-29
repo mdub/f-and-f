@@ -1,0 +1,559 @@
+---
+blocks:
+- paragraphs:
+  - text: |
+      WILLIAMS, Henry
+      = COLDHAM, Marianne
+    bounds:
+      left: 970
+      right: 1416
+      top: 324
+      bottom: 430
+- paragraphs:
+  - text: |
+      Edward Marsh
+      =DAVIS. Jane
+    bounds:
+      left: 189
+      right: 344
+      top: 543
+      bottom: 609
+- paragraphs:
+  - text: 'Marianne
+
+'
+    bounds:
+      left: 703
+      right: 799
+      top: 542
+      bottom: 566
+  - text: |
+      Samuel
+      -DAVIES. Christopher Pearson -WILLIAMS. Mary
+    bounds:
+      left: 692
+      right: 1267
+      top: 535
+      bottom: 609
+- paragraphs:
+  - text: 'Henry
+
+'
+    bounds:
+      left: 1580
+      right: 1643
+      top: 536
+      bottom: 561
+  - text: |
+      Thomas Coldham
+      =WILLIAMS. Jane Elizabeth -BEETHAM. Anne Palmer (Annie)
+    bounds:
+      left: 1579
+      right: 2298
+      top: 532
+      bottom: 600
+- paragraphs:
+  - text: "»WILLIAMS, Maria Jane\n"
+    bounds:
+      left: 1577
+      right: 1846
+      top: 638
+      bottom: 671
+- paragraphs:
+  - text: 'WILLIAMS. Henry Edward
+
+'
+    bounds:
+      left: 207
+      right: 490
+      top: 647
+      bottom: 684
+  - text: 'DAVIES, George Henry
+
+'
+    bounds:
+      left: 709
+      right: 958
+      top: 644
+      bottom: 677
+  - text: |
+      WILLIAMS, Marianne Jane
+      -CONNELL, Isabelle Annie
+    bounds:
+      left: 205
+      right: 1381
+      top: 641
+      bottom: 716
+  - text: "-GODFREY, Rose Alma\n"
+    bounds:
+      left: 710
+      right: 948
+      top: 680
+      bottom: 713
+  - text: |
+      WILLIAMS, Anna Lydia
+      WILLIAMS, Samuel
+    bounds:
+      left: 207
+      right: 1345
+      top: 676
+      bottom: 752
+  - text: "-DAVIES. Henry\n"
+    bounds:
+      left: 696
+      right: 873
+      top: 717
+      bottom: 750
+  - text: |
+      WILLIAMS. William Temple
+      »WILLIAMS. Thomas Sydney
+    bounds:
+      left: 192
+      right: 1400
+      top: 713
+      bottom: 787
+  - text: 'ÞDAVIES. Marianne Caroline
+
+'
+    bounds:
+      left: 697
+      right: 1027
+      top: 752
+      bottom: 785
+  - text: |
+      =PUCKEY, Annie Matilda Sophia Marilla
+      =WILLIAMS. Agnes Lydia
+    bounds:
+      left: 206
+      right: 1561
+      top: 744
+      bottom: 828
+  - text: "=BUSBY, William\n"
+    bounds:
+      left: 711
+      right: 904
+      top: 788
+      bottom: 820
+  - text: |
+      WILLIAMS. Thomas Leonard
+      WILLIAMS, Mary Anne
+    bounds:
+      left: 207
+      right: 1400
+      top: 784
+      bottom: 856
+  - text: |
+      -DAVIES, Christopher Pearson »WILLIAMS. Francis Henry
+      =DAVIES, Christopher Pearson
+    bounds:
+      left: 206
+      right: 1384
+      top: 821
+      bottom: 897
+  - text: "=WILLIAMS. Mary Anne\n"
+    bounds:
+      left: 713
+      right: 963
+      top: 859
+      bottom: 890
+  - text: |
+      WILLIAMS, Lucy Frances
+      »WILLIAMS, Allen Marsh
+    bounds:
+      left: 193
+      right: 1369
+      top: 855
+      bottom: 929
+  - text: "»DAVIES, William Edward\n"
+    bounds:
+      left: 698
+      right: 988
+      top: 893
+      bottom: 926
+  - text: |
+      =WARREN, Thomas John Cory (Jack)
+      =(1 BUCHANAN, Annabelle Milne (Bella) »DAVIES, Thomas Marsh
+    bounds:
+      left: 207
+      right: 1499
+      top: 889
+      bottom: 964
+  - text: |
+      >WILLIAMS, Mary
+      =(2) GARDINER, Eliza Amy
+    bounds:
+      left: 208
+      right: 1272
+      top: 913
+      bottom: 1012
+  - text: |
+      =BARR, Agnes Lyall
+      WILLIAMS. Joseph Heathcote
+    bounds:
+      left: 209
+      right: 938
+      top: 964
+      bottom: 1036
+  - text: |
+      -DAVIES. Kathleen Heathcote
+      =BUCHANAN, Sarah Nidra (Ally)
+    bounds:
+      left: 209
+      right: 1045
+      top: 1000
+      bottom: 1071
+  - text: |
+      »DAVIES, Eliza Pearson
+      >WILLIAMS, Alfred Owen
+    bounds:
+      left: 193
+      right: 979
+      top: 1035
+      bottom: 1106
+  - text: |
+      -GASTER, Alice
+      »WILLIAMS, George Coldham
+      =(1)BRATHWAITE, Ethel Norma
+      =(2 XACLAGAN, Isabel
+      =(3 MOLLET, Edith Moncrieff (Molly)
+      WILLIAMS. Arthur Frederick
+      =THOMPSON, Leslie Elisabeth Antonia
+      WILLIAMS. Ellen Jane
+      WILLIAMS, Norman Theodore
+      =PUCKEY, Cora Matilda Whewell
+      »WILLIAMS, Emma Gertrude
+      WILLIAMS, Ada Frances
+    bounds:
+      left: 195
+      right: 662
+      top: 1109
+      bottom: 1532
+- paragraphs:
+  - text: "»WILLIAMS. Hugh George\n"
+    bounds:
+      left: 1926
+      right: 2209
+      top: 635
+      bottom: 671
+  - text: |
+      =JONES, Helen
+      -WILLIAMS, Ethel Alice
+      –RUSSELL, Arthur Edward
+      WILLIAMS, Maude Mary Anne
+      =BURGE, George Arthur
+      »WILLIAMS, Hilda Temple
+      »WILLIAMS, Guy Coldham
+      -HOPE -LEWIS, Eileen
+      WILLIAMS. Wyvern Henry
+      --MASON, Evelyn Muriel
+      -WILLIAMS. Elfie Clare
+      -WILLIAMS. Thomas Gwynne Horsley
+      »WILLIAMS, Eila Mabel
+    bounds:
+      left: 1924
+      right: 2339
+      top: 670
+      bottom: 1129
+  - text: |
+      =REED, Vernon Herbert
+      »WILLIAMS, Algar Temple
+      =(1 JBOYLE, Janet
+      =(2 GOULD, Dorothy Sylvia
+      »WILLIAMS. Elva Mildred (Una)
+      =HOARE. Reginald Arthur
+      WILLIAMS, Enid Githa
+      =FERGUSSON, James Andrew
+      WILLIAMS. Erl Temple
+      =VALLANCE, Eila Mary
+    bounds:
+      left: 1927
+      right: 2302
+      top: 1133
+      bottom: 1487
+- paragraphs:
+  - text: 'WILLIAMS. Henry = COLDHAM, Marianne (cont)
+
+'
+    bounds:
+      left: 960
+      right: 1494
+      top: 1761
+      bottom: 1796
+- paragraphs:
+  - text: |
+      John William
+      -BUSBY, Sarah
+    bounds:
+      left: 354
+      right: 523
+      top: 1886
+      bottom: 1943
+- paragraphs:
+  - text: |
+      Sarah
+      =HUTTON, Thomas Biddulph
+    bounds:
+      left: 808
+      right: 1111
+      top: 1880
+      bottom: 1944
+- paragraphs:
+  - text: |
+      Catherine (Kate)
+      =HADFIELD, Octavius
+    bounds:
+      left: 1398
+      right: 1636
+      top: 1871
+      bottom: 1942
+- paragraphs:
+  - text: |
+      Caroline Elizabeth
+      -LUDBROOK. Samuel Blomfield
+    bounds:
+      left: 1874
+      right: 2221
+      top: 1870
+      bottom: 1941
+- paragraphs:
+  - text: |
+      WILLIAMS. Agnes Lydia
+      HUTTON, Henrietta Jane
+    bounds:
+      left: 366
+      right: 1099
+      top: 1978
+      bottom: 2023
+  - text: "»HADFIELD, Henry Samuel\n"
+    bounds:
+      left: 1399
+      right: 1690
+      top: 1978
+      bottom: 2012
+  - text: |
+      PLUDBROOK, Henry Samuel (Harry)
+      =WILLIAMS. Thomas Sydney
+      HUTTON, Anna Maria
+    bounds:
+      left: 370
+      right: 2267
+      top: 1968
+      bottom: 2064
+  - text: "=TUCKEY, Elizabeth Rhodes\n"
+    bounds:
+      left: 1415
+      right: 1726
+      top: 2015
+      bottom: 2048
+  - text: |
+      =KINSELLA, Hana
+      »WILLIAMS, James Alexander
+      =BRANCH, Henry (Harry)
+    bounds:
+      left: 355
+      right: 2074
+      top: 2013
+      bottom: 2090
+  - text: 'HADFIELD, George Joseph
+
+'
+    bounds:
+      left: 1417
+      right: 1705
+      top: 2052
+      bottom: 2081
+  - text: |
+      LUDBROOK, Samuel Blomfield
+      WILLIAMS, Edward Heathcote
+      HUTTON, George Thomas Frederick
+    bounds:
+      left: 369
+      right: 2220
+      top: 2048
+      bottom: 2131
+  - text: "-HADFIELD, Octavius\n"
+    bounds:
+      left: 1399
+      right: 1637
+      top: 2088
+      bottom: 2117
+  - text: |
+      ·LUDBROOK, Marion Jane
+      WILLIAMS, George Alexander
+      =(1 JBARTON, Katherine Carne
+    bounds:
+      left: 367
+      right: 2154
+      top: 2084
+      bottom: 2162
+  - text: "»HADFIELD, Annie\n"
+    bounds:
+      left: 1400
+      right: 1602
+      top: 2125
+      bottom: 2153
+  - text: |
+      ·LUDBROOK, William Williams
+      =(1COOPER, Edith Ida
+      =(2 MESSER, Alison
+    bounds:
+      left: 369
+      right: 2218
+      top: 2118
+      bottom: 2198
+  - text: 'MARSHALL, John Willoughby
+
+'
+    bounds:
+      left: 1434
+      right: 1743
+      top: 2158
+      bottom: 2189
+  - text: |
+      McELLIGOT, Rosamund Jean
+      *(2 SUGDEN, Ann
+      HUTTON, Edward Michael
+    bounds:
+      left: 373
+      right: 2210
+      top: 2156
+      bottom: 2231
+  - text: 'HADFIELD, Georgina
+
+'
+    bounds:
+      left: 1415
+      right: 1640
+      top: 2194
+      bottom: 2225
+  - text: |
+      ·LUDBROOK, Rosa Caroline
+      »WILLIAMS, Evelyn Maud
+      -HUTTON. Marianne Elizabeth Georgina (Bessie) =ALLOWAY, Arthur
+    bounds:
+      left: 354
+      right: 2181
+      top: 2191
+      bottom: 2267
+  - text: |
+      LUDBROOK, Lilian Mary
+      »WILLIAMS. Percy Temple
+      =KEMP, Francis James
+    bounds:
+      left: 355
+      right: 2157
+      top: 2217
+      bottom: 2316
+  - text: "»HADFIELD, Catherine\n"
+    bounds:
+      left: 1401
+      right: 1653
+      top: 2266
+      bottom: 2295
+  - text: |
+      =WILLIAMS, Kenneth Stuart
+      -PIERCE. Mary Isobel
+    bounds:
+      left: 372
+      right: 2206
+      top: 2260
+      bottom: 2339
+  - text: "-DOVE, Julian Llewellyn\n"
+    bounds:
+      left: 1416
+      right: 1708
+      top: 2298
+      bottom: 2331
+  - text: |
+      »LUDBROOK. Edward Reginald
+      »WILLIAMS. John William (Jack)
+    bounds:
+      left: 358
+      right: 2209
+      top: 2286
+      bottom: 2384
+  - text: |
+      HADFIELD, Alexander Charles (Aleck) =HEATH, Helen Whithell
+      WILLIAMSON, Jessie Mackie
+    bounds:
+      left: 385
+      right: 2168
+      top: 2331
+      bottom: 2410
+  - text: |
+      =FULFORO, Marion Francis
+      WILLIAMS. Kenneth Stuart
+    bounds:
+      left: 373
+      right: 1721
+      top: 2371
+      bottom: 2446
+  - text: |
+      -HADFIELD, Ernest Frederick
+      =LUDBROOK, Lillian Mary
+    bounds:
+      left: 371
+      right: 1743
+      top: 2406
+      bottom: 2480
+  - text: |
+      =W000, Ada Mary Louise
+      WILLIAMS. Henry (Hal)
+    bounds:
+      left: 372
+      right: 1695
+      top: 2440
+      bottom: 2519
+  - text: |
+      »HADFIELD. Amelia Caroline
+      =WILLIAMS, Cecil Margaret
+    bounds:
+      left: 375
+      right: 1734
+      top: 2476
+      bottom: 2555
+  - text: |
+      »HADFIELD, Francis Carleton
+      WILLIAMS. Sarah Catherine (Kitty)
+      =TAPLIN, Joseph Hugh
+      WILLIAMS, Gerard Temple (Husky)
+    bounds:
+      left: 372
+      right: 1751
+      top: 2511
+      bottom: 2659
+  - text: 'WILLIAMS. Henry - COLDHAM, Marianne (cont)
+
+'
+    bounds:
+      left: 968
+      right: 1500
+      top: 2611
+      bottom: 2648
+- paragraphs:
+  - text: 'Joseph Marsden
+
+'
+    bounds:
+      left: 1290
+      right: 1466
+      top: 2728
+      bottom: 2760
+- paragraphs:
+  - text: |
+      Lydia Jane
+      =CARLETON. Hugh Francis
+    bounds:
+      left: 968
+      right: 1258
+      top: 2729
+      bottom: 2796
+- paragraphs:
+  - text: '43
+
+'
+    bounds:
+      left: 1302
+      right: 1354
+      top: 3272
+      bottom: 3313

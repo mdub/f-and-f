@@ -1,0 +1,1470 @@
+---
+blocks:
+- paragraphs:
+  - text: "********\n"
+    bounds:
+      left: 914
+      right: 1071
+      top: 524
+      bottom: 549
+- paragraphs:
+  - text: '534
+
+'
+    bounds:
+      left: 1161
+      right: 1219
+      top: 518
+      bottom: 566
+- paragraphs:
+  - text: '533
+
+'
+    bounds:
+      left: 1160
+      right: 1217
+      top: 572
+      bottom: 610
+- paragraphs:
+  - text: "********\n"
+    bounds:
+      left: 917
+      right: 1079
+      top: 1075
+      bottom: 1100
+- paragraphs:
+  - text: '260
+
+'
+    bounds:
+      left: 1161
+      right: 1218
+      top: 1369
+      bottom: 1412
+- paragraphs:
+  - text: 'GOURLAY, Arabella Alison
+
+'
+    bounds:
+      left: 251
+      right: 765
+      top: 211
+      bottom: 264
+  - text: '07.06.1990
+
+'
+    bounds:
+      left: 908
+      right: 1081
+      top: 222
+      bottom: 258
+  - text: |
+      534
+      GRAY, Charles Leonard Alan
+    bounds:
+      left: 1164
+      right: 1835
+      top: 220
+      bottom: 267
+  - text: '28.07.1912
+
+'
+    bounds:
+      left: 1952
+      right: 2124
+      top: 226
+      bottom: 266
+  - text: |
+      489
+      GOURLAY, Dugald
+    bounds:
+      left: 249
+      right: 2265
+      top: 228
+      bottom: 316
+  - text: '19.05.1996
+
+'
+    bounds:
+      left: 906
+      right: 1079
+      top: 268
+      bottom: 315
+  - text: '534
+
+'
+    bounds:
+      left: 1162
+      right: 1216
+      top: 276
+      bottom: 308
+  - text: |
+      m to (1)BIBBY, Phyllis Mary
+      GOURLAY, Hamish John
+    bounds:
+      left: 249
+      right: 1797
+      top: 274
+      bottom: 364
+  - text: 'GRAY, Charles Leonard Alan
+
+'
+    bounds:
+      left: 1288
+      right: 1838
+      top: 316
+      bottom: 372
+  - text: '28.07.1912
+
+'
+    bounds:
+      left: 1955
+      right: 2126
+      top: 328
+      bottom: 366
+  - text: |
+      491
+      Stewart
+    bounds:
+      left: 304
+      right: 2263
+      top: 328
+      bottom: 408
+  - text: '20.08.1985
+
+'
+    bounds:
+      left: 904
+      right: 1080
+      top: 372
+      bottom: 412
+  - text: '533
+
+'
+    bounds:
+      left: 1161
+      right: 1215
+      top: 374
+      bottom: 412
+  - text: |
+      m to (2)TARRY, Phillis Marjorie
+      GOURLAY, Harrison
+    bounds:
+      left: 246
+      right: 1857
+      top: 372
+      bottom: 463
+  - text: |
+      GRAY, Charles Roderick
+      Robert John
+    bounds:
+      left: 307
+      right: 1744
+      top: 424
+      bottom: 511
+  - text: '21.10.1988
+
+'
+    bounds:
+      left: 909
+      right: 1079
+      top: 471
+      bottom: 511
+  - text: |
+      534
+      (Rory)
+    bounds:
+      left: 1157
+      right: 1449
+      top: 472
+      bottom: 519
+  - text: '20.10.1924
+
+'
+    bounds:
+      left: 1954
+      right: 2126
+      top: 478
+      bottom: 513
+  - text: |
+      510
+      GOURLAY, James Daniel
+    bounds:
+      left: 250
+      right: 2265
+      top: 482
+      bottom: 562
+  - text: 'GRAY, Cherdon
+
+'
+    bounds:
+      left: 1289
+      right: 1585
+      top: 521
+      bottom: 569
+  - text: '29.12.1979
+
+'
+    bounds:
+      left: 1954
+      right: 2126
+      top: 524
+      bottom: 567
+  - text: |
+      500
+      GOURLAY, James Stewart
+    bounds:
+      left: 249
+      right: 2266
+      top: 530
+      bottom: 615
+  - text: |
+      02.01.1959
+      GRAY, Colin Falkland
+    bounds:
+      left: 908
+      right: 1707
+      top: 572
+      bottom: 615
+  - text: '09.11.1914
+
+'
+    bounds:
+      left: 1954
+      right: 2127
+      top: 576
+      bottom: 619
+  - text: |
+      491
+      m to MACLEOD, Sara Helen
+    bounds:
+      left: 308
+      right: 2265
+      top: 580
+      bottom: 664
+  - text: |
+      m to DINNIE, Betty Lois
+      GOURLAY, John Charles
+    bounds:
+      left: 251
+      right: 1727
+      top: 626
+      bottom: 713
+  - text: 'GRAY, Dianna Frances
+
+'
+    bounds:
+      left: 1287
+      right: 1715
+      top: 674
+      bottom: 716
+  - text: '10.02.1952
+
+'
+    bounds:
+      left: 1954
+      right: 2128
+      top: 676
+      bottom: 719
+  - text: |
+      498
+      Stewart
+    bounds:
+      left: 300
+      right: 2263
+      top: 678
+      bottom: 763
+  - text: '14.05.1963 534
+
+'
+    bounds:
+      left: 907
+      right: 1216
+      top: 724
+      bottom: 767
+  - text: |
+      m to STEVENSON, Fredrick
+      m to STEVENS, Gillian Louise
+    bounds:
+      left: 312
+      right: 1798
+      top: 726
+      bottom: 816
+  - text: 'GRAY, Donald Camplin
+
+'
+    bounds:
+      left: 1290
+      right: 1726
+      top: 773
+      bottom: 818
+  - text: '24.07.1886
+
+'
+    bounds:
+      left: 1954
+      right: 2127
+      top: 776
+      bottom: 819
+  - text: |
+      496
+      GOURLAY, John Francis
+    bounds:
+      left: 244
+      right: 2263
+      top: 778
+      bottom: 867
+  - text: |
+      m to HAY, Frances Ethel
+      Stewart
+    bounds:
+      left: 299
+      right: 1740
+      top: 825
+      bottom: 915
+  - text: |
+      15.03.1935 533
+      GRAY, Dorothy Eva
+    bounds:
+      left: 906
+      right: 1661
+      top: 872
+      bottom: 919
+  - text: '17.01.1905
+
+'
+    bounds:
+      left: 1952
+      right: 2122
+      top: 873
+      bottom: 915
+  - text: |
+      489
+      m to BLYTH, Gillian Jean
+    bounds:
+      left: 310
+      right: 2263
+      top: 876
+      bottom: 963
+  - text: 'GRAY, Douglas Wanklyn
+
+'
+    bounds:
+      left: 1285
+      right: 1753
+      top: 922
+      bottom: 966
+  - text: '03.11.1896
+
+'
+    bounds:
+      left: 1955
+      right: 2129
+      top: 924
+      bottom: 967
+  - text: |
+      509
+      GOURLAY, Neil Harrison
+    bounds:
+      left: 247
+      right: 2264
+      top: 924
+      bottom: 1012
+  - text: '23.04.1960
+
+'
+    bounds:
+      left: 908
+      right: 1078
+      top: 974
+      bottom: 1010
+  - text: '534
+
+'
+    bounds:
+      left: 1160
+      right: 1213
+      top: 974
+      bottom: 1011
+  - text: |
+      m to HALL, Emma Millicent
+      m to CARVER, Mary Elisabeth
+    bounds:
+      left: 309
+      right: 1799
+      top: 974
+      bottom: 1064
+  - text: 'GRAY, Edith Hilda
+
+'
+    bounds:
+      left: 1289
+      right: 1639
+      top: 1021
+      bottom: 1063
+  - text: '08.04.1907
+
+'
+    bounds:
+      left: 1953
+      right: 2129
+      top: 1023
+      bottom: 1063
+  - text: |
+      489
+      GRACEY, Peter
+    bounds:
+      left: 244
+      right: 2263
+      top: 1026
+      bottom: 1115
+  - text: |
+      628
+      GRAY, Edith Lucy
+    bounds:
+      left: 1161
+      right: 1634
+      top: 1071
+      bottom: 1113
+  - text: '18.03.1893
+
+'
+    bounds:
+      left: 1952
+      right: 2129
+      top: 1071
+      bottom: 1113
+  - text: |
+      505
+      m to DUCKWORTH, Andra Julia Mary
+    bounds:
+      left: 310
+      right: 2263
+      top: 1075
+      bottom: 1164
+  - text: |
+      m to ORMEROD, Olin Barton
+      GRAHAM, Alistair Menzies
+    bounds:
+      left: 244
+      right: 1818
+      top: 1124
+      bottom: 1215
+  - text: '31.05.1953
+
+'
+    bounds:
+      left: 907
+      right: 1077
+      top: 1174
+      bottom: 1212
+  - text: '483
+
+'
+    bounds:
+      left: 1161
+      right: 1215
+      top: 1174
+      bottom: 1212
+  - text: |
+      GRAY, Fabian Douglas
+      de facto PUTT, Margaret Ann (Peg)
+    bounds:
+      left: 301
+      right: 1716
+      top: 1169
+      bottom: 1267
+  - text: 'Hall (Tim)
+
+'
+    bounds:
+      left: 1351
+      right: 1529
+      top: 1224
+      bottom: 1264
+  - text: '08.03.1931
+
+'
+    bounds:
+      left: 1957
+      right: 2128
+      top: 1223
+      bottom: 1263
+  - text: |
+      511
+      GRAHAM, Lesley May
+    bounds:
+      left: 243
+      right: 2263
+      top: 1224
+      bottom: 1319
+  - text: '23.03.1925
+
+'
+    bounds:
+      left: 905
+      right: 1080
+      top: 1274
+      bottom: 1312
+  - text: '150
+
+'
+    bounds:
+      left: 1163
+      right: 1218
+      top: 1274
+      bottom: 1308
+  - text: |
+      m to NEWMAN, Eve Rosanne
+      m to WILLIAMS, Keith Colgate
+    bounds:
+      left: 308
+      right: 1823
+      top: 1274
+      bottom: 1367
+  - text: 'GRAY, Felicity Elizabeth
+
+'
+    bounds:
+      left: 1286
+      right: 1744
+      top: 1316
+      bottom: 1367
+  - text: '15.11.1947
+
+'
+    bounds:
+      left: 1954
+      right: 2126
+      top: 1320
+      bottom: 1363
+  - text: |
+      492
+      GRAHAM, Lilias
+    bounds:
+      left: 243
+      right: 2263
+      top: 1324
+      bottom: 1415
+  - text: '16.02.1960
+
+'
+    bounds:
+      left: 910
+      right: 1079
+      top: 1369
+      bottom: 1411
+  - text: |
+      m to (1)HILL, Richard
+      m to BELL, Johnathan Dillon
+    bounds:
+      left: 310
+      right: 1695
+      top: 1372
+      bottom: 1464
+  - text: 'GRAY, Felicity Elizabeth
+
+'
+    bounds:
+      left: 1291
+      right: 1747
+      top: 1420
+      bottom: 1463
+  - text: '15.11.1947
+
+'
+    bounds:
+      left: 1954
+      right: 2131
+      top: 1420
+      bottom: 1463
+  - text: |
+      492
+      GRAHAM, Susan Fay
+    bounds:
+      left: 243
+      right: 2265
+      top: 1422
+      bottom: 1513
+  - text: '09.09.1954
+
+'
+    bounds:
+      left: 909
+      right: 1080
+      top: 1474
+      bottom: 1512
+  - text: '381
+
+'
+    bounds:
+      left: 1164
+      right: 1217
+      top: 1472
+      bottom: 1509
+  - text: |
+      m to (2)BACHALI, Colin
+      m to AVERILL, Timothy Rochford
+    bounds:
+      left: 309
+      right: 1737
+      top: 1472
+      bottom: 1564
+  - text: 'GRAY, Godfrey Brett
+
+'
+    bounds:
+      left: 1289
+      right: 1687
+      top: 1515
+      bottom: 1564
+  - text: '21.09.1914
+
+'
+    bounds:
+      left: 1952
+      right: 2127
+      top: 1519
+      bottom: 1561
+  - text: |
+      497
+      GRAY, Agnes Mary
+    bounds:
+      left: 243
+      right: 2266
+      top: 1522
+      bottom: 1617
+  - text: '05.10.1950
+
+'
+    bounds:
+      left: 910
+      right: 1081
+      top: 1570
+      bottom: 1610
+  - text: '497
+
+'
+    bounds:
+      left: 1167
+      right: 1215
+      top: 1574
+      bottom: 1608
+  - text: |
+      m to HEGARTY, Sheila Monica
+      m to SMYTHE, Brian J
+    bounds:
+      left: 310
+      right: 1848
+      top: 1570
+      bottom: 1664
+  - text: 'GRAY, Helen Lee
+
+'
+    bounds:
+      left: 1293
+      right: 1613
+      top: 1618
+      bottom: 1662
+  - text: '01.09.1965
+
+'
+    bounds:
+      left: 1955
+      right: 2124
+      top: 1622
+      bottom: 1660
+  - text: |
+      505
+      GRAY, Agnes Sara
+    bounds:
+      left: 243
+      right: 2260
+      top: 1622
+      bottom: 1715
+  - text: '08.11.1887
+
+'
+    bounds:
+      left: 907
+      right: 1084
+      top: 1671
+      bottom: 1711
+  - text: |
+      502
+      GRAY, Ivan Donald
+    bounds:
+      left: 1164
+      right: 1653
+      top: 1668
+      bottom: 1715
+  - text: '14.02.1923
+
+'
+    bounds:
+      left: 1957
+      right: 2128
+      top: 1672
+      bottom: 1710
+  - text: |
+      500
+      m to BLUNT, Hugh Roper
+    bounds:
+      left: 312
+      right: 2265
+      top: 1670
+      bottom: 1767
+  - text: |
+      m to FLAHAULT, Madeleine Anne
+      GRAY, Alexander
+    bounds:
+      left: 248
+      right: 1907
+      top: 1722
+      bottom: 1814
+  - text: '20.01.1982
+
+'
+    bounds:
+      left: 907
+      right: 1082
+      top: 1772
+      bottom: 1810
+  - text: '501
+
+'
+    bounds:
+      left: 1163
+      right: 1217
+      top: 1772
+      bottom: 1810
+  - text: |
+      GRAY, Jacqueline
+      GRAY, Amy Margaret
+    bounds:
+      left: 244
+      right: 1621
+      top: 1768
+      bottom: 1867
+  - text: '02.01.1895
+
+'
+    bounds:
+      left: 910
+      right: 1080
+      top: 1822
+      bottom: 1858
+  - text: |
+      509
+      Sheila Michelle
+    bounds:
+      left: 1161
+      right: 1617
+      top: 1820
+      bottom: 1863
+  - text: '07.05.1959
+
+'
+    bounds:
+      left: 1955
+      right: 2132
+      top: 1819
+      bottom: 1859
+  - text: |
+      502
+      GRAY, Amy Mary
+    bounds:
+      left: 245
+      right: 2263
+      top: 1820
+      bottom: 1920
+  - text: '29.08.1903
+
+'
+    bounds:
+      left: 906
+      right: 1082
+      top: 1871
+      bottom: 1910
+  - text: '480
+
+'
+    bounds:
+      left: 1166
+      right: 1219
+      top: 1872
+      bottom: 1909
+  - text: |
+      m to HINCHLIFFE, Neil
+      m to WATSON, Robert Wallis
+    bounds:
+      left: 308
+      right: 1736
+      top: 1868
+      bottom: 1964
+  - text: 'GRAY, James Errol
+
+'
+    bounds:
+      left: 1293
+      right: 1656
+      top: 1920
+      bottom: 1960
+  - text: '10.02.1917
+
+'
+    bounds:
+      left: 1959
+      right: 2130
+      top: 1922
+      bottom: 1960
+  - text: |
+      499
+      GRAY, Ann Julia
+    bounds:
+      left: 243
+      right: 2265
+      top: 1920
+      bottom: 2015
+  - text: '06.08.1932
+
+'
+    bounds:
+      left: 912
+      right: 1081
+      top: 1969
+      bottom: 2011
+  - text: |
+      m to YELLOWLEES, Ruth Grace
+      m to NEWMAN, Trevor
+    bounds:
+      left: 310
+      right: 1880
+      top: 1969
+      bottom: 2064
+  - text: 'GRAY, Jane Elizabeth
+
+'
+    bounds:
+      left: 1293
+      right: 1700
+      top: 2018
+      bottom: 2060
+  - text: '25.04.1953
+
+'
+    bounds:
+      left: 1958
+      right: 2133
+      top: 2016
+      bottom: 2059
+  - text: |
+      501
+      GRAY, Anne Cecile
+    bounds:
+      left: 243
+      right: 2267
+      top: 2018
+      bottom: 2117
+  - text: '11.08.1951
+
+'
+    bounds:
+      left: 909
+      right: 1084
+      top: 2072
+      bottom: 2110
+  - text: '500
+
+'
+    bounds:
+      left: 1165
+      right: 1219
+      top: 2072
+      bottom: 2110
+  - text: |
+      m to ALLEN, John Francis
+      m to (1)DUFF, Barry
+    bounds:
+      left: 309
+      right: 1774
+      top: 2067
+      bottom: 2168
+  - text: 'GRAY, Jennifer Mary Ann
+
+'
+    bounds:
+      left: 1291
+      right: 1781
+      top: 2116
+      bottom: 2163
+  - text: '10.09.1963
+
+'
+    bounds:
+      left: 1956
+      right: 2132
+      top: 2117
+      bottom: 2156
+  - text: |
+      511
+      GRAY, Anne Cecile
+    bounds:
+      left: 243
+      right: 2268
+      top: 2015
+      bottom: 2321
+  - text: '11.08.1951
+
+'
+    bounds:
+      left: 911
+      right: 1086
+      top: 2172
+      bottom: 2210
+  - text: '501
+
+'
+    bounds:
+      left: 1164
+      right: 1216
+      top: 2170
+      bottom: 2207
+  - text: |
+      m to GREEN, David
+      m to (2)RODRIGUES, Maurie
+    bounds:
+      left: 310
+      right: 1666
+      top: 2167
+      bottom: 2272
+  - text: 'GRAY, Jonathan Charles
+
+'
+    bounds:
+      left: 1295
+      right: 1757
+      top: 2218
+      bottom: 2258
+  - text: '12.01.1974
+
+'
+    bounds:
+      left: 1956
+      right: 2132
+      top: 2217
+      bottom: 2256
+  - text: |
+      491
+      GRAY, Anthony Charles
+    bounds:
+      left: 249
+      right: 2267
+      top: 2218
+      bottom: 2315
+  - text: '23.07.1948
+
+'
+    bounds:
+      left: 912
+      right: 1085
+      top: 2269
+      bottom: 2311
+  - text: |
+      491
+      GRAY, Juliet Helen
+    bounds:
+      left: 1168
+      right: 1648
+      top: 2268
+      bottom: 2311
+  - text: "**** 1954\n"
+    bounds:
+      left: 1962
+      right: 2134
+      top: 2266
+      bottom: 2302
+  - text: |
+      500
+      m to (1)RATHBONE, Prudence Anne
+    bounds:
+      left: 311
+      right: 2269
+      top: 2270
+      bottom: 2364
+  - text: 'GRAY, Kenneth Neil
+
+'
+    bounds:
+      left: 1293
+      right: 1670
+      top: 2316
+      bottom: 2359
+  - text: '09.11.1914
+
+'
+    bounds:
+      left: 1958
+      right: 2134
+      top: 2316
+      bottom: 2356
+  - text: |
+      492
+      GRAY, Anthony Charles
+    bounds:
+      left: 246
+      right: 2269
+      top: 2316
+      bottom: 2415
+  - text: |
+      23.07.1948
+      GRAY, Kerry Anne
+    bounds:
+      left: 913
+      right: 1652
+      top: 2368
+      bottom: 2410
+  - text: '19.12.1956
+
+'
+    bounds:
+      left: 1959
+      right: 2132
+      top: 2368
+      bottom: 2403
+  - text: |
+      499
+      m to (2)MABEY, Gail Ann McLaren
+    bounds:
+      left: 313
+      right: 2269
+      top: 2368
+      bottom: 2464
+  - text: |
+      m to (1)WILLIAMS, Brian
+      GRAY, Anthony Malcolm
+    bounds:
+      left: 249
+      right: 1770
+      top: 2416
+      bottom: 2515
+  - text: '26.04.1965
+
+'
+    bounds:
+      left: 911
+      right: 1085
+      top: 2471
+      bottom: 2511
+  - text: |
+      512
+      GRAY, Kerry Anne
+    bounds:
+      left: 1166
+      right: 1653
+      top: 2463
+      bottom: 2513
+  - text: '19.12.1956
+
+'
+    bounds:
+      left: 1961
+      right: 2136
+      top: 2466
+      bottom: 2504
+  - text: |
+      499
+      GRAY, Audrey Louise
+    bounds:
+      left: 248
+      right: 2266
+      top: 2464
+      bottom: 2567
+  - text: "**** 1958\n"
+    bounds:
+      left: 918
+      right: 1088
+      top: 2517
+      bottom: 2557
+  - text: '499
+
+'
+    bounds:
+      left: 1168
+      right: 1221
+      top: 2520
+      bottom: 2557
+  - text: |
+      m to (2)LAURENT, Wayne
+      GRAY, Audrey Louise
+    bounds:
+      left: 247
+      right: 1778
+      top: 2518
+      bottom: 2615
+  - text: '14.11.1933
+
+'
+    bounds:
+      left: 914
+      right: 1086
+      top: 2568
+      bottom: 2611
+  - text: |
+      504
+      GRAY, Kirsten Anna
+    bounds:
+      left: 1170
+      right: 1684
+      top: 2564
+      bottom: 2608
+  - text: '13.08.1977
+
+'
+    bounds:
+      left: 1964
+      right: 2132
+      top: 2566
+      bottom: 2604
+  - text: |
+      497
+      m to HOLDSWORTH, John Chambers
+    bounds:
+      left: 312
+      right: 2271
+      top: 2564
+      bottom: 2663
+  - text: 'GRAY, Kirsty Marianne
+
+'
+    bounds:
+      left: 1297
+      right: 1746
+      top: 2616
+      bottom: 2659
+  - text: '22.09.1978
+
+'
+    bounds:
+      left: 1960
+      right: 2137
+      top: 2614
+      bottom: 2654
+  - text: |
+      491
+      GRAY, Barbara Judith
+    bounds:
+      left: 248
+      right: 2269
+      top: 2614
+      bottom: 2715
+  - text: '17.06.1952
+
+'
+    bounds:
+      left: 914
+      right: 1089
+      top: 2670
+      bottom: 2707
+  - text: |
+      500
+      GRAY, Lesley Margaret
+    bounds:
+      left: 1171
+      right: 1740
+      top: 2668
+      bottom: 2711
+  - text: '22.01.1918
+
+'
+    bounds:
+      left: 1965
+      right: 2136
+      top: 2663
+      bottom: 2703
+  - text: |
+      493
+      m to SALISBURY, John Gordon
+    bounds:
+      left: 312
+      right: 2270
+      top: 2666
+      bottom: 2763
+  - text: |
+      m to CAMPBELL, John Haldane (Jock)
+      GRAY, Barbara Monica
+    bounds:
+      left: 253
+      right: 1977
+      top: 2716
+      bottom: 2810
+  - text: |
+      25.02.1953
+      GRAY, Liam David
+    bounds:
+      left: 914
+      right: 1659
+      top: 2766
+      bottom: 2810
+  - text: '09.06.1996
+
+'
+    bounds:
+      left: 1965
+      right: 2136
+      top: 2766
+      bottom: 2804
+  - text: |
+      502
+      m to HAMILTON, John Charles
+    bounds:
+      left: 316
+      right: 2271
+      top: 2765
+      bottom: 2864
+  - text: 'GRAY, Maisie Dunbar
+
+'
+    bounds:
+      left: 1297
+      right: 1715
+      top: 2816
+      bottom: 2859
+  - text: '06.12.1897
+
+'
+    bounds:
+      left: 1964
+      right: 2137
+      top: 2816
+      bottom: 2852
+  - text: |
+      346
+      GRAY, Belinda Elizabeth
+    bounds:
+      left: 249
+      right: 2271
+      top: 2816
+      bottom: 2911
+  - text: '14.07.1976
+
+'
+    bounds:
+      left: 918
+      right: 1093
+      top: 2869
+      bottom: 2909
+  - text: '491
+
+'
+    bounds:
+      left: 1172
+      right: 1223
+      top: 2871
+      bottom: 2907
+  - text: |
+      m to HADFIELD, Gordon Horatio
+      GRAY, Benjamin C
+    bounds:
+      left: 249
+      right: 1891
+      top: 2866
+      bottom: 2965
+  - text: '06.09.1978
+
+'
+    bounds:
+      left: 917
+      right: 1092
+      top: 2920
+      bottom: 2958
+  - text: |
+      497
+      GRAY, Margaret Gillian
+    bounds:
+      left: 1175
+      right: 1751
+      top: 2916
+      bottom: 2959
+  - text: '31.08.1946
+
+'
+    bounds:
+      left: 1966
+      right: 2136
+      top: 2916
+      bottom: 2956
+  - text: |
+      491
+      GRAY, Beverley Jane
+    bounds:
+      left: 255
+      right: 2275
+      top: 2912
+      bottom: 3015
+  - text: '04.10.1919
+
+'
+    bounds:
+      left: 918
+      right: 1091
+      top: 2970
+      bottom: 3006
+  - text: '494
+
+'
+    bounds:
+      left: 1172
+      right: 1225
+      top: 2968
+      bottom: 3005
+  - text: |
+      m to (1)MARTELL, Philip
+      GRAY, Camplin William
+    bounds:
+      left: 252
+      right: 1770
+      top: 2965
+      bottom: 3066
+  - text: '22.01.1949
+
+'
+    bounds:
+      left: 914
+      right: 1095
+      top: 3017
+      bottom: 3059
+  - text: |
+      497
+      GRAY, Margaret Gillian
+    bounds:
+      left: 1177
+      right: 1750
+      top: 3016
+      bottom: 3058
+  - text: '31.08.1946
+
+'
+    bounds:
+      left: 1964
+      right: 2141
+      top: 3014
+      bottom: 3054
+  - text: |
+      492
+      m to COMPTON, Karen
+    bounds:
+      left: 318
+      right: 2272
+      top: 3012
+      bottom: 3114
+  - text: |
+      m to (2)WALLACE, Graeme
+      GRAY, Charles
+    bounds:
+      left: 253
+      right: 1807
+      top: 3066
+      bottom: 3163
+  - text: '22.10.1840
+
+'
+    bounds:
+      left: 919
+      right: 1094
+      top: 3122
+      bottom: 3160
+  - text: |
+      480
+      GRAY, Mary
+    bounds:
+      left: 1174
+      right: 1545
+      top: 3116
+      bottom: 3160
+  - text: "**.09.1938\n"
+    bounds:
+      left: 1968
+      right: 2142
+      top: 3113
+      bottom: 3153
+  - text: |
+      489
+      m to WILLIAMS, Emily Jane
+    bounds:
+      left: 316
+      right: 2273
+      top: 3116
+      bottom: 3216
+  - text: |
+      GRAY, Mary Damaris Bryony 03.09.1927 510
+      GRAY, Charles Ian
+    bounds:
+      left: 253
+      right: 2275
+      top: 3160
+      bottom: 3267
+  - text: "**** 1936\n"
+    bounds:
+      left: 926
+      right: 1098
+      top: 3219
+      bottom: 3256
+  - text: '505
+
+'
+    bounds:
+      left: 1175
+      right: 1227
+      top: 3219
+      bottom: 3259
+  - text: |
+      m to HOLLINRAKE, Harold Acheson (Bud)
+      m to BIRD, Ruth Esther
+    bounds:
+      left: 318
+      right: 2057
+      top: 3217
+      bottom: 3316
+  - text: '676
+
+'
+    bounds:
+      left: 1222
+      right: 1294
+      top: 3309
+      bottom: 3355
+- paragraphs:
+  - text: '512
+
+'
+    bounds:
+      left: 1161
+      right: 1219
+      top: 1967
+      bottom: 2011
+- paragraphs:
+  - text: '491
+
+'
+    bounds:
+      left: 1168
+      right: 1223
+      top: 2366
+      bottom: 2409
+- paragraphs:
+  - text: "** **\n"
+    bounds:
+      left: 923
+      right: 992
+      top: 2524
+      bottom: 2545
+- paragraphs:
+  - text: '498
+
+'
+    bounds:
+      left: 1173
+      right: 1229
+      top: 2768
+      bottom: 2807

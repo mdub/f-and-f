@@ -1,0 +1,90 @@
+---
+blocks:
+- paragraphs:
+  - text: 'Faith and Farming
+
+'
+    bounds:
+      left: 337
+      right: 2137
+      top: 618
+      bottom: 883
+- paragraphs:
+  - text: 'Te Huarahi ki te Ora
+
+'
+    bounds:
+      left: 556
+      right: 1925
+      top: 1056
+      bottom: 1246
+- paragraphs:
+  - text: 'The Legacy of Henry Williams and William Williams
+
+'
+    bounds:
+      left: 245
+      right: 2243
+      top: 1469
+      bottom: 1569
+- paragraphs:
+  - text: 'i
+
+'
+    bounds:
+      left: 1229
+      right: 1238
+      top: 1477
+      bottom: 1553
+- paragraphs:
+  - text: 'i
+
+'
+    bounds:
+      left: 1754
+      right: 1759
+      top: 1477
+      bottom: 1548
+- paragraphs:
+  - text: 'i
+
+'
+    bounds:
+      left: 2002
+      right: 2007
+      top: 1478
+      bottom: 1550
+- paragraphs:
+  - text: '1
+
+'
+    bounds:
+      left: 2028
+      right: 2033
+      top: 1477
+      bottom: 1550
+- paragraphs:
+  - text: "(Revised 1998)\n"
+    bounds:
+      left: 930
+      right: 1541
+      top: 1773
+      bottom: 1864
+- paragraphs:
+  - text: 'Compiled by Rex and Adriene
+
+'
+    bounds:
+      left: 905
+      right: 1616
+      top: 2828
+      bottom: 2909
+- paragraphs:
+  - text: 'Published by Evagean Publishing
+
+'
+    bounds:
+      left: 856
+      right: 1656
+      top: 3037
+      bottom: 3111

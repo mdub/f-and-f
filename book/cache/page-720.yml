@@ -1,0 +1,125 @@
+---
+blocks:
+- paragraphs:
+  - text: "********\n"
+    bounds:
+      left: 913
+      right: 1079
+      top: 275
+      bottom: 296
+- paragraphs:
+  - text: |
+      361
+      363
+      362
+      362
+    bounds:
+      left: 1157
+      right: 1213
+      top: 222
+      bottom: 407
+- paragraphs:
+  - text: '362
+
+'
+    bounds:
+      left: 1159
+      right: 1213
+      top: 472
+      bottom: 510
+- paragraphs:
+  - text: 'ZOHRAB, John Hadfield
+
+'
+    bounds:
+      left: 245
+      right: 700
+      top: 218
+      bottom: 258
+  - text: |
+      01.04.1933
+      ZOHRAB, Julia
+      ZOHRAB, Krista
+    bounds:
+      left: 241
+      right: 1078
+      top: 222
+      bottom: 360
+  - text: |
+      24.11.1965
+      ZOHRAB, Mark Clifford
+    bounds:
+      left: 243
+      right: 1075
+      top: 322
+      bottom: 415
+  - text: |
+      13.03.1967
+      ZOHRAB, Penelope Susan
+      (Penny)
+    bounds:
+      left: 240
+      right: 1076
+      top: 372
+      bottom: 514
+  - text: |
+      24.09.1964
+      m to ALLISON, Andrew Richard (Andy)
+      ZOHRAB, Robert Hadfield
+    bounds:
+      left: 246
+      right: 1080
+      top: 471
+      bottom: 612
+  - text: |
+      10.07.1972
+      ZOHRAB, Sarah Jane
+    bounds:
+      left: 239
+      right: 1078
+      top: 572
+      bottom: 663
+  - text: |
+      09.04.1968
+      m to COATES, Mark Harding
+      ZOHRAB, William John
+    bounds:
+      left: 245
+      right: 1077
+      top: 622
+      bottom: 762
+  - text: |
+      30.03.1942
+      m to HOPWOOD, Kerin Wallace
+    bounds:
+      left: 309
+      right: 1078
+      top: 722
+      bottom: 815
+- paragraphs:
+  - text: |
+      362
+      362
+    bounds:
+      left: 1159
+      right: 1212
+      top: 570
+      bottom: 658
+- paragraphs:
+  - text: '363
+
+'
+    bounds:
+      left: 1161
+      right: 1215
+      top: 722
+      bottom: 760
+- paragraphs:
+  - text: '722
+
+'
+    bounds:
+      left: 1228
+      right: 1304
+      top: 3309
+      bottom: 3353

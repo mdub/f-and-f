@@ -1,0 +1,1377 @@
+---
+blocks:
+- paragraphs:
+  - text: '127
+
+'
+    bounds:
+      left: 2206
+      right: 2265
+      top: 323
+      bottom: 360
+- paragraphs:
+  - text: '576
+
+'
+    bounds:
+      left: 1159
+      right: 1215
+      top: 1211
+      bottom: 1258
+- paragraphs:
+  - text: "** ** ****\n"
+    bounds:
+      left: 915
+      right: 1080
+      top: 1520
+      bottom: 1539
+- paragraphs:
+  - text: |
+      GARDINER, Eliza Amy
+      29.04.1856 132 GIESEN, Mary Suzanne
+    bounds:
+      left: 253
+      right: 1726
+      top: 206
+      bottom: 259
+  - text: '12.09.1964
+
+'
+    bounds:
+      left: 1951
+      right: 2128
+      top: 221
+      bottom: 261
+  - text: |
+      128
+      m to WILLIAMS, Allen Marsh
+    bounds:
+      left: 312
+      right: 2264
+      top: 226
+      bottom: 304
+  - text: |
+      m to CADWALLADER, Ian Clyde
+      GARDINER, Evelyn Ruth
+    bounds:
+      left: 250
+      right: 1893
+      top: 250
+      bottom: 374
+  - text: '11.05.1899
+
+'
+    bounds:
+      left: 906
+      right: 1083
+      top: 313
+      bottom: 355
+  - text: |
+      575
+      GIESEN, Natasha Elizabeth
+    bounds:
+      left: 1157
+      right: 1795
+      top: 313
+      bottom: 357
+  - text: |
+      29.12.1987
+      GARDINER, George Falkland
+    bounds:
+      left: 248
+      right: 2129
+      top: 319
+      bottom: 404
+  - text: '20.05.1892
+
+'
+    bounds:
+      left: 908
+      right: 1077
+      top: 366
+      bottom: 402
+  - text: |
+      573
+      GIESEN, Robert John
+    bounds:
+      left: 1160
+      right: 1688
+      top: 365
+      bottom: 408
+  - text: '30.12.1959
+
+'
+    bounds:
+      left: 1953
+      right: 2129
+      top: 372
+      bottom: 410
+  - text: |
+      127
+      m to HICKS, Gladys
+    bounds:
+      left: 312
+      right: 2263
+      top: 373
+      bottom: 455
+  - text: |
+      m to MURRAY, Sandra
+      GARDINER, Jennifer Jane
+    bounds:
+      left: 251
+      right: 1713
+      top: 418
+      bottom: 505
+  - text: '26.08.1958
+
+'
+    bounds:
+      left: 904
+      right: 1081
+      top: 466
+      bottom: 506
+  - text: |
+      575 GILBERTSON,
+      m to HAMMOND, Mark James
+    bounds:
+      left: 310
+      right: 1572
+      top: 464
+      bottom: 556
+  - text: |
+      Christopher Graeme Menzies 09.05.1976 274
+      GARDINER, Jill
+    bounds:
+      left: 244
+      right: 2256
+      top: 503
+      bottom: 620
+  - text: '26.05.1928
+
+'
+    bounds:
+      left: 903
+      right: 1080
+      top: 568
+      bottom: 606
+  - text: |
+      GILBERTSON, Graeme Menzies 09.12.1936 274
+      m to DAVIES, Michael de la Cour
+    bounds:
+      left: 311
+      right: 2261
+      top: 557
+      bottom: 670
+  - text: |
+      m to WILLIAMS, Felicity
+      GARDINER, Jocelyn Mary
+    bounds:
+      left: 246
+      right: 1744
+      top: 620
+      bottom: 711
+  - text: '06.05.1938
+
+'
+    bounds:
+      left: 909
+      right: 1080
+      top: 665
+      bottom: 705
+  - text: '576
+
+'
+    bounds:
+      left: 1161
+      right: 1216
+      top: 663
+      bottom: 705
+  - text: |
+      GIRLING-BUTCHER,
+      m to HILL, Robert Francis
+    bounds:
+      left: 310
+      right: 1701
+      top: 656
+      bottom: 769
+  - text: 'George Martin Jefferd
+
+'
+    bounds:
+      left: 1343
+      right: 1744
+      top: 718
+      bottom: 760
+  - text: '26.11.1982
+
+'
+    bounds:
+      left: 1948
+      right: 2123
+      top: 720
+      bottom: 763
+  - text: |
+      209
+      GARDINER, John Allen
+    bounds:
+      left: 246
+      right: 2261
+      top: 724
+      bottom: 804
+  - text: '16.04.1930
+
+'
+    bounds:
+      left: 904
+      right: 1081
+      top: 765
+      bottom: 807
+  - text: '574
+
+'
+    bounds:
+      left: 1161
+      right: 1215
+      top: 768
+      bottom: 806
+  - text: |
+      GIRLING-BUTCHER, Louis
+      m to PIKE, Diana
+    bounds:
+      left: 308
+      right: 1816
+      top: 766
+      bottom: 855
+  - text: 'James Jefferd
+
+'
+    bounds:
+      left: 1336
+      right: 1587
+      top: 815
+      bottom: 857
+  - text: '18.07.1985
+
+'
+    bounds:
+      left: 1948
+      right: 2122
+      top: 820
+      bottom: 863
+  - text: |
+      209
+      GARDINER, John Cameron
+    bounds:
+      left: 246
+      right: 2259
+      top: 822
+      bottom: 905
+  - text: '28.12.1993
+
+'
+    bounds:
+      left: 902
+      right: 1078
+      top: 866
+      bottom: 906
+  - text: '575
+
+'
+    bounds:
+      left: 1158
+      right: 1207
+      top: 864
+      bottom: 907
+  - text: |
+      GIRLING-BUTCHER,
+      GARDINER, Lexia Merle
+    bounds:
+      left: 247
+      right: 1703
+      top: 860
+      bottom: 956
+  - text: '22.12.1929
+
+'
+    bounds:
+      left: 902
+      right: 1079
+      top: 916
+      bottom: 956
+  - text: |
+      558
+      Nicholas John
+    bounds:
+      left: 1156
+      right: 1589
+      top: 915
+      bottom: 961
+  - text: '27.06.1950
+
+'
+    bounds:
+      left: 1950
+      right: 2122
+      top: 919
+      bottom: 959
+  - text: |
+      208
+      m to SEWELL, Bernard Malcolm
+    bounds:
+      left: 309
+      right: 2261
+      top: 922
+      bottom: 1007
+  - text: |
+      m to JEFFERD, Patricia Anne
+      GARDINER, Rachel Elizabeth
+    bounds:
+      left: 243
+      right: 1810
+      top: 968
+      bottom: 1056
+  - text: '19.10.1975 576
+
+'
+    bounds:
+      left: 907
+      right: 1211
+      top: 1016
+      bottom: 1059
+  - text: |
+      GLEESON, Mary Frances
+      GARDINER, Robyn Marianne
+    bounds:
+      left: 244
+      right: 1764
+      top: 993
+      bottom: 1126
+  - text: '17.08.1957
+
+'
+    bounds:
+      left: 905
+      right: 1080
+      top: 1068
+      bottom: 1106
+  - text: |
+      574
+      (Peggy)
+    bounds:
+      left: 1160
+      right: 1468
+      top: 1065
+      bottom: 1109
+  - text: '05.11.1907
+
+'
+    bounds:
+      left: 1955
+      right: 2125
+      top: 1072
+      bottom: 1105
+  - text: |
+      251
+      m to REID, John Anthony
+    bounds:
+      left: 308
+      right: 2260
+      top: 1074
+      bottom: 1158
+  - text: |
+      m to WILLIAMS, Garthowen
+      GARDINER, Samantha Jane
+    bounds:
+      left: 246
+      right: 1803
+      top: 1116
+      bottom: 1206
+  - text: '21.10.1995
+
+'
+    bounds:
+      left: 904
+      right: 1079
+      top: 1166
+      bottom: 1203
+  - text: |
+      575
+      GODDING, Lindsay Clare
+    bounds:
+      left: 1158
+      right: 1767
+      top: 1163
+      bottom: 1208
+  - text: '30.09.1963
+
+'
+    bounds:
+      left: 1952
+      right: 2124
+      top: 1168
+      bottom: 1208
+  - text: |
+      196
+      GARDINER, Sydney Reade
+    bounds:
+      left: 247
+      right: 2259
+      top: 1168
+      bottom: 1256
+  - text: '21.04.1900
+
+'
+    bounds:
+      left: 902
+      right: 1079
+      top: 1215
+      bottom: 1255
+  - text: |
+      m to DAVIES, Richard Rhys
+      m to BAKER, Christine Helen
+    bounds:
+      left: 306
+      right: 1790
+      top: 1216
+      bottom: 1306
+  - text: 'GODFREY, Rose Alma
+
+'
+    bounds:
+      left: 1287
+      right: 1714
+      top: 1263
+      bottom: 1306
+  - text: '25.11.1854
+
+'
+    bounds:
+      left: 1954
+      right: 2124
+      top: 1269
+      bottom: 1305
+  - text: |
+      177
+      GARDINER, Thomas Falkland
+    bounds:
+      left: 246
+      right: 2263
+      top: 1268
+      bottom: 1356
+  - text: '18.08.1961
+
+'
+    bounds:
+      left: 905
+      right: 1077
+      top: 1315
+      bottom: 1355
+  - text: '575
+
+'
+    bounds:
+      left: 1157
+      right: 1214
+      top: 1312
+      bottom: 1359
+  - text: |
+      m to DAVIES, George Henry
+      m to CAMERON, Penny Jo-Anne
+    bounds:
+      left: 304
+      right: 1796
+      top: 1313
+      bottom: 1411
+  - text: 'GOOCH, Amelia Catherine
+
+'
+    bounds:
+      left: 1283
+      right: 1790
+      top: 1363
+      bottom: 1409
+  - text: '16.08.1996
+
+'
+    bounds:
+      left: 1948
+      right: 2121
+      top: 1364
+      bottom: 1411
+  - text: |
+      122
+      GARDNER, Susan Mary
+    bounds:
+      left: 246
+      right: 2261
+      top: 1366
+      bottom: 1456
+  - text: '20.04.1939
+
+'
+    bounds:
+      left: 905
+      right: 1080
+      top: 1416
+      bottom: 1454
+  - text: |
+      117
+      GOOCH, John
+    bounds:
+      left: 1156
+      right: 1555
+      top: 1395
+      bottom: 1474
+  - text: '13.06.1922
+
+'
+    bounds:
+      left: 1950
+      right: 2127
+      top: 1416
+      bottom: 1456
+  - text: |
+      122
+      m to WILLIAMS, Peter Wallis
+    bounds:
+      left: 309
+      right: 2259
+      top: 1418
+      bottom: 1506
+  - text: |
+      m to WILLIAMS, Dinah Gordon
+      GARNER, Beverley
+    bounds:
+      left: 244
+      right: 1853
+      top: 1464
+      bottom: 1556
+  - text: |
+      494
+      GOOCH, Johsua Samuel
+    bounds:
+      left: 1161
+      right: 1738
+      top: 1484
+      bottom: 1586
+  - text: '14.01.1995
+
+'
+    bounds:
+      left: 1955
+      right: 2126
+      top: 1516
+      bottom: 1554
+  - text: |
+      122
+      m to CAMPBELL, Graeme Haldane
+    bounds:
+      left: 308
+      right: 2261
+      top: 1515
+      bottom: 1606
+  - text: 'GOOCH, Michael John
+
+'
+    bounds:
+      left: 1289
+      right: 1712
+      top: 1560
+      bottom: 1607
+  - text: '18.06.1960
+
+'
+    bounds:
+      left: 1954
+      right: 2129
+      top: 1564
+      bottom: 1607
+  - text: |
+      122
+      GARRETT, James William ·
+    bounds:
+      left: 247
+      right: 2261
+      top: 1566
+      bottom: 1654
+  - text: '20.08.1995
+
+'
+    bounds:
+      left: 904
+      right: 1079
+      top: 1613
+      bottom: 1655
+  - text: |
+      m to PITCEATHLY, Amanda Stuart
+      GARRETT, Rachael Erin
+    bounds:
+      left: 246
+      right: 1916
+      top: 1616
+      bottom: 1704
+  - text: '04.11.1992
+
+'
+    bounds:
+      left: 907
+      right: 1077
+      top: 1666
+      bottom: 1704
+  - text: |
+      89
+      GOOCH, Rebecca Sarah
+    bounds:
+      left: 1171
+      right: 1736
+      top: 1664
+      bottom: 1704
+  - text: '16.08.1996
+
+'
+    bounds:
+      left: 1953
+      right: 2128
+      top: 1668
+      bottom: 1706
+  - text: |
+      123
+      GARRETT, William
+    bounds:
+      left: 247
+      right: 2259
+      top: 1668
+      bottom: 1757
+  - text: 'GOOD, Jane Elizabeth
+
+'
+    bounds:
+      left: 1289
+      right: 1697
+      top: 1708
+      bottom: 1755
+  - text: '12.10.1956
+
+'
+    bounds:
+      left: 1954
+      right: 2124
+      top: 1716
+      bottom: 1756
+  - text: |
+      550
+      Edward John
+    bounds:
+      left: 299
+      right: 2261
+      top: 1718
+      bottom: 1804
+  - text: '25.03.1963
+
+'
+    bounds:
+      left: 906
+      right: 1079
+      top: 1761
+      bottom: 1803
+  - text: |
+      m to MACLEAN, Mark Haydon
+      m to OVERBYE, Alison Frances
+    bounds:
+      left: 305
+      right: 1853
+      top: 1765
+      bottom: 1856
+  - text: 'GOODIN, Ellen Jessie
+
+'
+    bounds:
+      left: 1289
+      right: 1687
+      top: 1811
+      bottom: 1854
+  - text: '30.11.1988
+
+'
+    bounds:
+      left: 1951
+      right: 2127
+      top: 1816
+      bottom: 1853
+  - text: |
+      103
+      GASTER, Alice
+    bounds:
+      left: 246
+      right: 2260
+      top: 1818
+      bottom: 1905
+  - text: '12.11.1850
+
+'
+    bounds:
+      left: 905
+      right: 1080
+      top: 1866
+      bottom: 1904
+  - text: |
+      142
+      GOODIN, Kristopher Martin
+    bounds:
+      left: 1158
+      right: 1820
+      top: 1861
+      bottom: 1907
+  - text: '12.03.1991
+
+'
+    bounds:
+      left: 1955
+      right: 2124
+      top: 1864
+      bottom: 1902
+  - text: |
+      103
+      m to WILLIAMS, Alfred Owen
+    bounds:
+      left: 308
+      right: 2260
+      top: 1865
+      bottom: 1956
+  - text: 'GOODIN, Steven Jeffrey
+
+'
+    bounds:
+      left: 1289
+      right: 1739
+      top: 1912
+      bottom: 1959
+  - text: '23.06.1956
+
+'
+    bounds:
+      left: 1956
+      right: 2127
+      top: 1914
+      bottom: 1954
+  - text: |
+      103
+      GATTI, Alice
+    bounds:
+      left: 245
+      right: 2257
+      top: 1916
+      bottom: 2004
+  - text: '27.08.1961
+
+'
+    bounds:
+      left: 908
+      right: 1081
+      top: 1961
+      bottom: 2003
+  - text: '380
+
+'
+    bounds:
+      left: 1161
+      right: 1215
+      top: 1966
+      bottom: 2004
+  - text: |
+      m to BANNISTER, Dorothy Margot
+      m to LUDBROOK, Michael Geoffrey
+    bounds:
+      left: 308
+      right: 1914
+      top: 1963
+      bottom: 2058
+  - text: 'GOODWIN, Annette Beatrice
+
+'
+    bounds:
+      left: 1284
+      right: 1824
+      top: 2008
+      bottom: 2059
+  - text: |
+      17.12.1935
+      GEARY, Dave
+    bounds:
+      left: 241
+      right: 2129
+      top: 2014
+      bottom: 2104
+  - text: '88
+
+'
+    bounds:
+      left: 1173
+      right: 1211
+      top: 2066
+      bottom: 2100
+  - text: |
+      m to DEANS, Michael Robin
+      m to WILLIAMS, Nicola Mina
+    bounds:
+      left: 307
+      right: 1801
+      top: 2064
+      bottom: 2156
+  - text: 'GORDON, David John
+
+'
+    bounds:
+      left: 1287
+      right: 1707
+      top: 2108
+      bottom: 2155
+  - text: '29.02.1960
+
+'
+    bounds:
+      left: 1953
+      right: 2128
+      top: 2114
+      bottom: 2152
+  - text: |
+      303
+      GIBB, Helen Mary
+    bounds:
+      left: 242
+      right: 2263
+      top: 2111
+      bottom: 2207
+  - text: '09.04.1944
+
+'
+    bounds:
+      left: 910
+      right: 1079
+      top: 2161
+      bottom: 2203
+  - text: |
+      m to WILLIAMS, Jennifer Lillian
+      m to WILLIAMS, Simon Henry
+    bounds:
+      left: 306
+      right: 1872
+      top: 2162
+      bottom: 2256
+  - text: 'GORDON, Gonda
+
+'
+    bounds:
+      left: 1287
+      right: 1614
+      top: 2208
+      bottom: 2255
+  - text: '21.10.1936
+
+'
+    bounds:
+      left: 1954
+      right: 2131
+      top: 2212
+      bottom: 2252
+  - text: |
+      231
+      GIBBS, Diana Margaret
+    bounds:
+      left: 248
+      right: 2262
+      top: 2210
+      bottom: 2304
+  - text: '18.09.1961
+
+'
+    bounds:
+      left: 907
+      right: 1082
+      top: 2262
+      bottom: 2301
+  - text: '367
+
+'
+    bounds:
+      left: 1164
+      right: 1217
+      top: 2263
+      bottom: 2300
+  - text: |
+      m to AVERY, Jonathan
+      m to LUDBROOK, Guy Lawrence
+    bounds:
+      left: 309
+      right: 1712
+      top: 2256
+      bottom: 2356
+  - text: 'GORDON, Grace Margaret
+
+'
+    bounds:
+      left: 1291
+      right: 1787
+      top: 2309
+      bottom: 2355
+  - text: '21.04.1994
+
+'
+    bounds:
+      left: 1957
+      right: 2127
+      top: 2312
+      bottom: 2350
+  - text: |
+      304
+      GIBSON, John Llewellyn
+    bounds:
+      left: 246
+      right: 2266
+      top: 2312
+      bottom: 2407
+  - text: |
+      05.06.1951
+      GORDON, Ian McKay
+    bounds:
+      left: 910
+      right: 1701
+      top: 2355
+      bottom: 2408
+  - text: '11.08.1957
+
+'
+    bounds:
+      left: 1954
+      right: 2131
+      top: 2359
+      bottom: 2401
+  - text: |
+      285
+      m to WILLIAMS, Susan Temple
+    bounds:
+      left: 307
+      right: 2260
+      top: 2362
+      bottom: 2456
+  - text: |
+      m to MANTHEL, Jane Marguerite
+      GIBSON, Margot Lucy
+    bounds:
+      left: 249
+      right: 1883
+      top: 2410
+      bottom: 2512
+  - text: 'GORDON, James McKay
+
+'
+    bounds:
+      left: 1289
+      right: 1756
+      top: 2460
+      bottom: 2503
+  - text: |
+      05.10.1954
+      Marianne
+    bounds:
+      left: 314
+      right: 2130
+      top: 2459
+      bottom: 2559
+  - text: '22.06.1994
+
+'
+    bounds:
+      left: 906
+      right: 1081
+      top: 2511
+      bottom: 2553
+  - text: '284
+
+'
+    bounds:
+      left: 1165
+      right: 1220
+      top: 2516
+      bottom: 2548
+  - text: |
+      m to CORBETT, Jennifer Mary
+      GIBSON, Nicholas John
+    bounds:
+      left: 248
+      right: 1843
+      top: 2511
+      bottom: 2604
+  - text: 'GORDON, Michael Charles
+
+'
+    bounds:
+      left: 1293
+      right: 1792
+      top: 2560
+      bottom: 2602
+  - text: |
+      06.09.1991
+      Llewellen
+    bounds:
+      left: 303
+      right: 2130
+      top: 2560
+      bottom: 2653
+  - text: '06.10.1990
+
+'
+    bounds:
+      left: 908
+      right: 1084
+      top: 2612
+      bottom: 2652
+  - text: |
+      284
+      GORDON, Peter McKay
+    bounds:
+      left: 1163
+      right: 1741
+      top: 2609
+      bottom: 2653
+  - text: '30.12.1923
+
+'
+    bounds:
+      left: 1957
+      right: 2130
+      top: 2609
+      bottom: 2649
+  - text: |
+      285
+      GIESEN, Adele Jean
+    bounds:
+      left: 250
+      right: 2266
+      top: 2608
+      bottom: 2705
+  - text: '26.07.1958
+
+'
+    bounds:
+      left: 911
+      right: 1084
+      top: 2661
+      bottom: 2701
+  - text: '127
+
+'
+    bounds:
+      left: 1168
+      right: 1220
+      top: 2660
+      bottom: 2700
+  - text: |
+      m to WILLIAMS, Elizabeth Keiller (Betty)
+      m to (1)MARSH, Spencer Wallace
+    bounds:
+      left: 311
+      right: 2014
+      top: 2660
+      bottom: 2754
+  - text: 'GORDON, Richard
+
+'
+    bounds:
+      left: 1293
+      right: 1650
+      top: 2704
+      bottom: 2751
+  - text: '02.08.1990
+
+'
+    bounds:
+      left: 1959
+      right: 2134
+      top: 2709
+      bottom: 2749
+  - text: |
+      285
+      GIESEN, Adele Jean
+    bounds:
+      left: 246
+      right: 2262
+      top: 2710
+      bottom: 2807
+  - text: '26.07.1958
+
+'
+    bounds:
+      left: 910
+      right: 1089
+      top: 2759
+      bottom: 2801
+  - text: |
+      127
+      GORDON, Simon
+    bounds:
+      left: 1166
+      right: 1614
+      top: 2756
+      bottom: 2803
+  - text: '09.12.1986
+
+'
+    bounds:
+      left: 1961
+      right: 2132
+      top: 2760
+      bottom: 2798
+  - text: |
+      285
+      m to (2)ROWE, Martin Andrew
+    bounds:
+      left: 310
+      right: 2265
+      top: 2760
+      bottom: 2854
+  - text: 'GORDON, Susan Elizabeth
+
+'
+    bounds:
+      left: 1292
+      right: 1791
+      top: 2804
+      bottom: 2855
+  - text: '14.10.1960
+
+'
+    bounds:
+      left: 1958
+      right: 2133
+      top: 2809
+      bottom: 2849
+  - text: |
+      285
+      GIESEN, Andrew John Charles 01.07.1962
+    bounds:
+      left: 251
+      right: 2264
+      top: 2808
+      bottom: 2902
+  - text: |
+      m to JENKINS, Todd Preston
+      m to MORRIS, Adrianne Mary Helena
+    bounds:
+      left: 309
+      right: 1814
+      top: 2860
+      bottom: 2955
+  - text: |
+      GOULD, Dorothy Sylvia
+      GIESEN, Daniel John Andrew
+    bounds:
+      left: 253
+      right: 1741
+      top: 2908
+      bottom: 3004
+  - text: '01.12.1989
+
+'
+    bounds:
+      left: 911
+      right: 1088
+      top: 2963
+      bottom: 3003
+  - text: '128
+
+'
+    bounds:
+      left: 1172
+      right: 1226
+      top: 2964
+      bottom: 2996
+  - text: |
+      m to WILLIAMS, Algar Temple
+      GIESEN, Hamish John Blyth
+    bounds:
+      left: 253
+      right: 1854
+      top: 2956
+      bottom: 3057
+  - text: '14.12.1968
+
+'
+    bounds:
+      left: 912
+      right: 1089
+      top: 3012
+      bottom: 3052
+  - text: |
+      128
+      GOURLAY, Alison Margaret
+    bounds:
+      left: 1171
+      right: 1832
+      top: 2979
+      bottom: 3086
+  - text: |
+      22.05.1965 534
+      GIESEN, John Hugh
+    bounds:
+      left: 250
+      right: 2270
+      top: 3008
+      bottom: 3107
+  - text: '24.06.1932
+
+'
+    bounds:
+      left: 910
+      right: 1087
+      top: 3063
+      bottom: 3103
+  - text: '127
+
+'
+    bounds:
+      left: 1165
+      right: 1223
+      top: 3062
+      bottom: 3099
+  - text: |
+      m to SMITH, Alastair
+      m to PARKER, Suzanne Jean
+    bounds:
+      left: 314
+      right: 1689
+      top: 3060
+      bottom: 3156
+  - text: |
+      GOURLAY, Angus Kenneth
+      GIESEN, Lisa Marie
+    bounds:
+      left: 255
+      right: 1808
+      top: 3104
+      bottom: 3207
+  - text: '02.04.1987
+
+'
+    bounds:
+      left: 912
+      right: 1088
+      top: 3163
+      bottom: 3202
+  - text: |
+      127
+      Harrison
+    bounds:
+      left: 1170
+      right: 1508
+      top: 3159
+      bottom: 3201
+  - text: |
+      20.04.1988 534
+      GIESEN, Margaret Henrietta
+    bounds:
+      left: 252
+      right: 2267
+      top: 3156
+      bottom: 3259
+  - text: '29.04.1907
+
+'
+    bounds:
+      left: 914
+      right: 1087
+      top: 3214
+      bottom: 3250
+  - text: |
+      372
+      m to LUDBROOK, Cecil Edward Blomfield
+    bounds:
+      left: 312
+      right: 1226
+      top: 3216
+      bottom: 3308
+  - text: '675
+
+'
+    bounds:
+      left: 1220
+      right: 1291
+      top: 3303
+      bottom: 3350
+- paragraphs:
+  - text: '255
+
+'
+    bounds:
+      left: 2205
+      right: 2261
+      top: 2009
+      bottom: 2056
+- paragraphs:
+  - text: "** ******\n"
+    bounds:
+      left: 921
+      right: 1088
+      top: 2066
+      bottom: 2091
+- paragraphs:
+  - text: '312
+
+'
+    bounds:
+      left: 1163
+      right: 1216
+      top: 2163
+      bottom: 2201
+- paragraphs:
+  - text: '284
+
+'
+    bounds:
+      left: 1161
+      right: 1221
+      top: 2357
+      bottom: 2403
+- paragraphs:
+  - text: '285
+
+'
+    bounds:
+      left: 2210
+      right: 2262
+      top: 2459
+      bottom: 2498
+- paragraphs:
+  - text: '304
+
+'
+    bounds:
+      left: 2209
+      right: 2266
+      top: 2561
+      bottom: 2598
+- paragraphs:
+  - text: '127
+
+'
+    bounds:
+      left: 1168
+      right: 1225
+      top: 2860
+      bottom: 2901
+- paragraphs:
+  - text: "** ** ****\n"
+    bounds:
+      left: 1969
+      right: 2133
+      top: 2913
+      bottom: 2933
+- paragraphs:
+  - text: '269
+
+'
+    bounds:
+      left: 2211
+      right: 2268
+      top: 2908
+      bottom: 2946

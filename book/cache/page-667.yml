@@ -1,0 +1,1384 @@
+---
+blocks:
+- paragraphs:
+  - text: "********\n"
+    bounds:
+      left: 1950
+      right: 2116
+      top: 328
+      bottom: 352
+- paragraphs:
+  - text: '262
+
+'
+    bounds:
+      left: 2208
+      right: 2265
+      top: 329
+      bottom: 367
+- paragraphs:
+  - text: '573
+
+'
+    bounds:
+      left: 2208
+      right: 2265
+      top: 525
+      bottom: 567
+- paragraphs:
+  - text: '118
+
+'
+    bounds:
+      left: 2211
+      right: 2267
+      top: 675
+      bottom: 721
+- paragraphs:
+  - text: |
+      CROSSE, Lucy Sarah
+      08.03.1960 158 DAVEY, Jillian Myrtle
+    bounds:
+      left: 248
+      right: 1700
+      top: 194
+      bottom: 284
+  - text: '02.11.1946
+
+'
+    bounds:
+      left: 1956
+      right: 2129
+      top: 225
+      bottom: 267
+  - text: |
+      591
+      CROSSE, Madison Courtenay
+    bounds:
+      left: 249
+      right: 2261
+      top: 230
+      bottom: 320
+  - text: '10.10.1989
+
+'
+    bounds:
+      left: 909
+      right: 1079
+      top: 274
+      bottom: 308
+  - text: '159
+
+'
+    bounds:
+      left: 1164
+      right: 1214
+      top: 276
+      bottom: 308
+  - text: |
+      m to WILLIAMS, William Rolleston Standish (Bill)
+      CROSSE, Natasha Alexis
+    bounds:
+      left: 243
+      right: 2142
+      top: 274
+      bottom: 362
+  - text: '16.06.1990
+
+'
+    bounds:
+      left: 903
+      right: 1078
+      top: 324
+      bottom: 362
+  - text: '158
+
+'
+    bounds:
+      left: 1159
+      right: 1215
+      top: 323
+      bottom: 362
+  - text: |
+      DAVIE, Andrew Robert
+      CROSSE, Pamela
+    bounds:
+      left: 243
+      right: 1722
+      top: 322
+      bottom: 416
+  - text: '18.11.1915
+
+'
+    bounds:
+      left: 903
+      right: 1080
+      top: 374
+      bottom: 412
+  - text: '158
+
+'
+    bounds:
+      left: 1161
+      right: 1215
+      top: 374
+      bottom: 412
+  - text: |
+      m to CAMERON, Nicola Jane
+      m to CROSSE, John Anthony
+    bounds:
+      left: 309
+      right: 1811
+      top: 376
+      bottom: 466
+  - text: 'DAVIES, Alexander Phillip
+
+'
+    bounds:
+      left: 1281
+      right: 1780
+      top: 421
+      bottom: 466
+  - text: '19.12.1996
+
+'
+    bounds:
+      left: 1948
+      right: 2124
+      top: 427
+      bottom: 467
+  - text: |
+      183
+      CROSSE, Robert Oliver
+    bounds:
+      left: 244
+      right: 2258
+      top: 430
+      bottom: 515
+  - text: 'DAVIES, Alexander Phillip
+
+'
+    bounds:
+      left: 1279
+      right: 1779
+      top: 472
+      bottom: 519
+  - text: '19.12.1996
+
+'
+    bounds:
+      left: 1951
+      right: 2127
+      top: 476
+      bottom: 515
+  - text: |
+      183
+      Courtenay
+    bounds:
+      left: 302
+      right: 2263
+      top: 482
+      bottom: 566
+  - text: |
+      08.01.1962 159
+      DAVIES, Andrew Michael
+    bounds:
+      left: 909
+      right: 1764
+      top: 523
+      bottom: 564
+  - text: |
+      28.04.1995
+      m to BALUCH, Susan Beth
+    bounds:
+      left: 309
+      right: 2126
+      top: 528
+      bottom: 615
+  - text: 'DAVIES, Christopher ap Rhys
+
+'
+    bounds:
+      left: 1280
+      right: 1841
+      top: 568
+      bottom: 619
+  - text: '12.02.1892
+
+'
+    bounds:
+      left: 1947
+      right: 2122
+      top: 575
+      bottom: 617
+  - text: |
+      189
+      CROSSE, Simon Courtenay
+    bounds:
+      left: 246
+      right: 2266
+      top: 580
+      bottom: 665
+  - text: '02.05.1930
+
+'
+    bounds:
+      left: 908
+      right: 1083
+      top: 621
+      bottom: 663
+  - text: '158
+
+'
+    bounds:
+      left: 1164
+      right: 1214
+      top: 628
+      bottom: 660
+  - text: |
+      m to HAWKES, Lilian Margaret
+      m to (1)UPJOHN, Sheila Margaret Holland
+    bounds:
+      left: 311
+      right: 1849
+      top: 620
+      bottom: 716
+  - text: 'DAVIES, Christopher Pearson
+
+'
+    bounds:
+      left: 1285
+      right: 1839
+      top: 672
+      bottom: 719
+  - text: |
+      11.11.1849
+      CROSSE, Simon Courtenay
+    bounds:
+      left: 245
+      right: 2126
+      top: 678
+      bottom: 767
+  - text: '02.05.1930
+
+'
+    bounds:
+      left: 906
+      right: 1081
+      top: 724
+      bottom: 764
+  - text: '159
+
+'
+    bounds:
+      left: 1162
+      right: 1214
+      top: 724
+      bottom: 764
+  - text: |
+      m to WILLIAMS, Mary Anne
+      m to (2)GALPIN, Carolyn
+    bounds:
+      left: 311
+      right: 1806
+      top: 720
+      bottom: 817
+  - text: 'DAVIES, Christopher Pearson
+
+'
+    bounds:
+      left: 1280
+      right: 1840
+      top: 773
+      bottom: 816
+  - text: '12.05,1811
+
+'
+    bounds:
+      left: 1951
+      right: 2126
+      top: 778
+      bottom: 816
+  - text: |
+      177
+      CROSSE, Trenton Royce
+    bounds:
+      left: 240
+      right: 2265
+      top: 776
+      bottom: 868
+  - text: '08.06.1997
+
+'
+    bounds:
+      left: 904
+      right: 1081
+      top: 824
+      bottom: 864
+  - text: '159
+
+'
+    bounds:
+      left: 1161
+      right: 1213
+      top: 823
+      bottom: 863
+  - text: |
+      m to WILLIAMS, Marianne
+      CROWL, Julia Mary
+    bounds:
+      left: 240
+      right: 1774
+      top: 824
+      bottom: 915
+  - text: '09.03.1964
+
+'
+    bounds:
+      left: 905
+      right: 1080
+      top: 874
+      bottom: 912
+  - text: |
+      90
+      DAVIES, Christopher Pearson
+    bounds:
+      left: 1172
+      right: 1838
+      top: 874
+      bottom: 916
+  - text: '11.11.1849
+
+'
+    bounds:
+      left: 1951
+      right: 2126
+      top: 876
+      bottom: 914
+  - text: |
+      218
+      m to BARTON, Richard Mark
+    bounds:
+      left: 307
+      right: 2261
+      top: 876
+      bottom: 964
+  - text: |
+      m to WILLIAMS, Mary Anne
+      CRUM, David Gordon
+    bounds:
+      left: 245
+      right: 1809
+      top: 924
+      bottom: 1012
+  - text: |
+      08.12.1960
+      DAVIES, Christopher Todd
+    bounds:
+      left: 904
+      right: 1794
+      top: 964
+      bottom: 1019
+  - text: '24.09.1950
+
+'
+    bounds:
+      left: 1949
+      right: 2129
+      top: 974
+      bottom: 1010
+  - text: |
+      191
+      m to CORKILL, Alison Maclean
+    bounds:
+      left: 308
+      right: 2261
+      top: 976
+      bottom: 1064
+  - text: |
+      m to FLEET, Susan
+      CRUM, Elizabeth Alison
+    bounds:
+      left: 245
+      right: 1648
+      top: 1023
+      bottom: 1112
+  - text: '10.08.1991
+
+'
+    bounds:
+      left: 905
+      right: 1082
+      top: 1073
+      bottom: 1113
+  - text: |
+      544
+      DAVIES, Edith Race
+    bounds:
+      left: 1160
+      right: 1665
+      top: 1071
+      bottom: 1115
+  - text: '05.05.1890
+
+'
+    bounds:
+      left: 1954
+      right: 2129
+      top: 1071
+      bottom: 1113
+  - text: |
+      184
+      CRUM, Emma May
+    bounds:
+      left: 240
+      right: 2259
+      top: 1076
+      bottom: 1168
+  - text: '28.01.1989
+
+'
+    bounds:
+      left: 905
+      right: 1080
+      top: 1124
+      bottom: 1162
+  - text: '543
+
+'
+    bounds:
+      left: 1161
+      right: 1213
+      top: 1124
+      bottom: 1162
+  - text: |
+      m to MILLER, Harold Gladstone
+      CRUM, Georgina Mary
+    bounds:
+      left: 245
+      right: 1860
+      top: 1122
+      bottom: 1219
+  - text: '23.11.1993
+
+'
+    bounds:
+      left: 904
+      right: 1081
+      top: 1172
+      bottom: 1212
+  - text: |
+      544
+      DAVIES, Eileen Pearson
+    bounds:
+      left: 1160
+      right: 1731
+      top: 1169
+      bottom: 1215
+  - text: '10.08.1884
+
+'
+    bounds:
+      left: 1954
+      right: 2128
+      top: 1173
+      bottom: 1213
+  - text: |
+      218
+      CULLEN, Claire Marjorie
+    bounds:
+      left: 241
+      right: 2262
+      top: 1176
+      bottom: 1267
+  - text: '01.08.1936
+
+'
+    bounds:
+      left: 904
+      right: 1079
+      top: 1221
+      bottom: 1263
+  - text: |
+      529
+      DAVIES, Eliza Pearson
+    bounds:
+      left: 1162
+      right: 1711
+      top: 1219
+      bottom: 1265
+  - text: '27.10.1860
+
+'
+    bounds:
+      left: 1951
+      right: 2131
+      top: 1222
+      bottom: 1262
+  - text: |
+      223
+      m to MACLEAN, John Raglan
+    bounds:
+      left: 310
+      right: 2261
+      top: 1224
+      bottom: 1316
+  - text: 'DAVIES, Elizabeth
+
+'
+    bounds:
+      left: 1281
+      right: 1636
+      top: 1268
+      bottom: 1315
+  - text: '09.08.1991
+
+'
+    bounds:
+      left: 1954
+      right: 2127
+      top: 1272
+      bottom: 1308
+  - text: |
+      191
+      CURRIE, Daniel Ross
+    bounds:
+      left: 245
+      right: 2264
+      top: 1276
+      bottom: 1367
+  - text: '08.05.1979
+
+'
+    bounds:
+      left: 909
+      right: 1079
+      top: 1321
+      bottom: 1361
+  - text: |
+      541
+      DAVIES, Emma Caitlin
+    bounds:
+      left: 1160
+      right: 1727
+      top: 1300
+      bottom: 1387
+  - text: '21.04.1997
+
+'
+    bounds:
+      left: 1951
+      right: 2130
+      top: 1323
+      bottom: 1361
+  - text: |
+      573
+      CURRIE, Elizabeth Anne
+    bounds:
+      left: 245
+      right: 2261
+      top: 1324
+      bottom: 1412
+  - text: |
+      29.12.1953
+      540 DAVIES, Ethleen Rose
+    bounds:
+      left: 904
+      right: 1701
+      top: 1372
+      bottom: 1415
+  - text: '28.07.1885
+
+'
+    bounds:
+      left: 1954
+      right: 2127
+      top: 1372
+      bottom: 1408
+  - text: |
+      184
+      m to BURTON, Robert William
+    bounds:
+      left: 308
+      right: 2265
+      top: 1376
+      bottom: 1464
+  - text: 'DAVIES, Freda Lilian
+
+'
+    bounds:
+      left: 1285
+      right: 1693
+      top: 1420
+      bottom: 1463
+  - text: '21.11.1885
+
+'
+    bounds:
+      left: 1956
+      right: 2125
+      top: 1424
+      bottom: 1462
+  - text: |
+      218
+      CURRIE, Emma Lynn
+    bounds:
+      left: 246
+      right: 2265
+      top: 1426
+      bottom: 1514
+  - text: '02.03.1982
+
+'
+    bounds:
+      left: 909
+      right: 1079
+      top: 1473
+      bottom: 1513
+  - text: '541
+
+'
+    bounds:
+      left: 1164
+      right: 1214
+      top: 1474
+      bottom: 1509
+  - text: |
+      m to DODGSHUN, Gordon Mawley
+      CURRIE, George William
+    bounds:
+      left: 243
+      right: 1913
+      top: 1472
+      bottom: 1567
+  - text: '19.02.1878
+
+'
+    bounds:
+      left: 908
+      right: 1081
+      top: 1521
+      bottom: 1563
+  - text: |
+      533
+      DAVIES, George Henry
+    bounds:
+      left: 1160
+      right: 1724
+      top: 1521
+      bottom: 1565
+  - text: '25.01.1844
+
+'
+    bounds:
+      left: 1954
+      right: 2127
+      top: 1520
+      bottom: 1563
+  - text: |
+      177
+      m to MACLEAN, Margaret Elizabeth
+    bounds:
+      left: 309
+      right: 2265
+      top: 1522
+      bottom: 1615
+  - text: |
+      m to GODFREY, Rose Alma
+      CURRIE, Jean Elizabeth
+    bounds:
+      left: 240
+      right: 1794
+      top: 1571
+      bottom: 1669
+  - text: |
+      08.05.1910
+      535 DAVIES, George Neville
+    bounds:
+      left: 910
+      right: 1730
+      top: 1619
+      bottom: 1665
+  - text: '20.09.1921
+
+'
+    bounds:
+      left: 1955
+      right: 2129
+      top: 1620
+      bottom: 1663
+  - text: |
+      190
+      m to SYME, David Atkin
+    bounds:
+      left: 308
+      right: 2262
+      top: 1622
+      bottom: 1714
+  - text: |
+      m to TODD, Valerie Ethel
+      CURRIE, Joyce Bertha Earle
+    bounds:
+      left: 243
+      right: 1758
+      top: 1669
+      bottom: 1767
+  - text: '14.12.1912
+
+'
+    bounds:
+      left: 910
+      right: 1080
+      top: 1722
+      bottom: 1762
+  - text: |
+      537 DAVIES, George William
+      m to SHERRIFF, Dudley Albert
+    bounds:
+      left: 310
+      right: 1760
+      top: 1720
+      bottom: 1814
+  - text: 'Godfrey
+
+'
+    bounds:
+      left: 1347
+      right: 1486
+      top: 1772
+      bottom: 1813
+  - text: '18.07.1882
+
+'
+    bounds:
+      left: 1956
+      right: 2126
+      top: 1770
+      bottom: 1810
+  - text: |
+      178
+      CURRIE, Leslie Pamela
+    bounds:
+      left: 245
+      right: 2262
+      top: 1768
+      bottom: 1864
+  - text: '23.04.1924
+
+'
+    bounds:
+      left: 909
+      right: 1084
+      top: 1822
+      bottom: 1860
+  - text: |
+      m to KELLY, Nora Creina
+      CURRIE, Margaret Isobel
+    bounds:
+      left: 245
+      right: 1764
+      top: 1820
+      bottom: 1916
+  - text: |
+      29.08.1908
+      533 DAVIES, Gwen Rosemary Alma
+    bounds:
+      left: 909
+      right: 1878
+      top: 1869
+      bottom: 1912
+  - text: '01.09.1923
+
+'
+    bounds:
+      left: 1956
+      right: 2126
+      top: 1868
+      bottom: 1908
+  - text: |
+      178
+      m to BLYTH, Harrison David
+    bounds:
+      left: 310
+      right: 2268
+      top: 1870
+      bottom: 1964
+  - text: |
+      m to ARNOLD, Edgar Lamson Jnr
+      CURRIE, Neil Robert
+    bounds:
+      left: 243
+      right: 1894
+      top: 1922
+      bottom: 2015
+  - text: '17.11.1955
+
+'
+    bounds:
+      left: 907
+      right: 1084
+      top: 1971
+      bottom: 2011
+  - text: |
+      541
+      DAVIES, Gwen Temple
+    bounds:
+      left: 1162
+      right: 1717
+      top: 1964
+      bottom: 2015
+  - text: '12.06.1887
+
+'
+    bounds:
+      left: 1958
+      right: 2132
+      top: 1970
+      bottom: 2008
+  - text: |
+      184
+      CURRIE, Paul Timothy
+    bounds:
+      left: 244
+      right: 2265
+      top: 1970
+      bottom: 2067
+  - text: '15.12.1980
+
+'
+    bounds:
+      left: 910
+      right: 1085
+      top: 2020
+      bottom: 2060
+  - text: |
+      541
+      DAVIES, Helen Rose
+    bounds:
+      left: 1162
+      right: 1670
+      top: 2017
+      bottom: 2063
+  - text: '24.01.1925
+
+'
+    bounds:
+      left: 1955
+      right: 2127
+      top: 2017
+      bottom: 2057
+  - text: |
+      192
+      CURRIE, Robert George
+    bounds:
+      left: 243
+      right: 2265
+      top: 2018
+      bottom: 2115
+  - text: |
+      m to VICKERMAN, John D'Arcy
+      Manson (Robin)
+    bounds:
+      left: 312
+      right: 1880
+      top: 2070
+      bottom: 2167
+  - text: |
+      18.01.1918 540
+      DAVIES, Henry
+    bounds:
+      left: 909
+      right: 1583
+      top: 2117
+      bottom: 2161
+  - text: |
+      198
+      m to (1)POWER, Marie Willamere
+    bounds:
+      left: 313
+      right: 2269
+      top: 2118
+      bottom: 2215
+  - text: 'DAVIES, Henry
+
+'
+    bounds:
+      left: 1291
+      right: 1584
+      top: 2168
+      bottom: 2211
+  - text: '19.08.1845
+
+'
+    bounds:
+      left: 1957
+      right: 2132
+      top: 2168
+      bottom: 2206
+  - text: |
+      198
+      CURRIE, Robert George
+    bounds:
+      left: 245
+      right: 2267
+      top: 2168
+      bottom: 2264
+  - text: 'DAVIES, Ian Godfrey
+
+'
+    bounds:
+      left: 1289
+      right: 1691
+      top: 2216
+      bottom: 2263
+  - text: '18.01.1925
+
+'
+    bounds:
+      left: 1956
+      right: 2132
+      top: 2217
+      bottom: 2256
+  - text: |
+      179
+      Manson (Robin)
+    bounds:
+      left: 317
+      right: 2265
+      top: 2218
+      bottom: 2316
+  - text: '18.01.1918 541
+
+'
+    bounds:
+      left: 908
+      right: 1219
+      top: 2268
+      bottom: 2311
+  - text: |
+      m to COOK, Daphne
+      m to (2)GRAY, Patricia Isabel
+    bounds:
+      left: 312
+      right: 1674
+      top: 2268
+      bottom: 2364
+  - text: 'DAVIES, Isla Yasmin
+
+'
+    bounds:
+      left: 1291
+      right: 1684
+      top: 2316
+      bottom: 2358
+  - text: '07.02.1995
+
+'
+    bounds:
+      left: 1960
+      right: 2129
+      top: 2313
+      bottom: 2355
+  - text: |
+      574
+      CURRIE, Ross William
+    bounds:
+      left: 249
+      right: 2269
+      top: 2316
+      bottom: 2414
+  - text: |
+      09.12.1957
+      DAVIES, James Pearson (Jim)
+    bounds:
+      left: 910
+      right: 1847
+      top: 2365
+      bottom: 2410
+  - text: |
+      18.01.1927
+      m to FENNAMAN, Donna Lyn
+    bounds:
+      left: 314
+      right: 2134
+      top: 2366
+      bottom: 2464
+  - text: |
+      m to HALSE, Loeta
+      CURRIE, Vicki Margaret
+    bounds:
+      left: 245
+      right: 1658
+      top: 2418
+      bottom: 2514
+  - text: '01.05.1984
+
+'
+    bounds:
+      left: 913
+      right: 1088
+      top: 2472
+      bottom: 2510
+  - text: '541
+
+'
+    bounds:
+      left: 1168
+      right: 1222
+      top: 2472
+      bottom: 2506
+  - text: |
+      DAVIES, John Douglas
+      CURTIS, Ann Constable
+    bounds:
+      left: 249
+      right: 1719
+      top: 2467
+      bottom: 2563
+  - text: '26.01.1937
+
+'
+    bounds:
+      left: 913
+      right: 1088
+      top: 2519
+      bottom: 2559
+  - text: |
+      246
+      Geoffrey
+    bounds:
+      left: 1170
+      right: 1507
+      top: 2515
+      bottom: 2560
+  - text: '03.02.1926
+
+'
+    bounds:
+      left: 1961
+      right: 2136
+      top: 2513
+      bottom: 2553
+  - text: |
+      180
+      m to McBAIN, John Hubert
+    bounds:
+      left: 314
+      right: 2269
+      top: 2512
+      bottom: 2615
+  - text: |
+      m to HARRIS, Gertrude Melba Elizabeth
+      Da COSTA, Christianne
+    bounds:
+      left: 253
+      right: 1993
+      top: 2563
+      bottom: 2663
+  - text: '13.11.1967
+
+'
+    bounds:
+      left: 914
+      right: 1087
+      top: 2620
+      bottom: 2656
+  - text: |
+      321
+      DAVIES, John Godfrey
+    bounds:
+      left: 1172
+      right: 1724
+      top: 2616
+      bottom: 2659
+  - text: '17.11.1952
+
+'
+    bounds:
+      left: 1959
+      right: 2136
+      top: 2613
+      bottom: 2653
+  - text: |
+      182
+      m to BRANCH, Robert Henry
+    bounds:
+      left: 316
+      right: 2271
+      top: 2614
+      bottom: 2714
+  - text: |
+      m to (1)MATHEWS, Deborah
+      DALY, Moira Margaret
+    bounds:
+      left: 251
+      right: 1825
+      top: 2665
+      bottom: 2762
+  - text: |
+      104
+      DAVIES, John Godfrey
+    bounds:
+      left: 1170
+      right: 1723
+      top: 2715
+      bottom: 2759
+  - text: |
+      17.11.1952
+      m to REED, Robin Standish
+    bounds:
+      left: 315
+      right: 2136
+      top: 2714
+      bottom: 2812
+  - text: |
+      m to (2)HICKS, Lynda Carmen
+      DALZIELL, Kathleen Kelly
+    bounds:
+      left: 251
+      right: 1846
+      top: 2765
+      bottom: 2863
+  - text: '22.09.1906
+
+'
+    bounds:
+      left: 915
+      right: 1088
+      top: 2817
+      bottom: 2863
+  - text: |
+      626
+      DAVIES, John William
+    bounds:
+      left: 1173
+      right: 1731
+      top: 2812
+      bottom: 2859
+  - text: |
+      12.08.1952
+      m to WILLIAMS, Barnabas Wilder (Barney)
+    bounds:
+      left: 316
+      right: 2136
+      top: 2814
+      bottom: 2912
+  - text: 'DAVIES, Judy
+
+'
+    bounds:
+      left: 1295
+      right: 1566
+      top: 2864
+      bottom: 2907
+  - text: |
+      03.05.1960
+      DARVAS, Katherine Ann
+    bounds:
+      left: 249
+      right: 2135
+      top: 2863
+      bottom: 2962
+  - text: '24.10.1965
+
+'
+    bounds:
+      left: 918
+      right: 1085
+      top: 2917
+      bottom: 2959
+  - text: '632
+
+'
+    bounds:
+      left: 1174
+      right: 1229
+      top: 2920
+      bottom: 2954
+  - text: |
+      m to RAINEY, Jonathan Barton
+      m to HUNT, Andrew James
+    bounds:
+      left: 315
+      right: 1855
+      top: 2913
+      bottom: 3018
+  - text: |
+      DAVIES, Kathleen Edith
+      DARWIN, Bruce William
+    bounds:
+      left: 253
+      right: 1755
+      top: 2964
+      bottom: 3063
+  - text: '20.08.1960
+
+'
+    bounds:
+      left: 916
+      right: 1093
+      top: 3018
+      bottom: 3058
+  - text: |
+      160
+      Rosalie
+    bounds:
+      left: 1172
+      right: 1482
+      top: 3017
+      bottom: 3057
+  - text: |
+      03.02.1926 183
+      m to HARVISON, Linda Christine
+    bounds:
+      left: 316
+      right: 2271
+      top: 3012
+      bottom: 3112
+  - text: |
+      m to BOARD, Timothy
+      DARWIN, Claire Louise
+    bounds:
+      left: 250
+      right: 1714
+      top: 3065
+      bottom: 3162
+  - text: |
+      30.09.1994
+      160 DAVIES, Kathleen Heathcote
+    bounds:
+      left: 917
+      right: 1835
+      top: 3114
+      bottom: 3157
+  - text: '28.11.1857
+
+'
+    bounds:
+      left: 1965
+      right: 2140
+      top: 3114
+      bottom: 3152
+  - text: |
+      223
+      DARWIN, Helen Elizabeth
+    bounds:
+      left: 254
+      right: 2273
+      top: 3112
+      bottom: 3212
+  - text: |
+      22.05.1990
+      160 DAVIES, Kathleen Rosemary
+    bounds:
+      left: 919
+      right: 1836
+      top: 3160
+      bottom: 3211
+  - text: '17.03.1949
+
+'
+    bounds:
+      left: 1967
+      right: 2142
+      top: 3164
+      bottom: 3202
+  - text: |
+      181
+      DAVENPORT, Moya Tiare
+    bounds:
+      left: 249
+      right: 2277
+      top: 3166
+      bottom: 3265
+  - text: '18.03.1952
+
+'
+    bounds:
+      left: 919
+      right: 1091
+      top: 3219
+      bottom: 3259
+  - text: '492
+
+'
+    bounds:
+      left: 1176
+      right: 1231
+      top: 3215
+      bottom: 3257
+  - text: |
+      m to (1)McCORMACK, David Ian
+      m to GRAY, Peter David Kenneth
+    bounds:
+      left: 315
+      right: 1899
+      top: 3208
+      bottom: 3326
+  - text: '669
+
+'
+    bounds:
+      left: 1220
+      right: 1297
+      top: 3306
+      bottom: 3360
+- paragraphs:
+  - text: '541
+
+'
+    bounds:
+      left: 1166
+      right: 1219
+      top: 1823
+      bottom: 1858
+- paragraphs:
+  - text: "********\n"
+    bounds:
+      left: 1956
+      right: 2130
+      top: 2120
+      bottom: 2143
+- paragraphs:
+  - text: '541
+
+'
+    bounds:
+      left: 1169
+      right: 1224
+      top: 2368
+      bottom: 2411
+- paragraphs:
+  - text: '195
+
+'
+    bounds:
+      left: 2217
+      right: 2269
+      top: 2363
+      bottom: 2402
+- paragraphs:
+  - text: "********\n"
+    bounds:
+      left: 922
+      right: 1079
+      top: 2720
+      bottom: 2745
+- paragraphs:
+  - text: '182
+
+'
+    bounds:
+      left: 2217
+      right: 2269
+      top: 2712
+      bottom: 2750
+- paragraphs:
+  - text: |
+      191
+      574
+    bounds:
+      left: 2217
+      right: 2279
+      top: 2813
+      bottom: 2901

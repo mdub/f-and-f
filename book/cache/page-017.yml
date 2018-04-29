@@ -1,0 +1,75 @@
+---
+blocks:
+- paragraphs:
+  - text: 'TE :
+
+'
+    bounds:
+      left: 582
+      right: 659
+      top: 1120
+      bottom: 1139
+- paragraphs:
+  - text: "::::*\n"
+    bounds:
+      left: 1012
+      right: 1040
+      top: 1146
+      bottom: 1160
+- paragraphs:
+  - text: "\"..':'.\n"
+    bounds:
+      left: 1331
+      right: 1339
+      top: 1235
+      bottom: 1259
+- paragraphs:
+  - text: "*.... :::\n"
+    bounds:
+      left: 1881
+      right: 1937
+      top: 1301
+      bottom: 1309
+- paragraphs:
+  - text: |
+      Photo of portrait; Auckland Museum Library
+      John Wright, great-grandfather of Marianne Williams
+    bounds:
+      left: 451
+      right: 1292
+      top: 1423
+      bottom: 1490
+- paragraphs:
+  - text: ":A\n"
+    bounds:
+      left: 771
+      right: 803
+      top: 2172
+      bottom: 2194
+- paragraphs:
+  - text: |
+      Photo of portrait; Auckland Museum Library
+      Dorothy Coldham, grandmother of Marianne Williams
+    bounds:
+      left: 1434
+      right: 2251
+      top: 2212
+      bottom: 2284
+- paragraphs:
+  - text: 'WWW.WIKANG ROMAWR
+
+'
+    bounds:
+      left: 347
+      right: 361
+      top: 2978
+      bottom: 3155
+- paragraphs:
+  - text: |
+      Photo of portrait; Auckland Museum Library
+      Wright Coldham, father of Marianne Williams
+    bounds:
+      left: 549
+      right: 1352
+      top: 3178
+      bottom: 3249

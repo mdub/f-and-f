@@ -1,0 +1,1376 @@
+---
+blocks:
+- paragraphs:
+  - text: 'ur
+
+'
+    bounds:
+      left: 758
+      right: 792
+      top: 221
+      bottom: 255
+- paragraphs:
+  - text: "** **\n"
+    bounds:
+      left: 913
+      right: 987
+      top: 313
+      bottom: 334
+- paragraphs:
+  - text: '515
+
+'
+    bounds:
+      left: 2205
+      right: 2261
+      top: 412
+      bottom: 453
+- paragraphs:
+  - text: "** **\n"
+    bounds:
+      left: 913
+      right: 986
+      top: 662
+      bottom: 684
+- paragraphs:
+  - text: '367
+
+'
+    bounds:
+      left: 1157
+      right: 1212
+      top: 706
+      bottom: 750
+- paragraphs:
+  - text: "********\n"
+    bounds:
+      left: 1957
+      right: 2114
+      top: 714
+      bottom: 736
+- paragraphs:
+  - text: "** ** ****\n"
+    bounds:
+      left: 1957
+      right: 2123
+      top: 814
+      bottom: 835
+- paragraphs:
+  - text: '295
+
+'
+    bounds:
+      left: 1157
+      right: 1211
+      top: 956
+      bottom: 999
+- paragraphs:
+  - text: 'ARNOLD, Edgar Lamson Jnr
+
+'
+    bounds:
+      left: 239
+      right: 785
+      top: 202
+      bottom: 248
+  - text: '10.08.1915
+
+'
+    bounds:
+      left: 904
+      right: 1078
+      top: 209
+      bottom: 245
+  - text: |
+      178
+      AVERY, Norman Alfred
+    bounds:
+      left: 1158
+      right: 1733
+      top: 208
+      bottom: 250
+  - text: '01.12.1898
+
+'
+    bounds:
+      left: 1946
+      right: 2122
+      top: 212
+      bottom: 252
+  - text: |
+      229
+      m to DAVIES, Gwen Rosemary Alma
+    bounds:
+      left: 310
+      right: 2262
+      top: 216
+      bottom: 300
+  - text: |
+      m to WILLIAMS, Esther Margarita
+      ARNOLD, Gigi
+    bounds:
+      left: 240
+      right: 1892
+      top: 260
+      bottom: 353
+  - text: |
+      ** **, 1969 178
+      AVERY, Peter
+    bounds:
+      left: 907
+      right: 1548
+      top: 308
+      bottom: 351
+  - text: '31.07.1962
+
+'
+    bounds:
+      left: 1948
+      right: 2120
+      top: 312
+      bottom: 348
+  - text: |
+      231
+      m to WOODARD, ??
+    bounds:
+      left: 307
+      right: 2260
+      top: 317
+      bottom: 399
+  - text: 'AVERY, Philip
+
+'
+    bounds:
+      left: 1279
+      right: 1558
+      top: 357
+      bottom: 402
+  - text: '29.11.1966
+
+'
+    bounds:
+      left: 1948
+      right: 2125
+      top: 359
+      bottom: 402
+  - text: |
+      231
+      ARNOLD, Kattlyn
+    bounds:
+      left: 242
+      right: 2261
+      top: 366
+      bottom: 451
+  - text: "** **, 1987\n"
+    bounds:
+      left: 910
+      right: 1076
+      top: 406
+      bottom: 445
+  - text: |
+      178
+      AWDRY, Mildred Ethel
+    bounds:
+      left: 1159
+      right: 1719
+      top: 407
+      bottom: 452
+  - text: |
+      22.03.1893
+      ARNOLD, Laurence Edward
+    bounds:
+      left: 241
+      right: 2123
+      top: 409
+      bottom: 498
+  - text: '05.07.1947
+
+'
+    bounds:
+      left: 905
+      right: 1081
+      top: 460
+      bottom: 498
+  - text: '178
+
+'
+    bounds:
+      left: 1156
+      right: 1217
+      top: 459
+      bottom: 495
+  - text: |
+      m to MACLEAN, William Haydon
+      m to (1)??, Dorian
+    bounds:
+      left: 307
+      right: 1887
+      top: 460
+      bottom: 551
+  - text: 'AYNSLEY, John Charles
+
+'
+    bounds:
+      left: 1279
+      right: 1741
+      top: 508
+      bottom: 550
+  - text: '20.02.1923
+
+'
+    bounds:
+      left: 1947
+      right: 2124
+      top: 511
+      bottom: 551
+  - text: |
+      336
+      ARNOLD, Laurence Edward
+    bounds:
+      left: 237
+      right: 2261
+      top: 514
+      bottom: 603
+  - text: '05.07.1947
+
+'
+    bounds:
+      left: 905
+      right: 1079
+      top: 558
+      bottom: 595
+  - text: '178
+
+'
+    bounds:
+      left: 1155
+      right: 1213
+      top: 559
+      bottom: 599
+  - text: |
+      m to KEMP, Morven Baith
+      m to (2)CIGRAND, Elizabeth
+    bounds:
+      left: 308
+      right: 1758
+      top: 559
+      bottom: 648
+  - text: 'AYNSLEY, Lindsay Cyril
+
+'
+    bounds:
+      left: 1278
+      right: 1752
+      top: 600
+      bottom: 656
+  - text: '26.01.1915
+
+'
+    bounds:
+      left: 1950
+      right: 2125
+      top: 609
+      bottom: 651
+  - text: |
+      336
+      ARNOLD, Nicholas
+    bounds:
+      left: 241
+      right: 2261
+      top: 614
+      bottom: 698
+  - text: "****.1983\n"
+    bounds:
+      left: 908
+      right: 1077
+      top: 657
+      bottom: 697
+  - text: '178
+
+'
+    bounds:
+      left: 1158
+      right: 1211
+      top: 660
+      bottom: 697
+  - text: |
+      m to KEMP, Morven Baith
+      ASCHE, Catherine Gillian
+    bounds:
+      left: 239
+      right: 1757
+      top: 660
+      bottom: 751
+  - text: |
+      06.09.1959
+      BACHALI, Colin
+    bounds:
+      left: 904
+      right: 1596
+      top: 707
+      bottom: 751
+  - text: |
+      492
+      m to LUDBROOK, Guy Lawrence
+    bounds:
+      left: 307
+      right: 2259
+      top: 712
+      bottom: 803
+  - text: |
+      m to GRAY, Felicity Elizabeth
+      ASHFORD, Eva Anne
+    bounds:
+      left: 242
+      right: 1817
+      top: 761
+      bottom: 849
+  - text: '25.08.1947
+
+'
+    bounds:
+      left: 901
+      right: 1076
+      top: 810
+      bottom: 848
+  - text: |
+      582
+      BAIN, Angus
+    bounds:
+      left: 1154
+      right: 1521
+      top: 804
+      bottom: 855
+  - text: |
+      628
+      m to HARVEY-WILLIAMS, Malcolm Richard
+    bounds:
+      left: 308
+      right: 2261
+      top: 810
+      bottom: 900
+  - text: |
+      m to DUCKWORTH, Andra Julia Mary
+      ASHLEY-WILSON, Camilla Jane 14.09.1968
+    bounds:
+      left: 236
+      right: 1962
+      top: 858
+      bottom: 950
+  - text: |
+      295 BAIRD, Jessie
+      ASHLEY-WILSON, Paul
+    bounds:
+      left: 237
+      right: 1542
+      top: 908
+      bottom: 999
+  - text: |
+      01.09.1970
+      Elizabeth (Betty)
+    bounds:
+      left: 905
+      right: 1638
+      top: 952
+      bottom: 1003
+  - text: '14.01.1903
+
+'
+    bounds:
+      left: 1949
+      right: 2124
+      top: 960
+      bottom: 998
+  - text: |
+      551
+      ASHLEY-WILSON, Roger
+    bounds:
+      left: 238
+      right: 2261
+      top: 960
+      bottom: 1052
+  - text: |
+      m to MACLEAN, Christopher Nelson
+      Richmond
+    bounds:
+      left: 303
+      right: 1938
+      top: 1010
+      bottom: 1099
+  - text: '26.09.1933
+
+'
+    bounds:
+      left: 903
+      right: 1078
+      top: 1058
+      bottom: 1096
+  - text: |
+      295
+      BAKER, Christine Helen
+    bounds:
+      left: 1157
+      right: 1734
+      top: 1056
+      bottom: 1099
+  - text: '09.05.1909
+
+'
+    bounds:
+      left: 1947
+      right: 2124
+      top: 1057
+      bottom: 1097
+  - text: |
+      576
+      m to WILLIAMS, Robyn Priscilla Gerard
+    bounds:
+      left: 308
+      right: 2261
+      top: 1060
+      bottom: 1148
+  - text: |
+      m to GARDINER, Sydney Reade
+      ASHTON, Seona Winifred
+    bounds:
+      left: 236
+      right: 1858
+      top: 1108
+      bottom: 1198
+  - text: |
+      26.09.1953
+      BAKER, Elizabeth Ann
+    bounds:
+      left: 905
+      right: 1713
+      top: 1156
+      bottom: 1199
+  - text: '19.04.1949
+
+'
+    bounds:
+      left: 1948
+      right: 2124
+      top: 1157
+      bottom: 1196
+  - text: |
+      107
+      m to HUTTON, Bruce
+    bounds:
+      left: 307
+      right: 2261
+      top: 1156
+      bottom: 1249
+  - text: |
+      m to HOLDEN, Roger Thomas
+      ATCHISON, Suzanne Joy
+    bounds:
+      left: 241
+      right: 1829
+      top: 1208
+      bottom: 1300
+  - text: |
+      12.01.1963 380
+      BAKER, Marie Noelene
+    bounds:
+      left: 905
+      right: 1723
+      top: 1254
+      bottom: 1299
+  - text: '19.09.1964
+
+'
+    bounds:
+      left: 1952
+      right: 2125
+      top: 1253
+      bottom: 1295
+  - text: |
+      197
+      m to LUDBROOK, Andrew Duncan
+    bounds:
+      left: 306
+      right: 2262
+      top: 1252
+      bottom: 1350
+  - text: |
+      m to BRAMLEY, Peter Rhys Ealand
+      ATKIN, Janet Ellen
+    bounds:
+      left: 238
+      right: 1914
+      top: 1307
+      bottom: 1398
+  - text: |
+      17.04.1930
+      556 BAKER, Peter de Bree
+    bounds:
+      left: 904
+      right: 1698
+      top: 1340
+      bottom: 1413
+  - text: |
+      16.12.1915 107
+      m to SEWELL, Kay William Warneford
+    bounds:
+      left: 308
+      right: 2259
+      top: 1356
+      bottom: 1450
+  - text: |
+      m to REED, Barbara Ann
+      ATTWOOD, John
+    bounds:
+      left: 241
+      right: 1741
+      top: 1406
+      bottom: 1501
+  - text: |
+      21.07.1922
+      156 BAKER, Sally Ruth
+    bounds:
+      left: 905
+      right: 1645
+      top: 1456
+      bottom: 1498
+  - text: '08.07.1950
+
+'
+    bounds:
+      left: 1951
+      right: 2126
+      top: 1458
+      bottom: 1496
+  - text: |
+      107
+      m to DISBROWE, Pamela Lois
+    bounds:
+      left: 307
+      right: 2264
+      top: 1452
+      bottom: 1549
+  - text: |
+      m to BERRY, Richard John
+      AUBREY, Casey William
+    bounds:
+      left: 240
+      right: 1776
+      top: 1506
+      bottom: 1603
+  - text: |
+      05.01.1978
+      BAKER, Wilson
+    bounds:
+      left: 905
+      right: 1582
+      top: 1556
+      bottom: 1599
+  - text: '17.04.1940
+
+'
+    bounds:
+      left: 1951
+      right: 2126
+      top: 1556
+      bottom: 1594
+  - text: |
+      134
+      AUBREY, Chanelle Sarah
+    bounds:
+      left: 234
+      right: 2261
+      top: 1556
+      bottom: 1651
+  - text: '20.08.1982
+
+'
+    bounds:
+      left: 905
+      right: 1080
+      top: 1608
+      bottom: 1646
+  - text: '341
+
+'
+    bounds:
+      left: 1157
+      right: 1211
+      top: 1608
+      bottom: 1646
+  - text: |
+      m to BESTEBREURTJE, Mary Anne
+      AUBREY, Melanie Louise
+    bounds:
+      left: 239
+      right: 1927
+      top: 1606
+      bottom: 1699
+  - text: '28.08.1979
+
+'
+    bounds:
+      left: 904
+      right: 1081
+      top: 1656
+      bottom: 1696
+  - text: |
+      341
+      BALL, Marion Helena
+    bounds:
+      left: 1160
+      right: 1695
+      top: 1654
+      bottom: 1696
+  - text: '06.01.1956
+
+'
+    bounds:
+      left: 1951
+      right: 2128
+      top: 1653
+      bottom: 1693
+  - text: |
+      579
+      AUBREY, Peter Robert
+    bounds:
+      left: 239
+      right: 2264
+      top: 1654
+      bottom: 1751
+  - text: '12.04.1954
+
+'
+    bounds:
+      left: 908
+      right: 1082
+      top: 1708
+      bottom: 1746
+  - text: '340
+
+'
+    bounds:
+      left: 1163
+      right: 1217
+      top: 1708
+      bottom: 1746
+  - text: |
+      m to WILLIAMS, Richard John Harvey
+      m to KEMP, Louise Janet
+    bounds:
+      left: 308
+      right: 1966
+      top: 1705
+      bottom: 1800
+  - text: 'BALUCH, Susan Beth
+
+'
+    bounds:
+      left: 1287
+      right: 1688
+      top: 1753
+      bottom: 1796
+  - text: |
+      27.12.1964
+      AUBREY, Timothy Robert
+    bounds:
+      left: 239
+      right: 2128
+      top: 1755
+      bottom: 1848
+  - text: '04.07.1975
+
+'
+    bounds:
+      left: 909
+      right: 1079
+      top: 1805
+      bottom: 1845
+  - text: '341
+
+'
+    bounds:
+      left: 1162
+      right: 1215
+      top: 1808
+      bottom: 1845
+  - text: |
+      m to CROSSE, Robert Oliver Courtenay
+      AUSTIN, Anna Clementine
+    bounds:
+      left: 239
+      right: 1971
+      top: 1804
+      bottom: 1903
+  - text: |
+      21.02.1967
+      BANFIELD, Mary
+    bounds:
+      left: 906
+      right: 1629
+      top: 1853
+      bottom: 1896
+  - text: |
+      381
+      m to VIVIAN, Richard Anthony Hussey
+    bounds:
+      left: 308
+      right: 2264
+      top: 1854
+      bottom: 1950
+  - text: |
+      and AVERILL, Morris Hanson
+      AUSTIN-SMITH, Susan
+    bounds:
+      left: 241
+      right: 1831
+      top: 1904
+      bottom: 1999
+  - text: '18.10.1946
+
+'
+    bounds:
+      left: 905
+      right: 1082
+      top: 1957
+      bottom: 1997
+  - text: '534
+
+'
+    bounds:
+      left: 1161
+      right: 1215
+      top: 1951
+      bottom: 1993
+  - text: |
+      BANKS, Barbara Susan
+      m to BLYTH, James William
+    bounds:
+      left: 308
+      right: 1726
+      top: 1953
+      bottom: 2048
+  - text: "(Tosti)\n"
+    bounds:
+      left: 1343
+      right: 1459
+      top: 2004
+      bottom: 2045
+  - text: '19.03.1914
+
+'
+    bounds:
+      left: 1951
+      right: 2126
+      top: 1999
+      bottom: 2041
+  - text: |
+      385
+      AVERILL, George
+    bounds:
+      left: 240
+      right: 2262
+      top: 2001
+      bottom: 2099
+  - text: |
+      m to LUDBROOK, Kenneth William
+      Rochford Hanson
+    bounds:
+      left: 305
+      right: 1918
+      top: 2052
+      bottom: 2148
+  - text: '02.01.1927
+
+'
+    bounds:
+      left: 906
+      right: 1083
+      top: 2104
+      bottom: 2144
+  - text: |
+      381
+      BANNISTER, Dorothy Margot
+    bounds:
+      left: 1166
+      right: 1854
+      top: 2101
+      bottom: 2145
+  - text: '24.11.1957
+
+'
+    bounds:
+      left: 1952
+      right: 2133
+      top: 2099
+      bottom: 2141
+  - text: |
+      103
+      m to LUDBROOK, Caroline
+    bounds:
+      left: 310
+      right: 2264
+      top: 2103
+      bottom: 2198
+  - text: |
+      m to GOODIN, Steven Jeffrey
+      AVERILL, Hannah Dorothy
+    bounds:
+      left: 242
+      right: 1814
+      top: 2152
+      bottom: 2251
+  - text: '23.10.1990
+
+'
+    bounds:
+      left: 912
+      right: 1081
+      top: 2206
+      bottom: 2244
+  - text: |
+      382
+      BANNISTER, Eva Jane
+    bounds:
+      left: 1163
+      right: 1723
+      top: 2201
+      bottom: 2247
+  - text: '19.07.1956
+
+'
+    bounds:
+      left: 1956
+      right: 2130
+      top: 2201
+      bottom: 2237
+  - text: |
+      103
+      AVERILL, Marion Caroline
+    bounds:
+      left: 241
+      right: 2267
+      top: 2200
+      bottom: 2298
+  - text: '10.12.1958
+
+'
+    bounds:
+      left: 910
+      right: 1085
+      top: 2256
+      bottom: 2293
+  - text: '382
+
+'
+    bounds:
+      left: 1166
+      right: 1219
+      top: 2256
+      bottom: 2293
+  - text: |
+      m to PATTERSON, Owen Jack (Owie)
+      AVERILL, Morris Hanson
+    bounds:
+      left: 242
+      right: 1958
+      top: 2251
+      bottom: 2351
+  - text: '03.07.1956
+
+'
+    bounds:
+      left: 914
+      right: 1084
+      top: 2306
+      bottom: 2344
+  - text: '381
+
+'
+    bounds:
+      left: 1163
+      right: 1221
+      top: 2305
+      bottom: 2345
+  - text: |
+      BANNISTER, Martin
+      and BANFIELD, Mary
+    bounds:
+      left: 293
+      right: 1689
+      top: 2299
+      bottom: 2404
+  - text: 'Hursthouse
+
+'
+    bounds:
+      left: 1351
+      right: 1550
+      top: 2353
+      bottom: 2393
+  - text: '20.04.1922
+
+'
+    bounds:
+      left: 1956
+      right: 2132
+      top: 2345
+      bottom: 2390
+  - text: |
+      102
+      AVERILL, Nina Margareta
+    bounds:
+      left: 242
+      right: 2266
+      top: 2352
+      bottom: 2449
+  - text: '01.08.1997
+
+'
+    bounds:
+      left: 914
+      right: 1088
+      top: 2406
+      bottom: 2444
+  - text: '382
+
+'
+    bounds:
+      left: 1167
+      right: 1221
+      top: 2406
+      bottom: 2444
+  - text: |
+      m to BURNETT, Peggie Patience
+      AVERILL, Samuel Rochford
+    bounds:
+      left: 245
+      right: 1870
+      top: 2401
+      bottom: 2499
+  - text: '24.08.1961
+
+'
+    bounds:
+      left: 911
+      right: 1086
+      top: 2456
+      bottom: 2494
+  - text: |
+      382
+      BARCLAY, Nicholas Peter
+    bounds:
+      left: 1168
+      right: 1783
+      top: 2444
+      bottom: 2495
+  - text: '08.05.1997
+
+'
+    bounds:
+      left: 1962
+      right: 2132
+      top: 2447
+      bottom: 2490
+  - text: |
+      294
+      m to ROBINSON, Belinda Eleanor
+    bounds:
+      left: 312
+      right: 2269
+      top: 2448
+      bottom: 2548
+  - text: 'BARCLAY, Warren Ross
+
+'
+    bounds:
+      left: 1289
+      right: 1756
+      top: 2500
+      bottom: 2543
+  - text: |
+      23.04.1965
+      AVERILL, Sarah Lucy
+    bounds:
+      left: 240
+      right: 2131
+      top: 2497
+      bottom: 2599
+  - text: '13.11.1985
+
+'
+    bounds:
+      left: 911
+      right: 1086
+      top: 2554
+      bottom: 2592
+  - text: |
+      m to WILLIAMS, Kirsty Ruth
+      AVERILL, Thomas Graham
+    bounds:
+      left: 245
+      right: 1815
+      top: 2546
+      bottom: 2652
+  - text: 'BARKER, Gabriel Zach
+
+'
+    bounds:
+      left: 1294
+      right: 1736
+      top: 2600
+      bottom: 2642
+  - text: '16.04.1980
+
+'
+    bounds:
+      left: 1955
+      right: 2131
+      top: 2597
+      bottom: 2637
+  - text: |
+      556
+      Rochford
+    bounds:
+      left: 307
+      right: 2267
+      top: 2596
+      bottom: 2695
+  - text: '07.09.1983
+
+'
+    bounds:
+      left: 912
+      right: 1087
+      top: 2651
+      bottom: 2693
+  - text: |
+      381
+      BARKER, George Temple
+    bounds:
+      left: 1167
+      right: 1771
+      top: 2644
+      bottom: 2695
+  - text: '22.07.1924
+
+'
+    bounds:
+      left: 1962
+      right: 2137
+      top: 2648
+      bottom: 2686
+  - text: |
+      555
+      AVERILL, Timothy Rochford
+    bounds:
+      left: 249
+      right: 2267
+      top: 2648
+      bottom: 2747
+  - text: '07.09.1954
+
+'
+    bounds:
+      left: 916
+      right: 1086
+      top: 2704
+      bottom: 2738
+  - text: '381
+
+'
+    bounds:
+      left: 1169
+      right: 1223
+      top: 2704
+      bottom: 2739
+  - text: |
+      m to SEWELL, Marie Vera
+      m to GRAHAM, Susan Fay
+    bounds:
+      left: 311
+      right: 1778
+      top: 2696
+      bottom: 2799
+  - text: 'BARKER, Janet Leslie
+
+'
+    bounds:
+      left: 1295
+      right: 1714
+      top: 2748
+      bottom: 2791
+  - text: '27.08.1939
+
+'
+    bounds:
+      left: 1958
+      right: 2133
+      top: 2743
+      bottom: 2785
+  - text: |
+      204
+      AVERILL, William
+    bounds:
+      left: 245
+      right: 2271
+      top: 2746
+      bottom: 2844
+  - text: |
+      m to DONKIN, Patrick Canning
+      George Michael
+    bounds:
+      left: 307
+      right: 1851
+      top: 2797
+      bottom: 2895
+  - text: '24.10.1992
+
+'
+    bounds:
+      left: 916
+      right: 1089
+      top: 2852
+      bottom: 2888
+  - text: |
+      382
+      BARKER, Lucy Temple
+    bounds:
+      left: 1167
+      right: 1738
+      top: 2849
+      bottom: 2890
+  - text: |
+      26.05.1960
+      AVERILL, Zizi Lucy
+    bounds:
+      left: 245
+      right: 2133
+      top: 2845
+      bottom: 2949
+  - text: '13.09.1995
+
+'
+    bounds:
+      left: 914
+      right: 1086
+      top: 2900
+      bottom: 2943
+  - text: '382
+
+'
+    bounds:
+      left: 1170
+      right: 1222
+      top: 2904
+      bottom: 2937
+  - text: |
+      m to BELLA, Mohammed
+      AVERY, (dau)
+    bounds:
+      left: 241
+      right: 1762
+      top: 2898
+      bottom: 2999
+  - text: "****.1922\n"
+    bounds:
+      left: 919
+      right: 1086
+      top: 2948
+      bottom: 2991
+  - text: |
+      229
+      BARKER, Nicola Temple
+    bounds:
+      left: 1172
+      right: 1762
+      top: 2948
+      bottom: 2991
+  - text: |
+      16.12.1952 555
+      AVERY, Elizabeth Anne
+    bounds:
+      left: 247
+      right: 2271
+      top: 2944
+      bottom: 3047
+  - text: '02.04.1929
+
+'
+    bounds:
+      left: 920
+      right: 1093
+      top: 3003
+      bottom: 3039
+  - text: '229
+
+'
+    bounds:
+      left: 1174
+      right: 1227
+      top: 3001
+      bottom: 3039
+  - text: |
+      m to MCLAUGHLIN, Avon
+      m to COTCHING, Nigel MacKenzie
+    bounds:
+      left: 315
+      right: 1790
+      top: 2995
+      bottom: 3101
+  - text: 'BARKER, Oliver
+
+'
+    bounds:
+      left: 1298
+      right: 1613
+      top: 3046
+      bottom: 3088
+  - text: '01.06.1993
+
+'
+    bounds:
+      left: 1966
+      right: 2135
+      top: 3046
+      bottom: 3084
+  - text: |
+      556
+      AVERY, Jonathan
+    bounds:
+      left: 248
+      right: 2271
+      top: 3046
+      bottom: 3144
+  - text: '01.05.1932
+
+'
+    bounds:
+      left: 918
+      right: 1088
+      top: 3100
+      bottom: 3140
+  - text: |
+      231
+      BARKER, Paul Arthur Temple
+    bounds:
+      left: 1170
+      right: 1868
+      top: 3096
+      bottom: 3139
+  - text: '26.08.1958
+
+'
+    bounds:
+      left: 1961
+      right: 2141
+      top: 3096
+      bottom: 3134
+  - text: |
+      556
+      m to GORDON, Gonda
+    bounds:
+      left: 316
+      right: 2269
+      top: 3092
+      bottom: 3196
+  - text: 'BARKER, Shona Temple
+
+'
+    bounds:
+      left: 1299
+      right: 1758
+      top: 3140
+      bottom: 3191
+  - text: '25.01.1954
+
+'
+    bounds:
+      left: 1964
+      right: 2136
+      top: 3146
+      bottom: 3181
+  - text: |
+      556
+      AVERY, Juliet Elizabeth
+    bounds:
+      left: 249
+      right: 2274
+      top: 3146
+      bottom: 3247
+  - text: |
+      27.11.1960 231
+      m to HANSEN, Warwick Harry
+    bounds:
+      left: 316
+      right: 1227
+      top: 3196
+      bottom: 3296
+  - text: '659
+
+'
+    bounds:
+      left: 1224
+      right: 1293
+      top: 3286
+      bottom: 3340
+- paragraphs:
+  - text: '159
+
+'
+    bounds:
+      left: 2207
+      right: 2265
+      top: 1752
+      bottom: 1796
+- paragraphs:
+  - text: "*** ** ****\n"
+    bounds:
+      left: 1963
+      right: 2128
+      top: 1857
+      bottom: 1876
+- paragraphs:
+  - text: '291
+
+'
+    bounds:
+      left: 1162
+      right: 1218
+      top: 1855
+      bottom: 1896
+- paragraphs:
+  - text: '3
+
+'
+    bounds:
+      left: 1172
+      right: 1174
+      top: 2109
+      bottom: 2138
+- paragraphs:
+  - text: '294
+
+'
+    bounds:
+      left: 2215
+      right: 2272
+      top: 2496
+      bottom: 2535
+- paragraphs:
+  - text: '381
+
+'
+    bounds:
+      left: 1167
+      right: 1222
+      top: 2553
+      bottom: 2593
+- paragraphs:
+  - text: '556
+
+'
+    bounds:
+      left: 2214
+      right: 2276
+      top: 2842
+      bottom: 2882

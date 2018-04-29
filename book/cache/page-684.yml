@@ -1,0 +1,1379 @@
+---
+blocks:
+- paragraphs:
+  - text: '252
+
+'
+    bounds:
+      left: 2202
+      right: 2259
+      top: 818
+      bottom: 857
+- paragraphs:
+  - text: '549
+
+'
+    bounds:
+      left: 1156
+      right: 1218
+      top: 1166
+      bottom: 1212
+- paragraphs:
+  - text: "** ** ****\n"
+    bounds:
+      left: 1960
+      right: 2125
+      top: 1168
+      bottom: 1190
+- paragraphs:
+  - text: '243
+
+'
+    bounds:
+      left: 2205
+      right: 2260
+      top: 1165
+      bottom: 1203
+- paragraphs:
+  - text: '1957 278
+
+'
+    bounds:
+      left: 2055
+      right: 2265
+      top: 1356
+      bottom: 1421
+- paragraphs:
+  - text: '259
+
+'
+    bounds:
+      left: 2207
+      right: 2264
+      top: 1462
+      bottom: 1499
+- paragraphs:
+  - text: |
+      KEY, Muriel
+      29.08.1922 517 LAND, Rosemary Margaret
+    bounds:
+      left: 241
+      right: 1780
+      top: 210
+      bottom: 266
+  - text: '26.07.1958
+
+'
+    bounds:
+      left: 1943
+      right: 2120
+      top: 219
+      bottom: 260
+  - text: |
+      162
+      m to MACLEAN, Christopher Edward Awdry (Ted)
+    bounds:
+      left: 303
+      right: 2253
+      top: 221
+      bottom: 314
+  - text: |
+      m to TUFFERY, Graham
+      KIDD, Kathleen Marion
+    bounds:
+      left: 247
+      right: 1737
+      top: 266
+      bottom: 362
+  - text: "****.1896\n"
+    bounds:
+      left: 903
+      right: 1072
+      top: 317
+      bottom: 358
+  - text: |
+      149
+      LANE, Doris Audrey
+    bounds:
+      left: 1152
+      right: 1655
+      top: 316
+      bottom: 360
+  - text: "** **, 1903\n"
+    bounds:
+      left: 1952
+      right: 2123
+      top: 313
+      bottom: 359
+  - text: |
+      504
+      m to WILLIAMS, Garth Gaster
+    bounds:
+      left: 305
+      right: 2257
+      top: 320
+      bottom: 411
+  - text: |
+      m to GRAY, Sydney Thomas
+      KIDDLE, Jillian Amelia
+    bounds:
+      left: 242
+      right: 1787
+      top: 366
+      bottom: 459
+  - text: |
+      17.08.1961 95
+      LANGFORD, Margaret
+    bounds:
+      left: 903
+      right: 1706
+      top: 413
+      bottom: 461
+  - text: '17.08.1881
+
+'
+    bounds:
+      left: 1943
+      right: 2118
+      top: 416
+      bottom: 459
+  - text: |
+      480
+      m to WILLIAMS, Christopher Henry
+    bounds:
+      left: 303
+      right: 2257
+      top: 422
+      bottom: 519
+  - text: |
+      m to GRAY, Robert Leonard
+      KILGOUR, Hugh David
+    bounds:
+      left: 247
+      right: 1787
+      top: 468
+      bottom: 566
+  - text: |
+      24.12.1934
+      LANGSTAFF, Ellen Elizabeth
+    bounds:
+      left: 897
+      right: 1832
+      top: 514
+      bottom: 560
+  - text: '09.05.1916
+
+'
+    bounds:
+      left: 1948
+      right: 2121
+      top: 514
+      bottom: 557
+  - text: |
+      266
+      m to COTTERILL, Susan Mary
+    bounds:
+      left: 305
+      right: 2259
+      top: 519
+      bottom: 618
+  - text: |
+      m to REED, Nigel Vernon
+      KILGOUR, Katherine Fiona
+    bounds:
+      left: 243
+      right: 1752
+      top: 562
+      bottom: 666
+  - text: |
+      11.10.1979
+      307 LARKIN, Adam
+    bounds:
+      left: 901
+      right: 1582
+      top: 618
+      bottom: 660
+  - text: '01.09.1973
+
+'
+    bounds:
+      left: 1947
+      right: 2122
+      top: 617
+      bottom: 657
+  - text: |
+      252
+      KING, Angela
+    bounds:
+      left: 243
+      right: 2257
+      top: 618
+      bottom: 714
+  - text: '25.05. ****
+
+'
+    bounds:
+      left: 902
+      right: 1075
+      top: 668
+      bottom: 707
+  - text: |
+      352
+      LARKIN, Daisy
+    bounds:
+      left: 1155
+      right: 1568
+      top: 649
+      bottom: 734
+  - text: '04.07.1977
+
+'
+    bounds:
+      left: 1947
+      right: 2126
+      top: 669
+      bottom: 705
+  - text: |
+      252
+      m to RAINE, Christopher Charles
+    bounds:
+      left: 304
+      right: 2257
+      top: 671
+      bottom: 765
+  - text: 'LARKIN, Thomas Cedric
+
+'
+    bounds:
+      left: 1281
+      right: 1746
+      top: 716
+      bottom: 760
+  - text: '17.11.1917
+
+'
+    bounds:
+      left: 1945
+      right: 2126
+      top: 717
+      bottom: 761
+  - text: |
+      252
+      KINSELLA, Hana
+    bounds:
+      left: 246
+      right: 2255
+      top: 715
+      bottom: 812
+  - text: '12.03.1874 366
+
+'
+    bounds:
+      left: 906
+      right: 1208
+      top: 768
+      bottom: 812
+  - text: |
+      m to WILLIAMS, Sarah Marianne
+      m to LUDBROOK, Henry Samuel (Harry)
+    bounds:
+      left: 304
+      right: 1873
+      top: 767
+      bottom: 868
+  - text: 'LARKIN, Tom
+
+'
+    bounds:
+      left: 1278
+      right: 1558
+      top: 816
+      bottom: 863
+  - text: |
+      18.09.1971
+      KIRKPATRICK, Amanda
+    bounds:
+      left: 246
+      right: 2126
+      top: 817
+      bottom: 919
+  - text: 'LARKWORTHY, Mary Jane
+
+'
+    bounds:
+      left: 1278
+      right: 1813
+      top: 863
+      bottom: 913
+  - text: '25.09.1965
+
+'
+    bounds:
+      left: 1945
+      right: 2120
+      top: 865
+      bottom: 909
+  - text: |
+      570
+      Margaret
+    bounds:
+      left: 304
+      right: 2256
+      top: 867
+      bottom: 962
+  - text: '15.10.1975
+
+'
+    bounds:
+      left: 902
+      right: 1072
+      top: 919
+      bottom: 960
+  - text: '109
+
+'
+    bounds:
+      left: 1157
+      right: 1213
+      top: 920
+      bottom: 955
+  - text: |
+      m to WILLIAMS, Jeremy Warwick
+      KIRKPATRICK, Ian Andrew
+    bounds:
+      left: 243
+      right: 1889
+      top: 917
+      bottom: 1018
+  - text: '24.05.1946
+
+'
+    bounds:
+      left: 899
+      right: 1076
+      top: 968
+      bottom: 1009
+  - text: |
+      109
+      LAURENT, Jacqueline
+    bounds:
+      left: 1158
+      right: 1696
+      top: 944
+      bottom: 1029
+  - text: '17.11.1985
+
+'
+    bounds:
+      left: 1948
+      right: 2123
+      top: 967
+      bottom: 1006
+  - text: |
+      499
+      m to WILLIAMS, Robyn
+    bounds:
+      left: 305
+      right: 2260
+      top: 967
+      bottom: 1065
+  - text: 'LAURENT, Wayne
+
+'
+    bounds:
+      left: 1278
+      right: 1632
+      top: 1011
+      bottom: 1063
+  - text: '04.10.1960
+
+'
+    bounds:
+      left: 1954
+      right: 2123
+      top: 1017
+      bottom: 1056
+  - text: |
+      499
+      KIRKPATRICK, Sarah Kate
+    bounds:
+      left: 243
+      right: 2261
+      top: 1018
+      bottom: 1113
+  - text: '13.02.1978 110
+
+'
+    bounds:
+      left: 901
+      right: 1213
+      top: 1068
+      bottom: 1108
+  - text: |
+      m to GRAY, Kerry Anne
+      KIRKPATRICK, Victoria Jane
+    bounds:
+      left: 240
+      right: 1730
+      top: 1066
+      bottom: 1166
+  - text: '11.05.1979
+
+'
+    bounds:
+      left: 904
+      right: 1076
+      top: 1120
+      bottom: 1156
+  - text: |
+      110
+      LAWRENCE, Bridget Rosemary 04.02.1986
+    bounds:
+      left: 1160
+      right: 2124
+      top: 1115
+      bottom: 1158
+  - text: |
+      543
+      KLEE, Anika Margaret
+    bounds:
+      left: 241
+      right: 2258
+      top: 1116
+      bottom: 1213
+  - text: '10.02.1984
+
+'
+    bounds:
+      left: 902
+      right: 1078
+      top: 1169
+      bottom: 1209
+  - text: |
+      LAWRENCE, Christine Rae
+      KLEE, Lionel Victor
+    bounds:
+      left: 241
+      right: 1801
+      top: 1165
+      bottom: 1264
+  - text: '04.12.1954
+
+'
+    bounds:
+      left: 903
+      right: 1078
+      top: 1220
+      bottom: 1259
+  - text: '549
+
+'
+    bounds:
+      left: 1160
+      right: 1215
+      top: 1217
+      bottom: 1259
+  - text: |
+      m to WARREN, Mark Aidan Temple
+      m to PECK, Margaret Lynn
+    bounds:
+      left: 308
+      right: 1920
+      top: 1214
+      bottom: 1315
+  - text: |
+      LAWRENCE, Christopher
+      KLEE, Rebecca Ellen
+    bounds:
+      left: 244
+      right: 1767
+      top: 1258
+      bottom: 1361
+  - text: '19.02.1982
+
+'
+    bounds:
+      left: 905
+      right: 1075
+      top: 1318
+      bottom: 1356
+  - text: |
+      549
+      Benjamin
+    bounds:
+      left: 1158
+      right: 1507
+      top: 1314
+      bottom: 1361
+  - text: '19.04.1984
+
+'
+    bounds:
+      left: 1951
+      right: 2126
+      top: 1312
+      bottom: 1355
+  - text: |
+      542
+      KLEE, Susan Alison
+    bounds:
+      left: 245
+      right: 2258
+      top: 1314
+      bottom: 1411
+  - text: |
+      21.03.1959
+      549 LAWRENCE, Jocelyn Elizabeth 21.02.1957
+    bounds:
+      left: 901
+      right: 2125
+      top: 1361
+      bottom: 1409
+  - text: |
+      278
+      m to HAVER, Anthony Henry Peter
+    bounds:
+      left: 306
+      right: 2264
+      top: 1365
+      bottom: 1463
+  - text: |
+      m to WILLIAMS, Christopher Henry Lowry
+      KLEE, Victor George
+    bounds:
+      left: 245
+      right: 2041
+      top: 1413
+      bottom: 1511
+  - text: |
+      18.09.1909
+      549 LAWRENCE, Rebecca Ann
+    bounds:
+      left: 906
+      right: 1793
+      top: 1458
+      bottom: 1512
+  - text: |
+      25.02.1960
+      m to MACLEAN, Margaret Esther
+    bounds:
+      left: 307
+      right: 2126
+      top: 1465
+      bottom: 1563
+  - text: |
+      m to BELL, Henry Dillon
+      KLOETEN, Derek
+    bounds:
+      left: 245
+      right: 1748
+      top: 1514
+      bottom: 1611
+  - text: '19.02.1959
+
+'
+    bounds:
+      left: 904
+      right: 1081
+      top: 1567
+      bottom: 1608
+  - text: |
+      375
+      LAWRENCE, Richard Hume
+    bounds:
+      left: 1162
+      right: 1828
+      top: 1562
+      bottom: 1607
+  - text: '03.09.1952
+
+'
+    bounds:
+      left: 1954
+      right: 2129
+      top: 1563
+      bottom: 1602
+  - text: |
+      542
+      m to FINLAYSON, Marian Elizabeth
+    bounds:
+      left: 308
+      right: 2259
+      top: 1563
+      bottom: 1661
+  - text: |
+      m to CORKILL, Gillian Mary
+      KLOETEN, Harvey Nicholas
+    bounds:
+      left: 246
+      right: 1807
+      top: 1614
+      bottom: 1711
+  - text: '05.12.1985
+
+'
+    bounds:
+      left: 908
+      right: 1078
+      top: 1668
+      bottom: 1709
+  - text: |
+      375
+      LAWS, Doreen Eda
+    bounds:
+      left: 1163
+      right: 1646
+      top: 1662
+      bottom: 1707
+  - text: '02.04.1901
+
+'
+    bounds:
+      left: 1958
+      right: 2131
+      top: 1663
+      bottom: 1702
+  - text: |
+      242
+      KLOSE, Malcolm Jeffrey
+    bounds:
+      left: 246
+      right: 2264
+      top: 1661
+      bottom: 1766
+  - text: '02.12.1970
+
+'
+    bounds:
+      left: 910
+      right: 1079
+      top: 1715
+      bottom: 1758
+  - text: '478
+
+'
+    bounds:
+      left: 1162
+      right: 1216
+      top: 1718
+      bottom: 1752
+  - text: |
+      m to WARREN, Alwyn Keith
+      m to WILLIAMS, Tara Gay
+    bounds:
+      left: 308
+      right: 1804
+      top: 1714
+      bottom: 1814
+  - text: 'LAWSON, Christine
+
+'
+    bounds:
+      left: 1287
+      right: 1661
+      top: 1763
+      bottom: 1807
+  - text: '02.10.1961
+
+'
+    bounds:
+      left: 1954
+      right: 2130
+      top: 1760
+      bottom: 1805
+  - text: |
+      380
+      KNIGHT, Clara Olive
+    bounds:
+      left: 244
+      right: 2264
+      top: 1760
+      bottom: 1861
+  - text: '05.10.1885
+
+'
+    bounds:
+      left: 910
+      right: 1079
+      top: 1815
+      bottom: 1858
+  - text: '123
+
+'
+    bounds:
+      left: 1164
+      right: 1217
+      top: 1816
+      bottom: 1853
+  - text: |
+      m to LUDBROOK, Michael Geoffrey
+      m to WILLIAMS, Allen Douglas
+    bounds:
+      left: 308
+      right: 1932
+      top: 1810
+      bottom: 1913
+  - text: 'LAWSON, Ruth Elizabeth
+
+'
+    bounds:
+      left: 1288
+      right: 1766
+      top: 1862
+      bottom: 1906
+  - text: '26.02.1952
+
+'
+    bounds:
+      left: 1954
+      right: 2131
+      top: 1861
+      bottom: 1902
+  - text: |
+      327
+      KOEK, Liz
+    bounds:
+      left: 245
+      right: 2268
+      top: 1860
+      bottom: 1962
+  - text: '04.10.1960
+
+'
+    bounds:
+      left: 908
+      right: 1085
+      top: 1917
+      bottom: 1958
+  - text: '234
+
+'
+    bounds:
+      left: 1164
+      right: 1220
+      top: 1916
+      bottom: 1953
+  - text: |
+      m to HUTTON, Bruce
+      and WILLIAMS, James Richard (Joe)
+    bounds:
+      left: 295
+      right: 1695
+      top: 1912
+      bottom: 2014
+  - text: 'LAWSON, Wendy
+
+'
+    bounds:
+      left: 1292
+      right: 1623
+      top: 1963
+      bottom: 2007
+  - text: |
+      642
+      KRISHNAN, Simmi
+    bounds:
+      left: 246
+      right: 2266
+      top: 1960
+      bottom: 2063
+  - text: |
+      m to NELSON, Cristobal Miguel
+      m to RAINE, Peter Anthony
+    bounds:
+      left: 310
+      right: 1862
+      top: 2012
+      bottom: 2114
+  - text: 'LEACH, Nora
+
+'
+    bounds:
+      left: 1293
+      right: 1548
+      top: 2063
+      bottom: 2107
+  - text: '22.01.1896
+
+'
+    bounds:
+      left: 1957
+      right: 2136
+      top: 2061
+      bottom: 2098
+  - text: |
+      321
+      KROGH, Severin Cal
+    bounds:
+      left: 250
+      right: 2269
+      top: 2061
+      bottom: 2161
+  - text: '14.08.1917
+
+'
+    bounds:
+      left: 913
+      right: 1088
+      top: 2115
+      bottom: 2158
+  - text: '565
+
+'
+    bounds:
+      left: 1163
+      right: 1221
+      top: 2116
+      bottom: 2156
+  - text: |
+      m to BRANCH, Leslie Roy
+      m to WILLIAMS, Margaret Anne (Peggy)
+    bounds:
+      left: 311
+      right: 1776
+      top: 2114
+      bottom: 2215
+  - text: 'LEE, Andrew Milton
+
+'
+    bounds:
+      left: 1290
+      right: 1678
+      top: 2163
+      bottom: 2207
+  - text: |
+      02.11.1990
+      KUSEL, Matthew
+    bounds:
+      left: 250
+      right: 2133
+      top: 2161
+      bottom: 2263
+  - text: '15.04.1972
+
+'
+    bounds:
+      left: 915
+      right: 1085
+      top: 2217
+      bottom: 2258
+  - text: |
+      628
+      LEE, Daniel Guy
+    bounds:
+      left: 1170
+      right: 1601
+      top: 2211
+      bottom: 2259
+  - text: '17.10.1993
+
+'
+    bounds:
+      left: 1957
+      right: 2133
+      top: 2209
+      bottom: 2250
+  - text: |
+      115
+      KUSEL, Michael
+    bounds:
+      left: 247
+      right: 2269
+      top: 2210
+      bottom: 2311
+  - text: '15.08.1945
+
+'
+    bounds:
+      left: 914
+      right: 1086
+      top: 2268
+      bottom: 2304
+  - text: |
+      628
+      LEE, Hamish Richard
+    bounds:
+      left: 1169
+      right: 1700
+      top: 2260
+      bottom: 2306
+  - text: '07.05.1988
+
+'
+    bounds:
+      left: 1960
+      right: 2137
+      top: 2259
+      bottom: 2300
+  - text: |
+      114
+      m to DUCKWORTH, Belinda Cecil Anne
+    bounds:
+      left: 314
+      right: 2271
+      top: 2259
+      bottom: 2363
+  - text: 'LEE, Mike
+
+'
+    bounds:
+      left: 1291
+      right: 1491
+      top: 2312
+      bottom: 2357
+  - text: '18.04.1951
+
+'
+    bounds:
+      left: 1961
+      right: 2138
+      top: 2308
+      bottom: 2349
+  - text: |
+      641
+      KUSEL, Sophie
+    bounds:
+      left: 251
+      right: 2271
+      top: 2308
+      bottom: 2411
+  - text: '02.08.1969
+
+'
+    bounds:
+      left: 914
+      right: 1087
+      top: 2367
+      bottom: 2404
+  - text: |
+      and THOMSON, Anne Mary (Min)
+      KüFFER, Susanna
+    bounds:
+      left: 253
+      right: 1906
+      top: 2361
+      bottom: 2464
+  - text: |
+      09.03.1946
+      135 LEE, Patricia Eileen
+    bounds:
+      left: 918
+      right: 1669
+      top: 2411
+      bottom: 2457
+  - text: '28.06.1939
+
+'
+    bounds:
+      left: 1959
+      right: 2139
+      top: 2406
+      bottom: 2447
+  - text: |
+      503
+      m to HEER, Heinrich Johannes
+    bounds:
+      left: 314
+      right: 2267
+      top: 2407
+      bottom: 2511
+  - text: |
+      m to BLUNT, Richard Mark
+      LAFOTANOA, Paul
+    bounds:
+      left: 251
+      right: 1800
+      top: 2460
+      bottom: 2561
+  - text: |
+      06.07.1968
+      LEE, Rebecca Margo
+    bounds:
+      left: 917
+      right: 1683
+      top: 2510
+      bottom: 2555
+  - text: '11.05.1995
+
+'
+    bounds:
+      left: 1963
+      right: 2138
+      top: 2507
+      bottom: 2546
+  - text: |
+      115
+      m to BOURN, Melanie Jane
+    bounds:
+      left: 316
+      right: 2271
+      top: 2509
+      bottom: 2610
+  - text: 'LEE, Richard Noel
+
+'
+    bounds:
+      left: 1296
+      right: 1644
+      top: 2559
+      bottom: 2603
+  - text: '12.03.1957
+
+'
+    bounds:
+      left: 1964
+      right: 2139
+      top: 2559
+      bottom: 2598
+  - text: |
+      114
+      LAFOTANOA, Sophie Alice
+    bounds:
+      left: 253
+      right: 2272
+      top: 2556
+      bottom: 2662
+  - text: '11.01.1997
+
+'
+    bounds:
+      left: 918
+      right: 1092
+      top: 2616
+      bottom: 2653
+  - text: '515
+
+'
+    bounds:
+      left: 1175
+      right: 1223
+      top: 2614
+      bottom: 2652
+  - text: |
+      m to GADDUM, Annabelle Margo
+      LAMB, Georgina
+    bounds:
+      left: 252
+      right: 1897
+      top: 2610
+      bottom: 2714
+  - text: |
+      LELIEVELD, Adrianus
+      LAMB, Peter
+    bounds:
+      left: 248
+      right: 1735
+      top: 2659
+      bottom: 2762
+  - text: |
+      489
+      Marinus Cornelis
+    bounds:
+      left: 1172
+      right: 1668
+      top: 2709
+      bottom: 2755
+  - text: |
+      567
+      and WATSON, Belinda Rosemary
+    bounds:
+      left: 303
+      right: 2274
+      top: 2707
+      bottom: 2813
+  - text: |
+      m to WILLIAMS, Estelle Ruth
+      LAMBERT, Laura
+    bounds:
+      left: 255
+      right: 1834
+      top: 2762
+      bottom: 2861
+  - text: '17.10.1971
+
+'
+    bounds:
+      left: 918
+      right: 1090
+      top: 2815
+      bottom: 2856
+  - text: |
+      623
+      LENNOX-KING, Matthew Oliver 25.05.1976
+    bounds:
+      left: 1176
+      right: 2141
+      top: 2807
+      bottom: 2852
+  - text: |
+      105
+      m to GRIFFITHS, Richard Paul
+    bounds:
+      left: 319
+      right: 2272
+      top: 2806
+      bottom: 2911
+  - text: 'LENNOX-KING, Oliver
+
+'
+    bounds:
+      left: 1301
+      right: 1743
+      top: 2856
+      bottom: 2905
+  - text: '17.03.1949
+
+'
+    bounds:
+      left: 1965
+      right: 2141
+      top: 2856
+      bottom: 2897
+  - text: |
+      | 104
+      LAMBESS, Julie Anne
+    bounds:
+      left: 255
+      right: 2277
+      top: 2856
+      bottom: 2962
+  - text: '04.08.1966
+
+'
+    bounds:
+      left: 919
+      right: 1096
+      top: 2915
+      bottom: 2956
+  - text: '168
+
+'
+    bounds:
+      left: 1180
+      right: 1229
+      top: 2912
+      bottom: 2955
+  - text: |
+      m to REED, Sidney Mary Jane
+      m to BLITHE, Allan Noel
+    bounds:
+      left: 322
+      right: 1840
+      top: 2910
+      bottom: 3013
+  - text: 'LENNOX-KING, Peter Richard
+
+'
+    bounds:
+      left: 1304
+      right: 1880
+      top: 2954
+      bottom: 3007
+  - text: '30.01.1979
+
+'
+    bounds:
+      left: 1969
+      right: 2142
+      top: 2957
+      bottom: 2993
+  - text: |
+      105
+      LAND, Catherine Alison
+    bounds:
+      left: 255
+      right: 2275
+      top: 2958
+      bottom: 3066
+  - text: |
+      02.11.1956
+      | 161
+      LENNOX-KING, Sophie Isobel
+    bounds:
+      left: 922
+      right: 1868
+      top: 3009
+      bottom: 3057
+  - text: '08.12.1983
+
+'
+    bounds:
+      left: 1974
+      right: 2144
+      top: 3007
+      bottom: 3042
+  - text: |
+      105
+      m to BULLOCK, Owen Fred
+    bounds:
+      left: 321
+      right: 2277
+      top: 3007
+      bottom: 3113
+  - text: 'LEVITT, Chia
+
+'
+    bounds:
+      left: 1313
+      right: 1578
+      top: 3061
+      bottom: 3104
+  - text: |
+      494
+      LAND, Robert Alan
+    bounds:
+      left: 253
+      right: 2277
+      top: 3056
+      bottom: 3165
+  - text: |
+      27.01.1930
+      | 161
+    bounds:
+      left: 925
+      right: 1237
+      top: 3115
+      bottom: 3156
+  - text: |
+      and COUPER, Andrew John
+      m to WILLIAMS, Alison Esme
+    bounds:
+      left: 322
+      right: 1808
+      top: 3112
+      bottom: 3218
+  - text: 'LEVITT, Daniel Floyd
+
+'
+    bounds:
+      left: 1307
+      right: 1721
+      top: 3159
+      bottom: 3207
+  - text: '12.02.1997
+
+'
+    bounds:
+      left: 1970
+      right: 2149
+      top: 3156
+      bottom: 3197
+  - text: |
+      494
+      LAND, Roger Gordon Robert
+    bounds:
+      left: 253
+      right: 2278
+      top: 3158
+      bottom: 3270
+  - text: '25.05.1960
+
+'
+    bounds:
+      left: 927
+      right: 1101
+      top: 3220
+      bottom: 3259
+  - text: |
+      162
+      m to HOOLEY, Elizabeth
+    bounds:
+      left: 323
+      right: 1234
+      top: 3216
+      bottom: 3317
+  - text: '686
+
+'
+    bounds:
+      left: 1233
+      right: 1302
+      top: 3307
+      bottom: 3355
+- paragraphs:
+  - text: "********\n"
+    bounds:
+      left: 1967
+      right: 2132
+      top: 1965
+      bottom: 1987
+- paragraphs:
+  - text: "** ** ****\n"
+    bounds:
+      left: 918
+      right: 1085
+      top: 2019
+      bottom: 2043
+- paragraphs:
+  - text: '352
+
+'
+    bounds:
+      left: 1164
+      right: 1219
+      top: 2011
+      bottom: 2056
+- paragraphs:
+  - text: '114
+
+'
+    bounds:
+      left: 2216
+      right: 2268
+      top: 2159
+      bottom: 2197
+- paragraphs:
+  - text: '628
+
+'
+    bounds:
+      left: 1171
+      right: 1227
+      top: 2365
+      bottom: 2402
+- paragraphs:
+  - text: '515
+
+'
+    bounds:
+      left: 1173
+      right: 1230
+      top: 2513
+      bottom: 2555
+- paragraphs:
+  - text: "*******\n"
+    bounds:
+      left: 919
+      right: 1089
+      top: 2668
+      bottom: 2691
+- paragraphs:
+  - text: '489
+
+'
+    bounds:
+      left: 1175
+      right: 1231
+      top: 2661
+      bottom: 2702
+- paragraphs:
+  - text: "********\n"
+    bounds:
+      left: 927
+      right: 1092
+      top: 2719
+      bottom: 2742
+- paragraphs:
+  - text: "** **\n"
+    bounds:
+      left: 1976
+      right: 2052
+      top: 2713
+      bottom: 2732
+- paragraphs:
+  - text: "** ** ****\n"
+    bounds:
+      left: 1980
+      right: 2143
+      top: 3061
+      bottom: 3083
