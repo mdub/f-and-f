@@ -13,7 +13,9 @@ module Familial
     end
 
     extend Forwardable
-    def_delegators :@items, :[], :empty?, :size, :each
+    def_delegators :@items, :empty?, :size, :each
+
+    include Enumerable
 
     def create
       id = "#{type}-#{items.size + 1}"

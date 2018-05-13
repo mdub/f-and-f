@@ -4,7 +4,7 @@ module Familial
 
   class Individual < Record
 
-    attr_accessor :surname
+    attr_accessor :name
 
   end
 

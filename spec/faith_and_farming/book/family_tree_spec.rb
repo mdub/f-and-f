@@ -11,10 +11,9 @@ describe FaithAndFarming::Book, "family tree" do
   attr_reader :tree
 
   it "has an entry for Henry Williams" do
-    pending
     henry = tree.find("Williams, Henry")
     expect(henry).not_to be_nil
-    expect(henry.name).to eq("Henry /Williams/")
+    expect(henry.name).to eq("Williams, Henry")
   end
 
   # it "has an entry for Marianne Coldham"

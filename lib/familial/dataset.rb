@@ -11,7 +11,9 @@ module Familial
     end
 
     def find(name)
-
+      individuals.detect do |i|
+        i.name == name
+      end
     end
 
     private

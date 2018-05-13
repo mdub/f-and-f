@@ -5,7 +5,10 @@ module FaithAndFarming
   module Book
 
     def self.family_tree
-      Familial::Dataset.new
+      Familial::Dataset.new.tap do |db|
+        hw = db.individuals.create
+        hw.name = "Williams, Henry"
+      end
     end
 
     def self.pages
