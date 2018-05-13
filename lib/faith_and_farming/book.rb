@@ -6,13 +6,19 @@ module FaithAndFarming
 
     def self.family_tree
       Familial::Dataset.new.tap do |db|
-        hw = db.individuals.create
-        hw.name = "Williams, Henry"
+        pages(72..74).each do |page|
+          page.tree_entries.each do |entry|
+            entry.people.each do |person|
+              i = db.individuals.create
+              i.name = person.name.gsub(/\w+/) { |w| w.capitalize }
+            end
+          end
+        end
       end
     end
 
-    def self.pages
-      Pages.new
+    def self.pages(*args)
+      Pages.new(*args)
     end
 
   end

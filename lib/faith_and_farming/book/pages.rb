@@ -5,8 +5,12 @@ module FaithAndFarming
 
     class Pages
 
+      def initialize(page_range = (1 .. 720))
+        @page_range = page_range
+      end
+
       def each
-        1.upto(720) do |i|
+        @page_range.each do |i|
           yield Page.load(i)
         end
       end

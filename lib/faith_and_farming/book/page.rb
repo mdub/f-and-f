@@ -118,9 +118,11 @@ module FaithAndFarming
         @tree_entries ||= [].tap do |y|
           blocks.each do |block|
             if block.text =~ /\A0[1-9]> (.*)/
-              y << Entry.new.tap do |e|
-                e.subject.name = $1
-                e.level = calculate_level(block.bounds.left)
+              $1.split(/ m on .* to /).each do |name|
+                y << Entry.new.tap do |e|
+                  e.subject.name = name
+                  e.level = calculate_level(block.bounds.left)
+                end
               end
             end
           end
