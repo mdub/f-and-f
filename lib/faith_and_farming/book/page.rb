@@ -29,30 +29,42 @@ module FaithAndFarming
 
       PAGE_CACHE = File.expand_path("../../../../book/cache", __FILE__)
 
-      def self.load(page_index)
-        cache_file = File.join(PAGE_CACHE, ("page-%03d.yml" % page_index))
-        if File.exist?(cache_file)
-          return from_data(YAML.load_file(cache_file))
-        end
-        ocr_page = FaithAndFarming::OCR::Page.load(page_index)
-        from_ocr(ocr_page).tap do |page|
-          File.write(cache_file, YAML.dump(page.to_data))
-        end
-      end
+      class << self
 
-      def self.from_ocr(ocr_page)
-        new.tap do |page|
-          ocr_page.blocks.each_with_index do |ocr_block, i|
-            ocr_block.paragraphs.each_with_index do |ocr_p, j|
-              p = page.blocks[i].paragraphs[j]
-              p.text = ocr_p.text
-              %w(left right top bottom).each do |field|
-                p.bounds.public_send("#{field}=", ocr_p.public_send(field))
+        def load(page_index)
+          load_raw(page_index).tap do |page|
+            page.page_index = page_index
+          end
+        end
+
+        def load_raw(page_index)
+          cache_file = File.join(PAGE_CACHE, ("page-%03d.yml" % page_index))
+          if File.exist?(cache_file)
+            return from_data(YAML.load_file(cache_file))
+          end
+          ocr_page = FaithAndFarming::OCR::Page.load(page_index)
+          from_ocr(ocr_page).tap do |page|
+            File.write(cache_file, YAML.dump(page.to_data))
+          end
+        end
+
+        def from_ocr(ocr_page)
+          new.tap do |page|
+            ocr_page.blocks.each_with_index do |ocr_block, i|
+              ocr_block.paragraphs.each_with_index do |ocr_p, j|
+                p = page.blocks[i].paragraphs[j]
+                p.text = ocr_p.text
+                %w(left right top bottom).each do |field|
+                  p.bounds.public_send("#{field}=", ocr_p.public_send(field))
+                end
               end
             end
           end
         end
+
       end
+
+      attr_accessor :page_index
 
       component_list :blocks do
 

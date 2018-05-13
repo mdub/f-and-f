@@ -5,9 +5,9 @@ module FaithAndFarming
 
     class Pages
 
-      def each_with_index
+      def each
         1.upto(720) do |i|
-          yield Page.load(i), i
+          yield Page.load(i)
         end
       end
 

@@ -4,15 +4,19 @@ require "faith_and_farming/book/page"
 
 describe FaithAndFarming::Book::Page do
 
-  def load(page_no)
-    described_class.load(page_no)
+  def load(page_index)
+    described_class.load(page_index)
   end
 
-  let(:page) { load(page_no) }
+  let(:page) { load(page_index) }
 
   context "on a random page" do
 
-    let(:page_no) { 400 }
+    let(:page_index) { 400 }
+
+    it "has a page_index" do
+      expect(page.page_index).to eq(400)
+    end
 
     describe "first paragraph" do
 
@@ -34,7 +38,7 @@ describe FaithAndFarming::Book::Page do
 
   context "on a non-tree page" do
 
-    let(:page_no) { 400 }
+    let(:page_index) { 400 }
 
     describe "#descendants_of" do
       it "is nil" do
@@ -52,7 +56,7 @@ describe FaithAndFarming::Book::Page do
 
   context "on a family-tree page" do
 
-    let(:page_no) { 220 }
+    let(:page_index) { 220 }
 
     describe "#descendants_of" do
 
