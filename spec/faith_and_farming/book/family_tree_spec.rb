@@ -16,6 +16,10 @@ describe FaithAndFarming::Book, "family tree" do
     expect(henry.name).to eq("Williams, Henry")
   end
 
-  # it "has an entry for Marianne Coldham"
+  it "has an entry for Marianne Coldham" do
+    marianne = tree.find("Coldham, Marianne")
+    expect(marianne).not_to be_nil
+    expect(marianne.name).to eq("Coldham, Marianne")
+  end
 
 end
