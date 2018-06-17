@@ -151,6 +151,21 @@ module FaithAndFarming
         (left - entry_offset + 35) / 75 + 1
       end
 
+      def walk(listener)
+        blocks.each do |block|
+          case text = block.text
+          when /^Descendants of /
+            lines = text.sub(/^Descendants of /, "").gsub(/^[IJ]/, "").split("\n")
+            listener.ancestors(lines)
+          when /\A0[1-9]> (.*)/
+            listener.entry_heading(
+              level: calculate_level(block.bounds.left),
+              subject: $1
+            )
+          end
+        end
+      end
+
     end
 
     class Entry < ConfigMapper::ConfigStruct

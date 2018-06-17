@@ -58,17 +58,21 @@ describe FaithAndFarming::Book::Page do
 
     let(:page_index) { 220 }
 
+    let(:expected_ancestors) do
+      [
+        "WILLIAMS, Henry and COLDHAM, Marianne",
+        "WILLIAMS, Marianne and DAVIES, Christopher Pearson",
+        "DAVIES, Christopher Pearson and WILLIAMS, Mary Anne",
+        "DAVIES, Freda Lilian and DODGSHUN, Gordon Mawley",
+        "DODGSHUN, Sydney Yorke and WOODWARD, Dorothy Virginia",
+        "DODGSHUN, Philippa Robyn and JACKMAN, Peter Heathcote"
+      ]
+    end
+
     describe "#descendants_of" do
 
       it "summarises the 'Descendants of ...' block" do
-        expect(page.descendants_of).to eql([
-          "WILLIAMS, Henry and COLDHAM, Marianne",
-          "WILLIAMS, Marianne and DAVIES, Christopher Pearson",
-          "DAVIES, Christopher Pearson and WILLIAMS, Mary Anne",
-          "DAVIES, Freda Lilian and DODGSHUN, Gordon Mawley",
-          "DODGSHUN, Sydney Yorke and WOODWARD, Dorothy Virginia",
-          "DODGSHUN, Philippa Robyn and JACKMAN, Peter Heathcote"
-        ])
+        expect(page.descendants_of).to eql(expected_ancestors)
       end
 
     end
@@ -100,6 +104,43 @@ describe FaithAndFarming::Book::Page do
 
       it %{returns the indent of "1 2 3 4 5 6 7 8 9"} do
         expect(page.entry_offset).to eql(212)
+      end
+
+    end
+
+    describe "#walk" do
+
+      let(:listener) { spy("Listener") }
+
+      before do
+        page.walk(listener)
+      end
+
+      it "signals ancestors" do
+        expect(listener).to have_received(:ancestors).with(expected_ancestors)
+      end
+
+      it "signals entry headings" do
+        expect(listener).to have_received(:entry_heading).with(
+          level: 6,
+          subject: "JACKMAN, Nicola Jane Heathcote"
+        ).ordered
+        expect(listener).to have_received(:entry_heading).with(
+          level: 6,
+          subject: "JACKMAN, Rachael Anne Heathcote"
+        ).ordered
+        expect(listener).to have_received(:entry_heading).twice.with(
+          level: 5,
+          subject: /^DODGSHUN, Paul Sydney/
+        ).ordered
+        expect(listener).to have_received(:entry_heading).with(
+          level: 4,
+          subject: "DODGSHUN, Truby Edward"
+        ).ordered
+        expect(listener).to have_received(:entry_heading).with(
+          level: 4,
+          subject: /^DODGSHUN, Kenneth/
+        ).ordered
       end
 
     end
