@@ -146,12 +146,11 @@ describe FaithAndFarming::Book::Page do
       it "signals dates of birth" do
         expect(listener).to have_received(:entry).with(
           level: 6,
-          subject: hash_including(name: "JACKMAN, Nicola Jane Heathcote")
-        ).ordered
-        pending
-        expect(listener).to have_received(:dates).with(
-          birth: "25.09.1981"
-        ).ordered
+          subject: hash_including(
+            name: "JACKMAN, Nicola Jane Heathcote",
+            born: "25.09.1981"
+          )
+        )
       end
 
     end
