@@ -10,16 +10,32 @@ describe FaithAndFarming::Book, "family tree" do
 
   attr_reader :tree
 
-  it "has an entry for Henry Williams" do
-    henry = tree.find("Williams, Henry")
-    expect(henry).not_to be_nil
-    expect(henry.name).to eq("Williams, Henry")
+  describe "entry for Henry Williams" do
+
+    let(:henry) { tree.find("Williams, Henry") }
+
+    it "exists" do
+      expect(henry).not_to be_nil
+    end
+
+    it "has the correct #name" do
+      expect(henry.name).to eq("Williams, Henry")
+    end
+
   end
 
-  it "has an entry for Marianne Coldham" do
-    marianne = tree.find("Coldham, Marianne")
-    expect(marianne).not_to be_nil
-    expect(marianne.name).to eq("Coldham, Marianne")
+  describe "entry for Marianne Coldham" do
+
+    let(:marianne) { tree.find("Coldham, Marianne") }
+
+    it "exists" do
+      expect(marianne).not_to be_nil
+    end
+
+    it "has the correct #name" do
+      expect(marianne.name).to eq("Coldham, Marianne")
+    end
+
   end
 
 end
