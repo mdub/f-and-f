@@ -22,6 +22,11 @@ describe FaithAndFarming::Book, "family tree" do
       expect(henry.name).to eq("Williams, Henry")
     end
 
+    it "has the correct #birth" do
+      pending
+      expect(henry.birth.to_s).to eq("11.02.1792")
+    end
+
   end
 
   describe "entry for Marianne Coldham" do
