@@ -158,9 +158,15 @@ module FaithAndFarming
             lines = text.sub(/^Descendants of /, "").gsub(/^[IJ]/, "").split("\n")
             listener.ancestors(lines)
           when /\A0[1-9]> (.*)/
-            listener.entry_heading(
+            listener.entry(
               level: calculate_level(block.bounds.left),
-              subject: $1
+              subject: {
+                name: $1
+              }
+            )
+          when /\Ab (.*)/
+            listener.dates(
+              birth: $1
             )
           end
         end

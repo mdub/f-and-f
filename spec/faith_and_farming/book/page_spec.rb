@@ -121,25 +121,36 @@ describe FaithAndFarming::Book::Page do
       end
 
       it "signals entry headings" do
-        expect(listener).to have_received(:entry_heading).with(
+        expect(listener).to have_received(:entry).with(
           level: 6,
-          subject: "JACKMAN, Nicola Jane Heathcote"
+          subject: hash_including(name: "JACKMAN, Nicola Jane Heathcote")
         ).ordered
-        expect(listener).to have_received(:entry_heading).with(
+        expect(listener).to have_received(:entry).with(
           level: 6,
-          subject: "JACKMAN, Rachael Anne Heathcote"
+          subject: hash_including(name: "JACKMAN, Rachael Anne Heathcote")
         ).ordered
-        expect(listener).to have_received(:entry_heading).twice.with(
+        expect(listener).to have_received(:entry).twice.with(
           level: 5,
-          subject: /^DODGSHUN, Paul Sydney/
+          subject: hash_including(name: /^DODGSHUN, Paul Sydney/)
         ).ordered
-        expect(listener).to have_received(:entry_heading).with(
+        expect(listener).to have_received(:entry).with(
           level: 4,
-          subject: "DODGSHUN, Truby Edward"
+          subject: hash_including(name: "DODGSHUN, Truby Edward")
         ).ordered
-        expect(listener).to have_received(:entry_heading).with(
+        expect(listener).to have_received(:entry).with(
           level: 4,
-          subject: /^DODGSHUN, Kenneth/
+          subject: hash_including(name: /^DODGSHUN, Kenneth/)
+        ).ordered
+      end
+
+      it "signals dates of birth" do
+        expect(listener).to have_received(:entry).with(
+          level: 6,
+          subject: hash_including(name: "JACKMAN, Nicola Jane Heathcote")
+        ).ordered
+        pending
+        expect(listener).to have_received(:dates).with(
+          birth: "25.09.1981"
         ).ordered
       end
 
