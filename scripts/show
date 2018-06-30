@@ -4,6 +4,7 @@ $: << File.expand_path("../../lib", __FILE__)
 
 require "clamp"
 require "faith_and_farming/book"
+require "yaml"
 
 Clamp do
 
@@ -53,8 +54,8 @@ Clamp do
 
     private
 
-    def method_missing(*args)
-      p args
+    def method_missing(method, arg)
+      puts YAML.dump(method => arg)
     end
 
   end
