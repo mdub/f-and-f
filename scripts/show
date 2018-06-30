@@ -41,4 +41,22 @@ Clamp do
 
   end
 
+  subcommand "walk", "display the tree" do
+
+    def execute
+      FaithAndFarming::Book.walk(BookListener.new)
+    end
+
+  end
+
+  class BookListener
+
+    private
+
+    def method_missing(*args)
+      p args
+    end
+
+  end
+
 end

@@ -17,6 +17,13 @@ module FaithAndFarming
       end
     end
 
+    def self.walk(listener)
+      pages.each do |page|
+        listener.page(page.page_index)
+        page.walk(listener)
+      end
+    end
+
     def self.pages(*args)
       Pages.new(*args)
     end
