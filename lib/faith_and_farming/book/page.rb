@@ -152,12 +152,12 @@ module FaithAndFarming
       end
 
       def walk(listener)
-        blocks.each do |block|
-          case text = block.text
-          when /^Descendants of /
+        blocks.each_with_index do |block, i|
+          text = block.text
+          if i < 3 && text =~ /^Descendants of /
             lines = text.sub(/^Descendants of /, "").gsub(/^[IJ]/, "").split("\n")
             listener.ancestors(lines)
-          when /\A0[1-9]> (.*)/
+          elsif text =~ /\A0[1-9]> (.*)/
             name = $1
             if text.lines[1] =~ /^b ([\d*.]+)/
               birth_date = $1
