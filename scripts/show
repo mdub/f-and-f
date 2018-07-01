@@ -44,8 +44,11 @@ Clamp do
 
   subcommand "walk", "display the tree" do
 
+    option "--from", "PAGE", "first page", :default => 72, &method(:Integer)
+    option "--to", "PAGE", "last page", :default => 720, &method(:Integer)
+    
     def execute
-      FaithAndFarming::Book.walk(BookListener.new)
+      FaithAndFarming::Book.pages(from..to).walk(BookListener.new)
     end
 
   end
