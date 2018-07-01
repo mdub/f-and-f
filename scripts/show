@@ -31,13 +31,25 @@ Clamp do
   subcommand "tree", "display the tree" do
 
     def execute
-      FaithAndFarming::Book.pages.each do |page|
-        puts "\n--- page #{page.page_index} ---"
-        page.tree_entries.each do |entry|
-          indent = "  " * (entry.level - 1)
-          puts "#{entry.level}#{indent}- #{entry.subject.name}"
-        end
+      FaithAndFarming::Book.pages.walk(TreeListener.new)
+    end
+
+    class TreeListener
+
+      def page(index)
+        puts "\n--- page #{index} ---"
       end
+
+      def entry(level:, subject:)
+        indent = "  " * (level - 1)
+        puts "#{level}#{indent}- #{subject.fetch(:name)}"
+      end
+
+      private
+  
+      def method_missing(method, arg)
+      end
+  
     end
 
   end
@@ -48,20 +60,21 @@ Clamp do
     option "--to", "PAGE", "last page", :default => 720, &method(:Integer)
     
     def execute
-      FaithAndFarming::Book.pages(from..to).walk(BookListener.new)
+      FaithAndFarming::Book.pages(from..to).walk(DumpListener.new)
     end
 
-  end
+    class DumpListener
 
-  class BookListener
-
-    private
-
-    def method_missing(method, arg)
-      puts YAML.dump(method => arg)
+      private
+  
+      def method_missing(method, arg)
+        puts YAML.dump(method => arg)
+      end
+  
     end
-
+    
   end
+
   def run(*)
     super
   rescue Errno::EPIPE
