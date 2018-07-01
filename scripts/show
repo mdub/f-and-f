@@ -62,5 +62,9 @@ Clamp do
     end
 
   end
+  def run(*)
+    super
+  rescue Errno::EPIPE
+  end
 
 end
