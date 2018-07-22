@@ -108,15 +108,13 @@ module FaithAndFarming
       end
 
       def entry_offset
-        unless defined?(@entry_offset)
-          @entry_offset = nil
-          blocks.each do |b|
-            if b.text =~ /^1 2 3 4/
-              @entry_offset = b.bounds.left
-            end
+        return @entry_offset if defined?(@entry_offset)
+        blocks.each do |b|
+          if b.text =~ /^1 2 3 4/
+            return @entry_offset = b.bounds.left
           end
         end
-        @entry_offset
+        @entry_offset = nil
       end
 
       # p222
