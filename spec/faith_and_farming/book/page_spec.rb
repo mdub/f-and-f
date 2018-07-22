@@ -213,6 +213,24 @@ describe FaithAndFarming::Book::Page do
 
       end
 
+      context "with a de-facto marriage" do
+
+        let(:page_index) { 103 }
+
+        it "extracts the partners" do
+          expect(page.elements).to include(
+            an_instance_of(FaithAndFarming::Book::Elements::Entry) & having_attributes(
+              people: a_collection_including(
+                having_attributes(name: "REED, Celia Elizabeth"),
+                having_attributes(name: "PAXMAN, Arthur Keith")
+              ),
+              marriage_date: nil
+            )
+          )
+        end
+
+      end
+
     end
 
   end

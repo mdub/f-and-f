@@ -152,9 +152,12 @@ module FaithAndFarming
       def extract_entry(text)
         return nil unless text =~ /\A0[1-9]> (.*)/
         Elements::Entry.new.tap do |e|
-          left, married, right = $1.split(/ m on (.*) to /i, 2)
-          e.marriage_date = married
-          [left, right].compact.each_with_index do |name, i|
+          left, married, right = $1.split(/ (m .* to|de facto) /i, 2)
+          names = [left, right].compact
+          if married =~ /m on (.*) to/i
+            e.marriage_date = $1
+          end
+          names.each_with_index do |name, i|
             e.people[i].name = name.sub(/^\(\d\)/,"")
             if text.lines[i+1] =~ /^b ([\d*.]+)(?: d ([\d*.]+))?/
               e.people[i].birth_date = $1
