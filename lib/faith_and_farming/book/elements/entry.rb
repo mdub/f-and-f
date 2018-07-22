@@ -11,6 +11,7 @@ module FaithAndFarming
         component_list :people do
           attribute :name
           attribute :birth_date, :default => nil
+          attribute :death_date, :default => nil
         end
 
         def subject

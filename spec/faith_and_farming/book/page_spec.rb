@@ -123,6 +123,20 @@ describe FaithAndFarming::Book::Page do
         )
       end
 
+      it "extracts birth and death dates" do
+        expect(page.elements).to include(
+          an_instance_of(FaithAndFarming::Book::Elements::Entry) & having_attributes(
+            people: a_collection_including(
+              having_attributes(
+                name: "DODGSHUN, Truby Edward",
+                birth_date: "26.02.1922",
+                death_date: "12.09.1944"
+              )
+            )
+          )
+        )
+      end
+
       context "with a marriage" do
 
         it "extracts both parties" do

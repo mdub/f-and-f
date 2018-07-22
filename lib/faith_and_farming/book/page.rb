@@ -155,8 +155,9 @@ module FaithAndFarming
           $1.split(/ m on .* to /).each_with_index do |name, i|
             e.people[i].name = name
           end
-          if text.lines[1] =~ /^b ([\d*.]+)/
+          if text.lines[1] =~ /^b ([\d*.]+)(?: d ([\d*.]+))?/
             e.people[0].birth_date = $1
+            e.people[0].death_date = $2
           end
           if text.lines[2] =~ /^b ([\d*.]+)/
             e.people[1].birth_date = $1
