@@ -143,6 +143,9 @@ module FaithAndFarming
                 if text.lines[1] =~ /^b ([\d*.]+)/
                   e.people[0].birth_date = $1
                 end
+                if text.lines[2] =~ /^b ([\d*.]+)/
+                  e.people[1].birth_date = $1
+                end
               end
             end
           end

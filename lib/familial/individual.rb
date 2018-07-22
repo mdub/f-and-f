@@ -7,10 +7,10 @@ module Familial
 
     attr_accessor :name
 
-    attr_reader :birth
+    attr_reader :birth_date
 
-    def birth=(arg)
-      @birth = Date.parse(arg)
+    def birth_date=(arg)
+      @birth_date = Date.parse(arg)
     end
 
   end

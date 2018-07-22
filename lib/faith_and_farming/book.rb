@@ -17,6 +17,7 @@ module FaithAndFarming
               entry.people.each do |person|
                 i = db.individuals.create
                 i.name = person.name.gsub(/\w+/) { |w| w.capitalize }
+                i.birth_date = person.birth_date if person.birth_date
               end
             end
           end

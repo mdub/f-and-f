@@ -123,14 +123,32 @@ describe FaithAndFarming::Book::Page do
         )
       end
 
+      it "recognises marriages" do
+        an_instance_of(FaithAndFarming::Book::Elements::Entry) & having_attributes(
+          level: 4,
+          people: a_collection_including(
+            having_attributes(
+              name: "DODGSHUN, Kenneth Christopher"
+            ),
+            having_attributes(
+              name: "SNUSHALL, Wenda Joy"
+            )
+          )
+        )
+      end
+
       it "extracts dates of birth" do
         expect(page.elements).to include(
           an_instance_of(FaithAndFarming::Book::Elements::Entry) & having_attributes(
-            level: 6,
+            level: 4,
             people: a_collection_including(
               having_attributes(
-                name: "JACKMAN, Nicola Jane Heathcote",
-                birth_date: "25.09.1981"
+                name: "DODGSHUN, Kenneth Christopher",
+                birth_date: "15.10.1927"
+              ),
+              having_attributes(
+                name: "SNUSHALL, Wenda Joy",
+                birth_date: "12.07.1930"
               )
             )
           )
