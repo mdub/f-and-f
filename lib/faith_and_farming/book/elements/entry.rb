@@ -1,11 +1,12 @@
 module FaithAndFarming
   module Book
-    module Components
+    module Elements
 
       class Entry < ConfigMapper::ConfigStruct
 
         component_list :people do
           attribute :name
+          attribute :birth_date, :default => nil
         end
 
         def subject

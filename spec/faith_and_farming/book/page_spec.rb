@@ -1,6 +1,7 @@
 require "spec_helper"
 
 require "faith_and_farming/book/page"
+require "faith_and_farming/book/elements/ancestors"
 
 describe FaithAndFarming::Book::Page do
 
@@ -104,6 +105,77 @@ describe FaithAndFarming::Book::Page do
 
       it %{returns the indent of "1 2 3 4 5 6 7 8 9"} do
         expect(page.entry_offset).to eql(212)
+      end
+
+    end
+
+    describe "#elements" do
+
+      it "includes ancestors" do
+        expect(page.elements).to include(
+          an_instance_of(FaithAndFarming::Book::Elements::Ancestors) & having_attributes(
+            lines: expected_ancestors
+          )
+        )
+      end
+
+      it "includes entries" do
+        expect(page.elements).to include(
+          an_instance_of(FaithAndFarming::Book::Elements::Entry) & having_attributes(
+            level: 6,
+            people: a_collection_including(
+              having_attributes(
+                name: "JACKMAN, Nicola Jane Heathcote"
+              )
+            )
+          ),
+          an_instance_of(FaithAndFarming::Book::Elements::Entry) & having_attributes(
+            level: 6,
+            people: a_collection_including(
+              having_attributes(
+                name: "JACKMAN, Rachael Anne Heathcote"
+              )
+            )
+          ),
+          an_instance_of(FaithAndFarming::Book::Elements::Entry) & having_attributes(
+            level: 5,
+            people: a_collection_including(
+              having_attributes(
+                name: "DODGSHUN, Paul Sydney"
+              )
+            )
+          ),
+          an_instance_of(FaithAndFarming::Book::Elements::Entry) & having_attributes(
+            level: 4,
+            people: a_collection_including(
+              having_attributes(
+                name: "DODGSHUN, Truby Edward"
+              )
+            )
+          ),
+          an_instance_of(FaithAndFarming::Book::Elements::Entry) & having_attributes(
+            level: 4,
+            people: a_collection_including(
+              having_attributes(
+                name: "DODGSHUN, Kenneth Christopher"
+              )
+            )
+          )
+        )
+      end
+
+      it "extracts dates of birth" do
+        expect(page.elements).to include(
+          an_instance_of(FaithAndFarming::Book::Elements::Entry) & having_attributes(
+            level: 6,
+            people: a_collection_including(
+              having_attributes(
+                name: "JACKMAN, Nicola Jane Heathcote",
+                birth_date: "25.09.1981"
+              )
+            )
+          )
+        )
       end
 
     end

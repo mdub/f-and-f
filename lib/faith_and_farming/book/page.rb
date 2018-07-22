@@ -1,5 +1,6 @@
 require "config_mapper"
-require "faith_and_farming/book/components/entry"
+require "faith_and_farming/book/elements/ancestors"
+require "faith_and_farming/book/elements/entry"
 require "faith_and_farming/ocr/page"
 require "yaml"
 
@@ -120,7 +121,7 @@ module FaithAndFarming
           blocks.each do |block|
             if block.text =~ /\A0[1-9]> (.*)/
               $1.split(/ m on .* to /).each do |name|
-                y << Components::Entry.new.tap do |e|
+                y << Elements::Entry.new.tap do |e|
                   e.subject.name = name
                   e.level = calculate_level(block.bounds.left)
                 end
@@ -150,6 +151,28 @@ module FaithAndFarming
       # - L6: 571
       def calculate_level(left)
         (left - entry_offset + 35) / 75 + 1
+      end
+
+      def elements
+        [].tap do |y|
+          blocks.each_with_index do |block, i|
+            text = block.text
+            if i < 3 && text =~ /^Descendants of /
+              lines = text.sub(/^Descendants of /, "").gsub(/^[IJ]/, "").split("\n")
+              y << Elements::Ancestors.from_data(lines: lines)
+            elsif text =~ /\A0[1-9]> (.*)/
+              y << Elements::Entry.new.tap do |e|
+                $1.split(/ m on .* to /).each_with_index do |name, i|
+                  e.people[i].name = name
+                end
+                e.level = calculate_level(block.bounds.left)
+                if text.lines[1] =~ /^b ([\d*.]+)/
+                  e.people[0].birth_date = $1
+                end
+              end
+            end
+          end
+        end
       end
 
       def walk(listener)
