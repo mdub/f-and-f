@@ -139,32 +139,55 @@ describe FaithAndFarming::Book::Page do
 
       context "with a marriage" do
 
+        let(:page_index) { 227 }
+
         it "extracts both parties" do
-          an_instance_of(FaithAndFarming::Book::Elements::Entry) & having_attributes(
-            level: 4,
-            people: a_collection_including(
-              having_attributes(
-                name: "DODGSHUN, Kenneth Christopher"
-              ),
-              having_attributes(
-                name: "SNUSHALL, Wenda Joy"
+          expect(page.elements).to include(
+            an_instance_of(FaithAndFarming::Book::Elements::Entry) & having_attributes(
+              level: 2,
+              people: a_collection_including(
+                having_attributes(
+                  name: "WILLIAMS, William Temple"
+                ),
+                having_attributes(
+                  name: "PUCKEY, Annie Matilda Sophia Marilla"
+                )
               )
             )
           )
         end
 
-        it "extracts dates for both parties" do
+        it "extracts marriage date" do
           expect(page.elements).to include(
             an_instance_of(FaithAndFarming::Book::Elements::Entry) & having_attributes(
-              level: 4,
+              level: 2,
+              marriage_date: "31.03.1891",
               people: a_collection_including(
                 having_attributes(
-                  name: "DODGSHUN, Kenneth Christopher",
-                  birth_date: "15.10.1927"
+                  name: "WILLIAMS, William Temple"
                 ),
                 having_attributes(
-                  name: "SNUSHALL, Wenda Joy",
-                  birth_date: "12.07.1930"
+                  name: "PUCKEY, Annie Matilda Sophia Marilla"
+                )
+              )
+            )
+          )
+        end
+
+        it "extracts birth and death dates for both parties" do
+          expect(page.elements).to include(
+            an_instance_of(FaithAndFarming::Book::Elements::Entry) & having_attributes(
+              level: 2,
+              people: a_collection_including(
+                having_attributes(
+                  name: "WILLIAMS, William Temple",
+                  birth_date: "16.03.1856",
+                  death_date: "01.04.1928"
+                ),
+                having_attributes(
+                  name: "PUCKEY, Annie Matilda Sophia Marilla",
+                  birth_date: "26.06.1858",
+                  death_date: "22.08.1938"
                 )
               )
             )

@@ -19,6 +19,7 @@ module FaithAndFarming
         end
 
         attribute :level, Integer
+        attribute :marriage_date, :default => nil
 
         def to_h
           {
