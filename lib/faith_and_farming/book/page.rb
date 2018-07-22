@@ -1,4 +1,5 @@
 require "config_mapper"
+require "faith_and_farming/book/components/entry"
 require "faith_and_farming/ocr/page"
 require "yaml"
 
@@ -119,7 +120,7 @@ module FaithAndFarming
           blocks.each do |block|
             if block.text =~ /\A0[1-9]> (.*)/
               $1.split(/ m on .* to /).each do |name|
-                y << Entry.new.tap do |e|
+                y << Components::Entry.new.tap do |e|
                   e.subject.name = name
                   e.level = calculate_level(block.bounds.left)
                 end
@@ -172,20 +173,6 @@ module FaithAndFarming
           end
         end
       end
-
-    end
-
-    class Entry < ConfigMapper::ConfigStruct
-
-      component_list :people do
-        attribute :name
-      end
-
-      def subject
-        people[0]
-      end
-
-      attribute :level, Integer
 
     end
 
