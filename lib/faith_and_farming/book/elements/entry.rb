@@ -24,6 +24,7 @@ module FaithAndFarming
         def to_h
           {
             "level" => level,
+            "marriage_date" => marriage_date,
             "people" => people.map(&:to_h)
           }
         end

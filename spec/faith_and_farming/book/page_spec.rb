@@ -146,12 +146,8 @@ describe FaithAndFarming::Book::Page do
             an_instance_of(FaithAndFarming::Book::Elements::Entry) & having_attributes(
               level: 2,
               people: a_collection_including(
-                having_attributes(
-                  name: "WILLIAMS, William Temple"
-                ),
-                having_attributes(
-                  name: "PUCKEY, Annie Matilda Sophia Marilla"
-                )
+                having_attributes(name: "WILLIAMS, William Temple"),
+                having_attributes(name: "PUCKEY, Annie Matilda Sophia Marilla")
               )
             )
           )
@@ -163,12 +159,8 @@ describe FaithAndFarming::Book::Page do
               level: 2,
               marriage_date: "31.03.1891",
               people: a_collection_including(
-                having_attributes(
-                  name: "WILLIAMS, William Temple"
-                ),
-                having_attributes(
-                  name: "PUCKEY, Annie Matilda Sophia Marilla"
-                )
+                having_attributes(name: "WILLIAMS, William Temple"),
+                having_attributes(name: "PUCKEY, Annie Matilda Sophia Marilla")
               )
             )
           )
@@ -190,6 +182,31 @@ describe FaithAndFarming::Book::Page do
                   death_date: "22.08.1938"
                 )
               )
+            )
+          )
+        end
+
+      end
+
+      context "with multiple marriages" do
+
+        let(:page_index) { 220 }
+
+        it "extracts both marriages" do
+          expect(page.elements).to include(
+            an_instance_of(FaithAndFarming::Book::Elements::Entry) & having_attributes(
+              people: a_collection_including(
+                having_attributes(name: "DODGSHUN, Paul Sydney"),
+                having_attributes(name: "CROSS, Sally Georgina")
+              ),
+              marriage_date: "17.12.1982"
+            ),
+            an_instance_of(FaithAndFarming::Book::Elements::Entry) & having_attributes(
+              people: a_collection_including(
+                having_attributes(name: "DODGSHUN, Paul Sydney"),
+                having_attributes(name: "HUNT, Bronwyn Margaret")
+              ),
+              marriage_date: "02.03.1996"
             )
           )
         end
