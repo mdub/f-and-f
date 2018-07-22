@@ -14,7 +14,7 @@ module FaithAndFarming
         Familial::Dataset.new.tap do |db|
           pages(72..74).each do |page|
             page.elements.grep(FaithAndFarming::Book::Elements::Entry).each do |entry|
-              entry.people.each do |person|
+              entry.people.each do   |person|
                 i = db.individuals.create
                 i.name = person.name.gsub(/\w+/) { |w| w.capitalize }
                 i.birth_date = person.birth_date if person.birth_date

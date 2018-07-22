@@ -131,23 +131,35 @@ module FaithAndFarming
         [].tap do |y|
           blocks.each_with_index do |block, i|
             text = block.text
-            if i < 3 && text =~ /^Descendants of /
-              lines = text.sub(/^Descendants of /, "").gsub(/^[IJ]/, "").split("\n")
-              y << Elements::Ancestors.from_data(lines: lines)
-            elsif text =~ /\A0[1-9]> (.*)/
-              y << Elements::Entry.new.tap do |e|
-                $1.split(/ m on .* to /).each_with_index do |name, i|
-                  e.people[i].name = name
-                end
-                e.level = calculate_level(block.bounds.left)
-                if text.lines[1] =~ /^b ([\d*.]+)/
-                  e.people[0].birth_date = $1
-                end
-                if text.lines[2] =~ /^b ([\d*.]+)/
-                  e.people[1].birth_date = $1
-                end
-              end
+            if i < 3 && ancestors = extract_ancestors(text)
+              y << ancestors
+            elsif entry = extract_entry(text)
+              entry.level = calculate_level(block.bounds.left)
+              y << entry
             end
+          end
+        end
+      end
+
+      private
+
+      def extract_ancestors(text)
+        return nil unless text =~ /^Descendants of /
+        lines = text.sub(/^Descendants of /, "").gsub(/^[IJ]/, "").split("\n")
+        Elements::Ancestors.from_data(lines: lines)
+      end
+
+      def extract_entry(text)
+        return nil unless text =~ /\A0[1-9]> (.*)/
+        Elements::Entry.new.tap do |e|
+          $1.split(/ m on .* to /).each_with_index do |name, i|
+            e.people[i].name = name
+          end
+          if text.lines[1] =~ /^b ([\d*.]+)/
+            e.people[0].birth_date = $1
+          end
+          if text.lines[2] =~ /^b ([\d*.]+)/
+            e.people[1].birth_date = $1
           end
         end
       end
