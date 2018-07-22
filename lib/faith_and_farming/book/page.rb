@@ -107,30 +107,6 @@ module FaithAndFarming
         }
       end
 
-      def descendants_of
-        @descendants_of ||= begin
-          text = blocks.take(3).map(&:text).grep(/^Descendants of /).first
-          return nil unless text
-          text = text.sub(/^Descendants of /, "").gsub(/^[IJ]/, "")
-          text.split("\n")
-        end
-      end
-
-      def tree_entries
-        @tree_entries ||= [].tap do |y|
-          blocks.each do |block|
-            if block.text =~ /\A0[1-9]> (.*)/
-              $1.split(/ m on .* to /).each do |name|
-                y << Elements::Entry.new.tap do |e|
-                  e.subject.name = name
-                  e.level = calculate_level(block.bounds.left)
-                end
-              end
-            end
-          end
-        end
-      end
-
       def entry_offset
         unless defined?(@entry_offset)
           @entry_offset = nil

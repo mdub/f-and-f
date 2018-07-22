@@ -13,7 +13,7 @@ module FaithAndFarming
       def family_tree
         Familial::Dataset.new.tap do |db|
           pages(72..74).each do |page|
-            page.tree_entries.each do |entry|
+            page.elements.grep(FaithAndFarming::Book::Elements::Entry).each do |entry|
               entry.people.each do |person|
                 i = db.individuals.create
                 i.name = person.name.gsub(/\w+/) { |w| w.capitalize }

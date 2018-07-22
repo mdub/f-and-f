@@ -41,12 +41,6 @@ describe FaithAndFarming::Book::Page do
 
     let(:page_index) { 400 }
 
-    describe "#descendants_of" do
-      it "is nil" do
-        expect(page.descendants_of).to eql(nil)
-      end
-    end
-
     describe "#entry_offset" do
       it "is nil" do
         expect(page.entry_offset).to eql(nil)
@@ -58,48 +52,6 @@ describe FaithAndFarming::Book::Page do
   context "on a family-tree page" do
 
     let(:page_index) { 220 }
-
-    let(:expected_ancestors) do
-      [
-        "WILLIAMS, Henry and COLDHAM, Marianne",
-        "WILLIAMS, Marianne and DAVIES, Christopher Pearson",
-        "DAVIES, Christopher Pearson and WILLIAMS, Mary Anne",
-        "DAVIES, Freda Lilian and DODGSHUN, Gordon Mawley",
-        "DODGSHUN, Sydney Yorke and WOODWARD, Dorothy Virginia",
-        "DODGSHUN, Philippa Robyn and JACKMAN, Peter Heathcote"
-      ]
-    end
-
-    describe "#descendants_of" do
-
-      it "summarises the 'Descendants of ...' block" do
-        expect(page.descendants_of).to eql(expected_ancestors)
-      end
-
-    end
-
-    describe "#tree_entries" do
-
-      it "represent each tree entry" do
-        expect(page.tree_entries[0].subject.name).to eql("JACKMAN, Nicola Jane Heathcote")
-        expect(page.tree_entries[1].subject.name).to eql("JACKMAN, Rachael Anne Heathcote")
-      end
-
-      describe "element" do
-
-        describe "#level" do
-
-          it "returns the tree level" do
-            expect(page.tree_entries[0].level).to eql(6)
-            expect(page.tree_entries[2].level).to eql(5)
-            expect(page.tree_entries.last.level).to eql(4)
-          end
-
-        end
-
-      end
-
-    end
 
     describe "#entry_offset" do
 
@@ -114,7 +66,14 @@ describe FaithAndFarming::Book::Page do
       it "includes ancestors" do
         expect(page.elements).to include(
           an_instance_of(FaithAndFarming::Book::Elements::Ancestors) & having_attributes(
-            lines: expected_ancestors
+            lines:  [
+              "WILLIAMS, Henry and COLDHAM, Marianne",
+              "WILLIAMS, Marianne and DAVIES, Christopher Pearson",
+              "DAVIES, Christopher Pearson and WILLIAMS, Mary Anne",
+              "DAVIES, Freda Lilian and DODGSHUN, Gordon Mawley",
+              "DODGSHUN, Sydney Yorke and WOODWARD, Dorothy Virginia",
+              "DODGSHUN, Philippa Robyn and JACKMAN, Peter Heathcote"
+            ]
           )
         )
       end
