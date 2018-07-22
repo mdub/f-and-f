@@ -4,6 +4,10 @@ module FaithAndFarming
 
       class Entry < ConfigMapper::ConfigStruct
 
+        def type
+          :entry
+        end
+
         component_list :people do
           attribute :name
           attribute :birth_date, :default => nil
@@ -14,6 +18,13 @@ module FaithAndFarming
         end
 
         attribute :level, Integer
+
+        def to_h
+          {
+            "level" => level,
+            "people" => people.map(&:to_h)
+          }
+        end
 
       end
 

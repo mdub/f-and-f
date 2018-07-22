@@ -15,13 +15,6 @@ module FaithAndFarming
         end
       end
 
-      def walk(listener)
-        each do |page|
-          listener.page(page.page_index)
-          page.walk(listener)
-        end
-      end
-
     end
 
   end

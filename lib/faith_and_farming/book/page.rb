@@ -175,28 +175,6 @@ module FaithAndFarming
         end
       end
 
-      def walk(listener)
-        blocks.each_with_index do |block, i|
-          text = block.text
-          if i < 3 && text =~ /^Descendants of /
-            lines = text.sub(/^Descendants of /, "").gsub(/^[IJ]/, "").split("\n")
-            listener.ancestors(lines)
-          elsif text =~ /\A0[1-9]> (.*)/
-            name = $1
-            if text.lines[1] =~ /^b ([\d*.]+)/
-              birth_date = $1
-            end
-            listener.entry(
-              level: calculate_level(block.bounds.left),
-              subject: {
-                name: name,
-                born: birth_date
-              }
-            )
-          end
-        end
-      end
-
     end
 
   end

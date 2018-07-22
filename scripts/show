@@ -31,25 +31,16 @@ Clamp do
   subcommand "tree", "display the tree" do
 
     def execute
-      FaithAndFarming::Book.pages.walk(TreeListener.new)
-    end
-
-    class TreeListener
-
-      def page(index)
-        puts "\n--- page #{index} ---"
+      FaithAndFarming::Book.pages.each do |page|
+        puts "\n--- page #{page.page_index} ---"
+        page.elements.each do |e|
+          case e
+          when FaithAndFarming::Book::Elements::Entry
+            indent = "  " * (e.level - 1)
+            puts "#{e.level}#{indent}- #{e.subject.name}"
+          end
+        end
       end
-
-      def entry(level:, subject:)
-        indent = "  " * (level - 1)
-        puts "#{level}#{indent}- #{subject.fetch(:name)}"
-      end
-
-      private
-  
-      def method_missing(method, arg)
-      end
-  
     end
 
   end
@@ -58,21 +49,16 @@ Clamp do
 
     option "--from", "PAGE", "first page", :default => 72, &method(:Integer)
     option "--to", "PAGE", "last page", :default => 720, &method(:Integer)
-    
+
     def execute
-      FaithAndFarming::Book.pages(from..to).walk(DumpListener.new)
-    end
-
-    class DumpListener
-
-      private
-  
-      def method_missing(method, arg)
-        puts YAML.dump(method => arg)
+      FaithAndFarming::Book.pages(from..to).each do |page|
+        puts YAML.dump(page: page.page_index)
+        page.elements.each do |element|
+          puts YAML.dump(element.to_h)
+        end
       end
-  
     end
-    
+
   end
 
   def run(*)

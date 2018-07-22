@@ -180,53 +180,6 @@ describe FaithAndFarming::Book::Page do
 
     end
 
-    describe "#walk" do
-
-      let(:listener) { spy("Listener") }
-
-      before do
-        page.walk(listener)
-      end
-
-      it "signals ancestors" do
-        expect(listener).to have_received(:ancestors).with(expected_ancestors)
-      end
-
-      it "signals entry headings" do
-        expect(listener).to have_received(:entry).with(
-          level: 6,
-          subject: hash_including(name: "JACKMAN, Nicola Jane Heathcote")
-        ).ordered
-        expect(listener).to have_received(:entry).with(
-          level: 6,
-          subject: hash_including(name: "JACKMAN, Rachael Anne Heathcote")
-        ).ordered
-        expect(listener).to have_received(:entry).twice.with(
-          level: 5,
-          subject: hash_including(name: /^DODGSHUN, Paul Sydney/)
-        ).ordered
-        expect(listener).to have_received(:entry).with(
-          level: 4,
-          subject: hash_including(name: "DODGSHUN, Truby Edward")
-        ).ordered
-        expect(listener).to have_received(:entry).with(
-          level: 4,
-          subject: hash_including(name: /^DODGSHUN, Kenneth/)
-        ).ordered
-      end
-
-      it "signals dates of birth" do
-        expect(listener).to have_received(:entry).with(
-          level: 6,
-          subject: hash_including(
-            name: "JACKMAN, Nicola Jane Heathcote",
-            born: "25.09.1981"
-          )
-        )
-      end
-
-    end
-
   end
 
 end
