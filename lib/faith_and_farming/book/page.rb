@@ -130,20 +130,25 @@ module FaithAndFarming
       end
 
       def elements
-        [].tap do |y|
-          blocks.each do |block|
-            text = block.text
-            if ancestors = Elements::Ancestors.from(text)
-              y << ancestors
-            elsif entry = Elements::Entry.from(text)
-              entry.level = calculate_level(block.bounds.left)
-              y << entry
-            elsif noise = Elements::Noise.from(text)
-              y << noise
-            else
-              y << Elements::Other.from(text)
-            end
+        blocks.map do |block|
+          parse_block(block.text).tap do |element|
+            element.level = calculate_level(block.bounds.left) if element.respond_to?(:level=)
           end
+        end
+      end
+
+      private
+
+      ElementTypes = [
+        Elements::Ancestors,
+        Elements::Entry,
+        Elements::Noise,
+        Elements::Other
+      ]
+
+      def parse_block(text)
+        ElementTypes.reduce(nil) do |result, element_type|
+          result || element_type.from(text)
         end
       end
 
