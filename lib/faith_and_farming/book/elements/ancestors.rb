@@ -12,7 +12,7 @@ module FaithAndFarming
 
           def from(text)
             return nil unless text =~ /\ADescendants of /
-            lines = text.sub(/^Descendants of /, "").gsub(/^[IJ]/, "").split("\n")
+            lines = text.sub(/\ADescendants of /, "").gsub(/\n[VIJ|] ?/, "\n").split("\n")
             from_data(lines: lines)
           end
 

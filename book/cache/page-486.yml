@@ -22,12 +22,19 @@ blocks:
   - text: |
       WATSON, Edith Ruth and TOMBLESON, Martin Grahame
       I TOMBLESON, John Roger and DYKE, Jennifer Anne
-      04> TOMBLESON, Leah Anne
     bounds:
       left: 577
       right: 1809
       top: 435
       bottom: 645
+- paragraphs:
+  - text: |
+      04> TOMBLESON, Leah Anne
+    bounds:
+      left: 652
+      right: 1341
+      top: 2766
+      bottom: 2820
   - text: |
       b 04.04.1994
       Leah b. at Lower Hutt.

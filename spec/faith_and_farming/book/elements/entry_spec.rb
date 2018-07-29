@@ -205,6 +205,40 @@ describe FaithAndFarming::Book::Elements::Entry do
 
     end
 
+    context "with '0' mis-parsed as '6'" do
+
+      let(:text) do
+        <<~TEXT
+          64> GRAY, Anthony Charles m on 29.09.1989 to (2) MABEY, Gail Ann McLaren
+          b 23.07.1948
+          b 10.04.1955
+        TEXT
+      end
+
+      it "is still recognised" do
+        expect(entry).to be_kind_of(FaithAndFarming::Book::Elements::Entry)
+        expect(entry.people.first.name).to eq("GRAY, Anthony Charles")
+      end
+
+    end
+
+    context "with a stray apostrophe" do
+
+      let(:text) do
+        <<~TEXT
+          02>' WATSON, Edith Ruth m on 19.11.1982 to (2)CARTER, Dudley Robert (Nick)
+          b 06.07.1933
+          b 13.04.1931
+        TEXT
+      end
+
+      it "is still recognised" do
+        expect(entry).to be_kind_of(FaithAndFarming::Book::Elements::Entry)
+        expect(entry.people.first.name).to eq("WATSON, Edith Ruth")
+      end
+
+    end
+
   end
 
 end
