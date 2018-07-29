@@ -64,10 +64,10 @@ describe Familial::Date do
 
     context "with fully-specified date" do
 
-      let(:date) { described_class.parse("11.04.1942") }
+      let(:date) { described_class.parse("11.09.1942") }
 
       it "fills all fields" do
-        expect(date).to eq(described_class.new(1942, 4, 11))
+        expect(date).to eq(described_class.new(1942, 9, 11))
       end
 
     end

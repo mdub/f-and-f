@@ -23,7 +23,7 @@ module Familial
       def parse(date_string)
         raise ArgumentError, "invalid date: #{date_string}" unless date_string =~ PATTERN
         fields = Regexp.last_match.captures.reverse.map do |field|
-          Integer(field) if field =~ /^\d+$/
+          Integer(field.sub(/^0/,"")) unless field =~ /^\*+$/
         end
         new(*fields)
       end

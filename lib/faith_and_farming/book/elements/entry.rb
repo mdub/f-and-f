@@ -1,4 +1,5 @@
 require "config_mapper"
+require "faith_and_farming/book/utils"
 
 module FaithAndFarming
   module Book
@@ -52,8 +53,7 @@ module FaithAndFarming
           end
 
           def normalise_date(date_string)
-            return nil if date_string.nil?
-            date_string.gsub("* *", "*.*")
+            Utils.normalise_date(date_string)
           end
 
         end

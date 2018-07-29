@@ -10,11 +10,11 @@ module FaithAndFarming
         Pages.new(*args)
       end
 
-      def family_tree
+      def family_tree(last_page = 641)
         Familial::Dataset.new.tap do |db|
-          pages(72..74).each do |page|
+          pages(73..last_page).each do |page|
             page.elements.grep(FaithAndFarming::Book::Elements::Entry).each do |entry|
-              entry.people.each do   |person|
+              entry.people.each do |person|
                 i = db.individuals.create
                 i.name = person.name.gsub(/\w+/) { |w| w.capitalize }
                 i.date_of_birth = person.date_of_birth if person.date_of_birth
