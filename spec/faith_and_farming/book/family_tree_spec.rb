@@ -23,7 +23,7 @@ describe FaithAndFarming::Book, "family tree" do
     end
 
     it "has the correct #birth" do
-      expect(henry.birth_date.to_s).to eq("11.02.1792")
+      expect(henry.date_of_birth.to_s).to eq("11.02.1792")
     end
 
   end
@@ -41,7 +41,7 @@ describe FaithAndFarming::Book, "family tree" do
     end
 
     it "has the correct #birth" do
-      expect(marianne.birth_date.to_s).to eq("12.12.1793")
+      expect(marianne.date_of_birth.to_s).to eq("12.12.1793")
     end
 
   end

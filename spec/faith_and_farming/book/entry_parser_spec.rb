@@ -35,11 +35,11 @@ describe FaithAndFarming::Book::EntryParser do
       end
 
       it "extracts date of birth" do
-        expect(person.birth_date).to eq("06.07.1854")
+        expect(person.date_of_birth).to eq("06.07.1854")
       end
 
       it "extracts date of death" do
-        expect(person.death_date).to eq("20.06.1938")
+        expect(person.date_of_death).to eq("20.06.1938")
       end
 
     end
@@ -71,13 +71,13 @@ describe FaithAndFarming::Book::EntryParser do
         expect(result.people).to include(
           an_object_having_attributes(
             name: "WILLIAMS, William Temple",
-            birth_date: "16.03.1856",
-            death_date: "01.04.1928"
+            date_of_birth: "16.03.1856",
+            date_of_death: "01.04.1928"
           ),
           an_object_having_attributes(
             name: "PUCKEY, Annie Matilda Sophia Marilla",
-            birth_date: "26.06.1858",
-            death_date: "22.08.1938"
+            date_of_birth: "26.06.1858",
+            date_of_death: "22.08.1938"
           )
         )
       end

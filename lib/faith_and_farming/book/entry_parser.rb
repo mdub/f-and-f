@@ -20,8 +20,8 @@ module FaithAndFarming
           names.each_with_index do |name, i|
             e.people[i].name = name.sub(/^\(\d\)/,"")
             if text.lines[i+1] =~ /^b ([\d*.]+)(?: d ([\d*.]+))?/
-              e.people[i].birth_date = $1
-              e.people[i].death_date = $2
+              e.people[i].date_of_birth = $1
+              e.people[i].date_of_death = $2
             end
           end
         end
