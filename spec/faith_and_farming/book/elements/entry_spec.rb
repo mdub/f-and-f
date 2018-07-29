@@ -239,6 +239,25 @@ describe FaithAndFarming::Book::Elements::Entry do
 
     end
 
+    context "with ten or more kids" do
+
+      let(:text) do
+        <<~TEXT
+          10> GRAY, Olive Sheila m on 08.06.1946 to (1) TOMBLESON, Michael John
+          b 23.07.1923
+          b 25.08.1921 d 22.08.1971
+          Sheila b. at Eketahuna and m, at Gisborne. Michael, s/o Percy Douglas Tombleson and Mary Dods, killed
+          in a car accident and bd. at Morrinsville.
+        TEXT
+      end
+
+      it "is still recognised" do
+        expect(entry).to be_kind_of(FaithAndFarming::Book::Elements::Entry)
+        expect(entry.people.first.name).to eq("GRAY, Olive Sheila")
+      end
+
+    end
+
   end
 
 end
