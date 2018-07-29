@@ -23,6 +23,12 @@ describe FaithAndFarming::Book::Utils do
     it "cleans up dodgy wildcard dates" do
       expect_normalise_date("** ** ****", "**.**.****")
       expect_normalise_date("********", "**.**.****")
+      expect_normalise_date("****.1972", "**.**.1972")
+    end
+
+    it "cleans up spacing" do
+      expect_normalise_date("**.**. 1997", "**.**.1997")
+      expect_normalise_date("11.03. ****", "11.03.****")
     end
 
     it "strips trailing periods" do
