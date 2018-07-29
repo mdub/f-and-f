@@ -141,19 +141,13 @@ blocks:
       bottom: 1888
   - text: |
       b **.**.1936
+      b ** ** ****
       Address: 39 Kalengo Street, Porirua East, Wellington.
     bounds:
       left: 521
       right: 1373
       top: 1898
       bottom: 1988
-- paragraphs:
-  - text: "** ** ****\n"
-    bounds:
-      left: 1410
-      right: 1580
-      top: 1897
-      bottom: 1917
 - paragraphs:
   - text: '01> GRAY, Tania Maree
 

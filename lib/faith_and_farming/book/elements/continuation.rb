@@ -12,7 +12,7 @@ module FaithAndFarming
         class << self
 
           def from(text)
-            return nil unless text =~ /\A(.+) \(cont\.\.\.\)\n/
+            return nil unless text =~ /\A(.+) \(cont\.\.\.\)\.?\n/
             new.tap do |c|
               c.title = $1
               c.text = $'

@@ -57,7 +57,7 @@ blocks:
       top: 887
       bottom: 980
 - paragraphs:
-  - text: '01> VANSTONE, Nicholas m on 25.10.1986 to VAN DEN BEUKEN, Nellie
+  - text: '01> VANSTONE, Nicholas Philip m on 25.10.1986 to VAN DEN BEUKEN, Nellie
 
 '
     bounds:
@@ -66,7 +66,6 @@ blocks:
       top: 1028
       bottom: 1082
   - text: |
-      Philip
       b 17.10.1962
     bounds:
       left: 679
@@ -81,13 +80,6 @@ blocks:
       right: 1843
       top: 1131
       bottom: 1261
-- paragraphs:
-  - text: "...\n"
-    bounds:
-      left: 685
-      right: 703
-      top: 1288
-      bottom: 1307
 - paragraphs:
   - text: '01> VANSTONE , Ashley Nicole
 
