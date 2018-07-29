@@ -63,10 +63,17 @@ describe FaithAndFarming::Book::Page do
 
     describe "#elements" do
 
+      it "starts at the beginning" do
+        expect(page.elements.first).to be_kind_of(FaithAndFarming::Book::Elements::StartOfPage)
+        expect(page.elements.first).to have_attributes(
+          page_index: page_index
+        )
+      end
+
       it "includes ancestors" do
         expect(page.elements).to include(
           an_instance_of(FaithAndFarming::Book::Elements::Ancestors) & having_attributes(
-            lines:  [
+            lines: [
               "WILLIAMS, Henry and COLDHAM, Marianne",
               "WILLIAMS, Marianne and DAVIES, Christopher Pearson",
               "DAVIES, Christopher Pearson and WILLIAMS, Mary Anne",

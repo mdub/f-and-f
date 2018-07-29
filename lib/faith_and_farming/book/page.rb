@@ -4,6 +4,7 @@ require "faith_and_farming/book/elements/continuation"
 require "faith_and_farming/book/elements/entry"
 require "faith_and_farming/book/elements/noise"
 require "faith_and_farming/book/elements/other"
+require "faith_and_farming/book/elements/start_of_page"
 require "faith_and_farming/ocr/page"
 require "yaml"
 
@@ -131,6 +132,12 @@ module FaithAndFarming
       end
 
       def elements
+        [Elements::StartOfPage.new(page_index)] + block_elements
+      end
+
+      private
+
+      def block_elements
         blocks.map { |block|
           parse_block(block.text).tap do |element|
             element.level = calculate_level(block.bounds.left) if element.respond_to?(:level=)
@@ -139,8 +146,6 @@ module FaithAndFarming
           Elements::Noise === element
         }
       end
-
-      private
 
       ElementTypes = [
         Elements::Ancestors,

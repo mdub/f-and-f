@@ -37,7 +37,6 @@ Clamp do
 
     def execute
       FaithAndFarming::Book.pages(from..to).each do |page|
-        puts YAML.dump("page" => page.page_index)
         page.elements.each do |element|
           type_name = element.class.name.sub(/.*::/,"")
           data = {"type" => type_name}.merge(element.to_h)
