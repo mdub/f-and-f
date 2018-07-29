@@ -116,7 +116,7 @@ describe FaithAndFarming::Book::Elements::Entry do
       end
 
       it "extracts date of marriage" do
-        expect(entry.marriage_date).to eq("31.03.1891")
+        expect(entry.date_married).to eq("31.03.1891")
       end
 
     end
@@ -139,7 +139,7 @@ describe FaithAndFarming::Book::Elements::Entry do
       end
 
       it "extracts date of marriage" do
-        expect(entry.marriage_date).to eq("02.03.1996")
+        expect(entry.date_married).to eq("02.03.1996")
       end
 
       context "with extra spaces" do
@@ -194,7 +194,7 @@ describe FaithAndFarming::Book::Elements::Entry do
       end
 
       it "extracts wildcard marriage date" do
-        expect(entry.marriage_date).to eq("**.**.****")
+        expect(entry.date_married).to eq("**.**.****")
       end
 
       it "extracts wildcard dates of birth and death" do

@@ -17,13 +17,13 @@ module FaithAndFarming
         end
 
         attribute :level, Integer
-        attribute :marriage_date, :default => nil
+        attribute :date_married, :default => nil
         attribute :note, :default => nil
 
         def to_h
           {
             "level" => level,
-            "marriage_date" => marriage_date,
+            "date_married" => date_married,
             "people" => people.map(&:to_h),
             "note" => note
           }
@@ -38,7 +38,7 @@ module FaithAndFarming
             names = [first, second].compact
             new.tap do |e|
               if married =~ /m on (.*) to/i
-                e.marriage_date = normalise_date($1)
+                e.date_married = normalise_date($1)
               end
               names.each_with_index do |name, i|
                 e.people[i].name = name.sub(/^\(\d\) */,"")
