@@ -123,14 +123,12 @@ describe FaithAndFarming::Book::Page do
         )
       end
 
-      it "includes some noise" do
-        expect(page.elements).to include(
-          an_instance_of(FaithAndFarming::Book::Elements::Noise) & having_attributes(
-            text: "1 2 3 4 5 6 7 8 9\n",
-          ),
-          an_instance_of(FaithAndFarming::Book::Elements::Noise) & having_attributes(
-            text: "221\n",
-          ),
+      it "does not include noise" do
+        expect(page.elements).not_to include(
+          an_instance_of(FaithAndFarming::Book::Elements::Noise),
+          an_object_having_attributes(
+            text: "1 2 3 4 5 6 7 8 9\n"
+          )
         )
       end
 

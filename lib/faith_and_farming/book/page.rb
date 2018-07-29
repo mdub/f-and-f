@@ -131,11 +131,13 @@ module FaithAndFarming
       end
 
       def elements
-        blocks.map do |block|
+        blocks.map { |block|
           parse_block(block.text).tap do |element|
             element.level = calculate_level(block.bounds.left) if element.respond_to?(:level=)
           end
-        end
+        }.reject { |element|
+          Elements::Noise === element
+        }
       end
 
       private
