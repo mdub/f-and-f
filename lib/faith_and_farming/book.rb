@@ -19,6 +19,9 @@ module FaithAndFarming
                 i.name = person.name.gsub(/\w+/) { |w| w.capitalize }
                 i.date_of_birth = person.date_of_birth if person.date_of_birth
               end
+            rescue => e
+              $stderr.puts "ERROR: on page #{page.page_index}"
+              raise e
             end
           end
         end
