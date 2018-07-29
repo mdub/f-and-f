@@ -19,7 +19,7 @@ module FaithAndFarming
             e.marriage_date = $1
           end
           names.each_with_index do |name, i|
-            e.people[i].name = name.sub(/^\(\d\)/,"")
+            e.people[i].name = name.sub(/^\(\d\) */,"")
             if lines.shift =~ /^b ([\d*.]+)(?: d ([\d*.]+))?/
               e.people[i].date_of_birth = $1
               e.people[i].date_of_death = $2

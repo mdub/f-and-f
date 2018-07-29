@@ -132,6 +132,25 @@ describe FaithAndFarming::Book::EntryParser do
         expect(entry.marriage_date).to eq("02.03.1996")
       end
 
+      context "with extra spaces" do
+
+        let(:text) do
+          <<~TEXT
+            03> DODGSHUN, Paul Sydney m on 02.03.1996 to (2) HUNT, Bronwyn Margaret
+            b 04.06.1953
+            b 02.08.1955
+          TEXT
+        end
+
+        it "extracts both names" do
+          expect(entry.people.map(&:name)).to eq [
+            "DODGSHUN, Paul Sydney",
+            "HUNT, Bronwyn Margaret"
+          ]
+        end
+
+      end
+
     end
 
     context "a de facto couple" do
