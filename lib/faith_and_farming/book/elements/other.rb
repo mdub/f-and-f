@@ -8,6 +8,14 @@ module FaithAndFarming
 
         attribute :text
 
+        class << self
+
+          def from(text)
+            from_data(text: text)
+          end
+
+        end
+
       end
 
     end

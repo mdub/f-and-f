@@ -131,30 +131,20 @@ module FaithAndFarming
 
       def elements
         [].tap do |y|
-          blocks.each_with_index do |block, i|
+          blocks.each do |block|
             text = block.text
-            if i < 3 && ancestors = extract_ancestors(text)
+            if ancestors = Elements::Ancestors.from(text)
               y << ancestors
             elsif entry = Elements::Entry.from(text)
               entry.level = calculate_level(block.bounds.left)
               y << entry
-            elsif text == "1 2 3 4 5 6 7 8 9\n"
-              y << Elements::Noise.from_data(text: text)
-            elsif text =~ /\A\d+\n\Z/
-              y << Elements::Noise.from_data(text: text)
+            elsif noise = Elements::Noise.from(text)
+              y << noise
             else
-              y << Elements::Other.from_data(text: text)
+              y << Elements::Other.from(text)
             end
           end
         end
-      end
-
-      private
-
-      def extract_ancestors(text)
-        return nil unless text =~ /^Descendants of /
-        lines = text.sub(/^Descendants of /, "").gsub(/^[IJ]/, "").split("\n")
-        Elements::Ancestors.from_data(lines: lines)
       end
 
     end
