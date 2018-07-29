@@ -8,27 +8,45 @@ require "yaml"
 
 Clamp do
 
-  subcommand "page", "page commands" do
+  option ["-f", "--from"], "PAGE", "first page", :default => 72, &method(:Integer)
+  option ["-t", "--to"], "PAGE", "last page", :default => 720, &method(:Integer)
+  option ["-p", "--page"], "PAGE", "only page" do |arg|
+    self.from = self.to = arg
+  end
 
-    parameter "N", "page number", :attribute_name => :page_index
+  def pages
+    FaithAndFarming::Book.pages(from..to)
+  end
+
+  subcommand "blocks", "display blocks" do
 
     def execute
-      page.blocks.each do |block|
-        bounds = block.bounds
-        puts "\n--- {left #{bounds.left}, right #{bounds.right}, top #{bounds.top}, bottom #{bounds.bottom}}\n"
-        puts block.text
+      pages.each do |page|
+        puts "\nPAGE #{page.page_index}"
+        page.blocks.each do |block|
+          bounds = block.bounds
+          puts "\nBLOCK {left #{bounds.left}, right #{bounds.right}, top #{bounds.top}, bottom #{bounds.bottom}}\n\n"
+          puts block.text.gsub(/^/, "  ")
+        end
       end
-    end
-
-    private
-
-    def page
-      FaithAndFarming::Book::Page.load(page_index)
     end
 
   end
 
-  subcommand "tree", "display the tree" do
+  subcommand "elements", "display page elements" do
+
+    def execute
+      FaithAndFarming::Book.pages(from..to).each do |page|
+        puts YAML.dump("page" => page.page_index)
+        page.elements.each do |element|
+          puts YAML.dump(element.to_h)
+        end
+      end
+    end
+
+  end
+
+  subcommand "names", "display entry names" do
 
     def execute
       FaithAndFarming::Book.pages.each do |page|
@@ -39,22 +57,6 @@ Clamp do
             indent = "  " * (e.level - 1)
             puts "#{e.level}#{indent}- #{e.subject.name}"
           end
-        end
-      end
-    end
-
-  end
-
-  subcommand "walk", "display the tree" do
-
-    option "--from", "PAGE", "first page", :default => 72, &method(:Integer)
-    option "--to", "PAGE", "last page", :default => 720, &method(:Integer)
-
-    def execute
-      FaithAndFarming::Book.pages(from..to).each do |page|
-        puts YAML.dump(page: page.page_index)
-        page.elements.each do |element|
-          puts YAML.dump(element.to_h)
         end
       end
     end
