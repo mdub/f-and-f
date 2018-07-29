@@ -152,6 +152,21 @@ describe FaithAndFarming::Book::Page do
 
       end
 
+      context "with a continuation" do
+
+        let(:page_index) { 221 }
+
+        it "recognised the continuation" do
+          expect(page.elements).to include(
+            an_instance_of(FaithAndFarming::Book::Elements::Continuation) & having_attributes(
+              title: "DODGSHUN, Kenneth Christopher and SNUSHALL, Wenda Joy",
+              text: "transport company until she retired in 1997.\n"
+            )
+          )
+        end
+
+      end
+
     end
 
   end

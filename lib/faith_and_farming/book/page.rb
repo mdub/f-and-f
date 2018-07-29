@@ -1,5 +1,6 @@
 require "config_mapper"
 require "faith_and_farming/book/elements/ancestors"
+require "faith_and_farming/book/elements/continuation"
 require "faith_and_farming/book/elements/entry"
 require "faith_and_farming/book/elements/noise"
 require "faith_and_farming/book/elements/other"
@@ -142,6 +143,7 @@ module FaithAndFarming
       ElementTypes = [
         Elements::Ancestors,
         Elements::Entry,
+        Elements::Continuation,
         Elements::Noise,
         Elements::Other
       ]
