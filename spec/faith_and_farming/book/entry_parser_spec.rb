@@ -6,7 +6,7 @@ describe FaithAndFarming::Book::EntryParser do
 
   describe "#parse" do
 
-    let(:result) { described_class.parse(text) }
+    let(:entry) { described_class.parse(text) }
 
     context "an individual entry" do
 
@@ -21,14 +21,14 @@ describe FaithAndFarming::Book::EntryParser do
       end
 
       it "returns an Entry" do
-        expect(result).to be_kind_of(FaithAndFarming::Book::Elements::Entry)
+        expect(entry).to be_kind_of(FaithAndFarming::Book::Elements::Entry)
       end
 
       it "extracts one individual" do
-        expect(result.people.size).to eq(1)
+        expect(entry.people.size).to eq(1)
       end
 
-      let(:person) { result.people.first }
+      let(:person) { entry.people.first }
 
       it "extracts name" do
         expect(person.name).to eq("WILLIAMS, Anna Lydia")
@@ -40,6 +40,29 @@ describe FaithAndFarming::Book::EntryParser do
 
       it "extracts date of death" do
         expect(person.date_of_death).to eq("20.06.1938")
+      end
+
+      it "extracts notes" do
+        expect(entry.note).to eq <<~TEXT
+          Lydia b. at Otaki and d. at Napier. She began to lose her sight at the age of 18 and was completely blind by
+          the time she was 22. She had a keen mind and retained a lively interest in local and world events, and in the
+          progress of the Church's mission, throughout her life.
+        TEXT
+      end
+
+    end
+
+    context "with no notes" do
+
+      let(:text) do
+        <<~TEXT
+          02> WILLIAMS, Anna Lydia
+          b 06.07.1854 d 20.06.1938
+        TEXT
+      end
+
+      it "leaves notes nil" do
+        expect(entry.note).to eq(nil)
       end
 
     end
@@ -61,14 +84,14 @@ describe FaithAndFarming::Book::EntryParser do
       end
 
       it "extracts both people" do
-        expect(result.people.map(&:name)).to eq [
+        expect(entry.people.map(&:name)).to eq [
           "WILLIAMS, William Temple",
           "PUCKEY, Annie Matilda Sophia Marilla"
         ]
       end
 
       it "extracts dates of birth and death" do
-        expect(result.people).to include(
+        expect(entry.people).to include(
           an_object_having_attributes(
             name: "WILLIAMS, William Temple",
             date_of_birth: "16.03.1856",
@@ -83,7 +106,7 @@ describe FaithAndFarming::Book::EntryParser do
       end
 
       it "extracts date of marriage" do
-        expect(result.marriage_date).to eq("31.03.1891")
+        expect(entry.marriage_date).to eq("31.03.1891")
       end
 
     end
@@ -99,14 +122,14 @@ describe FaithAndFarming::Book::EntryParser do
       end
 
       it "extracts both people" do
-        expect(result.people.map(&:name)).to eq [
+        expect(entry.people.map(&:name)).to eq [
           "DODGSHUN, Paul Sydney",
           "HUNT, Bronwyn Margaret"
         ]
       end
 
       it "extracts date of marriage" do
-        expect(result.marriage_date).to eq("02.03.1996")
+        expect(entry.marriage_date).to eq("02.03.1996")
       end
 
     end
@@ -122,7 +145,7 @@ describe FaithAndFarming::Book::EntryParser do
       end
 
       it "extracts both people" do
-        expect(result.people.map(&:name)).to eq [
+        expect(entry.people.map(&:name)).to eq [
           "REED, Celia Elizabeth",
           "PAXMAN, Arthur Keith"
         ]

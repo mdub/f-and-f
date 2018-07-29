@@ -10,20 +10,22 @@ module FaithAndFarming
       end
 
       def parse(text)
-        return nil unless text =~ /\A0[1-9]> (.*)/
+        lines = text.lines
+        return nil unless lines.shift =~ /^0[1-9]> (.*)/
+        first, married, second = $1.split(/ (m .* to|de facto) /i, 2)
+        names = [first, second].compact
         Elements::Entry.new.tap do |e|
-          left, married, right = $1.split(/ (m .* to|de facto) /i, 2)
-          names = [left, right].compact
           if married =~ /m on (.*) to/i
             e.marriage_date = $1
           end
           names.each_with_index do |name, i|
             e.people[i].name = name.sub(/^\(\d\)/,"")
-            if text.lines[i+1] =~ /^b ([\d*.]+)(?: d ([\d*.]+))?/
+            if lines.shift =~ /^b ([\d*.]+)(?: d ([\d*.]+))?/
               e.people[i].date_of_birth = $1
               e.people[i].date_of_death = $2
             end
           end
+          e.note = lines.join unless lines.empty?
         end
       end
 

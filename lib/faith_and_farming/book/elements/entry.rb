@@ -22,12 +22,14 @@ module FaithAndFarming
 
         attribute :level, Integer
         attribute :marriage_date, :default => nil
+        attribute :note, :default => nil
 
         def to_h
           {
             "level" => level,
             "marriage_date" => marriage_date,
-            "people" => people.map(&:to_h)
+            "people" => people.map(&:to_h),
+            "note" => note
           }
         end
 

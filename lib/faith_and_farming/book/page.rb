@@ -1,6 +1,6 @@
 require "config_mapper"
 require "faith_and_farming/book/elements/ancestors"
-require "faith_and_farming/book/elements/entry"
+require "faith_and_farming/book/entry_parser"
 require "faith_and_farming/ocr/page"
 require "yaml"
 
