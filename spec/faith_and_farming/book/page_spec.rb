@@ -123,20 +123,6 @@ describe FaithAndFarming::Book::Page do
         )
       end
 
-      it "extracts birth and death dates" do
-        expect(page.elements).to include(
-          an_instance_of(FaithAndFarming::Book::Elements::Entry) & having_attributes(
-            people: a_collection_including(
-              having_attributes(
-                name: "DODGSHUN, Truby Edward",
-                birth_date: "26.02.1922",
-                death_date: "12.09.1944"
-              )
-            )
-          )
-        )
-      end
-
       context "with a marriage" do
 
         let(:page_index) { 227 }
@@ -149,82 +135,6 @@ describe FaithAndFarming::Book::Page do
                 having_attributes(name: "WILLIAMS, William Temple"),
                 having_attributes(name: "PUCKEY, Annie Matilda Sophia Marilla")
               )
-            )
-          )
-        end
-
-        it "extracts marriage date" do
-          expect(page.elements).to include(
-            an_instance_of(FaithAndFarming::Book::Elements::Entry) & having_attributes(
-              level: 2,
-              marriage_date: "31.03.1891",
-              people: a_collection_including(
-                having_attributes(name: "WILLIAMS, William Temple"),
-                having_attributes(name: "PUCKEY, Annie Matilda Sophia Marilla")
-              )
-            )
-          )
-        end
-
-        it "extracts birth and death dates for both parties" do
-          expect(page.elements).to include(
-            an_instance_of(FaithAndFarming::Book::Elements::Entry) & having_attributes(
-              level: 2,
-              people: a_collection_including(
-                having_attributes(
-                  name: "WILLIAMS, William Temple",
-                  birth_date: "16.03.1856",
-                  death_date: "01.04.1928"
-                ),
-                having_attributes(
-                  name: "PUCKEY, Annie Matilda Sophia Marilla",
-                  birth_date: "26.06.1858",
-                  death_date: "22.08.1938"
-                )
-              )
-            )
-          )
-        end
-
-      end
-
-      context "with multiple marriages" do
-
-        let(:page_index) { 220 }
-
-        it "extracts both marriages" do
-          expect(page.elements).to include(
-            an_instance_of(FaithAndFarming::Book::Elements::Entry) & having_attributes(
-              people: a_collection_including(
-                having_attributes(name: "DODGSHUN, Paul Sydney"),
-                having_attributes(name: "CROSS, Sally Georgina")
-              ),
-              marriage_date: "17.12.1982"
-            ),
-            an_instance_of(FaithAndFarming::Book::Elements::Entry) & having_attributes(
-              people: a_collection_including(
-                having_attributes(name: "DODGSHUN, Paul Sydney"),
-                having_attributes(name: "HUNT, Bronwyn Margaret")
-              ),
-              marriage_date: "02.03.1996"
-            )
-          )
-        end
-
-      end
-
-      context "with a de-facto marriage" do
-
-        let(:page_index) { 103 }
-
-        it "extracts the partners" do
-          expect(page.elements).to include(
-            an_instance_of(FaithAndFarming::Book::Elements::Entry) & having_attributes(
-              people: a_collection_including(
-                having_attributes(name: "REED, Celia Elizabeth"),
-                having_attributes(name: "PAXMAN, Arthur Keith")
-              ),
-              marriage_date: nil
             )
           )
         end

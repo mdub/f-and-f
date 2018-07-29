@@ -133,7 +133,7 @@ module FaithAndFarming
             text = block.text
             if i < 3 && ancestors = extract_ancestors(text)
               y << ancestors
-            elsif entry = extract_entry(text)
+            elsif entry = EntryParser.parse(text)
               entry.level = calculate_level(block.bounds.left)
               y << entry
             end
@@ -147,24 +147,6 @@ module FaithAndFarming
         return nil unless text =~ /^Descendants of /
         lines = text.sub(/^Descendants of /, "").gsub(/^[IJ]/, "").split("\n")
         Elements::Ancestors.from_data(lines: lines)
-      end
-
-      def extract_entry(text)
-        return nil unless text =~ /\A0[1-9]> (.*)/
-        Elements::Entry.new.tap do |e|
-          left, married, right = $1.split(/ (m .* to|de facto) /i, 2)
-          names = [left, right].compact
-          if married =~ /m on (.*) to/i
-            e.marriage_date = $1
-          end
-          names.each_with_index do |name, i|
-            e.people[i].name = name.sub(/^\(\d\)/,"")
-            if text.lines[i+1] =~ /^b ([\d*.]+)(?: d ([\d*.]+))?/
-              e.people[i].birth_date = $1
-              e.people[i].death_date = $2
-            end
-          end
-        end
       end
 
     end

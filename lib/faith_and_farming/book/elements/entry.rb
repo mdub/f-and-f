@@ -1,3 +1,5 @@
+require "config_mapper"
+
 module FaithAndFarming
   module Book
     module Elements
