@@ -182,19 +182,26 @@ describe FaithAndFarming::Book::Elements::Entry do
 
     end
 
-    context "simple note" do
+    context "with date placeholders" do
 
       let(:text) do
         <<~TEXT
-          01> BUNNY, Jillian Mary m on 01.12.1962 to (1) BARTON, Richard Hugh
-          b 14.02.1940
-          b 21.11.1939
-          Jill b, and educated at Masterton. Divorced.
+          03> DAVIES, Nina Pearson m on ** ** **** to PEDERSON, Peder
+          b 13.02.1888. d 23.10.1952
+          b ** ** **** d ** ** ****
+          Nina b. at Gisborne. No children.
         TEXT
       end
 
+      it "extracts wildcard marriage date" do
+        expect(entry.marriage_date).to eq("**.**.****")
+      end
 
-
+      it "extracts wildcard dates of birth and death" do
+        peder = entry.people[1]
+        expect(peder.date_of_birth).to eq("**.**.****")
+        expect(peder.date_of_death).to eq("**.**.****")
+      end
 
     end
 
