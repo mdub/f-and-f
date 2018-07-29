@@ -1,12 +1,22 @@
 require "spec_helper"
 
-require "faith_and_farming/book/entry_parser"
+require "faith_and_farming/book/elements/entry"
 
-describe FaithAndFarming::Book::EntryParser do
+describe FaithAndFarming::Book::Elements::Entry do
 
-  describe "#parse" do
+  describe ".from" do
 
-    let(:entry) { described_class.parse(text) }
+    let(:entry) { described_class.from(text) }
+
+    context "random text" do
+
+      let(:text) { "hello" }
+
+      it "returns nil" do
+        expect(entry).to eq(nil)
+      end
+
+    end
 
     context "an individual entry" do
 

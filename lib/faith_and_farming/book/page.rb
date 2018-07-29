@@ -1,8 +1,8 @@
 require "config_mapper"
 require "faith_and_farming/book/elements/ancestors"
+require "faith_and_farming/book/elements/entry"
 require "faith_and_farming/book/elements/noise"
 require "faith_and_farming/book/elements/other"
-require "faith_and_farming/book/entry_parser"
 require "faith_and_farming/ocr/page"
 require "yaml"
 
@@ -135,7 +135,7 @@ module FaithAndFarming
             text = block.text
             if i < 3 && ancestors = extract_ancestors(text)
               y << ancestors
-            elsif entry = EntryParser.parse(text)
+            elsif entry = Elements::Entry.from(text)
               entry.level = calculate_level(block.bounds.left)
               y << entry
             elsif text == "1 2 3 4 5 6 7 8 9\n"
