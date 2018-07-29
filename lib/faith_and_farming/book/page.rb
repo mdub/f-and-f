@@ -1,5 +1,7 @@
 require "config_mapper"
 require "faith_and_farming/book/elements/ancestors"
+require "faith_and_farming/book/elements/noise"
+require "faith_and_farming/book/elements/other"
 require "faith_and_farming/book/entry_parser"
 require "faith_and_farming/ocr/page"
 require "yaml"
@@ -136,6 +138,12 @@ module FaithAndFarming
             elsif entry = EntryParser.parse(text)
               entry.level = calculate_level(block.bounds.left)
               y << entry
+            elsif text == "1 2 3 4 5 6 7 8 9\n"
+              y << Elements::Noise.from_data(text: text)
+            elsif text =~ /\A\d+\n\Z/
+              y << Elements::Noise.from_data(text: text)
+            else
+              y << Elements::Other.from_data(text: text)
             end
           end
         end

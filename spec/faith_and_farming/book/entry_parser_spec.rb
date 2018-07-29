@@ -172,6 +172,22 @@ describe FaithAndFarming::Book::EntryParser do
 
     end
 
+    context "simple note" do
+
+      let(:text) do
+        <<~TEXT
+          01> BUNNY, Jillian Mary m on 01.12.1962 to (1) BARTON, Richard Hugh
+          b 14.02.1940
+          b 21.11.1939
+          Jill b, and educated at Masterton. Divorced.
+        TEXT
+      end
+
+
+
+
+    end
+
   end
 
 end

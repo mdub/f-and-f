@@ -123,6 +123,17 @@ describe FaithAndFarming::Book::Page do
         )
       end
 
+      it "includes some noise" do
+        expect(page.elements).to include(
+          an_instance_of(FaithAndFarming::Book::Elements::Noise) & having_attributes(
+            text: "1 2 3 4 5 6 7 8 9\n",
+          ),
+          an_instance_of(FaithAndFarming::Book::Elements::Noise) & having_attributes(
+            text: "221\n",
+          ),
+        )
+      end
+
       context "with a marriage" do
 
         let(:page_index) { 227 }
