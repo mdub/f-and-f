@@ -51,7 +51,7 @@ blocks:
       top: 796
       bottom: 1036
 - paragraphs:
-  - text: '03> WILLIAMS, Nicholas Martyn m on 05.12.1970 to RHODES, Victoria Patricia
+  - text: '03> WILLIAMS, Nicholas Martyn m on 05.12.1970 to RHODES, Victoria Patricia Mary
 
 '
     bounds:
@@ -59,15 +59,6 @@ blocks:
       right: 2252
       top: 1134
       bottom: 1192
-- paragraphs:
-  - text: 'Mary
-
-'
-    bounds:
-      left: 1755
-      right: 1849
-      top: 1193
-      bottom: 1243
 - paragraphs:
   - text: 'b 18.08.1949
 
@@ -147,7 +138,7 @@ blocks:
       top: 2248
       bottom: 2440
 - paragraphs:
-  - text: '02>'' WILLIAMS, Harold
+  - text: '02> WILLIAMS, Harold
 
 '
     bounds:

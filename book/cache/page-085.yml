@@ -86,7 +86,7 @@ blocks:
       top: 2043
       bottom: 2149
 - paragraphs:
-  - text: 'bi> BROWN, Christopher William Kirk
+  - text: '01> BROWN, Christopher William Kirk
 
 '
     bounds:
@@ -104,7 +104,7 @@ blocks:
       top: 2252
       bottom: 2290
 - paragraphs:
-  - text: '02> PILKINGTON, Lesley Anne m on 12.11.1983 to (1) VAN DER VELDE, Martinus
+  - text: '02> PILKINGTON, Lesley Anne m on 12.11.1983 to (1) VAN DER VELDE, Martinus J
 
 '
     bounds:
@@ -112,13 +112,6 @@ blocks:
       right: 2236
       top: 2377
       bottom: 2444
-- paragraphs:
-  - text: "}\n"
-    bounds:
-      left: 1710
-      right: 1739
-      top: 2437
-      bottom: 2474
 - paragraphs:
   - text: 'b 20.04.1955
 
