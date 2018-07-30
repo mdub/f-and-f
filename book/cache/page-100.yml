@@ -11,13 +11,14 @@ blocks:
       bottom: 238
   - text: |
       WILLIAMS, Edward Marsh and DAVIS, Jane
-      02> WILLIAMS, Samuel
     bounds:
       left: 282
       right: 1562
       top: 234
       bottom: 388
+- paragraphs:
   - text: |
+      02> WILLIAMS, Samuel
       b 01.06.1846 d 01.06.1846
       Samuel b, and d. at Paihia.
     bounds:
@@ -55,13 +56,6 @@ blocks:
       Publishing Co Ltd.
       Agnes acted as medical adviser in the district, and was responsible for teaching many young girls of the
       district the rudiments of good housekeeping. She was renowned for her hospitality to travellers.
-    bounds:
-      left: 364
-      right: 2154
-      top: 895
-      bottom: 1300
-- paragraphs:
-  - text: |
       Tuparoa
       The leasehold of the "Tuparoa" block of 20,000 acres was first taken up by Sir George Whitmore. He built the
       original homestead at Kuhirerere. However, Whitmore did not have the expertise to develop the heavy manuka and
@@ -73,18 +67,12 @@ blocks:
       production.
       Included in "Tuparoa" was 400 acres of freehold which Whitmore had acquired. This was known as "Kaharau" and
       it was here that Thomas built his beautiful homestead.
-      Shortly after the return of "Tuparoa', the Williams family was subjected to criticism in the House of
+      Shortly after the return of "Tuparoa", the Williams family was subjected to criticism in the House of
       Representatives in connection with their land dealings. In their defence, Sir Apirana Ngata spoke as follows:
       "I was out of the House when the Honourable Member for Grey Lynn made his speech, but I understand that the
       burden of his remarks was an attack on the land-owning missionaries of this Dominion, and that special
       reference was made to the Williams family. I cannot allow these remarks to pass without putting on record an
       appreciation from the Natives of my district - and I think from the Maori people as a whole - of what the
-    bounds:
-      left: 364
-      right: 2191
-      top: 1345
-      bottom: 2188
-  - text: |
       Williams family has done for them. I want to disabuse the minds of the honourable members, as far as my
       district is concerned, of the impression that the Williams family has obtained large areas of land from the
       Natives of that district by unfair means or the exercise of undue influence. I think I can say that no land
@@ -98,24 +86,11 @@ blocks:
       farming that was carried out by Mr Thomas Sydney Williams. The Matahiia and Taparoa properties were acquired
       by the Williams family in the same indirect manner. The only land acquired directly from the Natives by way of
       lease was the Waipiro Run. It was acquired by Mr J NWilliams something like thirty or thirty two years ago."
-    bounds:
-      left: 367
-      right: 2175
-      top: 2198
-      bottom: 2838
-- paragraphs:
-  - text: |
       Kaharau
       Situated on the main road two miles from Ruatoria, "Kaharau" freehold comprised 300 acres of hill country and
       100 acres of flat, in addition to other small areas of leasehold land. "Kaharau" was initially used as a
       finishing property for stock from "Pakihiroa", and as headquarters for the six eight-horse teams of draught
       horses which serviced "Pakihiroa". Oats for chaff for the horses were grown on the flats. Both Thomas and his
-    bounds:
-      left: 370
-      right: 2133
-      top: 2892
-      bottom: 3143
-  - text: |
       wife, Agnes Lydia, were buried in the garden cemetery of their "Kaharau" home. "Kaharau" was farmed as an
       (cont...)
     bounds:

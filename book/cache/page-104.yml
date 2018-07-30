@@ -14,24 +14,15 @@ blocks:
       IWILLIAMS, Thomas Sydney and WILLIAMS, Agnes Lydia
       JWILLIAMS, Rachel Millicent and REED, Alfred Vincent Standish
       JREED, Richard Sydney and MURPHY, Elizabeth Muriel
-      VREED, Sidney Mary Jane and LENNOX -KING, Oliver
+      VREED, Sidney Mary Jane and LENNOX-KING, Oliver
     bounds:
       left: 577
       right: 2127
       top: 225
       bottom: 501
 - paragraphs:
-  - text: 'O
-
-'
-    bounds:
-      left: 968
-      right: 982
-      top: 469
-      bottom: 472
-- paragraphs:
   - text: |
-      REED, Sidney Mary Jane and LENNOX -KING, Oliver (cont...)
+      REED, Sidney Mary Jane and LENNOX-KING, Oliver (cont...)
       he travelled to Europe via Hong Kong and worked for Norada Sales in London (1974-76). After their
       marriage Jane and Oliver emigrated to Toronto, Canada. For the past 12 years Oliver has worked as a
       securities analyst in the brokerage industry in Toronto and is now Chairman of Southern Cross
@@ -42,7 +33,7 @@ blocks:
       top: 542
       bottom: 796
 - paragraphs:
-  - text: '01> LENNOX-KING, Matthew 01iver
+  - text: '01> LENNOX-KING, Matthew O1iver
 
 '
     bounds:
@@ -60,7 +51,7 @@ blocks:
       top: 892
       bottom: 1034
 - paragraphs:
-  - text: '02> ''LENNOX -KING, Peter Richard
+  - text: '02> LENNOX-KING, Peter Richard
 
 '
     bounds:
@@ -78,7 +69,7 @@ blocks:
       top: 1144
       bottom: 1282
 - paragraphs:
-  - text: '63> LENNOX -KING, Sophie Isobel
+  - text: '63> LENNOX-KING, Sophie Isobel
 
 '
     bounds:
@@ -116,7 +107,7 @@ blocks:
       top: 1643
       bottom: 1939
 - paragraphs:
-  - text: '01> ''REED, Megan Charlotte
+  - text: '01> REED, Megan Charlotte
 
 '
     bounds:

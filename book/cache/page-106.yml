@@ -79,18 +79,11 @@ blocks:
       top: 1300
       bottom: 1448
 - paragraphs:
-  - text: "(O3> REDD\n"
-    bounds:
-      left: 430
-      right: 718
-      top: 1491
-      bottom: 1532
-- paragraphs:
   - text: |
-      REED, Barbara Ann m on 12.12.1945 to BAKER, Peter de Bree
+      03> REED, Barbara Ann m on 12.12.1945 to BAKER, Peter de Bree
       b 05.08.1916
     bounds:
-      left: 523
+      left: 430
       right: 1850
       top: 1500
       bottom: 1596
@@ -123,30 +116,22 @@ blocks:
       top: 1852
       bottom: 1998
 - paragraphs:
-  - text: '01> HOLDEN, John Digby
-
-'
+  - text: |
+      01> HOLDEN, John Digby
+      b 03.06.1973
     bounds:
       left: 579
       right: 1134
       top: 2038
       bottom: 2100
   - text: |
-      b 03.06.1973
       02> HOLDEN, Christopher Peter
+      b 22.08.1975
     bounds:
       left: 575
       right: 1316
       top: 2104
       bottom: 2248
-  - text: 'b 22.08.1975
-
-'
-    bounds:
-      left: 679
-      right: 893
-      top: 2256
-      bottom: 2296
 - paragraphs:
   - text: |
       02> BAKER, Sally Ruth m on 07.04.1972 to BERRY, Richard John

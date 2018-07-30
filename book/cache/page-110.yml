@@ -36,22 +36,9 @@ blocks:
       from his first marriage to Sarah Bicknell. Address: "Airhill", RD 1,
       Hastings.
       Carol was educated at Woodford House. Paul is a farmer on "Airhill" near
-    bounds:
-      left: 1033
-      right: 2253
-      top: 601
-      bottom: 899
-  - text: |
       Hastings. He and Carol train and race horses and their successes have
       included Storm which won the 1987 Wellington Steeplechase, Chibuku, Thesaurus and currently
       Chibuli.
-    bounds:
-      left: 590
-      right: 2142
-      top: 904
-      bottom: 1037
-- paragraphs:
-  - text: |
       Airhill
       "Airhill" is situated on Highway 50 about 40 km south west of Hastings, between Maraekakaho and
       Tikokino. Originally part of "Maraekakaho" station, a 1,500 acre block of regrowth scrub was
@@ -135,7 +122,7 @@ blocks:
       top: 2500
       bottom: 2542
   - text: |
-      | Refer to "The Family of Thomas and Jane Mason of Taita" published by
+      Refer to "The Family of Thomas and Jane Mason of Taita" published by
       Evagean Publishing in 1994 for records of Alister's family.
     bounds:
       left: 599

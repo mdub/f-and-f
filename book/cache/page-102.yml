@@ -20,15 +20,8 @@ blocks:
       top: 242
       bottom: 455
 - paragraphs:
-  - text: 6-
-    bounds:
-      left: 581
-      right: 600
-      top: 407
-      bottom: 428
-- paragraphs:
   - text: |
-      BURNETT. Peggie Patience and BANNISTER, Martin Hursthouse (cont...).
+      BURNETT, Peggie Patience and BANNISTER, Martin Hursthouse (cont...).
       research has concerned taxonomy and hybridism in the cypresses, and he is continuing this work as
       dendrologist ex officio.
     bounds:

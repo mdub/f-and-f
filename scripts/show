@@ -36,7 +36,7 @@ Clamp do
   subcommand "elements", "display page elements" do
 
     def execute
-      FaithAndFarming::Book.pages(from..to).each do |page|
+      pages.each do |page|
         page.elements.each do |element|
           type_name = element.class.name.sub(/.*::/,"")
           data = {"type" => type_name}.merge(element.to_h)
@@ -50,7 +50,7 @@ Clamp do
   subcommand "names", "display entry names" do
 
     def execute
-      FaithAndFarming::Book.pages.each do |page|
+      pages.each do |page|
         puts "\n--- page #{page.page_index} ---"
         page.elements.each do |e|
           case e

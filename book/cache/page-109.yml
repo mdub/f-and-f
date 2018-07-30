@@ -57,7 +57,7 @@ blocks:
       top: 846
       bottom: 991
 - paragraphs:
-  - text: '04> WILLIAMS, Arnold m on 23.01.1981 to ROBINSON, Kaye Patricia
+  - text: '04> WILLIAMS, Arnold Christopher m on 23.01.1981 to ROBINSON, Kaye Patricia
 
 '
     bounds:
@@ -66,7 +66,6 @@ blocks:
       top: 1077
       bottom: 1145
   - text: |
-      Christopher
       b 14.09.1957
     bounds:
       left: 600
@@ -144,7 +143,7 @@ blocks:
       bottom: 2386
 - paragraphs:
   - text: |
-      02>' WILLIAMS, Margot Temple m on 25.06.1948 to FRASER, Alec Mac
+      02> WILLIAMS, Margot Temple m on 25.06.1948 to FRASER, Alec Mac
       b 09.04.1921
     bounds:
       left: 426
@@ -172,33 +171,6 @@ blocks:
       right: 829
       top: 3284
       bottom: 3348
-- paragraphs:
-  - text: '2
-
-'
-    bounds:
-      left: 287
-      right: 291
-      top: 3289
-      bottom: 3338
-- paragraphs:
-  - text: '4
-
-'
-    bounds:
-      left: 437
-      right: 442
-      top: 3289
-      bottom: 3336
-- paragraphs:
-  - text: 'LO
-
-'
-    bounds:
-      left: 511
-      right: 529
-      top: 3297
-      bottom: 3331
 - paragraphs:
   - text: '110
 

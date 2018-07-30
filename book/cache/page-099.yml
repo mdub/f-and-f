@@ -22,13 +22,14 @@ blocks:
       JWILLIAMS, Henry Carleton and MILLS, Catherine Leslie
       JWILLIAMS, Virginia Carleton and ROBINSON, Hugh Amuri
       JROBINSON, Guy Francis and STONE , Rosemary
-      01> ROBINSON, Samuel Jesse
     bounds:
       left: 573
       right: 1911
       top: 295
       bottom: 600
+- paragraphs:
   - text: |
+      01> ROBINSON, Samuel Jesse
       b 17.02.1984
       Jesse b. at Whangarei.
     bounds:
