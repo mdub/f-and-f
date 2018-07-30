@@ -119,6 +119,25 @@ describe FaithAndFarming::Book::Elements::Entry do
         expect(entry.date_married).to eq("31.03.1891")
       end
 
+      context "with missing space" do
+
+        let(:text) do
+          <<~TEXT
+            01> FRASER, Carolm on 09.04.1974 to NELSON, Paul Sunderland
+            b 18.07.1950
+            b 02.12.1947
+          TEXT
+        end
+
+        it "extracts both people" do
+          expect(entry.people.map(&:name)).to eq [
+            "FRASER, Carol",
+            "NELSON, Paul Sunderland"
+          ]
+        end
+
+      end
+
     end
 
     context "a second or third marriage" do

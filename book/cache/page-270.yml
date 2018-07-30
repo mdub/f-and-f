@@ -20,15 +20,6 @@ blocks:
       top: 242
       bottom: 448
 - paragraphs:
-  - text: 'ke A TRES Tnata Arenaie)
-
-'
-    bounds:
-      left: 1492
-      right: 2040
-      top: 228
-      bottom: 374
-- paragraphs:
   - text: '04> TWEEDIE, Helen
 
 '
@@ -64,7 +55,7 @@ blocks:
       bottom: 901
 - paragraphs:
   - text: |
-      01> HOARE, Diana Charlotte m on* ** ** **** to TAUNTON, William
+      01> HOARE, Diana Charlotte m on ** ** **** to TAUNTON, William
       b 10.02.1956
     bounds:
       left: 421

@@ -12,13 +12,14 @@ blocks:
   - text: |
       JWILLIAMS, James Nelson and BEETHAM, Mary-Margaret
       JWILLIAMS, Arnold Beetham and BEALE, Emma Reremoana
+      JWILLIAMS, Margaret Octavia and WILLIAMS, Anthony John Oswald
     bounds:
       left: 577
       right: 1861
       top: 241
       bottom: 344
+- paragraphs:
   - text: |
-      JWILLIAMS, Margaret Octavia and WILLIAMS, Anthony John Oswald
       03> WILLIAMS, Margaret Octavia m on 17.08.1946 to WILLIAMS, Anthony John Oswald
       b 31.05.1920
     bounds:
@@ -39,7 +40,7 @@ blocks:
       bottom: 738
 - paragraphs:
   - text: |
-      03> WILLIAMS, Winifred Beetham m on 23.11.1893 to. NELSON, Francis Ernest
+      03> WILLIAMS, Winifred Beetham m on 23.11.1893 to NELSON, Francis Ernest
       b 18.01.1872 d 17.03.1935
     bounds:
       left: 281
