@@ -123,7 +123,7 @@
 			<string>INDI</string>
 			<key>Album Selected IDs</key>
 			<array>
-				<string>@I2@</string>
+				<string>@I4@</string>
 			</array>
 			<key>Album Sorting Array</key>
 			<array>
