@@ -70,7 +70,7 @@ blocks:
       top: 1357
       bottom: 1657
 - paragraphs:
-  - text: 'U2 THOMAS, Michael William m on 06.02.1993 to TOWNSEND. Roslyn Diana
+  - text: '02> THOMAS, Michael William Donald m on 06.02.1993 to TOWNSEND, Roslyn Diana
 
 '
     bounds:
@@ -79,7 +79,6 @@ blocks:
       top: 1700
       bottom: 1748
   - text: |
-      Donald
       b 16.12.1966
     bounds:
       left: 607
@@ -135,8 +134,7 @@ blocks:
       top: 2458
       bottom: 2501
 - paragraphs:
-  - text: '03> ''WILLIAMS, Nancy Mary m on 12.04.1928 to CACCIA-BIRCH, Anthony William
-      Fabio
+  - text: '03> WILLIAMS, Nancy Mary m on 12.04.1928 to CACCIA-BIRCH, Anthony William Fabio (Tony)
 
 '
     bounds:
@@ -145,7 +143,6 @@ blocks:
       top: 2586
       bottom: 2660
   - text: |
-      (Tony)
       b 03.12.1904 d 23.10.1972
     bounds:
       left: 462

@@ -12,13 +12,14 @@ blocks:
   - text: |
       JWILLIAMS, John William and BUSBY, Sarah
       JWILLIAMS, John William (Jack) and WILLIAMSON, Jessie Mackie
+      JWILLIAMS, James Busby (Jim) and KEILLER, Muriel Cecile
     bounds:
       left: 574
       right: 2092
       top: 245
       bottom: 343
+- paragraphs:
   - text: |
-      JWILLIAMS, James Busby (Jim) and KEILLER, Muriel Cecile
       01> WILLIAMS, James Busby (Jim) m on 03.09.1925 to KEILLER, Muriel Cecile
       b 15.03.1900 d 11.03.1977
     bounds:

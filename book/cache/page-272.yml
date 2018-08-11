@@ -113,24 +113,24 @@ blocks:
       01> WILLIAMS, Audrey Temple m on ** ** **** to LITTLE, James Robert
       b 12.03.1911 d 10.08.1988
     bounds:
-      left: 347
+      left: 355
       right: 1929
       top: 1990
       bottom: 2100
   - text: |
       b ** ** ****
       Audrey bd. at Masterton Cemetery.
-      01> LITTLE, Henry Michael
     bounds:
-      left: 424
+      left: 355
       right: 1670
       top: 2050
       bottom: 2264
-  - text: 'b ** **.1937 d ** ** ****
-
-'
+- paragraphs:
+  - text: |
+      01> LITTLE, Henry Michael
+      b ** **.1937 d ** ** ****
     bounds:
-      left: 529
+      left: 430
       right: 999
       top: 2253
       bottom: 2300

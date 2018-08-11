@@ -27,15 +27,6 @@ blocks:
       top: 276
       bottom: 433
 - paragraphs:
-  - text: 'Emany itata ekio (Tony
-
-'
-    bounds:
-      left: 1629
-      right: 2267
-      top: 249
-      bottom: 409
-- paragraphs:
   - text: |
       02> CACCIA-BIRCH, William John m on 01.10.1958 to STEPTOE, Brenda Irene
       b 31.10.1931
@@ -62,7 +53,7 @@ blocks:
       top: 534
       bottom: 1087
 - paragraphs:
-  - text: '01> CACCIA-BIRCH, Anthony m on 19.02.1983 to HURLEY, Therese Maureen
+  - text: '01> CACCIA-BIRCH, Anthony Michael (Tony) m on 19.02.1983 to HURLEY, Therese Maureen
 
 '
     bounds:
@@ -71,7 +62,6 @@ blocks:
       top: 1123
       bottom: 1187
   - text: |
-      Michael (Tony)
       b 04.03.1959
     bounds:
       left: 601
@@ -190,7 +180,7 @@ blocks:
       bottom: 2830
 - paragraphs:
   - text: |
-      04> CACCIA -BIRCH, Damon John m on ** ** **** to NICKLIN, Lee Ann
+      04> CACCIA-BIRCH, Damon John m on ** ** **** to NICKLIN, Lee Ann
       b 03.11.1967
     bounds:
       left: 509

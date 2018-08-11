@@ -85,7 +85,7 @@ blocks:
       top: 1852
       bottom: 2501
 - paragraphs:
-  - text: '01> CACCIA-BIRCH, Margaret m on 01.12.1956 to ROBINSON, Stephen Elsworth
+  - text: '01> CACCIA-BIRCH, Margaret Jennifer (Jendy) m on 01.12.1956 to ROBINSON, Stephen Elsworth
 
 '
     bounds:
@@ -94,7 +94,6 @@ blocks:
       top: 2542
       bottom: 2600
   - text: |
-      Jennifer (Jendy)
       b 13.10.1929
     bounds:
       left: 527
