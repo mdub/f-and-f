@@ -56,7 +56,8 @@ Clamp do
           case e
           when FaithAndFarming::Book::Elements::Entry
             indent = "  " * (e.level - 1)
-            puts "#{e.level}#{indent}- #{e.subject.name}"
+            names = e.people.map(&:name).join(" & ")
+            puts "#{e.level}#{indent}- #{names}"
           end
         end
       end
