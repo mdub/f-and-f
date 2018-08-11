@@ -22,8 +22,12 @@ describe FaithAndFarming::Book, "family tree" do
       expect(henry.name).to eq("Williams, Henry")
     end
 
-    it "has the correct #birth" do
+    it "has the correct #date_of_birth" do
       expect(henry.date_of_birth.to_s).to eq("11.02.1792")
+    end
+
+    it "has the correct #date_of_death" do
+      expect(henry.date_of_death.to_s).to eq("16.07.1867")
     end
 
   end
@@ -42,6 +46,10 @@ describe FaithAndFarming::Book, "family tree" do
 
     it "has the correct #birth" do
       expect(marianne.date_of_birth.to_s).to eq("12.12.1793")
+    end
+
+    it "has the correct #date_of_death" do
+      expect(marianne.date_of_death.to_s).to eq("16.12.1879")
     end
 
   end
