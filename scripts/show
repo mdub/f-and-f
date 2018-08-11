@@ -18,6 +18,10 @@ Clamp do
     FaithAndFarming::Book.pages(from..to)
   end
 
+  def elements
+    pages.elements
+  end
+
   subcommand ["blocks", "b"], "display blocks" do
 
     def execute
@@ -36,12 +40,10 @@ Clamp do
   subcommand ["elements", "e"], "display page elements" do
 
     def execute
-      pages.each do |page|
-        page.elements.each do |element|
-          type_name = element.class.name.sub(/.*::/,"")
-          data = {"type" => type_name}.merge(element.to_h)
-          puts YAML.dump(data)
-        end
+      elements.each do |element|
+        type_name = element.class.name.sub(/.*::/,"")
+        data = {"type" => type_name}.merge(element.to_h)
+        puts YAML.dump(data)
       end
     end
 
@@ -50,15 +52,14 @@ Clamp do
   subcommand ["names", "n"], "display entry names" do
 
     def execute
-      pages.each do |page|
-        puts "\n--- page #{page.page_index} ---"
-        page.elements.each do |e|
-          case e
-          when FaithAndFarming::Book::Elements::Entry
-            indent = "  " * (e.level - 1)
-            names = e.people.map(&:name).join(" & ")
-            puts "#{e.level}#{indent}- #{names}"
-          end
+      elements.each do |e|
+        case e
+        when FaithAndFarming::Book::Elements::StartOfPage
+          puts "\n--- page #{e.page_index} ---"
+        when FaithAndFarming::Book::Elements::Entry
+          indent = "  " * (e.level - 1)
+          names = e.people.map(&:name).join(" & ")
+          puts "#{e.level}#{indent}- #{names}"
         end
       end
     end

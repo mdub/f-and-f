@@ -15,6 +15,12 @@ module FaithAndFarming
         end
       end
 
+      include Enumerable
+
+      def elements
+        lazy.flat_map(&:elements)
+      end
+
     end
 
   end
