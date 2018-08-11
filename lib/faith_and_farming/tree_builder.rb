@@ -10,6 +10,18 @@ module FaithAndFarming
 
     attr_reader :db
 
+    def process(elements)
+      elements.each do |e|
+        case e
+        when FaithAndFarming::Book::Elements::Entry
+          add_entry(e)
+        end
+      end
+      self
+    end
+
+    private
+
     def add_entry(entry)
       entry.people.each do |person|
         i = db.individuals.create

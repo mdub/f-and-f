@@ -1,4 +1,5 @@
 require "faith_and_farming/book/page"
+require "faith_and_farming/tree_builder"
 
 module FaithAndFarming
   module Book
@@ -19,6 +20,10 @@ module FaithAndFarming
 
       def elements
         lazy.flat_map(&:elements)
+      end
+
+      def family_tree
+        TreeBuilder.new.process(elements).db
       end
 
     end
