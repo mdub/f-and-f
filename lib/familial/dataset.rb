@@ -12,7 +12,7 @@ module Familial
 
     def find(name)
       individuals.detect do |i|
-        i.name == name
+        i.name.casecmp(name) == 0
       end
     end
 

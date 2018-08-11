@@ -12,14 +12,10 @@ describe FaithAndFarming::Book, "family tree" do
 
   describe "entry for Henry Williams" do
 
-    let(:henry) { tree.find("Williams, Henry") }
+    let(:henry) { tree.find("Henry WILLIAMS") }
 
     it "exists" do
       expect(henry).not_to be_nil
-    end
-
-    it "has the correct #name" do
-      expect(henry.name).to eq("Williams, Henry")
     end
 
     it "has the correct #date_of_birth" do
@@ -34,14 +30,10 @@ describe FaithAndFarming::Book, "family tree" do
 
   describe "entry for Marianne Coldham" do
 
-    let(:marianne) { tree.find("Coldham, Marianne") }
+    let(:marianne) { tree.find("Marianne COLDHAM") }
 
     it "exists" do
       expect(marianne).not_to be_nil
-    end
-
-    it "has the correct #name" do
-      expect(marianne.name).to eq("Coldham, Marianne")
     end
 
     it "has the correct #birth" do

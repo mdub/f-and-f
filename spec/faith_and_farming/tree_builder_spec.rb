@@ -21,7 +21,7 @@ describe FaithAndFarming::TreeBuilder do
 
   context "with an individual entry" do
 
-    let(:joe_entry) { individual_entry(name: "Joe Bloggs") }
+    let(:joe_entry) { individual_entry(name: "BLOGGS, Joe") }
     let(:elements) { [joe_entry] }
 
     it "creates an Individual" do
@@ -29,13 +29,13 @@ describe FaithAndFarming::TreeBuilder do
     end
 
     it "sets name" do
-      expect(db.individuals.first.name).to eq("Joe Bloggs")
+      expect(db.individuals.first.name).to eq("Joe BLOGGS")
     end
 
     context "with birth/death dates" do
 
       let(:joe_entry) do
-        individual_entry(name: "Joe Bloggs", date_of_birth: "12.05.1954", date_of_death: "15.11.1996")
+        individual_entry(name: "BLOGGS, Joe", date_of_birth: "12.05.1954", date_of_death: "15.11.1996")
       end
 
       it "records dates of birth and death" do
@@ -43,6 +43,28 @@ describe FaithAndFarming::TreeBuilder do
         expect(db.individuals.first.date_of_death).to eq(Familial::Date.new(1996, 11, 15))
       end
 
+    end
+
+  end
+
+  context "with a couple entry" do
+
+    let(:elements) do
+      [
+        entry(
+          level: 1,
+          date_married: "**.03.1966",
+          people: [
+            { name: "MCTAVISH, Bob" },
+            { name: "FIFINGER, Audrey" }
+          ]
+        )
+      ]
+    end
+
+    it "creates two Individuals" do
+      expect(db.individuals.size).to eq(2)
+      expect(db.individuals.map(&:name)).to include("Bob MCTAVISH", "Audrey FIFINGER")
     end
 
   end
