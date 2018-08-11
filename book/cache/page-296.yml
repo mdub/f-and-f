@@ -37,17 +37,8 @@ blocks:
       top: 531
       bottom: 573
 - paragraphs:
-  - text: 'TY::
-
-'
-    bounds:
-      left: 438
-      right: 445
-      top: 877
-      bottom: 907
-- paragraphs:
   - text: |
-      07>' WILLIAMS, Evelyn Gillian (Jil1) m on 07.05.1941 to BARTON, Alan Roy Bidwill
+      07> WILLIAMS, Evelyn Gillian (Jil1) m on 07.05.1941 to BARTON, Alan Roy Bidwill
       b 08.02.1919 d 17.12.1985
     bounds:
       left: 350
@@ -90,7 +81,7 @@ blocks:
       bottom: 1428
 - paragraphs:
   - text: |
-      b1> BARTON, Alan John m on 07.11.1970 to NILSSON, Sally Vivianne
+      01> BARTON, Alan John m on 07.11.1970 to NILSSON, Sally Vivianne
       b 22.03.1942
     bounds:
       left: 426

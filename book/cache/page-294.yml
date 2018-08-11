@@ -26,15 +26,6 @@ blocks:
       top: 343
       bottom: 445
 - paragraphs:
-  - text: 'a
-
-'
-    bounds:
-      left: 1245
-      right: 1249
-      top: 340
-      bottom: 392
-- paragraphs:
   - text: '03> WILLIAMS, Richard Paul Holden
 
 '

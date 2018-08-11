@@ -75,7 +75,7 @@ blocks:
       top: 1094
       bottom: 1243
 - paragraphs:
-  - text: '05> CACCIA-BIRCH, Virginia Rose m on 06.01.1965 to (1)BERENS, Richard Wilfred
+  - text: '05> CACCIA-BIRCH, Virginia Rose m on 06.01.1965 to (1)BERENS, Richard Wilfred Beauvoir
 
 '
     bounds:
@@ -84,7 +84,6 @@ blocks:
       top: 1332
       bottom: 1394
   - text: |
-      Beauvoir
       b 18.10.1940
     bounds:
       left: 530
@@ -126,8 +125,7 @@ blocks:
       top: 1842
       bottom: 2193
 - paragraphs:
-  - text: '05> CACCIA-BIRCH, Virginia Rose m on 21.09.1971 to (2) FORTESCUE, Mark
-      Charles
+  - text: '05> CACCIA-BIRCH, Virginia Rose m on 21.09.1971 to (2) FORTESCUE, Mark Charles Grenville (Billy)
 
 '
     bounds:
@@ -136,7 +134,6 @@ blocks:
       top: 2280
       bottom: 2342
   - text: |
-      Grenville (Billy)
       b 18.10.1940
     bounds:
       left: 536

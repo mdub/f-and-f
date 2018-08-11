@@ -133,7 +133,7 @@ blocks:
       top: 2388
       bottom: 2583
 - paragraphs:
-  - text: '01>
+  - text: '01> BARCLAY, Nicholas Peter
 
 '
     bounds:
@@ -141,9 +141,7 @@ blocks:
       right: 646
       top: 2633
       bottom: 2673
-- paragraphs:
   - text: |
-      BARCLAY, Nicholas Peter
       b 08.05.1997
     bounds:
       left: 683

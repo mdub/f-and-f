@@ -18,7 +18,7 @@ Clamp do
     FaithAndFarming::Book.pages(from..to)
   end
 
-  subcommand "blocks", "display blocks" do
+  subcommand ["blocks", "b"], "display blocks" do
 
     def execute
       pages.each do |page|
@@ -33,7 +33,7 @@ Clamp do
 
   end
 
-  subcommand "elements", "display page elements" do
+  subcommand ["elements", "e"], "display page elements" do
 
     def execute
       pages.each do |page|
@@ -47,7 +47,7 @@ Clamp do
 
   end
 
-  subcommand "names", "display entry names" do
+  subcommand ["names", "n"], "display entry names" do
 
     def execute
       pages.each do |page|

@@ -22,7 +22,7 @@ blocks:
       bottom: 488
 - paragraphs:
   - text: |
-      | 02> VIVIAN, Amanda Ursula Georgina m on 12.01.1985 to LOWTHER, Hugh
+      02> VIVIAN, Amanda Ursula Georgina m on 12.01.1985 to LOWTHER, Hugh
       b 22.11.1958
     bounds:
       left: 432
@@ -43,7 +43,7 @@ blocks:
       top: 595
       bottom: 944
 - paragraphs:
-  - text: 'b1> LOWTHER, Flora Miriam
+  - text: '01> LOWTHER, Flora Miriam
 
 '
     bounds:

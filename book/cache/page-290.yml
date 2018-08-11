@@ -21,15 +21,6 @@ blocks:
       top: 223
       bottom: 482
 - paragraphs:
-  - text: 'thony Wiliama Fabio (Tony)
-
-'
-    bounds:
-      left: 1626
-      right: 2301
-      top: 279
-      bottom: 407
-- paragraphs:
   - text: '01> CACCIA-BIRCH, Candace Demi
 
 '
@@ -47,7 +38,7 @@ blocks:
       top: 586
       bottom: 624
 - paragraphs:
-  - text: '03>''CACCIA-BIRCH, Miriam m on 19.04.1956 to VIVIAN, John Hussey Hamilton
+  - text: '03> CACCIA-BIRCH, Miriam m on 19.04.1956 to VIVIAN, John Hussey Hamilton
 
 '
     bounds:
@@ -87,14 +78,7 @@ blocks:
       top: 838
       bottom: 1674
 - paragraphs:
-  - text: "|\n"
-    bounds:
-      left: 214
-      right: 223
-      top: 1367
-      bottom: 1464
-- paragraphs:
-  - text: '01> VIVIAN, Richard Anthony m on 24.08.1996 to AUSTIN, Anna Clementine
+  - text: '01> VIVIAN, Richard Anthony Hussey m on 24.08.1996 to AUSTIN, Anna Clementine
 
 '
     bounds:
@@ -103,7 +87,6 @@ blocks:
       top: 1718
       bottom: 1780
   - text: |
-      Hussey
       b 24.01.1957
     bounds:
       left: 603
