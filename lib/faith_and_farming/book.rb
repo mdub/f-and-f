@@ -10,7 +10,7 @@ module FaithAndFarming
         Pages.new(*args)
       end
 
-      def family_tree(last_page = 641)
+      def family_tree(last_page: 641)
         builder = TreeBuilder.new
         pages(73..last_page).each do |page|
           page.elements.grep(FaithAndFarming::Book::Elements::Entry).each do |entry|

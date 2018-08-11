@@ -5,7 +5,7 @@ require "faith_and_farming/book"
 describe FaithAndFarming::Book, "family tree" do
 
   before(:all) do
-    @tree = FaithAndFarming::Book.family_tree
+    @tree = FaithAndFarming::Book.family_tree(last_page: 99)
   end
 
   attr_reader :tree
