@@ -1,4 +1,5 @@
 require "familial/collection"
+require "familial/family"
 require "familial/individual"
 require "forwardable"
 
@@ -14,6 +15,10 @@ module Familial
       individuals.detect do |i|
         i.name.casecmp(name) == 0
       end
+    end
+
+    def families
+      @families ||= collection_of(Family)
     end
 
     private

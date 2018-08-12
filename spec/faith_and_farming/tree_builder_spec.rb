@@ -32,6 +32,10 @@ describe FaithAndFarming::TreeBuilder do
       expect(db.individuals.first.name).to eq("Joe BLOGGS")
     end
 
+    it "does not create a Family" do
+      expect(db.families).to be_empty
+    end
+
     context "with birth/death dates" do
 
       let(:joe_entry) do
@@ -65,6 +69,14 @@ describe FaithAndFarming::TreeBuilder do
     it "creates two Individuals" do
       expect(db.individuals.size).to eq(2)
       expect(db.individuals.map(&:name)).to include("Bob MCTAVISH", "Audrey FIFINGER")
+    end
+
+    it "creates a Family" do
+      expect(db.families.size).to eq(1)
+    end
+
+    it "records dates of marriage" do
+      expect(db.families.first.date_married).to eq(Familial::Date.new(1966, 3))
     end
 
   end
