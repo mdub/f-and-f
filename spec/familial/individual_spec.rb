@@ -77,7 +77,8 @@ describe Familial::Individual do
 
       it "includes nickname" do
         expect(individual.to_gedcom).to include <<~GEDCOM
-          1 NICK Willo
+          1 NAME Mark Willis
+          2 NICK Willo
         GEDCOM
       end
 

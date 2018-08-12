@@ -37,7 +37,7 @@ module Familial
     def write_gedcom(out)
       out.puts "0 @#{id}@ INDI"
       out.puts "1 NAME #{name}"
-      out.puts "1 NICK #{nickname}" unless nickname.nil?
+      out.puts "2 NICK #{nickname}" unless nickname.nil?
       out.puts "1 SEX #{sex.to_gedcom}" unless sex.nil?
       unless date_of_birth.nil?
         out.puts "1 BIRT"
