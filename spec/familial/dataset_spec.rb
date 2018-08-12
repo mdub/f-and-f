@@ -33,4 +33,30 @@ describe Familial::Dataset do
 
   end
 
+  describe "#families" do
+
+    it "starts empty" do
+      expect(dataset.families).to be_empty
+    end
+
+    describe "#create" do
+
+      let!(:family) { dataset.families.create }
+
+      it "creates a new family" do
+        expect(family).to be_kind_of(Familial::Family)
+      end
+
+      it "assigns an id" do
+        expect(family.id).to eq("Family-1")
+      end
+
+      it "allows lookup by id" do
+        expect(dataset.families.resolve(family.id)).to be(family)
+      end
+
+    end
+
+  end
+
 end
