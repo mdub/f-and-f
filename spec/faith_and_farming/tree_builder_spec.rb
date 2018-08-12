@@ -92,4 +92,50 @@ describe FaithAndFarming::TreeBuilder do
 
   end
 
+  context "with a couple followed by children" do
+
+    let(:elements) do
+      [
+        entry(
+          level: 1,
+          date_married: "**.03.1966",
+          people: [
+            { name: "MCTAVISH, Bob" },
+            { name: "FIFINGER, Audrey" }
+          ]
+        ),
+        entry(
+          level: 2,
+          people: [
+            { name: "MCTAVISH, Roger" }
+          ]
+        ),
+        entry(
+          level: 2,
+          people: [
+            { name: "MCTAVISH, Cindy" }
+          ]
+        )
+      ]
+    end
+
+    it "creates all Individuals" do
+      expect(db.individuals.size).to eq(4)
+    end
+
+    it "creates a Family" do
+      expect(db.families.size).to eq(1)
+    end
+
+    let(:family) { db.families.first }
+
+    it "associates children" do
+      expect(family.children.map(&:name)).to include(
+        "Roger MCTAVISH",
+        "Cindy MCTAVISH"
+      )
+    end
+
+  end
+
 end

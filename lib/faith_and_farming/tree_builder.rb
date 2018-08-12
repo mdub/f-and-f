@@ -7,6 +7,7 @@ module FaithAndFarming
 
     def initialize
       @db = Familial::Dataset.new
+      @family_stack = []
     end
 
     attr_reader :db
@@ -28,6 +29,7 @@ module FaithAndFarming
     private
 
     def add_entry(entry)
+      family_stack.pop while family_stack.size >= entry.level
       individuals = entry.people.map do |person|
         db.individuals.create.tap do |i|
           name = normalise_name(person.name)
@@ -38,12 +40,16 @@ module FaithAndFarming
           i.date_of_death = person.date_of_death if person.date_of_death
         end
       end
+      unless family_stack.empty?
+        current_family.children << individuals.first
+      end
       if individuals.size == 2
         db.families.create.tap do |f|
           f.date_married = entry.date_married if entry.date_married
           wife_and_husband = individuals.sort_by { |i| (i.sex || "g").to_s }
           f.wife = wife_and_husband[0]
           f.husband = wife_and_husband[1]
+          family_stack.push(f)
         end
       end
     end
@@ -56,6 +62,12 @@ module FaithAndFarming
       result = self.class.gender_detector.get_gender(name)
       return nil if result == :andy
       result.to_s.sub(/^mostly_/,'')
+    end
+
+    attr_reader :family_stack
+
+    def current_family
+      family_stack.first
     end
 
   end
