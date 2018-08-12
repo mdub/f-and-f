@@ -27,6 +27,12 @@ module Familial
 
     attr_reader :sex
 
+    attr_accessor :parents
+
+    def families
+      @families ||= []
+    end
+
     def write_gedcom(out)
       out.puts "0 @#{id}@ INDI"
       out.puts "1 NAME #{name}"
@@ -38,6 +44,10 @@ module Familial
       unless date_of_death.nil?
         out.puts "1 DEAT"
         out.puts "2 DATE #{date_of_death.to_gedcom}"
+      end
+      out.puts "1 FAMC @#{parents.id}@" unless parents.nil?
+      families.each do |family|
+        out.puts "1 FAMS @#{family.id}@"
       end
     end
 

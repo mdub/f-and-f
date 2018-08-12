@@ -5,17 +5,38 @@ module Familial
 
   class Family < Record
 
+    def initialize(*args)
+      super
+      @children = []
+    end
+
     def date_married=(arg)
       @date_married = Date.parse(arg)
     end
 
     attr_reader :date_married
 
-    attr_accessor :husband
-    attr_accessor :wife
+    def husband=(individual)
+      individual.families << self
+      @husband = individual
+    end
+
+    attr_reader :husband
+
+    def wife=(individual)
+      individual.families << self
+      @wife = individual
+    end
+
+    attr_reader :wife
+
+    def add_child(individual)
+      individual.parents = self
+      @children << individual
+    end
 
     def children
-      @children ||= []
+      @children.enum_for
     end
 
     def write_gedcom(out)

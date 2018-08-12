@@ -41,7 +41,7 @@ module FaithAndFarming
         end
       end
       unless family_stack.empty?
-        current_family.children << individuals.first
+        current_family.add_child(individuals.first)
       end
       if individuals.size == 2
         db.families.create.tap do |f|

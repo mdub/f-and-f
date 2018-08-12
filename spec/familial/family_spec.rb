@@ -16,8 +16,8 @@ describe Familial::Family do
     family.date_married = "19.04.1956"
     family.husband = bob
     family.wife = jane
-    family.children << becky
-    family.children << george
+    family.add_child becky
+    family.add_child george
   end
 
   it "has a husband and wife" do
