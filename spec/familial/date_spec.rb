@@ -118,6 +118,16 @@ describe Familial::Date do
 
     end
 
+    context "with everything missing" do
+
+      let(:date) { described_class.parse("**.**.****") }
+
+      it "returns nil" do
+        expect(date).to eq(nil)
+      end
+
+    end
+
   end
 
 end
