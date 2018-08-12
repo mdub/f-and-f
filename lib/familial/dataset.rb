@@ -31,6 +31,7 @@ module Familial
       families.each do |f|
         f.write_gedcom(out)
       end
+      out.puts "0 TRLR"
     end
 
     private
