@@ -1,6 +1,7 @@
 require "familial/date"
 require "familial/record"
 require "familial/sex"
+require "stringio"
 
 module Familial
 
@@ -25,6 +26,26 @@ module Familial
     end
 
     attr_reader :sex
+
+    def to_gedcom
+      b = StringIO.new
+      write_gedcom(b)
+      b.string
+    end
+
+    def write_gedcom(out)
+      out.puts "0 @#{id}@ INDI"
+      out.puts "1 NAME #{name}"
+      out.puts "1 SEX #{sex.to_gedcom}" unless sex.nil?
+      unless date_of_birth.nil?
+        out.puts "1 BIRT"
+        out.puts "2 DATE #{date_of_birth.to_gedcom}"
+      end
+      unless date_of_death.nil?
+        out.puts "1 DEAT"
+        out.puts "2 DATE #{date_of_death.to_gedcom}"
+      end
+    end
 
   end
 

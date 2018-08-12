@@ -21,7 +21,7 @@ describe Familial::Dataset do
       end
 
       it "assigns an id" do
-        expect(individual.id).to eq("Individual-1")
+        expect(individual.id).to eq("I1")
       end
 
       it "allows lookup by id" do
@@ -47,7 +47,7 @@ describe Familial::Dataset do
       end
 
       it "assigns an id" do
-        expect(family.id).to eq("Family-1")
+        expect(family.id).to eq("F1")
       end
 
       it "allows lookup by id" do

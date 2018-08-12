@@ -18,7 +18,7 @@ module Familial
     include Enumerable
 
     def create(attributes = {})
-      id = "#{type}-#{items.size + 1}"
+      id = "#{type_char}#{items.size + 1}"
       new_item = item_class.new(dataset: dataset, id: id)
       items << new_item
       new_item.update(attributes)
@@ -35,6 +35,10 @@ module Familial
 
     def type
       item_class.name.sub(/.*::/, "").to_sym
+    end
+
+    def type_char
+      item_class.name.sub(/.*::/, "")[0]
     end
 
     attr_reader :dataset

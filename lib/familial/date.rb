@@ -16,6 +16,16 @@ module Familial
       ::Date.new(year, month || 1, day || 1)
     end
 
+    MONTHS = %w(JAN FEB MAR APR MAY JUN JUL AUG SEP OCT NOV DEC)
+
+    def to_gedcom
+      parts = []
+      parts << day.to_s unless day.nil?
+      parts << MONTHS[month-1] unless month.nil?
+      parts << ("%04d" % year)
+      parts.join(" ")
+    end
+
     PATTERN = %r{^([\d*]{2})\.([\d*]{2})\.([\d*]{4})$}
 
     class << self

@@ -32,6 +32,12 @@ describe Familial::Date do
       end
     end
 
+    describe "#to_gedcom" do
+      it "returns a full GEDCOM date" do
+        expect(date.to_gedcom).to eq("15 MAR 1856")
+      end
+    end
+
   end
 
   context "with year alone" do
@@ -55,6 +61,36 @@ describe Familial::Date do
     describe "#to_date" do
       it "assumes day and month" do
         expect(date.to_date).to eq(::Date.new(1856, 1, 1))
+      end
+    end
+
+    describe "#to_gedcom" do
+      it "returns a partial GEDCOM date" do
+        expect(date.to_gedcom).to eq("1856")
+      end
+    end
+
+  end
+
+  context "with month and year" do
+
+    let(:date) { described_class.new(1856, 8) }
+
+    describe "#to_s" do
+      it "uses asterisks for day" do
+        expect(date.to_s).to eq("**.08.1856")
+      end
+    end
+
+    describe "#to_date" do
+      it "assumes day and month" do
+        expect(date.to_date).to eq(::Date.new(1856, 8, 1))
+      end
+    end
+
+    describe "#to_gedcom" do
+      it "returns a partial GEDCOM date" do
+        expect(date.to_gedcom).to eq("AUG 1856")
       end
     end
 
