@@ -32,3 +32,8 @@ require 'rspec/core/rake_task'
 RSpec::Core::RakeTask.new(:spec)
 
 task "default" => "spec"
+
+task "generate" do
+  mkdir_p "outputs"
+  sh "scripts/show gedcom > outputs/f-and-f.ged"
+end
