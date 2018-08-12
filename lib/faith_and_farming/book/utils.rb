@@ -10,8 +10,9 @@ module FaithAndFarming
         return nil if date_string.nil?
         date_string
           .sub(/\.$/,"")
-          .gsub("** ", "**.")
+          .gsub("** , ", "**.")
           .gsub("**, ", "**.")
+          .gsub("** ", "**.")
           .gsub("****.", "**.**.")
           .sub("********", "**.**.****")
           .gsub(". ", ".")

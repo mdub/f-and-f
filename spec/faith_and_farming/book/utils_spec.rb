@@ -29,6 +29,8 @@ describe FaithAndFarming::Book::Utils do
     it "cleans up spacing" do
       expect_normalise_date("**.**. 1997", "**.**.1997")
       expect_normalise_date("11.03. ****", "11.03.****")
+      expect_normalise_date("** **, 1945", "**.**.1945")
+      expect_normalise_date("** ** , 1945", "**.**.1945")
     end
 
     it "strips trailing periods" do
