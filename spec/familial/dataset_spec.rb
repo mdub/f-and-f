@@ -1,7 +1,6 @@
 require "spec_helper"
 
 require "familial/dataset"
-require "familial/individual"
 
 describe Familial::Dataset do
 

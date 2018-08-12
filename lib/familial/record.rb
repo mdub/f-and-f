@@ -13,6 +13,13 @@ module Familial
 
     attr_reader :id
 
+    def update(attributes)
+      attributes.each do |key, value|
+        public_send("#{key}=", value)
+      end
+      self
+    end
+
   end
 
 end

@@ -5,10 +5,17 @@ module Familial
 
   class Family < Record
 
-    attr_reader :date_married
-
     def date_married=(arg)
       @date_married = Date.parse(arg)
+    end
+
+    attr_reader :date_married
+
+    attr_accessor :husband
+    attr_accessor :wife
+
+    def children
+      @children ||= []
     end
 
   end

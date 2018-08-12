@@ -17,10 +17,11 @@ module Familial
 
     include Enumerable
 
-    def create
+    def create(attributes = {})
       id = "#{type}-#{items.size + 1}"
       new_item = item_class.new(dataset: dataset, id: id)
       items << new_item
+      new_item.update(attributes)
       new_item
     end
 
