@@ -35,7 +35,7 @@ module Familial
         fields = Regexp.last_match.captures.reverse.map do |field|
           Integer(field.sub(/^0/,"")) unless field =~ /^\*+$/
         end
-        return nil if fields.none?
+        return nil if fields.first.nil?
         new(*fields)
       end
 
