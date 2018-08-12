@@ -66,6 +66,25 @@ Clamp do
 
   end
 
+  subcommand ["families", "f"], "display families" do
+
+    def execute
+      db = pages.family_tree
+      db.families.each do |family|
+        puts YAML.dump(family_data(family))
+      end
+    end
+
+    def family_data(family)
+      {}.tap do |h|
+        h["husband"] = family.husband.name
+        h["wife"] = family.wife.name
+        h["children"] = family.children.map(&:name) unless family.children.empty?
+      end
+    end
+
+  end
+
   def run(*)
     super
   rescue Errno::EPIPE
