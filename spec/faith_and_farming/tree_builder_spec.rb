@@ -53,6 +53,24 @@ describe FaithAndFarming::TreeBuilder do
 
     end
 
+    context "with nickname" do
+
+      let(:joe_entry) do
+        individual_entry(name: "BLOGGS, Joseph (Joe)")
+      end
+
+      let(:joe) { db.individuals.first }
+
+      it "sets name" do
+        expect(joe.name).to eq("Joseph BLOGGS")
+      end
+
+      it "sets nickname" do
+        expect(joe.nickname).to eq("Joe")
+      end
+
+    end
+
   end
 
   context "with a couple entry" do

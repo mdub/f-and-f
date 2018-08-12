@@ -7,6 +7,13 @@ describe Familial::Individual do
   let(:dataset) { Familial::Dataset.new }
   subject(:individual) { dataset.individuals.create }
 
+  before do
+    individual.name = "Mark Willis"
+    individual.sex = "male"
+    individual.date_of_birth = "12.06.1981"
+    individual.date_of_death = "18.01.2016"
+  end
+
   describe "#sex=" do
 
     it "can be set using enum" do
@@ -22,13 +29,6 @@ describe Familial::Individual do
   end
 
   describe "#to_gedcom" do
-
-    before do
-      individual.name = "Mark Willis"
-      individual.sex = "male"
-      individual.date_of_birth = "12.06.1981"
-      individual.date_of_death = "18.01.2016"
-    end
 
     it "generates valid GEDCOM" do
       expect(individual.to_gedcom).to eq <<~GEDCOM
@@ -60,6 +60,24 @@ describe Familial::Individual do
         expect(individual.to_gedcom).to include <<~GEDCOM
           1 FAMC @#{mum_and_dad.id}@
           1 FAMS @#{family_unit.id}@
+        GEDCOM
+      end
+
+    end
+
+  end
+
+  context "with a nickname" do
+
+    before do
+      individual.nickname = "Willo"
+    end
+
+    describe "#to_gedcom" do
+
+      it "includes nickname" do
+        expect(individual.to_gedcom).to include <<~GEDCOM
+          1 NICK Willo
         GEDCOM
       end
 

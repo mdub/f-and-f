@@ -30,16 +30,7 @@ module FaithAndFarming
 
     def add_entry(entry)
       pop_to_level(entry.level)
-      individuals = entry.people.map do |person|
-        db.individuals.create.tap do |i|
-          name = normalise_name(person.name)
-          i.name = name
-          assumed_gender = guess_gender(name.split(" ").first)
-          i.sex = assumed_gender if assumed_gender
-          i.date_of_birth = person.date_of_birth if person.date_of_birth
-          i.date_of_death = person.date_of_death if person.date_of_death
-        end
-      end
+      individuals = entry.people.map(&method(:individual_from))
       unless family_stack.empty?
         current_family.add_child(individuals.first)
       end
@@ -54,8 +45,16 @@ module FaithAndFarming
       end
     end
 
-    def normalise_name(name)
-      name.split(", ").reverse.join(" ")
+    def individual_from(person)
+      db.individuals.create.tap do |i|
+        person.name =~ /^(\w+), (.+?)(?: \((\w+)\))?$/
+        i.name = [$2, $1].join(" ")
+        i.nickname = $3
+        assumed_gender = guess_gender(i.name.split(" ").first)
+        i.sex = assumed_gender if assumed_gender
+        i.date_of_birth = person.date_of_birth if person.date_of_birth
+        i.date_of_death = person.date_of_death if person.date_of_death
+      end
     end
 
     def guess_gender(name)
