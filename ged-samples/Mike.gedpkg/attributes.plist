@@ -91,10 +91,6 @@
 			<string>Header</string>
 			<key>Album Record Type</key>
 			<string>HEAD</string>
-			<key>Album Selected IDs</key>
-			<array>
-				<string>HEAD</string>
-			</array>
 			<key>Album Sorting Array</key>
 			<array>
 				<integer>-1</integer>
@@ -123,7 +119,7 @@
 			<string>INDI</string>
 			<key>Album Selected IDs</key>
 			<array>
-				<string>@I4@</string>
+				<string>@I1@</string>
 			</array>
 			<key>Album Sorting Array</key>
 			<array>
@@ -147,6 +143,11 @@
 			<string>Notes</string>
 			<key>Album Record Type</key>
 			<string>NOTE</string>
+			<key>Album Sorting Array</key>
+			<array>
+				<integer>-1</integer>
+				<string>_REF.view</string>
+			</array>
 			<key>Album Type ID</key>
 			<integer>0</integer>
 		</dict>
@@ -155,6 +156,11 @@
 			<string>Families</string>
 			<key>Album Record Type</key>
 			<string>FAM</string>
+			<key>Album Sorting Array</key>
+			<array>
+				<integer>-1</integer>
+				<string>HUSB.view</string>
+			</array>
 			<key>Album Type ID</key>
 			<integer>0</integer>
 		</dict>
