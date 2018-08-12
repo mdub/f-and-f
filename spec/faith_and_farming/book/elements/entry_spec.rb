@@ -241,7 +241,7 @@ describe FaithAndFarming::Book::Elements::Entry do
 
     end
 
-    context "with a stray apostrophe" do
+    context "with a stray apostrophe before the space" do
 
       let(:text) do
         <<~TEXT
@@ -254,6 +254,23 @@ describe FaithAndFarming::Book::Elements::Entry do
       it "is still recognised" do
         expect(entry).to be_kind_of(FaithAndFarming::Book::Elements::Entry)
         expect(entry.people.first.name).to eq("WATSON, Edith Ruth")
+      end
+
+    end
+
+    context "with a stray apostrophe after the space" do
+
+      let(:text) do
+        <<~TEXT
+          01> 'NEWTON, Thomas Alexander
+          b 20.12.1980
+          Thomas b. at Takaka.
+        TEXT
+      end
+
+      it "is still recognised" do
+        expect(entry).to be_kind_of(FaithAndFarming::Book::Elements::Entry)
+        expect(entry.people.first.name).to eq("NEWTON, Thomas Alexander")
       end
 
     end
