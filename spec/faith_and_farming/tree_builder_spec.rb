@@ -32,6 +32,10 @@ describe FaithAndFarming::TreeBuilder do
       expect(db.individuals.first.name).to eq("Joe BLOGGS")
     end
 
+    it "guesses sex" do
+      expect(db.individuals.first.sex).to eq(Familial::Sex.male)
+    end
+
     it "does not create a Family" do
       expect(db.families).to be_empty
     end
