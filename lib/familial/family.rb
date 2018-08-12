@@ -18,6 +18,19 @@ module Familial
       @children ||= []
     end
 
+    def write_gedcom(out)
+      out.puts "0 @#{id}@ FAM"
+      out.puts "1 HUSB @#{husband.id}@" unless husband.nil?
+      out.puts "1 WIFE @#{wife.id}@" unless wife.nil?
+      unless date_married.nil?
+        out.puts "1 MARR"
+        out.puts "2 DATE #{date_married.to_gedcom}"
+      end
+      children.each do |child|
+        out.puts "1 CHIL @#{child.id}@"
+      end
+    end
+
   end
 
 end

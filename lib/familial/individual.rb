@@ -27,12 +27,6 @@ module Familial
 
     attr_reader :sex
 
-    def to_gedcom
-      b = StringIO.new
-      write_gedcom(b)
-      b.string
-    end
-
     def write_gedcom(out)
       out.puts "0 @#{id}@ INDI"
       out.puts "1 NAME #{name}"

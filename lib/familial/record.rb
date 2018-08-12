@@ -20,6 +20,12 @@ module Familial
       self
     end
 
+    def to_gedcom
+      b = StringIO.new
+      write_gedcom(b)
+      b.string
+    end
+
   end
 
 end

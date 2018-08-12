@@ -21,6 +21,15 @@ module Familial
       @families ||= collection_of(Family)
     end
 
+    def write_gedcom(out)
+      individuals.each do |i|
+        i.write_gedcom(out)
+      end
+      families.each do |f|
+        f.write_gedcom(out)
+      end
+    end
+
     private
 
     def collection_of(record_class)

@@ -88,10 +88,7 @@ Clamp do
   subcommand ["gedcom"], "generate GEDCOM" do
 
     def execute
-      db = pages.family_tree
-      db.individuals.each do |individual|
-        individual.write_gedcom($stdout)
-      end
+      pages.family_tree.write_gedcom($stdout)
     end
 
   end
