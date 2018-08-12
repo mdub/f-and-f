@@ -224,6 +224,22 @@ describe FaithAndFarming::Book::Elements::Entry do
 
     end
 
+    context "with badly scanned marriage date" do
+
+      let(:text) do
+        <<~TEXT
+          01> TRIPE, Susan Elizabeth m on ** **, 1951 to (1) SALMOND, Graham Wilson
+          b 06.07.1932
+          b 12.03.1922
+        TEXT
+      end
+
+      it "extracts wildcard marriage date" do
+        expect(entry.date_married).to eq("**.**.1951")
+      end
+
+    end
+
     context "with '0' mis-parsed as '6'" do
 
       let(:text) do

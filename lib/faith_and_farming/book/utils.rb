@@ -11,6 +11,7 @@ module FaithAndFarming
         date_string
           .sub(/\.$/,"")
           .gsub("** ", "**.")
+          .gsub("**, ", "**.")
           .gsub("****.", "**.**.")
           .sub("********", "**.**.****")
           .gsub(". ", ".")
