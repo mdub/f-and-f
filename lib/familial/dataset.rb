@@ -22,6 +22,9 @@ module Familial
     end
 
     def write_gedcom(out)
+      out.puts "0 HEAD"
+      out.puts "1 CHAR UTF-8"
+      out.puts "1 LANG English"
       individuals.each do |i|
         i.write_gedcom(out)
       end
