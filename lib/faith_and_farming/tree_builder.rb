@@ -27,8 +27,6 @@ module FaithAndFarming
 
     private
 
-    attr_reader :gender_detector
-
     def add_entry(entry)
       individuals = entry.people.map do |person|
         db.individuals.create.tap do |i|
@@ -43,6 +41,9 @@ module FaithAndFarming
       if individuals.size == 2
         db.families.create.tap do |f|
           f.date_married = entry.date_married if entry.date_married
+          wife_and_husband = individuals.sort_by { |i| (i.sex || "g").to_s }
+          f.wife = wife_and_husband[0]
+          f.husband = wife_and_husband[1]
         end
       end
     end

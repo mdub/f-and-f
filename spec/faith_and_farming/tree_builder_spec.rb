@@ -79,8 +79,15 @@ describe FaithAndFarming::TreeBuilder do
       expect(db.families.size).to eq(1)
     end
 
-    it "records dates of marriage" do
-      expect(db.families.first.date_married).to eq(Familial::Date.new(1966, 3))
+    let(:family) { db.families.first }
+
+    it "records date of marriage" do
+      expect(family.date_married).to eq(Familial::Date.new(1966, 3))
+    end
+
+    it "associates husband and wife" do
+      expect(family.husband).to eq(db.find("Bob MCTAVISH"))
+      expect(family.wife).to eq(db.find("Audrey FIFINGER"))
     end
 
   end
