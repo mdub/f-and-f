@@ -182,6 +182,26 @@ describe FaithAndFarming::Book::Elements::Entry do
 
     end
 
+    context "unknown marriage date" do
+
+      let(:text) do
+        <<~TEXT
+          04> THOMSON, Anne Mary (Min) and (2)LEE, Mike
+          b 06.09.1948
+          b 18.04.1951
+          Mike b. at Manakau Peninsula. Address: Stuart Road, Mcleod Bay, RD 4, Whangarei.
+        TEXT
+      end
+
+      it "extracts both people" do
+        expect(entry.people.map(&:name)).to eq [
+          "THOMSON, Anne Mary (Min)",
+          "LEE, Mike"
+        ]
+      end
+
+    end
+
     context "a de facto couple" do
 
       let(:text) do
