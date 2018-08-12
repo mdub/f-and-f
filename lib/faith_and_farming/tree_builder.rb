@@ -29,7 +29,7 @@ module FaithAndFarming
     private
 
     def add_entry(entry)
-      family_stack.pop while family_stack.size >= entry.level
+      pop_to_level(entry.level)
       individuals = entry.people.map do |person|
         db.individuals.create.tap do |i|
           name = normalise_name(person.name)
@@ -49,7 +49,7 @@ module FaithAndFarming
           wife_and_husband = individuals.sort_by { |i| (i.sex || "g").to_s }
           f.wife = wife_and_husband[0]
           f.husband = wife_and_husband[1]
-          family_stack.push(f)
+          set_current_family(f, level: entry.level)
         end
       end
     end
@@ -66,8 +66,20 @@ module FaithAndFarming
 
     attr_reader :family_stack
 
+    StackEntry = Struct.new(:family, :level)
+
+    def pop_to_level(level)
+      while family_stack.any? && level <= family_stack.last.level
+        family_stack.pop
+      end
+    end
+
+    def set_current_family(family, level:)
+      family_stack.push(StackEntry.new(family, level))
+    end
+
     def current_family
-      family_stack.first
+      family_stack.last.family
     end
 
   end

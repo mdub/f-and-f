@@ -138,4 +138,52 @@ describe FaithAndFarming::TreeBuilder do
 
   end
 
+  context "with two generations" do
+
+    let(:elements) do
+      [
+        entry(
+          level: 1,
+          people: [
+            { name: "MCTAVISH, Bob" },
+            { name: "FIFINGER, Audrey" }
+          ]
+        ),
+        entry(
+          level: 2,
+          people: [
+            { name: "MCTAVISH, Molly" },
+            { name: "WANDSWORTH, Willy" }
+          ]
+        ),
+        entry(
+          level: 3,
+          people: [
+            { name: "WANDSWORTH, Jock" }
+          ]
+        ),
+        entry(
+          level: 2,
+          people: [
+            { name: "MCTAVISH, George" }
+          ]
+        )
+      ]
+    end
+
+    it "creates all Individuals" do
+      expect(db.individuals.size).to eq(6)
+    end
+
+    it "creates both Families" do
+      expect(db.families.size).to eq(2)
+    end
+
+    it "associates children correctly" do
+      expect(db.families.to_a[0].children.map(&:name)).to eq(["Molly MCTAVISH", "George MCTAVISH"])
+      expect(db.families.to_a[1].children.map(&:name)).to eq(["Jock WANDSWORTH"])
+    end
+
+  end
+
 end
