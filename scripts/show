@@ -85,6 +85,17 @@ Clamp do
 
   end
 
+  subcommand ["gedcom"], "generate GEDCOM" do
+
+    def execute
+      db = pages.family_tree
+      db.individuals.each do |individual|
+        individual.write_gedcom($stdout)
+      end
+    end
+
+  end
+
   def run(*)
     super
   rescue Errno::EPIPE
