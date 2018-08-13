@@ -29,7 +29,7 @@ describe FaithAndFarming::TreeBuilder do
     end
 
     it "sets name" do
-      expect(db.individuals.first.name).to eq("Joe BLOGGS")
+      expect(db.individuals.first.name).to eq("Joe /BLOGGS/")
     end
 
     it "guesses sex" do
@@ -62,7 +62,7 @@ describe FaithAndFarming::TreeBuilder do
       let(:joe) { db.individuals.first }
 
       it "sets name" do
-        expect(joe.name).to eq("Joseph BLOGGS")
+        expect(joe.name).to eq("Joseph /BLOGGS/")
       end
 
       it "sets nickname" do
@@ -109,7 +109,7 @@ describe FaithAndFarming::TreeBuilder do
 
     it "creates two Individuals" do
       expect(db.individuals.size).to eq(2)
-      expect(db.individuals.map(&:name)).to include("Bob MCTAVISH", "Audrey FIFINGER")
+      expect(db.individuals.map(&:name)).to include("Bob /MCTAVISH/", "Audrey /FIFINGER/")
     end
 
     it "creates a Family" do
@@ -123,8 +123,8 @@ describe FaithAndFarming::TreeBuilder do
     end
 
     it "associates husband and wife" do
-      expect(family.husband).to eq(db.find("Bob MCTAVISH"))
-      expect(family.wife).to eq(db.find("Audrey FIFINGER"))
+      expect(family.husband).to eq(db.find("Bob /MCTAVISH/"))
+      expect(family.wife).to eq(db.find("Audrey /FIFINGER/"))
     end
 
   end
@@ -168,8 +168,8 @@ describe FaithAndFarming::TreeBuilder do
 
     it "associates children" do
       expect(family.children.map(&:name)).to include(
-        "Roger MCTAVISH",
-        "Cindy MCTAVISH"
+        "Roger /MCTAVISH/",
+        "Cindy /MCTAVISH/"
       )
     end
 
@@ -217,8 +217,8 @@ describe FaithAndFarming::TreeBuilder do
     end
 
     it "associates children correctly" do
-      expect(db.families.to_a[0].children.map(&:name)).to eq(["Molly MCTAVISH", "George MCTAVISH"])
-      expect(db.families.to_a[1].children.map(&:name)).to eq(["Jock WANDSWORTH"])
+      expect(db.families.to_a[0].children.map(&:name)).to eq(["Molly /MCTAVISH/", "George /MCTAVISH/"])
+      expect(db.families.to_a[1].children.map(&:name)).to eq(["Jock /WANDSWORTH/"])
     end
 
   end

@@ -12,7 +12,7 @@ describe FaithAndFarming::Book, "family tree" do
 
   describe "entry for Henry Williams" do
 
-    let(:henry) { tree.find("Henry WILLIAMS") }
+    let(:henry) { tree.find("Henry /WILLIAMS/") }
 
     it "exists" do
       expect(henry).not_to be_nil
@@ -30,7 +30,7 @@ describe FaithAndFarming::Book, "family tree" do
 
   describe "entry for Marianne Coldham" do
 
-    let(:marianne) { tree.find("Marianne COLDHAM") }
+    let(:marianne) { tree.find("Marianne /COLDHAM/") }
 
     it "exists" do
       expect(marianne).not_to be_nil

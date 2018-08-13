@@ -55,7 +55,8 @@ module FaithAndFarming
         if name.sub!(/ \((\w+)\)$/, '')
           i.nickname = $1
         end
-        i.name = name.split(", ").map(&:strip).reverse.join(" ")
+        last, rest = name.split(", ", 2)
+        i.name = "#{rest} /#{last}/"
         assumed_gender = guess_gender(i.name.split(" ").first)
         i.sex = assumed_gender if assumed_gender
         i.date_of_birth = person.date_of_birth if person.date_of_birth
