@@ -22,9 +22,17 @@ module Familial
     end
 
     def write_gedcom(out)
-      out.puts "0 HEAD"
-      out.puts "1 CHAR UTF-8"
-      out.puts "1 LANG English"
+      out.puts <<~GEDCOM
+        0 HEAD
+        1 GEDC
+        2 VERS 5.5
+        2 FORM LINEAGE-LINKED
+        1 CHAR UTF-8
+        1 LANG English
+        1 SUBM @SUBM@
+        0 @SUBM@ SUBM
+        1 NAME Mike Williams
+      GEDCOM
       individuals.each do |i|
         i.write_gedcom(out)
       end
