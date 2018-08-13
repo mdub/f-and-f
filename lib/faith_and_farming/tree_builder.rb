@@ -43,6 +43,10 @@ module FaithAndFarming
           set_current_family(f, level: entry.level)
         end
       end
+      unless entry.note.nil? || entry.note.strip.empty?
+        note = db.notes.create(content: entry.note)
+        individuals.each { |i| i.note = note }
+      end
     end
 
     def individual_from(person)

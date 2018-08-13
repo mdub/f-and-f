@@ -1,6 +1,7 @@
 require "familial/collection"
 require "familial/family"
 require "familial/individual"
+require "familial/note"
 require "forwardable"
 
 module Familial
@@ -21,6 +22,10 @@ module Familial
       @families ||= collection_of(Family)
     end
 
+    def notes
+      @notes ||= collection_of(Note)
+    end
+
     def write_gedcom(out)
       out.puts <<~GEDCOM
         0 HEAD
@@ -33,11 +38,10 @@ module Familial
         0 @SUBM@ SUBM
         1 NAME Mike Williams
       GEDCOM
-      individuals.each do |i|
-        i.write_gedcom(out)
-      end
-      families.each do |f|
-        f.write_gedcom(out)
+      [individuals, families, notes].each do |collection|
+        collection.each do |record|
+          record.write_gedcom(out)
+        end
       end
       out.puts "0 TRLR"
     end

@@ -7,12 +7,12 @@ describe FaithAndFarming::TreeBuilder do
 
   subject(:builder) { described_class.new }
 
-  def entry(attributes)
+  def make_entry(attributes)
     FaithAndFarming::Book::Elements::Entry.from_data(attributes)
   end
 
-  def individual_entry(level: 1, **rest)
-    entry(level: level, people: [rest])
+  def individual_entry(level: 1, note: nil, **rest)
+    make_entry(level: level, note: note, people: [rest])
   end
 
   let(:db) do
@@ -21,8 +21,8 @@ describe FaithAndFarming::TreeBuilder do
 
   context "with an individual entry" do
 
-    let(:joe_entry) { individual_entry(name: "BLOGGS, Joe") }
-    let(:elements) { [joe_entry] }
+    let(:entry) { individual_entry(name: "BLOGGS, Joe") }
+    let(:elements) { [entry] }
 
     it "creates an Individual" do
       expect(db.individuals.size).to eq(1)
@@ -42,7 +42,7 @@ describe FaithAndFarming::TreeBuilder do
 
     context "with birth/death dates" do
 
-      let(:joe_entry) do
+      let(:entry) do
         individual_entry(name: "BLOGGS, Joe", date_of_birth: "12.05.1954", date_of_death: "15.11.1996")
       end
 
@@ -55,7 +55,7 @@ describe FaithAndFarming::TreeBuilder do
 
     context "with nickname" do
 
-      let(:joe_entry) do
+      let(:entry) do
         individual_entry(name: "BLOGGS, Joseph (Joe)")
       end
 
@@ -71,13 +71,32 @@ describe FaithAndFarming::TreeBuilder do
 
     end
 
+    context "with a note" do
+
+      let(:text) { "Sally so fine\n" }
+
+      let(:entry) do
+        individual_entry(name: "SMITH, Sally", note: text)
+      end
+
+      it "creates a Note" do
+        expect(db.notes.size).to eq(1)
+        expect(db.notes.first.content).to eq(text)
+      end
+
+      it "links the Note" do
+        expect(db.individuals.first.note).to be(db.notes.first)
+      end
+
+    end
+
   end
 
   context "with a couple entry" do
 
     let(:elements) do
       [
-        entry(
+        make_entry(
           level: 1,
           date_married: "**.03.1966",
           people: [
@@ -114,7 +133,7 @@ describe FaithAndFarming::TreeBuilder do
 
     let(:elements) do
       [
-        entry(
+        make_entry(
           level: 1,
           date_married: "**.03.1966",
           people: [
@@ -122,13 +141,13 @@ describe FaithAndFarming::TreeBuilder do
             { name: "FIFINGER, Audrey" }
           ]
         ),
-        entry(
+        make_entry(
           level: 2,
           people: [
             { name: "MCTAVISH, Roger" }
           ]
         ),
-        entry(
+        make_entry(
           level: 2,
           people: [
             { name: "MCTAVISH, Cindy" }
@@ -160,27 +179,27 @@ describe FaithAndFarming::TreeBuilder do
 
     let(:elements) do
       [
-        entry(
+        make_entry(
           level: 1,
           people: [
             { name: "MCTAVISH, Bob" },
             { name: "FIFINGER, Audrey" }
           ]
         ),
-        entry(
+        make_entry(
           level: 2,
           people: [
             { name: "MCTAVISH, Molly" },
             { name: "WANDSWORTH, Willy" }
           ]
         ),
-        entry(
+        make_entry(
           level: 3,
           people: [
             { name: "WANDSWORTH, Jock" }
           ]
         ),
-        entry(
+        make_entry(
           level: 2,
           people: [
             { name: "MCTAVISH, George" }

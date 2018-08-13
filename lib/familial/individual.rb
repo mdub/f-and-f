@@ -1,7 +1,6 @@
 require "familial/date"
 require "familial/record"
 require "familial/sex"
-require "stringio"
 
 module Familial
 
@@ -34,6 +33,8 @@ module Familial
       @families ||= []
     end
 
+    attr_accessor :note
+
     def write_gedcom(out)
       out.puts "0 @#{id}@ INDI"
       out.puts "1 NAME #{name}"
@@ -51,6 +52,7 @@ module Familial
       families.each do |family|
         out.puts "1 FAMS @#{family.id}@"
       end
+      out.puts "1 NOTE @#{note.id}@" unless note.nil?
     end
 
   end

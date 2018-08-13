@@ -1,4 +1,5 @@
 require "familial/chiller"
+require "stringio"
 
 module Familial
 
