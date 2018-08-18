@@ -66,4 +66,17 @@ describe FaithAndFarming::Book, "family tree" do
 
   end
 
+  describe "Edward Marsh Williams" do
+
+    subject(:edward) { tree.individuals.get(name: "Edward Marsh /WILLIAMS/") }
+
+    born "02.11.1818"
+    died "11.10.1909"
+
+    it "was married to Jane Davis" do
+      expect(edward.families.first.wife.name).to eq("Jane /DAVIS/")
+    end
+
+  end
+
 end
