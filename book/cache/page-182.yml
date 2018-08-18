@@ -38,23 +38,6 @@ blocks:
       top: 593
       bottom: 637
 - paragraphs:
-  - text: '03> DAVIES, Alexander Phillip
-
-'
-    bounds:
-      left: 574
-      right: 1303
-      top: 681
-      bottom: 741
-  - text: |
-      b 19.12.1996
-      Alexander b. at Sydney, Australia.
-    bounds:
-      left: 676
-      right: 1213
-      top: 744
-      bottom: 841
-- paragraphs:
   - text: |
       05> DAVIES, Phillip Geoffrey m on 30.10.1993 to HEO, Jeong-Hee
       b 30.04.1962

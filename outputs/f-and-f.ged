@@ -6960,92 +6960,92 @@
 2 DATE 11 JUL 1989
 1 FAMC @Fp181.e7@
 0 @Ip182.e2.i1@ INDI
-1 NAME Alexander Phillip /DAVIES/
-1 SEX M
-1 BIRT
-2 DATE 19 DEC 1996
-1 FAMC @Fp182.e3@
-1 NOTE @Np182.e4@
-0 @Ip182.e3.i1@ INDI
 1 NAME Phillip Geoffrey /DAVIES/
 1 SEX M
 1 BIRT
 2 DATE 30 APR 1962
 1 FAMC @Fp179.e5@
-1 FAMS @Fp182.e3@
-1 NOTE @Np182.e3@
-0 @Ip182.e3.i2@ INDI
+1 FAMS @Fp182.e2@
+1 NOTE @Np182.e2@
+0 @Ip182.e2.i2@ INDI
 1 NAME Jeong-Hee /HEO/
 1 SEX F
 1 BIRT
 2 DATE 13 SEP 1970
-1 FAMS @Fp182.e3@
+1 FAMS @Fp182.e2@
+1 NOTE @Np182.e2@
+0 @Ip182.e3.i1@ INDI
+1 NAME Alexander Phillip /DAVIES/
+1 SEX M
+1 BIRT
+2 DATE 19 DEC 1996
+1 FAMC @Fp182.e2@
 1 NOTE @Np182.e3@
-0 @Ip182.e5.i1@ INDI
+0 @Ip182.e4.i1@ INDI
 1 NAME Kathleen Edith Rosalie /DAVIES/
 1 SEX F
 1 BIRT
 2 DATE 3 FEB 1926
 1 FAMC @Fp177.e1@
-1 FAMS @Fp182.e5@
-1 NOTE @Np182.e5@
-0 @Ip182.e5.i2@ INDI
+1 FAMS @Fp182.e4@
+1 NOTE @Np182.e4@
+0 @Ip182.e4.i2@ INDI
 1 NAME Timothy /BOARD/
 1 SEX M
 1 BIRT
 2 DATE 26 NOV 1915
-1 FAMS @Fp182.e5@
-1 NOTE @Np182.e5@
-0 @Ip182.e6.i1@ INDI
+1 FAMS @Fp182.e4@
+1 NOTE @Np182.e4@
+0 @Ip182.e5.i1@ INDI
 1 NAME Julie Anne /BOARD/
 1 SEX F
 1 BIRT
 2 DATE 29 JAN 1948
-1 FAMC @Fp182.e5@
-1 FAMS @Fp182.e6@
-1 NOTE @Np182.e6@
-0 @Ip182.e6.i2@ INDI
+1 FAMC @Fp182.e4@
+1 FAMS @Fp182.e5@
+1 NOTE @Np182.e5@
+0 @Ip182.e5.i2@ INDI
 1 NAME Graeme Alexander /MACKAY/
 1 SEX M
 1 BIRT
 2 DATE 16 NOV 1942
-1 FAMS @Fp182.e6@
-1 NOTE @Np182.e6@
-0 @Ip182.e7.i1@ INDI
+1 FAMS @Fp182.e5@
+1 NOTE @Np182.e5@
+0 @Ip182.e6.i1@ INDI
 1 NAME Rory Thomas Hugh /MACKAY/
 1 SEX M
 1 BIRT
 2 DATE 26 NOV 1988
-1 FAMC @Fp182.e6@
-1 NOTE @Np182.e7@
-0 @Ip182.e8.i1@ INDI
+1 FAMC @Fp182.e5@
+1 NOTE @Np182.e6@
+0 @Ip182.e7.i1@ INDI
 1 NAME Jennifer Susan /BOARD/
 1 SEX F
 1 BIRT
 2 DATE 20 OCT 1949
-1 FAMC @Fp182.e5@
-1 FAMS @Fp182.e8@
-1 NOTE @Np182.e8@
-0 @Ip182.e8.i2@ INDI
+1 FAMC @Fp182.e4@
+1 FAMS @Fp182.e7@
+1 NOTE @Np182.e7@
+0 @Ip182.e7.i2@ INDI
 1 NAME Evan Duncan /INNES-JONES/
 1 SEX M
 1 BIRT
 2 DATE 28 APR 1950
-1 FAMS @Fp182.e8@
-1 NOTE @Np182.e8@
-0 @Ip182.e9.i1@ INDI
+1 FAMS @Fp182.e7@
+1 NOTE @Np182.e7@
+0 @Ip182.e8.i1@ INDI
 1 NAME Rebecca Kelly /INNES-JONES/
 1 SEX F
 1 BIRT
 2 DATE 4 SEP 1973
-1 FAMC @Fp182.e8@
-1 NOTE @Np182.e9@
+1 FAMC @Fp182.e7@
+1 NOTE @Np182.e8@
 0 @Ip183.e1.i1@ INDI
 1 NAME Scott Arden /INNES-JONES/
 1 SEX M
 1 BIRT
 2 DATE 17 APR 1976
-1 FAMC @Fp182.e8@
+1 FAMC @Fp182.e7@
 1 NOTE @Np183.e1@
 0 @Ip183.e2.i1@ INDI
 1 NAME Leofric Pearson /DAVIES/
@@ -33254,7 +33254,7 @@
 1 CHIL @Ip177.e2.i1@
 1 CHIL @Ip178.e1.i1@
 1 CHIL @Ip179.e5.i1@
-1 CHIL @Ip182.e5.i1@
+1 CHIL @Ip182.e4.i1@
 0 @Fp177.e2@ FAM
 1 HUSB @Ip177.e2.i2@
 1 WIFE @Ip177.e2.i1@
@@ -33308,7 +33308,7 @@
 1 CHIL @Ip180.e5.i1@
 1 CHIL @Ip181.e3.i1@
 1 CHIL @Ip181.e6.i1@
-1 CHIL @Ip182.e3.i1@
+1 CHIL @Ip182.e2.i1@
 0 @Fp180.e1@ FAM
 1 HUSB @Ip180.e1.i2@
 1 WIFE @Ip180.e1.i1@
@@ -33347,32 +33347,31 @@
 2 DATE 8 MAY 1984
 1 CHIL @Ip181.e8.i1@
 1 CHIL @Ip182.e1.i1@
-1 CHIL @Ip182.e2.i1@
-0 @Fp182.e3@ FAM
-1 HUSB @Ip182.e3.i1@
-1 WIFE @Ip182.e3.i2@
+0 @Fp182.e2@ FAM
+1 HUSB @Ip182.e2.i1@
+1 WIFE @Ip182.e2.i2@
 1 MARR
 2 DATE 30 OCT 1993
-1 CHIL @Ip182.e2.i1@
+1 CHIL @Ip182.e3.i1@
+0 @Fp182.e4@ FAM
+1 HUSB @Ip182.e4.i2@
+1 WIFE @Ip182.e4.i1@
+1 MARR
+2 DATE 15 FEB 1947
+1 CHIL @Ip182.e5.i1@
+1 CHIL @Ip182.e7.i1@
 0 @Fp182.e5@ FAM
 1 HUSB @Ip182.e5.i2@
 1 WIFE @Ip182.e5.i1@
 1 MARR
-2 DATE 15 FEB 1947
-1 CHIL @Ip182.e6.i1@
-1 CHIL @Ip182.e8.i1@
-0 @Fp182.e6@ FAM
-1 HUSB @Ip182.e6.i2@
-1 WIFE @Ip182.e6.i1@
-1 MARR
 2 DATE 29 AUG 1979
-1 CHIL @Ip182.e7.i1@
-0 @Fp182.e8@ FAM
-1 HUSB @Ip182.e8.i2@
-1 WIFE @Ip182.e8.i1@
+1 CHIL @Ip182.e6.i1@
+0 @Fp182.e7@ FAM
+1 HUSB @Ip182.e7.i2@
+1 WIFE @Ip182.e7.i1@
 1 MARR
 2 DATE 25 FEB 1972
-1 CHIL @Ip182.e9.i1@
+1 CHIL @Ip182.e8.i1@
 1 CHIL @Ip183.e1.i1@
 0 @Fp183.e5@ FAM
 1 HUSB @Ip183.e5.i2@
@@ -43565,8 +43564,6 @@
 1 CONT are his two sons.
 1 CONT Lynda is a nursery salesperson, involved in recreational horticulture.
 0 @Np182.e2@ NOTE
-1 CONT Alexander b. at Sydney, Australia.
-0 @Np182.e3@ NOTE
 1 CONT Phillip 6. at Christchurch and m. at Sydney, Australia. Jeong-Hee, d/o Dong-Kyu Heo
 1 CONT and Hee-Soon Chung, b. at Seoul, South Korea. Address: 1 Valley Park Crescent,
 1 CONT Turramurra, Sydney 2074, NSW, Australia.
@@ -43574,25 +43571,25 @@
 1 CONT Process) from the University of Canterbury. In 1988 he moved to Sydney. He is now
 1 CONT a self-employed financial advise.
 1 CONT Jeong-Hee gained a Diploma in Travel and Tourism and is a tour co-ordinator.
-0 @Np182.e4@ NOTE
+0 @Np182.e3@ NOTE
 1 CONT Alexander b. at Sydney, Australia.
-0 @Np182.e5@ NOTE
+0 @Np182.e4@ NOTE
 1 CONT Twin. Kathleen b. at Napier and m, at King's College Chapel, Auckland. Divorced. Kathleen now uses her
 1 CONT maiden name. Address: 91 Regency Place, 36 Weedons Road, Nerang 4211, Qld, Australia.
 1 CONT Kathleen was educated at Otago Girls' High School (1939-41). She is a singer and artist and enjoys
 1 CONT golf.
-0 @Np182.e6@ NOTE
+0 @Np182.e5@ NOTE
 1 CONT Julie b, at Milford, Auckland and m. by Her Britannic Majesty's Resident Commissioner at Port Vila,
 1 CONT New Hebrides. Graeme, slo Hugh Mackay and Esther Dunnet, b. at Wick, Caithness, Scotland.
 1 CONT Julie is a legal executive and trade mark agent and Graeme is a barrister.
-0 @Np182.e7@ NOTE
+0 @Np182.e6@ NOTE
 1 CONT Rory b. at Hong Kong.
-0 @Np182.e8@ NOTE
+0 @Np182.e7@ NOTE
 1 CONT Jennifer b. at Auckland and m. at St Thomas' Anglican Church, Auckland. Evan b. at Auckland.
 1 CONT Address: 17 Vaughan Crescent, Murrays Bay, Auckland.
 1 CONT Jennifer graduated from the Auckland Nursing School and is a senior nursing sister. Evan is a paint
 1 CONT chemist, ships chandler and company director.
-0 @Np182.e9@ NOTE
+0 @Np182.e8@ NOTE
 1 CONT Rebecca b. at Auckland. Address: 19 Vaughan Crescent, Murrays Bay, Auckland.
 0 @Np183.e1@ NOTE
 1 CONT Scott b. at Auckland.
