@@ -221,6 +221,27 @@ describe FaithAndFarming::Book::Elements::Entry do
 
     end
 
+    context "with an 'and'" do
+
+      let(:text) do
+        <<~TEXT
+          02> BRAMLEY, Peter Rhys Ealand m on 10.01.1987 to BAKER, Marie Noelene
+          b 07.11.1961
+          b 19.09.1964
+          Peter b. at Taihape and m, at Te Awamutu. Marie, d/o Arnold Baker and
+          Colleen Sheridan. Lairdvale, RD 4, Taumarunui.
+        TEXT
+      end
+
+      it "extracts both people" do
+        expect(entry.people.map(&:name)).to eq [
+          "Bramley, Peter Rhys Ealand",
+          "Baker, Marie Noelene"
+        ]
+      end
+
+    end
+
     context "with date placeholders" do
 
       let(:text) do

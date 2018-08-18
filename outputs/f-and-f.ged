@@ -4181,15 +4181,11 @@
 2 DATE 2 JUN 1981
 1 FAMC @Fp134.e5@
 0 @Ip134.e8.i1@ INDI
-1 NAME Roel /Van Merkesteyn/
+1 NAME Roeland Matthias Crispin /Van Merkesteyn/
 1 SEX M
 1 BIRT
 2 DATE 10 JUL 1989
 1 FAMC @Fp134.e5@
-1 FAMS @Fp134.e8@
-0 @Ip134.e8.i2@ INDI
-1 NAME  /Matthias Crispin/
-1 FAMS @Fp134.e8@
 0 @Ip134.e9.i1@ INDI
 1 NAME Cecil Margaret /Williams/
 1 SEX M
@@ -7550,7 +7546,7 @@
 1 FAMC @Fp196.e1@
 1 NOTE @Np196.e3@
 0 @Ip196.e4.i1@ INDI
-1 NAME Peter Rhys Eal /Bramley/
+1 NAME Peter Rhys Ealand /Bramley/
 1 SEX M
 1 BIRT
 2 DATE 7 NOV 1961
@@ -7558,7 +7554,7 @@
 1 FAMS @Fp196.e4@
 1 NOTE @Np196.e4@
 0 @Ip196.e4.i2@ INDI
-1 NAME Marie Noelene /M On 10.01.1987 To Baker/
+1 NAME Marie Noelene /Baker/
 1 SEX F
 1 BIRT
 2 DATE 19 SEP 1964
@@ -21969,7 +21965,7 @@
 1 FAMS @Fp489.e7@
 1 NOTE @Np489.e7@
 0 @Ip489.e8.i1@ INDI
-1 NAME Colin Falkl /Gray/
+1 NAME Colin Falkland /Gray/
 1 SEX M
 1 BIRT
 2 DATE 9 NOV 1914
@@ -21979,7 +21975,7 @@
 1 FAMS @Fp489.e8@
 1 NOTE @Np489.e8@
 0 @Ip489.e8.i2@ INDI
-1 NAME Betty Lois /M On 20.10.1945 To Dinnie/
+1 NAME Betty Lois /Dinnie/
 1 SEX F
 1 BIRT
 2 DATE 26 JAN 1923
@@ -27068,7 +27064,7 @@
 1 FAMC @Fp571.e2@
 1 NOTE @Np571.e3@
 0 @Ip571.e4.i1@ INDI
-1 NAME George Falkl /Gardiner/
+1 NAME George Falkland /Gardiner/
 1 SEX M
 1 BIRT
 2 DATE 20 MAY 1892
@@ -27078,7 +27074,7 @@
 1 FAMS @Fp571.e4@
 1 NOTE @Np571.e4@
 0 @Ip571.e4.i2@ INDI
-1 NAME Gladys /M On 04.03.1926 To Hicks/
+1 NAME Gladys /Hicks/
 1 SEX F
 1 BIRT
 2 DATE 29 OCT 1894
@@ -27305,7 +27301,7 @@
 1 FAMC @Fp573.e7@
 1 NOTE @Np573.e10@
 0 @Ip573.e11.i1@ INDI
-1 NAME Thomas Falkl /Gardiner/
+1 NAME Thomas Falkland /Gardiner/
 1 SEX M
 1 BIRT
 2 DATE 18 AUG 1961
@@ -27313,7 +27309,7 @@
 1 FAMS @Fp573.e11@
 1 NOTE @Np573.e11@
 0 @Ip573.e11.i2@ INDI
-1 NAME Penny Jo-Anne /M On 19.02.1993 To Cameron/
+1 NAME Penny Jo-Anne /Cameron/
 1 SEX F
 1 BIRT
 2 DATE 3 MAR 1963
@@ -32480,9 +32476,6 @@
 1 CHIL @Ip134.e6.i1@
 1 CHIL @Ip134.e7.i1@
 1 CHIL @Ip134.e8.i1@
-0 @Fp134.e8@ FAM
-1 HUSB @Ip134.e8.i1@
-1 WIFE @Ip134.e8.i2@
 0 @Fp134.e9@ FAM
 1 HUSB @Ip134.e9.i2@
 1 WIFE @Ip134.e9.i1@
@@ -33512,6 +33505,8 @@
 0 @Fp196.e4@ FAM
 1 HUSB @Ip196.e4.i1@
 1 WIFE @Ip196.e4.i2@
+1 MARR
+2 DATE 10 JAN 1987
 1 CHIL @Ip196.e5.i1@
 1 CHIL @Ip197.e1.i1@
 0 @Fp197.e2@ FAM
@@ -37747,6 +37742,8 @@
 0 @Fp489.e8@ FAM
 1 HUSB @Ip489.e8.i1@
 1 WIFE @Ip489.e8.i2@
+1 MARR
+2 DATE 20 OCT 1945
 1 CHIL @Ip489.e9.i1@
 1 CHIL @Ip490.e2.i1@
 1 CHIL @Ip490.e4.i1@
@@ -39255,6 +39252,8 @@
 0 @Fp571.e4@ FAM
 1 HUSB @Ip571.e4.i1@
 1 WIFE @Ip571.e4.i2@
+1 MARR
+2 DATE 4 MAR 1926
 1 CHIL @Ip571.e5.i1@
 1 CHIL @Ip573.e4.i1@
 0 @Fp571.e5@ FAM
@@ -39318,6 +39317,8 @@
 0 @Fp573.e11@ FAM
 1 HUSB @Ip573.e11.i1@
 1 WIFE @Ip573.e11.i2@
+1 MARR
+2 DATE 19 FEB 1993
 1 CHIL @Ip573.e12.i1@
 1 CHIL @Ip573.e13.i1@
 1 CHIL @Ip574.e1.i1@

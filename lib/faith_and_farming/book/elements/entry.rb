@@ -35,7 +35,7 @@ module FaithAndFarming
           def from(text)
             lines = text.lines
             return nil unless lines.shift =~ /^[016b][0-9]>[ ']+(.*)/
-            first, married, second = $1.split(/ ?(m on .* to|de facto|and) /i, 2)
+            first, married, second = $1.split(/( ?m on .* to| de facto| and) /i, 2)
             names = [first, second].compact
             new.tap do |e|
               if married =~ /m on (.*) to/i
