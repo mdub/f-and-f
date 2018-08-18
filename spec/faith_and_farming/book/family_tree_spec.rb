@@ -75,7 +75,6 @@ describe FaithAndFarming::Book, "family tree" do
 
     it "only appears once" do
       matches = tree.individuals.with(name: edward.name, date_of_birth: edward.date_of_birth)
-      pending
       expect(matches.size).to eq(1)
     end
 

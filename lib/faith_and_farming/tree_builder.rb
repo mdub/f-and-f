@@ -64,18 +64,29 @@ module FaithAndFarming
     end
 
     def individual_from(person, id:)
+      name, nickname = parse_name(person.name)
+      date_of_birth = Familial::Date.parse(person.date_of_birth) if person.date_of_birth
+      matches = db.individuals.with(name: name, date_of_birth: date_of_birth)
+      return matches.first if matches.any?
       db.individuals.create(id: id).tap do |i|
-        name = person.name.dup
-        if name.sub!(/ \((\w+)\)$/, '')
-          i.nickname = $1
-        end
-        last, rest = name.split(", ", 2)
-        i.name = "#{rest} /#{last}/"
-        assumed_gender = guess_gender(i.name.split(" ").first)
+        i.name = name
+        i.nickname = nickname
+        assumed_gender = guess_gender(name.split(" ").first)
         i.sex = assumed_gender if assumed_gender
         i.date_of_birth = person.date_of_birth if person.date_of_birth
         i.date_of_death = person.date_of_death if person.date_of_death
       end
+    end
+
+    def parse_name(person_name)
+      name = person_name.dup
+      nickname = nil
+      if name.sub!(/ \((\w+)\)$/, '')
+        nickname = $1
+      end
+      last, rest = name.split(", ", 2)
+      name = "#{rest} /#{last}/"
+      [name, nickname]
     end
 
     def guess_gender(name)

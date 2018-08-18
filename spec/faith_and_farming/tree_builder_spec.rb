@@ -1,6 +1,7 @@
 require "spec_helper"
 
 require "faith_and_farming/book/elements/entry"
+require "faith_and_farming/book/elements/start_of_page"
 require "faith_and_farming/tree_builder"
 
 describe FaithAndFarming::TreeBuilder do
@@ -232,6 +233,50 @@ describe FaithAndFarming::TreeBuilder do
     it "associates children correctly" do
       expect(db.families.to_a[0].children.map(&:name)).to eq(["Molly /MCTAVISH/", "George /MCTAVISH/"])
       expect(db.families.to_a[1].children.map(&:name)).to eq(["Jock /WANDSWORTH/"])
+    end
+
+  end
+
+  context "when an individual appears twice " do
+
+    before do
+      elements << make_entry(
+        level: 1,
+        people: [
+          { name: "MCTAVISH, Robert" },
+          { name: "FIFINGER, Audrey" }
+        ]
+      )
+      elements << make_entry(
+        level: 2,
+        people: [
+          { name: "WANDSWORTH, Willy", date_of_birth: "12.05.1978" },
+          { name: "IP, Sally", date_of_birth: "17.10.1978" }
+        ]
+      )
+      elements << make_entry(
+        level: 1,
+        people: [
+          { name: "WANDSWORTH, Willy", date_of_birth: "12.05.1978" },
+          { name: "IP, Sally", date_of_birth: "17.10.1978" }
+        ]
+      )
+      elements << make_entry(
+        level: 2,
+        people: [
+          { name: "WANDSWORTH, George" }
+        ]
+      )
+    end
+
+    it "de-dupes" do
+      expect(db.individuals.size).to eq(5)
+    end
+
+    it "associates children correctly" do
+      george = db.get(name: "George /WANDSWORTH/")
+      robert = db.get(name: "Robert /MCTAVISH/")
+      expect(george.father.father).to eq(robert)
     end
 
   end

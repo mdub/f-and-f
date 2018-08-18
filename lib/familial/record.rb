@@ -38,6 +38,17 @@ module Familial
       end
     end
 
+    # def inspect
+    #   interesting_variables = instance_variables - [:@dataset]
+    #   String.new.tap do |s|
+    #     s << "\#<#{self.class.name}:#{object_id}"
+    #     interesting_variables.each do |var|
+    #       s << " #{var}=#{instance_variable_get(var).inspect}"
+    #     end
+    #     s << ">"
+    #   end
+    # end
+
   end
 
 end

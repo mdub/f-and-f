@@ -29,6 +29,14 @@ module Familial
 
     attr_accessor :parents
 
+    def father
+      parents&.husband
+    end
+
+    def mother
+      parents&.wife
+    end
+
     def families
       @families ||= []
     end
