@@ -49,13 +49,9 @@ module FaithAndFarming
         current_family.add_child(individuals.first)
       end
       if individuals.size == 2
-        db.families.create(id: "F#{base_id}").tap do |f|
-          f.date_married = entry.date_married if entry.date_married
-          wife_and_husband = individuals.sort_by { |i| (i.sex || "g").to_s }
-          f.wife = wife_and_husband[0]
-          f.husband = wife_and_husband[1]
-          set_current_family(f, level: entry.level)
-        end
+        f = marriage_of(individuals, id: "F#{base_id}")
+        f.date_married = entry.date_married if entry.date_married
+        set_current_family(f, level: entry.level)
       end
       unless entry.note.nil? || entry.note.strip.empty?
         note = db.notes.create(id: "N#{base_id}", content: entry.note)
@@ -66,8 +62,8 @@ module FaithAndFarming
     def individual_from(person, id:)
       name, nickname = parse_name(person.name)
       date_of_birth = Familial::Date.parse(person.date_of_birth) if person.date_of_birth
-      matches = db.individuals.with(name: name, date_of_birth: date_of_birth)
-      return matches.first if matches.any?
+      existing = db.individuals.with(name: name, date_of_birth: date_of_birth).first
+      return existing if existing
       db.individuals.create(id: id).tap do |i|
         i.name = name
         i.nickname = nickname
@@ -76,6 +72,13 @@ module FaithAndFarming
         i.date_of_birth = person.date_of_birth if person.date_of_birth
         i.date_of_death = person.date_of_death if person.date_of_death
       end
+    end
+
+    def marriage_of(individuals, id:)
+      wife, husband = individuals.sort_by { |i| (i.sex || "g").to_s }
+      existing = wife.families.detect { |f| f.husband == husband }
+      return existing if existing
+      db.families.create(id: "F#{id}", wife: wife, husband: husband)
     end
 
     def parse_name(person_name)

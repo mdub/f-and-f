@@ -5,7 +5,7 @@ require "faith_and_farming/book"
 describe FaithAndFarming::Book, "family tree" do
 
   before(:all) do
-    @tree = FaithAndFarming::Book.family_tree(last_page: 99)
+    @tree = FaithAndFarming::Book.family_tree(last_page: 199)
   end
 
   attr_reader :tree
@@ -73,9 +73,13 @@ describe FaithAndFarming::Book, "family tree" do
     born "02.11.1818"
     died "11.10.1909"
 
-    it "only appears once" do
+    it "appears once" do
       matches = tree.individuals.with(name: edward.name, date_of_birth: edward.date_of_birth)
       expect(matches.size).to eq(1)
+    end
+
+    it "was married once" do
+      expect(edward.families.size).to eq(1)
     end
 
     it "was married to Jane Davis" do
@@ -83,15 +87,21 @@ describe FaithAndFarming::Book, "family tree" do
     end
 
     it "had 14 children" do
-      pending
       kids_names = edward.families.first.children.map { |i| i.name.split(" ").first }
-      expect(kids_names.size).to eq(14)
-      expect(kids_names).to include %w[
+      pending
+      expect(kids_names).to eq %w[
         Henry
         Samuel
+        Thomas
         Mary
+        Allen
+        Joseph
+        Alfred
+        George
+        Arthur
+        Ellen
         Norman
-        Gertrude
+        Emma
         Ada
       ]
     end
