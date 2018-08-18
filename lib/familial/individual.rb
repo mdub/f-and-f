@@ -41,6 +41,10 @@ module Familial
       @families ||= []
     end
 
+    def children
+      families.flat_map(&:children)
+    end
+
     attr_accessor :note
 
     def write_gedcom(out)
@@ -65,6 +69,10 @@ module Familial
 
     def name_matches?(other_name)
       name.casecmp(other_name) == 0
+    end
+
+    def inspect
+      "<Individual @name=#{name.inspect}>"
     end
 
   end

@@ -31,12 +31,15 @@ module Familial
     attr_reader :wife
 
     def add_child(individual)
-      individual.parents = self
-      @children << individual
+      unless individual.parents == self
+        individual.parents = self
+        @children << individual
+      end
+      self
     end
 
     def children
-      @children.enum_for
+      @children.dup
     end
 
     def write_gedcom(out)

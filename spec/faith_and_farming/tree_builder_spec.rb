@@ -237,7 +237,7 @@ describe FaithAndFarming::TreeBuilder do
 
   end
 
-  context "when an individual appears twice " do
+  context "when an individual appears twice" do
 
     before do
       elements << make_entry(
@@ -250,21 +250,21 @@ describe FaithAndFarming::TreeBuilder do
       elements << make_entry(
         level: 2,
         people: [
-          { name: "WANDSWORTH, Willy", date_of_birth: "12.05.1978" },
+          { name: "MCTAVISH, Willy", date_of_birth: "12.05.1978" },
           { name: "IP, Sally", date_of_birth: "17.10.1978" }
         ]
       )
       elements << make_entry(
         level: 1,
         people: [
-          { name: "WANDSWORTH, Willy", date_of_birth: "12.05.1978" },
+          { name: "MCTAVISH, Willy", date_of_birth: "12.05.1978" },
           { name: "IP, Sally", date_of_birth: "17.10.1978" }
         ]
       )
       elements << make_entry(
         level: 2,
         people: [
-          { name: "WANDSWORTH, George" }
+          { name: "MCTAVISH, George" }
         ]
       )
     end
@@ -274,9 +274,49 @@ describe FaithAndFarming::TreeBuilder do
     end
 
     it "associates children correctly" do
-      george = db.get(name: "George /WANDSWORTH/")
+      george = db.get(name: "George /MCTAVISH/")
       robert = db.get(name: "Robert /MCTAVISH/")
       expect(george.father.father).to eq(robert)
+    end
+
+  end
+
+  context "with multiple marriages" do
+
+    before do
+      elements << make_entry(
+        level: 1,
+        people: [
+          { name: "MCTAVISH, Robert" },
+          { name: "FIFINGER, Audrey" }
+        ]
+      )
+      elements << make_entry(
+        level: 2,
+        date_married: "03.05.1999",
+        people: [
+          { name: "MCTAVISH, Willy", date_of_birth: "12.05.1978" },
+          { name: "IP, Sally", date_of_birth: "17.10.1978" }
+        ]
+      )
+      elements << make_entry(
+        level: 2,
+        date_married: "03.05.2006",
+        people: [
+          { name: "MCTAVISH, Willy", date_of_birth: "12.05.1978" },
+          { name: "KUDOS, Blanche", date_of_birth: "21.08.1988" }
+        ]
+      )
+    end
+
+    it "de-dupes" do
+      expect(db.individuals.size).to eq(5)
+    end
+
+    it "avoids duplicate kids" do
+      robert = db.get(name: "Robert /MCTAVISH/")
+      willy = db.get(name: "Willy /MCTAVISH/")
+      expect(robert.children.to_a).to eq([willy])
     end
 
   end
