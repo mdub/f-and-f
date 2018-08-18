@@ -10,39 +10,37 @@ describe FaithAndFarming::Book, "family tree" do
 
   attr_reader :tree
 
-  describe "entry for Henry Williams" do
+  class << self
 
-    let(:henry) { tree.find("Henry /WILLIAMS/") }
-
-    it "exists" do
-      expect(henry).not_to be_nil
+    def born(expected_date)
+      it "was born on #{expected_date}" do
+        expect(subject.date_of_birth.to_date).to eq(Date.parse(expected_date))
+      end
     end
 
-    it "has the correct #date_of_birth" do
-      expect(henry.date_of_birth.to_s).to eq("11.02.1792")
-    end
-
-    it "has the correct #date_of_death" do
-      expect(henry.date_of_death.to_s).to eq("16.07.1867")
+    def died(expected_date)
+      it "and died on #{expected_date}" do
+        expect(subject.date_of_death.to_date).to eq(Date.parse(expected_date))
+      end
     end
 
   end
 
-  describe "entry for Marianne Coldham" do
+  describe "Henry Williams" do
 
-    let(:marianne) { tree.find("Marianne /COLDHAM/") }
+    subject(:henry) { tree.find!("Henry /WILLIAMS/") }
 
-    it "exists" do
-      expect(marianne).not_to be_nil
-    end
+    born "11.2.1792"
+    died "16.7.1867"
 
-    it "has the correct #birth" do
-      expect(marianne.date_of_birth.to_s).to eq("12.12.1793")
-    end
+  end
 
-    it "has the correct #date_of_death" do
-      expect(marianne.date_of_death.to_s).to eq("16.12.1879")
-    end
+  describe "Marianne Coldham" do
+
+    subject(:marianne) { tree.find!("Marianne /COLDHAM/") }
+
+    born "12.12.1793"
+    died "16.12.1879"
 
   end
 

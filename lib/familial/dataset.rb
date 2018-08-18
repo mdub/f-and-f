@@ -1,4 +1,5 @@
 require "familial/collection"
+require "familial/errors"
 require "familial/family"
 require "familial/individual"
 require "familial/note"
@@ -15,6 +16,12 @@ module Familial
     def find(name)
       individuals.detect do |i|
         i.name.casecmp(name) == 0
+      end
+    end
+
+    def find!(name)
+      find(name).tap do |result|
+        raise NotFound, "cannot find #{name}" if result.nil?
       end
     end
 

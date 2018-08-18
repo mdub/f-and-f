@@ -1,8 +1,7 @@
+require "familial/errors"
 require "forwardable"
 
 module Familial
-
-  NotFound = Class.new(StandardError)
 
   class Collection
 
