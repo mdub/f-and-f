@@ -73,8 +73,28 @@ describe FaithAndFarming::Book, "family tree" do
     born "02.11.1818"
     died "11.10.1909"
 
+    it "only appears once" do
+      matches = tree.individuals.with(name: edward.name, date_of_birth: edward.date_of_birth)
+      pending
+      expect(matches.size).to eq(1)
+    end
+
     it "was married to Jane Davis" do
       expect(edward.families.first.wife.name).to eq("Jane /DAVIS/")
+    end
+
+    it "had 14 children" do
+      pending
+      kids_names = edward.families.first.children.map { |i| i.name.split(" ").first }
+      expect(kids_names.size).to eq(14)
+      expect(kids_names).to include %w[
+        Henry
+        Samuel
+        Mary
+        Norman
+        Gertrude
+        Ada
+      ]
     end
 
   end
