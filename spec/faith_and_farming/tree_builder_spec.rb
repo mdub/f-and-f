@@ -7,12 +7,22 @@ describe FaithAndFarming::TreeBuilder do
 
   subject(:builder) { described_class.new }
 
+  def start_of_page(n)
+    FaithAndFarming::Book::Elements::StartOfPage.new(n)
+  end
+
   def make_entry(attributes)
     FaithAndFarming::Book::Elements::Entry.from_data(attributes)
   end
 
   def individual_entry(level: 1, note: nil, **rest)
     make_entry(level: level, note: note, people: [rest])
+  end
+
+  let(:elements) do
+    [
+      start_of_page(123)
+    ]
   end
 
   let(:db) do
@@ -22,7 +32,10 @@ describe FaithAndFarming::TreeBuilder do
   context "with an individual entry" do
 
     let(:entry) { individual_entry(name: "BLOGGS, Joe") }
-    let(:elements) { [entry] }
+
+    before do
+      elements << entry
+    end
 
     it "creates an Individual" do
       expect(db.individuals.size).to eq(1)
@@ -94,17 +107,15 @@ describe FaithAndFarming::TreeBuilder do
 
   context "with a couple entry" do
 
-    let(:elements) do
-      [
-        make_entry(
-          level: 1,
-          date_married: "**.03.1966",
-          people: [
-            { name: "MCTAVISH, Bob" },
-            { name: "FIFINGER, Audrey" }
-          ]
-        )
-      ]
+    before do
+      elements << make_entry(
+        level: 1,
+        date_married: "**.03.1966",
+        people: [
+          { name: "MCTAVISH, Bob" },
+          { name: "FIFINGER, Audrey" }
+        ]
+      )
     end
 
     it "creates two Individuals" do
@@ -131,29 +142,27 @@ describe FaithAndFarming::TreeBuilder do
 
   context "with a couple followed by children" do
 
-    let(:elements) do
-      [
-        make_entry(
-          level: 1,
-          date_married: "**.03.1966",
-          people: [
-            { name: "MCTAVISH, Bob" },
-            { name: "FIFINGER, Audrey" }
-          ]
-        ),
-        make_entry(
-          level: 2,
-          people: [
-            { name: "MCTAVISH, Roger" }
-          ]
-        ),
-        make_entry(
-          level: 2,
-          people: [
-            { name: "MCTAVISH, Cindy" }
-          ]
-        )
-      ]
+    before do
+      elements << make_entry(
+        level: 1,
+        date_married: "**.03.1966",
+        people: [
+          { name: "MCTAVISH, Bob" },
+          { name: "FIFINGER, Audrey" }
+        ]
+      )
+      elements << make_entry(
+        level: 2,
+        people: [
+          { name: "MCTAVISH, Roger" }
+        ]
+      )
+      elements << make_entry(
+        level: 2,
+        people: [
+          { name: "MCTAVISH, Cindy" }
+        ]
+      )
     end
 
     it "creates all Individuals" do
@@ -177,35 +186,33 @@ describe FaithAndFarming::TreeBuilder do
 
   context "with two generations" do
 
-    let(:elements) do
-      [
-        make_entry(
-          level: 1,
-          people: [
-            { name: "MCTAVISH, Bob" },
-            { name: "FIFINGER, Audrey" }
-          ]
-        ),
-        make_entry(
-          level: 2,
-          people: [
-            { name: "MCTAVISH, Molly" },
-            { name: "WANDSWORTH, Willy" }
-          ]
-        ),
-        make_entry(
-          level: 3,
-          people: [
-            { name: "WANDSWORTH, Jock" }
-          ]
-        ),
-        make_entry(
-          level: 2,
-          people: [
-            { name: "MCTAVISH, George" }
-          ]
-        )
-      ]
+    before do
+      elements << make_entry(
+        level: 1,
+        people: [
+          { name: "MCTAVISH, Bob" },
+          { name: "FIFINGER, Audrey" }
+        ]
+      )
+      elements << make_entry(
+        level: 2,
+        people: [
+          { name: "MCTAVISH, Molly" },
+          { name: "WANDSWORTH, Willy" }
+        ]
+      )
+      elements << make_entry(
+        level: 3,
+        people: [
+          { name: "WANDSWORTH, Jock" }
+        ]
+      )
+      elements << make_entry(
+        level: 2,
+        people: [
+          { name: "MCTAVISH, George" }
+        ]
+      )
     end
 
     it "creates all Individuals" do
