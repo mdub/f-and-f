@@ -61,9 +61,9 @@ Clamp do
           puts "\n--- page #{e.page_index} ---" if show_pages?
         when FaithAndFarming::Book::Elements::Entry
           next if max_level && e.level > max_level
-          indent = "  " * (e.level - 1)
-          names = e.people.map(&:name).join(" & ")
-          puts "#{e.level}#{indent}- #{names}"
+          indent = "| " * (e.level - 1)
+          names = e.people.map(&:name).join("  ⚭  ")
+          puts "#{indent}#{names}"
         end
       end
     end
