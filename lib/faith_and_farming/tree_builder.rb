@@ -78,7 +78,7 @@ module FaithAndFarming
       wife, husband = individuals.sort_by { |i| (i.sex || "g").to_s }
       existing = wife.families.detect { |f| f.husband == husband }
       return existing if existing
-      db.families.create(id: "F#{id}", wife: wife, husband: husband)
+      db.families.create(id: id, wife: wife, husband: husband)
     end
 
     def parse_name(person_name)
