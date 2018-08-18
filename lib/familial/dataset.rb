@@ -13,24 +13,16 @@ module Familial
       @individuals ||= collection_of(Individual)
     end
 
-    def find(name)
-      individuals.detect do |i|
-        i.name.casecmp(name) == 0
-      end
-    end
-
-    def find!(name)
-      find(name).tap do |result|
-        raise NotFound, "cannot find #{name}" if result.nil?
-      end
-    end
-
     def families
       @families ||= collection_of(Family)
     end
 
     def notes
       @notes ||= collection_of(Note)
+    end
+
+    def get(criteria)
+      individuals.get(criteria)
     end
 
     def write_gedcom(out)

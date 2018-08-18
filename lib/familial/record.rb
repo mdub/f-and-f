@@ -27,6 +27,17 @@ module Familial
       b.string
     end
 
+    def matches?(criteria)
+      criteria.all? do |property, value|
+        match_method = "#{property}_matches?"
+        if respond_to?(match_method)
+          send(match_method, value)
+        else
+          item.public_send(property) === value
+        end
+      end
+    end
+
   end
 
 end

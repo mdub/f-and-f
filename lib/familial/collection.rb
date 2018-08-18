@@ -24,10 +24,18 @@ module Familial
       new_item
     end
 
-    def resolve(id)
-      found_item = items.detect { |i| i.id == id }
+    def with(criteria)
+      select do |item|
+        criteria.all? do |property, value|
+          value === item.public_send(property)
+        end
+      end
+    end
+
+    def get(criteria)
+      found_item = with(criteria).first
       return found_item if found_item
-      raise NotFound, "cannot resolve #{id}"
+      raise NotFound, "cannot find #{criteria}"
     end
 
     private

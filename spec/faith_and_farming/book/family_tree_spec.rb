@@ -28,7 +28,7 @@ describe FaithAndFarming::Book, "family tree" do
 
   describe "Henry Williams" do
 
-    subject(:henry) { tree.find!("Henry /WILLIAMS/") }
+    subject(:henry) { tree.individuals.get(name: "Henry /WILLIAMS/") }
 
     born "11.2.1792"
     died "16.7.1867"
@@ -54,7 +54,7 @@ describe FaithAndFarming::Book, "family tree" do
 
   describe "Marianne Coldham" do
 
-    subject(:marianne) { tree.find!("Marianne /COLDHAM/") }
+    subject(:marianne) { tree.individuals.get(name: "Marianne /COLDHAM/") }
 
     born "12.12.1793"
     died "16.12.1879"

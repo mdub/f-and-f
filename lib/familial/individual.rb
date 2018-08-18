@@ -55,6 +55,10 @@ module Familial
       out.puts "1 NOTE @#{note.id}@" unless note.nil?
     end
 
+    def name_matches?(other_name)
+      name.casecmp(other_name) == 0
+    end
+
   end
 
 end

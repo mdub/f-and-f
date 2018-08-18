@@ -140,8 +140,8 @@ describe FaithAndFarming::TreeBuilder do
     end
 
     it "associates husband and wife" do
-      expect(family.husband).to eq(db.find("Bob /MCTAVISH/"))
-      expect(family.wife).to eq(db.find("Audrey /FIFINGER/"))
+      expect(family.husband).to eq(db.get(name: "Bob /MCTAVISH/"))
+      expect(family.wife).to eq(db.get(name: "Audrey /FIFINGER/"))
     end
 
   end
