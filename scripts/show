@@ -51,12 +51,16 @@ Clamp do
 
   subcommand ["names", "n"], "display entry names" do
 
+    option ["-p", "--show-pages"], :flag, "show pages"
+    option ["-l", "--max-level"], "N", "maximum level", &method(:Integer)
+
     def execute
       elements.each do |e|
         case e
         when FaithAndFarming::Book::Elements::StartOfPage
-          puts "\n--- page #{e.page_index} ---"
+          puts "\n--- page #{e.page_index} ---" if show_pages?
         when FaithAndFarming::Book::Elements::Entry
+          next if max_level && e.level > max_level
           indent = "  " * (e.level - 1)
           names = e.people.map(&:name).join(" & ")
           puts "#{e.level}#{indent}- #{names}"
