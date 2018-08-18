@@ -41,7 +41,7 @@ describe FaithAndFarming::Book::Elements::Entry do
       let(:person) { entry.people.first }
 
       it "extracts name" do
-        expect(person.name).to eq("WILLIAMS, Anna Lydia")
+        expect(person.name).to eq("Williams, Anna Lydia")
       end
 
       it "extracts date of birth" do
@@ -95,20 +95,20 @@ describe FaithAndFarming::Book::Elements::Entry do
 
       it "extracts both people" do
         expect(entry.people.map(&:name)).to eq [
-          "WILLIAMS, William Temple",
-          "PUCKEY, Annie Matilda Sophia Marilla"
+          "Williams, William Temple",
+          "Puckey, Annie Matilda Sophia Marilla"
         ]
       end
 
       it "extracts dates of birth and death" do
         expect(entry.people).to include(
           an_object_having_attributes(
-            name: "WILLIAMS, William Temple",
+            name: "Williams, William Temple",
             date_of_birth: "16.03.1856",
             date_of_death: "01.04.1928"
           ),
           an_object_having_attributes(
-            name: "PUCKEY, Annie Matilda Sophia Marilla",
+            name: "Puckey, Annie Matilda Sophia Marilla",
             date_of_birth: "26.06.1858",
             date_of_death: "22.08.1938"
           )
@@ -131,8 +131,8 @@ describe FaithAndFarming::Book::Elements::Entry do
 
         it "extracts both people" do
           expect(entry.people.map(&:name)).to eq [
-            "FRASER, Carol",
-            "NELSON, Paul Sunderland"
+            "Fraser, Carol",
+            "Nelson, Paul Sunderland"
           ]
         end
 
@@ -152,8 +152,8 @@ describe FaithAndFarming::Book::Elements::Entry do
 
       it "extracts both people" do
         expect(entry.people.map(&:name)).to eq [
-          "DODGSHUN, Paul Sydney",
-          "HUNT, Bronwyn Margaret"
+          "Dodgshun, Paul Sydney",
+          "Hunt, Bronwyn Margaret"
         ]
       end
 
@@ -173,8 +173,8 @@ describe FaithAndFarming::Book::Elements::Entry do
 
         it "extracts both names" do
           expect(entry.people.map(&:name)).to eq [
-            "DODGSHUN, Paul Sydney",
-            "HUNT, Bronwyn Margaret"
+            "Dodgshun, Paul Sydney",
+            "Hunt, Bronwyn Margaret"
           ]
         end
 
@@ -195,8 +195,8 @@ describe FaithAndFarming::Book::Elements::Entry do
 
       it "extracts both people" do
         expect(entry.people.map(&:name)).to eq [
-          "THOMSON, Anne Mary (Min)",
-          "LEE, Mike"
+          "Thomson, Anne Mary (Min)",
+          "Lee, Mike"
         ]
       end
 
@@ -214,8 +214,8 @@ describe FaithAndFarming::Book::Elements::Entry do
 
       it "extracts both people" do
         expect(entry.people.map(&:name)).to eq [
-          "REED, Celia Elizabeth",
-          "PAXMAN, Arthur Keith"
+          "Reed, Celia Elizabeth",
+          "Paxman, Arthur Keith"
         ]
       end
 
@@ -272,7 +272,7 @@ describe FaithAndFarming::Book::Elements::Entry do
 
       it "is still recognised" do
         expect(entry).to be_kind_of(FaithAndFarming::Book::Elements::Entry)
-        expect(entry.people.first.name).to eq("GRAY, Anthony Charles")
+        expect(entry.people.first.name).to eq("Gray, Anthony Charles")
       end
 
     end
@@ -289,7 +289,7 @@ describe FaithAndFarming::Book::Elements::Entry do
 
       it "is still recognised" do
         expect(entry).to be_kind_of(FaithAndFarming::Book::Elements::Entry)
-        expect(entry.people.first.name).to eq("WATSON, Edith Ruth")
+        expect(entry.people.first.name).to eq("Watson, Edith Ruth")
       end
 
     end
@@ -306,7 +306,7 @@ describe FaithAndFarming::Book::Elements::Entry do
 
       it "is still recognised" do
         expect(entry).to be_kind_of(FaithAndFarming::Book::Elements::Entry)
-        expect(entry.people.first.name).to eq("NEWTON, Thomas Alexander")
+        expect(entry.people.first.name).to eq("Newton, Thomas Alexander")
       end
 
     end
@@ -325,7 +325,7 @@ describe FaithAndFarming::Book::Elements::Entry do
 
       it "is still recognised" do
         expect(entry).to be_kind_of(FaithAndFarming::Book::Elements::Entry)
-        expect(entry.people.first.name).to eq("GRAY, Olive Sheila")
+        expect(entry.people.first.name).to eq("Gray, Olive Sheila")
       end
 
     end

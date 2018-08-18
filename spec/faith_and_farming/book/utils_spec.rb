@@ -39,4 +39,24 @@ describe FaithAndFarming::Book::Utils do
 
   end
 
+  describe "#normalise_name" do
+
+    def expect_normalise_name(input, expected_output)
+      output = described_class.normalise_name(input)
+      expect(output).to eq(expected_output)
+    end
+
+    it "capitalizes surnames" do
+      expect_normalise_name("AVERILL, Sarah Lucy", "Averill, Sarah Lucy")
+    end
+
+    it "handles complex surnames" do
+      expect_normalise_name("FULSOME-JONES, Sarah Marie", "Fulsome-Jones, Sarah Marie")
+      expect_normalise_name("VAN DER ZIJPP, Jacob", "van der Zijpp, Jacob")
+      expect_normalise_name("MCKENNA, Jeanne", "McKenna, Jeanne")
+      expect_normalise_name("O'CONNOR, Elizabeth Jane", "O'Connor, Elizabeth Jane")
+    end
+
+  end
+
 end

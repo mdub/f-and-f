@@ -39,21 +39,17 @@ module FaithAndFarming
             names = [first, second].compact
             new.tap do |e|
               if married =~ /m on (.*) to/i
-                e.date_married = normalise_date($1)
+                e.date_married = Utils.normalise_date($1)
               end
               names.each_with_index do |name, i|
-                e.people[i].name = name.sub(/^\(\d\) */,"")
+                e.people[i].name = Utils.normalise_name(name.sub(/^\(\d\) */,""))
                 if lines.shift =~ /^b ([\d*. ]+)(?: d ([\d*. ]+))?$/
-                  e.people[i].date_of_birth = normalise_date($1)
-                  e.people[i].date_of_death = normalise_date($2)
+                  e.people[i].date_of_birth = Utils.normalise_date($1)
+                  e.people[i].date_of_death = Utils.normalise_date($2)
                 end
               end
               e.note = lines.join unless lines.empty?
             end
-          end
-
-          def normalise_date(date_string)
-            Utils.normalise_date(date_string)
           end
 
         end

@@ -18,6 +18,13 @@ module FaithAndFarming
           .gsub(". ", ".")
       end
 
+      def normalise_name(name)
+        name
+          .gsub(/\w+/, &:capitalize)
+          .sub("Van Der", "van der")
+          .sub(/Mc([a-z])/) { "Mc" + $1.upcase }
+      end
+
     end
 
   end

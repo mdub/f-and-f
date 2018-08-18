@@ -91,7 +91,7 @@ describe FaithAndFarming::Book::Page do
             level: 6,
             people: a_collection_including(
               having_attributes(
-                name: "JACKMAN, Nicola Jane Heathcote"
+                name: "Jackman, Nicola Jane Heathcote"
               )
             )
           ),
@@ -99,7 +99,7 @@ describe FaithAndFarming::Book::Page do
             level: 6,
             people: a_collection_including(
               having_attributes(
-                name: "JACKMAN, Rachael Anne Heathcote"
+                name: "Jackman, Rachael Anne Heathcote"
               )
             )
           ),
@@ -107,7 +107,7 @@ describe FaithAndFarming::Book::Page do
             level: 5,
             people: a_collection_including(
               having_attributes(
-                name: "DODGSHUN, Paul Sydney"
+                name: "Dodgshun, Paul Sydney"
               )
             )
           ),
@@ -115,7 +115,7 @@ describe FaithAndFarming::Book::Page do
             level: 4,
             people: a_collection_including(
               having_attributes(
-                name: "DODGSHUN, Truby Edward"
+                name: "Dodgshun, Truby Edward"
               )
             )
           ),
@@ -123,7 +123,7 @@ describe FaithAndFarming::Book::Page do
             level: 4,
             people: a_collection_including(
               having_attributes(
-                name: "DODGSHUN, Kenneth Christopher"
+                name: "Dodgshun, Kenneth Christopher"
               )
             )
           )
@@ -148,8 +148,8 @@ describe FaithAndFarming::Book::Page do
             an_instance_of(FaithAndFarming::Book::Elements::Entry) & having_attributes(
               level: 2,
               people: a_collection_including(
-                having_attributes(name: "WILLIAMS, William Temple"),
-                having_attributes(name: "PUCKEY, Annie Matilda Sophia Marilla")
+                having_attributes(name: "Williams, William Temple"),
+                having_attributes(name: "Puckey, Annie Matilda Sophia Marilla")
               )
             )
           )

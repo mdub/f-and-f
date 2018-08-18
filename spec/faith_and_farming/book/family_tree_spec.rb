@@ -28,7 +28,7 @@ describe FaithAndFarming::Book, "family tree" do
 
   describe "Henry Williams" do
 
-    subject(:henry) { tree.individuals.get(name: "Henry /WILLIAMS/") }
+    subject(:henry) { tree.individuals.get(name: "Henry /Williams/") }
 
     born "11.2.1792"
     died "16.7.1867"
@@ -54,21 +54,21 @@ describe FaithAndFarming::Book, "family tree" do
 
   describe "Marianne Coldham" do
 
-    subject(:marianne) { tree.individuals.get(name: "Marianne /COLDHAM/") }
+    subject(:marianne) { tree.individuals.get(name: "Marianne /Coldham/") }
 
     born "12.12.1793"
     died "16.12.1879"
 
     it "was married to Henry" do
       husband = marianne.families.first.husband
-      expect(husband.name).to eq("Henry /WILLIAMS/")
+      expect(husband.name).to eq("Henry /Williams/")
     end
 
   end
 
   describe "Edward Marsh Williams" do
 
-    subject(:edward) { tree.individuals.get(name: "Edward Marsh /WILLIAMS/") }
+    subject(:edward) { tree.individuals.get(name: "Edward Marsh /Williams/") }
 
     born "02.11.1818"
     died "11.10.1909"
@@ -83,7 +83,7 @@ describe FaithAndFarming::Book, "family tree" do
     end
 
     it "was married to Jane Davis" do
-      expect(edward.families.first.wife.name).to eq("Jane /DAVIS/")
+      expect(edward.families.first.wife.name).to eq("Jane /Davis/")
     end
 
     it "had 14 children" do
