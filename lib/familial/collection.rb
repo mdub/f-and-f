@@ -17,8 +17,8 @@ module Familial
 
     include Enumerable
 
-    def create(attributes = {})
-      id = "#{type_char}#{items.size + 1}"
+    def create(id: nil, **attributes)
+      id ||= "#{type_char}#{items.size + 1}"
       new_item = item_class.new(dataset: dataset, id: id)
       items << new_item
       new_item.update(attributes)

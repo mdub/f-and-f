@@ -19,9 +19,11 @@ describe FaithAndFarming::TreeBuilder do
     make_entry(level: level, note: note, people: [rest])
   end
 
+  let(:page_index) { 123 }
+
   let(:elements) do
     [
-      start_of_page(123)
+      start_of_page(page_index)
     ]
   end
 
@@ -43,6 +45,10 @@ describe FaithAndFarming::TreeBuilder do
 
     it "sets name" do
       expect(db.individuals.first.name).to eq("Joe /BLOGGS/")
+    end
+
+    it "generates an id" do
+      expect(db.individuals.first.id).to eq("Ip#{page_index}.e1.i1")
     end
 
     it "guesses sex" do

@@ -8,6 +8,8 @@ module FaithAndFarming
     def initialize
       @db = Familial::Dataset.new
       @family_stack = []
+      @page_index = "-"
+      @entry_index = 0
     end
 
     attr_reader :db
@@ -15,6 +17,9 @@ module FaithAndFarming
     def process(elements)
       elements.each do |e|
         case e
+        when FaithAndFarming::Book::Elements::StartOfPage
+          self.page_index = e.page_index
+          self.entry_index = 0
         when FaithAndFarming::Book::Elements::Entry
           add_entry(e)
         end
@@ -26,16 +31,25 @@ module FaithAndFarming
       @gender_detector ||= GenderDetector.new
     end
 
+    protected
+
+    attr_accessor :page_index
+    attr_accessor :entry_index
+
     private
 
     def add_entry(entry)
       pop_to_level(entry.level)
-      individuals = entry.people.map(&method(:individual_from))
+      self.entry_index += 1
+      base_id = "p#{page_index}.e#{entry_index}"
+      individuals = entry.people.each_with_index.map do |person, i|
+        individual_from(person, id: "I#{base_id}.i#{i+1}")
+      end
       unless family_stack.empty?
         current_family.add_child(individuals.first)
       end
       if individuals.size == 2
-        db.families.create.tap do |f|
+        db.families.create(id: "F#{base_id}").tap do |f|
           f.date_married = entry.date_married if entry.date_married
           wife_and_husband = individuals.sort_by { |i| (i.sex || "g").to_s }
           f.wife = wife_and_husband[0]
@@ -44,13 +58,13 @@ module FaithAndFarming
         end
       end
       unless entry.note.nil? || entry.note.strip.empty?
-        note = db.notes.create(content: entry.note)
+        note = db.notes.create(id: "N#{base_id}", content: entry.note)
         individuals.each { |i| i.note = note }
       end
     end
 
-    def individual_from(person)
-      db.individuals.create.tap do |i|
+    def individual_from(person, id:)
+      db.individuals.create(id: id).tap do |i|
         name = person.name.dup
         if name.sub!(/ \((\w+)\)$/, '')
           i.nickname = $1
