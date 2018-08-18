@@ -33,6 +33,23 @@ describe FaithAndFarming::Book, "family tree" do
     born "11.2.1792"
     died "16.7.1867"
 
+    it "had 11 children" do
+      kids_names = henry.families.first.children.map { |i| i.name.split(" ").first }
+      expect(kids_names).to eq %w[
+        Edward
+        Marianne
+        Samuel
+        Henry
+        Thomas
+        John
+        Sarah
+        Catherine
+        Caroline
+        Lydia
+        Joseph
+      ]
+    end
+
   end
 
   describe "Marianne Coldham" do
@@ -41,6 +58,11 @@ describe FaithAndFarming::Book, "family tree" do
 
     born "12.12.1793"
     died "16.12.1879"
+
+    it "was married to Henry" do
+      husband = marianne.families.first.husband
+      expect(husband.name).to eq("Henry /WILLIAMS/")
+    end
 
   end
 
