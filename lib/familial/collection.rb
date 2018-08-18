@@ -33,10 +33,6 @@ module Familial
 
     private
 
-    def type
-      item_class.name.sub(/.*::/, "").to_sym
-    end
-
     def type_char
       item_class.name.sub(/.*::/, "")[0]
     end
