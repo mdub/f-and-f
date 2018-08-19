@@ -50,6 +50,7 @@ GEM
     multi_json (1.13.1)
     multipart-post (2.0.0)
     os (0.9.6)
+    paint (2.0.1)
     public_suffix (3.0.2)
     rake (12.3.1)
     rly (0.2.3)
@@ -81,6 +82,7 @@ DEPENDENCIES
   config_mapper
   gender_detector
   google-cloud-vision
+  paint
   rake
   rspec
 

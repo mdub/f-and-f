@@ -4,6 +4,7 @@ $: << File.expand_path("../../lib", __FILE__)
 
 require "clamp"
 require "faith_and_farming/book"
+require "paint"
 require "yaml"
 
 Clamp do
@@ -54,6 +55,9 @@ Clamp do
     option ["-p", "--show-pages"], :flag, "show pages"
     option ["-l", "--max-level"], "N", "maximum level", &method(:Integer)
 
+    INDENT = Paint["| ", :faint]
+    MARRIED = Paint[" = ", :cyan]
+
     def execute
       elements.each do |e|
         case e
@@ -61,11 +65,16 @@ Clamp do
           puts "\n--- page #{e.page_index} ---" if show_pages?
         when FaithAndFarming::Book::Elements::Entry
           next if max_level && e.level > max_level
-          indent = "| " * (e.level - 1)
-          names = e.people.map(&:name).join("  ⚭  ")
-          puts "#{indent}#{names}"
+          indent = INDENT * (e.level - 1)
+          puts "#{indent}#{format(e)}"
         end
       end
+    end
+
+    private
+
+    def format(entry)
+      entry.people.map(&:name).join(MARRIED)
     end
 
   end
