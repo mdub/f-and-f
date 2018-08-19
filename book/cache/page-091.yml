@@ -95,30 +95,23 @@ blocks:
       right: 1008
       top: 1646
       bottom: 1701
-  - text: 'b 25.01.1973
-
-'
+  - text: |
+      b 25.01.1973
+      Rupert is a student at Massey University.
     bounds:
       left: 679
       right: 894
       top: 1706
       bottom: 1748
+- paragraphs:
   - text: |
-      Rupert is a student at Massey University.
       02> BUNNY, Felicity
+      b 01.02.1977
     bounds:
       left: 581
       right: 1319
       top: 1755
       bottom: 1901
-  - text: 'b 01.02.1977
-
-'
-    bounds:
-      left: 681
-      right: 890
-      top: 1909
-      bottom: 1952
 - paragraphs:
   - text: '03> BUNNY, Simon
 

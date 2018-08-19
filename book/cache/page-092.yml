@@ -65,7 +65,7 @@ blocks:
       top: 942
       bottom: 1434
 - paragraphs:
-  - text: '01> WILLIAMS, Andrew Carleton m on 06.05.1972 to VEITCH, Katherine Anna
+  - text: '01> WILLIAMS, Andrew Carleton (Dan) m on 06.05.1972 to VEITCH, Katherine Anna
 
 '
     bounds:
@@ -74,7 +74,6 @@ blocks:
       top: 1478
       bottom: 1540
   - text: |
-      (Dan)
       b 27.03.1943
     bounds:
       left: 599

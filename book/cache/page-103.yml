@@ -89,7 +89,7 @@ blocks:
       top: 1953
       bottom: 2298
 - paragraphs:
-  - text: '03> REED, Sidney Mary Jane m on 11.01.1967 to (1)REEVE, Anthony Martin
+  - text: '03> REED, Sidney Mary Jane m on 11.01.1967 to (1)REEVE, Anthony Martin Felton
 
 '
     bounds:
@@ -98,7 +98,6 @@ blocks:
       top: 2337
       bottom: 2404
   - text: |
-      Felton
       b 21.11.1944
     bounds:
       left: 605

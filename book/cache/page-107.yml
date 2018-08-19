@@ -77,7 +77,7 @@ blocks:
       top: 1154
       bottom: 1408
 - paragraphs:
-  - text: '01> WILLIAMS, Anthony John m on 17.08.1946 to WILLIAMS, Margaret Octavia
+  - text: '01> WILLIAMS, Anthony John Oswald m on 17.08.1946 to WILLIAMS, Margaret Octavia
 
 '
     bounds:
@@ -86,7 +86,6 @@ blocks:
       top: 1441
       bottom: 1512
   - text: |
-      Oswald
       b 31.03.1918
     bounds:
       left: 527

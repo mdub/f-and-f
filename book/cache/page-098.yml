@@ -106,17 +106,17 @@ blocks:
       bottom: 2552
   - text: |
       b 20.11.1992
-      d2> ROBINSON, Joy Virginia
     bounds:
       left: 588
       right: 1240
       top: 2548
       bottom: 2704
-  - text: 'b 01.09.1997
-
-'
+- paragraphs:
+  - text: |
+      02> ROBINSON, Joy Virginia
+      b 01.09.1997
     bounds:
-      left: 690
+      left: 583
       right: 905
       top: 2703
       bottom: 2747

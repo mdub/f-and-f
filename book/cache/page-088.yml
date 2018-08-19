@@ -39,9 +39,10 @@ blocks:
       top: 597
       bottom: 738
 - paragraphs:
-  - text: "> OVERBYE, Andrew Michael\n"
+  - text: |
+      02> OVERBYE, Andrew Michael
     bounds:
-      left: 629
+      left: 575
       right: 1249
       top: 795
       bottom: 839
@@ -54,7 +55,7 @@ blocks:
       top: 849
       bottom: 944
 - paragraphs:
-  - text: '02> OVERBYE, Alison Frances m on 28.01.1989 to GARRETT, William Edward
+  - text: '02> OVERBYE, Alison Frances m on 28.01.1989 to GARRETT, William Edward John
 
 '
     bounds:
@@ -63,7 +64,6 @@ blocks:
       top: 1044
       bottom: 1091
   - text: |
-      John
       b 09.09.1964
     bounds:
       left: 599
