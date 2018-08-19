@@ -48,11 +48,11 @@ blocks:
       bottom: 798
 - paragraphs:
   - text: |
-      JEFFERD, Matthew John
+      01> JEFFERD, Matthew John
       b 02.09.1989
       Matthew b. at Gisborne.
     bounds:
-      left: 679
+      left: 579
       right: 1210
       top: 839
       bottom: 991

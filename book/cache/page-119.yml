@@ -28,7 +28,7 @@ blocks:
       top: 440
       bottom: 545
 - paragraphs:
-  - text: '03> GRIMMOND, Julian Thomas and O''HAGAN, Frith Liza
+  - text: '03> GRIMMOND, Julian Thomas Betham and O''HAGAN, Frith Liza
 
 '
     bounds:
@@ -37,7 +37,6 @@ blocks:
       top: 583
       bottom: 651
   - text: |
-      Betham
       b 26.11.1967
     bounds:
       left: 673
@@ -57,17 +56,18 @@ blocks:
       Frith is a registered nurse and works in oncology research at Dunedin Hospital. She is also an
       experienced chef who has had both restaurants and catering businesses. She and Julian are both
       active in the outdoors, enjoying surfing, climbing, skiing and diving.
-      01> GRIMMOND, Annabella Josephine O'Hagan
     bounds:
       left: 648
       right: 2219
       top: 702
       bottom: 1401
+- paragraphs:
   - text: |
+      01> GRIMMOND, Annabella Josephine O'Hagan
       b 30.09.1997
       Annabella b. at Dunedin.
     bounds:
-      left: 749
+      left: 650
       right: 1138
       top: 1399
       bottom: 1496

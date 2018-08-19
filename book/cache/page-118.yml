@@ -80,7 +80,7 @@ blocks:
       top: 1198
       bottom: 1494
 - paragraphs:
-  - text: '01> GRIMMOND, Christine Susan and SOUCH, Catherine Jane
+  - text: '01> GRIMMOND, Christine Susan Betham and SOUCH, Catherine Jane
 
 '
     bounds:
@@ -89,7 +89,6 @@ blocks:
       top: 1530
       bottom: 1595
   - text: |
-      Betham
       b 16.02.1959
     bounds:
       left: 678
@@ -117,15 +116,13 @@ blocks:
       bottom: 2290
 - paragraphs:
   - text: |
-      02> GRIMMOND, David Michael m on 29.12.1992 to DELAHUNTY, Adrienne
-      Betham
+      02> GRIMMOND, David Michael Betham m on 29.12.1992 to DELAHUNTY, Adrienne Jane
     bounds:
       left: 584
       right: 2135
       top: 2337
       bottom: 2440
   - text: |
-      Jane
       b 27.08.1961
     bounds:
       left: 681
