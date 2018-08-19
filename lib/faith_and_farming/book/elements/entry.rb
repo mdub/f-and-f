@@ -34,6 +34,14 @@ module FaithAndFarming
           people.map(&:name).join(" = ")
         end
 
+        def errors
+          [].tap do |errors|
+            if note =~ /^b [0-9*]/
+              errors << "unparsed birth-date"
+            end
+          end
+        end
+
         class << self
 
           def from(text)

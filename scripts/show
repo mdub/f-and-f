@@ -73,6 +73,9 @@ Clamp do
           if @last_entry && e.level > @last_entry.level + 1
             show_error("too deep", indent: indent)
           end
+          e.errors.each do |error|
+            show_error(error, indent: indent)
+          end
           @last_entry = e
         end
       end
