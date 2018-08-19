@@ -30,6 +30,10 @@ module FaithAndFarming
           }
         end
 
+        def heading
+          people.map(&:name).join(" = ")
+        end
+
         class << self
 
           def from(text)

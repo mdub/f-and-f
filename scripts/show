@@ -66,15 +66,42 @@ Clamp do
         when FaithAndFarming::Book::Elements::Entry
           next if max_level && e.level > max_level
           indent = INDENT * (e.level - 1)
-          puts "#{indent}#{format(e)}"
+          puts "#{indent}#{entry_heading(e)}"
         end
       end
     end
 
     private
 
-    def format(entry)
+    def entry_heading(entry)
       entry.people.map(&:name).join(MARRIED)
+    end
+
+  end
+
+  subcommand ["errors"], "check for errors" do
+
+    def execute
+      elements.each do |e|
+        case e
+        when FaithAndFarming::Book::Elements::StartOfPage
+          @page_index = e.page_index
+        when FaithAndFarming::Book::Elements::Entry
+          if @last_entry && e.level > @last_entry.level + 1
+            entry_error(
+              page_index: @page_index,
+              entry: e,
+              message: "more than 1 level deeper than: #{@last_entry.heading}"
+            )
+          end
+          @last_entry = e
+        end
+      end
+    end
+
+    def entry_error(page_index:, entry:, message:)
+      puts "p #{page_index} - #{entry.heading}"
+      puts "  ERROR: #{message}"
     end
 
   end
