@@ -64,15 +64,14 @@ blocks:
       bottom: 1703
 - paragraphs:
   - text: |
-      01> WILLIAMS, Wilfrid Maurice m on 22.06.1938 to BARNES, Kathleen Penelope
-      Chalk
+      01> WILLIAMS, Wilfrid Maurice Chalk m on 22.06.1938 to BARNES, Kathleen Penelope (Penny)
+
     bounds:
       left: 432
       right: 2186
       top: 1744
       bottom: 1853
   - text: |
-      (Penny)
       b 31.08.1912 d 16.07.1943
     bounds:
       left: 533

@@ -106,7 +106,7 @@ blocks:
       top: 1796
       bottom: 1888
 - paragraphs:
-  - text: '02> MACKAY, Hamish Buchanan m on 19.03.1993 to (3)CHANDULAL, Anna
+  - text: '02> MACKAY, Hamish Buchanan m on 19.03.1993 to (3)CHANDULAL, Anna Jacqueline
 
 '
     bounds:
@@ -115,7 +115,6 @@ blocks:
       top: 1987
       bottom: 2033
   - text: |
-      Jacqueline
       b 11.08.1955
     bounds:
       left: 599
@@ -143,7 +142,7 @@ blocks:
       top: 2091
       bottom: 2787
 - paragraphs:
-  - text: '01> CHANDULAL - MACKAY, Joshua Buchanan
+  - text: '01> CHANDULAL-MACKAY, Joshua Buchanan
 
 '
     bounds:
@@ -160,7 +159,7 @@ blocks:
       top: 2892
       bottom: 2935
 - paragraphs:
-  - text: '02> CHANDULAL - MACKAY, Amelia Alice
+  - text: '02> CHANDULAL-MACKAY, Amelia Alice
 
 '
     bounds:

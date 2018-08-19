@@ -21,21 +21,22 @@ blocks:
       bottom: 454
   - text: |
       JSUNDERLAND, Joan Mary Ruth and CHATFIELD, Max Lawrence
-      01> SUNDERLAND, Joan Mary Ruth m on 16.06.1973 to CHATFIELD, Max Lawrence
-      b 12.05.1952
     bounds:
       left: 501
       right: 2229
       top: 438
       bottom: 653
+- paragraphs:
   - text: |
+      01> SUNDERLAND, Joan Mary Ruth m on 16.06.1973 to CHATFIELD, Max Lawrence
+      b 12.05.1952
       b 08.07.1951
       Joan b. at Hastings and m. at St Peter's Church, Waipawa. Max, s/o Finlay Gordon Chatfield and
       Bessie Mildred Thompson, b. at Dannevirke. Address: 6 Nelson Street, Waipukurau.
       Joan was a Karitane nurse from 1967 to 1983 and was a jeweller's assistant since before owning her
       own business called Chattels since 1991. Max is manager of Waipukurau Construction Company.
     bounds:
-      left: 586
+      left: 509
       right: 2162
       top: 604
       bottom: 853
@@ -48,16 +49,16 @@ blocks:
       right: 1257
       top: 894
       bottom: 954
-  - text: 'b 25.09.1975
-
-'
+  - text: |
+      b 25.09.1975
+      Samuel is a student at Massey University.
     bounds:
       left: 676
       right: 890
       top: 959
       bottom: 1000
+- paragraphs:
   - text: |
-      Samuel is a student at Massey University.
       02> CHATFIELD, Bronwyn Ruth
     bounds:
       left: 577

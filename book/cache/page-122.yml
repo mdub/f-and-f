@@ -110,17 +110,17 @@ blocks:
       bottom: 1651
   - text: |
       Graham is a company director.
-      b1> SALMOND, Caroline m on 23.03.1978 to ARLIDGE , Robert Brett
     bounds:
       left: 575
       right: 2024
       top: 1654
       bottom: 1804
+- paragraphs:
   - text: |
-      Margaret
+      01> SALMOND, Caroline Margaret m on 23.03.1978 to ARLIDGE, Robert Brett
       b 13.09.1955
     bounds:
-      left: 677
+      left: 575
       right: 1028
       top: 1799
       bottom: 1899
@@ -134,15 +134,6 @@ blocks:
       right: 2186
       top: 1851
       bottom: 2048
-- paragraphs:
-  - text: 'anager.
-
-'
-    bounds:
-      left: 1701
-      right: 1812
-      top: 2015
-      bottom: 2043
 - paragraphs:
   - text: '01> ARLIDGE, Jessica Elizabeth
 
@@ -161,9 +152,9 @@ blocks:
       top: 2153
       bottom: 2250
 - paragraphs:
-  - text: "> ARLIDGE, Antonia Marion\n"
+  - text: "02> ARLIDGE, Antonia Marion\n"
     bounds:
-      left: 710
+      left: 660
       right: 1339
       top: 2299
       bottom: 2343

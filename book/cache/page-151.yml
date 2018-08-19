@@ -21,17 +21,18 @@ blocks:
   - text: |
       WILLIAMS, Keith Colgate and GRAHAM, Lesley May
       JWILLIAMS, Christopher Keith and COLLINS, Ďiana Lesley
-      03> WILLIAMS, Andrew Keith
     bounds:
       left: 581
       right: 1948
       top: 356
       bottom: 585
+- paragraphs:
   - text: |
+      03> WILLIAMS, Andrew Keith
       b 30.08.1978
       Andrew b. at Christchurch.
     bounds:
-      left: 675
+      left: 573
       right: 1106
       top: 569
       bottom: 665

@@ -44,7 +44,7 @@ blocks:
       top: 594
       bottom: 992
 - paragraphs:
-  - text: '02> SMITH, Jacqueline Marianne m on **.01.1997 to MACLEAN, Mark
+  - text: '02> SMITH, Jacqueline Marianne m on **.01.1997 to MACLEAN, Mark (Jacqui)
 
 '
     bounds:
@@ -53,7 +53,6 @@ blocks:
       top: 1036
       bottom: 1090
   - text: |
-      (Jacqui)
       b 13.08.1970
     bounds:
       left: 675

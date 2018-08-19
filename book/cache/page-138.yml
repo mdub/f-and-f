@@ -20,15 +20,6 @@ blocks:
       top: 247
       bottom: 449
 - paragraphs:
-  - text: 'saran di rantaux
-
-'
-    bounds:
-      left: 1623
-      right: 2063
-      top: 261
-      bottom: 423
-- paragraphs:
   - text: '03> MACKAY, Rachel Jane
 
 '
@@ -85,7 +76,7 @@ blocks:
       top: 945
       bottom: 1298
 - paragraphs:
-  - text: '01> MACKAY, Timothy John m on 18.04.1981 to PATTERSON, Katharine Linda
+  - text: '01> MACKAY, Timothy John m on 18.04.1981 to PATTERSON, Katharine Linda Holmes (Kate)
 
 '
     bounds:
@@ -94,7 +85,6 @@ blocks:
       top: 1346
       bottom: 1400
   - text: |
-      Holmes (Kate)
       b 19.05.1950
     bounds:
       left: 601

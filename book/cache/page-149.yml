@@ -83,7 +83,7 @@ blocks:
       top: 1214
       bottom: 1315
 - paragraphs:
-  - text: '02> DRUMMOND, Kathleen Frances m on 17.01.1970 to STAINES, David Paul
+  - text: '02> DRUMMOND, Kathleen Frances (Kay) m on 17.01.1970 to STAINES, David Paul
 
 '
     bounds:
@@ -92,7 +92,6 @@ blocks:
       top: 1413
       bottom: 1457
   - text: |
-      (Kay)
       b 07.05.1949
     bounds:
       left: 604
