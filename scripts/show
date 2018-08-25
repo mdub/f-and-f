@@ -66,7 +66,10 @@ Clamp do
         case e
         when FaithAndFarming::Book::Elements::StartOfPage
           @page_index = e.page_index
-          puts "\n--- page #{e.page_index} ---" if show_pages?
+          if show_pages?
+            puts ""
+            puts Paint["--- page #{e.page_index}", :faint]
+          end
         when FaithAndFarming::Book::Elements::Entry
           next if max_level && e.level > max_level
           indent = INDENT * (e.level - 1)
