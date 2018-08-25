@@ -22,6 +22,8 @@ module FaithAndFarming
           self.entry_index = 0
         when FaithAndFarming::Book::Elements::Entry
           add_entry(e)
+        when FaithAndFarming::Book::Elements::Continuation
+          append_continuation(e)
         end
       end
       self
@@ -35,6 +37,7 @@ module FaithAndFarming
 
     attr_accessor :page_index
     attr_accessor :entry_index
+    attr_accessor :last_note
 
     private
 
@@ -53,10 +56,19 @@ module FaithAndFarming
         f.date_married = entry.date_married if entry.date_married
         set_current_family(f, level: entry.level)
       end
+      self.last_note = nil
       unless entry.note.nil? || entry.note.strip.empty?
         note = db.notes.create(id: "N#{base_id}", content: entry.note)
         individuals.each { |i| i.note = note }
+        self.last_note = note
       end
+    end
+
+    CONTINUATION_MARKER = "(cont...)\n"
+
+    def append_continuation(entry)
+      return false if last_note.nil?
+      last_note.content = last_note.content.sub(CONTINUATION_MARKER,"") + entry.text
     end
 
     def individual_from(person, id:)

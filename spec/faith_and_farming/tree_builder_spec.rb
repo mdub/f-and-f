@@ -1,5 +1,6 @@
 require "spec_helper"
 
+require "faith_and_farming/book/elements/continuation"
 require "faith_and_farming/book/elements/entry"
 require "faith_and_farming/book/elements/start_of_page"
 require "faith_and_farming/tree_builder"
@@ -331,6 +332,45 @@ describe FaithAndFarming::TreeBuilder do
       robert = db.get(name: "Robert /MCTAVISH/")
       willy = db.get(name: "Willy /MCTAVISH/")
       expect(robert.children.to_a).to eq([willy])
+    end
+
+  end
+
+  context "with a continuation" do
+
+    def continuation(text)
+      FaithAndFarming::Book::Elements::Continuation.from_data(
+        title: "continued",
+        text: text
+      )
+    end
+
+    before do
+      elements << individual_entry(name: "BLOGGS, Joe", note: <<~TEXT)
+        Joe is awesome.
+        (cont...)
+      TEXT
+      elements << start_of_page(page_index + 1)
+      elements << continuation(<<~TEXT)
+        Joe has a cool hat.
+      TEXT
+    end
+
+    let(:joe) { db.get(name: "Joe /BLOGGS/") }
+
+    it "attaches the continuation text to the previous entry" do
+      expect(joe.note.content).to include("has a cool hat")
+    end
+
+    it "retains existing text" do
+      expect(joe.note.content).to include("Joe is awesome")
+    end
+
+    it "strips (cont...)" do
+      expect(joe.note.content).to eq(<<~TEXT)
+        Joe is awesome.
+        Joe has a cool hat.
+      TEXT
     end
 
   end
