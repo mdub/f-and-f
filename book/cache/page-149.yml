@@ -21,7 +21,7 @@ blocks:
       top: 258
       bottom: 509
 - paragraphs:
-  - text: '01> DRUMMOND, Sallie Elizabeth m on 20.04.1968 to MOORE, Peter Winston
+  - text: '01> DRUMMOND, Sallie Elizabeth m on 20.04.1968 to MOORE, Peter Winston Gifford
 
 '
     bounds:
@@ -30,7 +30,6 @@ blocks:
       top: 553
       bottom: 617
   - text: |
-      Gifford
       b 04.08.1946
     bounds:
       left: 601

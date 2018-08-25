@@ -161,16 +161,16 @@ blocks:
       top: 2297
       bottom: 2452
 - paragraphs:
-  - text: '01> SUNDERLAND, Anna
-
-'
+  - text: |
+      01> SUNDERLAND, Anna
+      b 22.08.1985
     bounds:
       left: 591
       right: 1088
       top: 2490
       bottom: 2554
+- paragraphs:
   - text: |
-      b 22.08.1985
       02> SUNDERLAND, Jaque
     bounds:
       left: 592

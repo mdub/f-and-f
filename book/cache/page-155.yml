@@ -27,15 +27,6 @@ blocks:
       top: 276
       bottom: 431
 - paragraphs:
-  - text: 'I
-
-'
-    bounds:
-      left: 642
-      right: 647
-      top: 368
-      bottom: 422
-- paragraphs:
   - text: |
       01> DISBROWE, Noel John Edward m on 01.05.1957 to WHITE, Alison Johanna Lovell
       b 19.05.1928
@@ -92,6 +83,13 @@ blocks:
       bottom: 1178
   - text: |
       Harry b. at Hastings.
+    bounds:
+      left: 679
+      right: 1281
+      top: 1184
+      bottom: 1332
+- paragraphs:
+  - text: |
       02> FORSTER, George Distrowe
     bounds:
       left: 578
@@ -146,10 +144,10 @@ blocks:
       bottom: 2031
 - paragraphs:
   - text: |
-      DISBROWE, Pamela Loism on 19.04.1986 to ATTWOOD, John
+      02> DISBROWE, Pamela Loism on 19.04.1986 to ATTWOOD, John
       b 24.07.1929
     bounds:
-      left: 527
+      left: 432
       right: 1783
       top: 2131
       bottom: 2226

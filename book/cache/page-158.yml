@@ -55,6 +55,13 @@ blocks:
       bottom: 1152
   - text: |
       b 10.10.1989
+    bounds:
+      left: 577
+      right: 1305
+      top: 1151
+      bottom: 1301
+- paragraphs:
+  - text: |
       02> CROSSE, Carson Barrington
     bounds:
       left: 577

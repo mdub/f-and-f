@@ -57,7 +57,7 @@ blocks:
       top: 1254
       bottom: 1353
 - paragraphs:
-  - text: '01> CROSSE, Andrew Sebastian m on 19.05.1982 to CHERNOFF, Cheryl Louise
+  - text: '01> CROSSE, Andrew Sebastian Ord m on 19.05.1982 to CHERNOFF, Cheryl Louise
 
 '
     bounds:
@@ -66,7 +66,6 @@ blocks:
       top: 1387
       bottom: 1450
   - text: |
-      Ord
       b 02.04.1955
     bounds:
       left: 603
@@ -102,6 +101,13 @@ blocks:
       bottom: 1845
   - text: |
       Kaylen b. at Vancouver, BC, Canada.
+    bounds:
+      left: 581
+      right: 1272
+      top: 1852
+      bottom: 2002
+- paragraphs:
+  - text: |
       02> CROSSE, Natasha Alexis
     bounds:
       left: 581
@@ -135,14 +141,20 @@ blocks:
       bottom: 2350
   - text: |
       A Lieutenant (E) RN, he served in the Korean War on HMS Belfast. He was drowned at Spithead.
-      04> CROSSE, Simon Courtenay m on 12.01.1957 to (1)UPJOHN, Sheila Margaret
+    bounds:
+      left: 436
+      right: 2165
+      top: 2343
+      bottom: 2512
+- paragraphs:
+  - text: |
+      04> CROSSE, Simon Courtenay m on 12.01.1957 to (1)UPJOHN, Sheila Margaret Holland
     bounds:
       left: 436
       right: 2165
       top: 2343
       bottom: 2512
   - text: |
-      Holland
       b 02.05.1930
     bounds:
       left: 533

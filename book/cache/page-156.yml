@@ -118,15 +118,13 @@ blocks:
       bottom: 2734
 - paragraphs:
   - text: |
-      01> CROSSE, Joan Elizabeth m on 25.04.1953 to SUNDERLAND, Joseph Langdale
-      (Sem)
+      01> CROSSE, Joan Elizabeth (Sem) m on 25.04.1953 to SUNDERLAND, Joseph Langdale (Joe)
     bounds:
       left: 428
       right: 2158
       top: 2778
       bottom: 2887
   - text: |
-      (Joe)
       b 13.09.1923
     bounds:
       left: 529

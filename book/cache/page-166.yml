@@ -93,7 +93,7 @@ blocks:
       top: 1292
       bottom: 1335
 - paragraphs:
-  - text: '64> McKAY, Logan Roy
+  - text: '04> McKAY, Logan Roy
 
 '
     bounds:
@@ -110,7 +110,7 @@ blocks:
       top: 1441
       bottom: 1483
 - paragraphs:
-  - text: '03> SEYMOUR, Martine Te Ahumai m on 09.01.1988 to (1) KELLER, Paul Justin
+  - text: '03> SEYMOUR, Martine Te Ahumai Pitihira m on 09.01.1988 to (1) KELLER, Paul Justin
 
 '
     bounds:
@@ -119,8 +119,8 @@ blocks:
       top: 1585
       bottom: 1638
   - text: |
-      Pitihira
       b 07.05.1968
+      b ** ** ****
       Divorced.
     bounds:
       left: 599
@@ -128,23 +128,14 @@ blocks:
       top: 1632
       bottom: 1785
 - paragraphs:
-  - text: "** ** ****\n"
-    bounds:
-      left: 1739
-      right: 1911
-      top: 1699
-      bottom: 1720
-- paragraphs:
   - text: |
-      03> SEYMOUR, Martine Te Ahumai m on 21.08.1994 to (2) MORATTI, Stephen
-      Pitihira
+      03> SEYMOUR, Martine Te Ahumai Pitihira m on 21.08.1994 to (2) MORATTI, Stephen Tausia
     bounds:
       left: 505
       right: 2131
       top: 1830
       bottom: 1933
   - text: |
-      Tausia
       b 07.05.1968
     bounds:
       left: 604
@@ -163,6 +154,13 @@ blocks:
       Martine has been involved in the catering industry from the age of 19, rising to become
       co-ordinator of training for the Valentine's chain at the age of 26. Stephen is in the Airforce
       and studying towards a BEng.
+    bounds:
+      left: 579
+      right: 2043
+      top: 2040
+      bottom: 2288
+- paragraphs:
+  - text: |
       01> MORATTI, Jake Antonio
     bounds:
       left: 579

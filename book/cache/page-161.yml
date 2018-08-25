@@ -56,8 +56,16 @@ blocks:
       right: 889
       top: 905
       bottom: 945
+- paragraphs:
   - text: |
       Dawn b. at Sidcup, Kent, England.
+    bounds:
+      left: 576
+      right: 1221
+      top: 952
+      bottom: 1101
+- paragraphs:
+  - text: |
       02> TUFFERY, Tobias
     bounds:
       left: 576

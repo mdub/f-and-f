@@ -21,7 +21,7 @@ blocks:
       top: 246
       bottom: 506
 - paragraphs:
-  - text: '01> BESTEBREURTJE, Hendriekje m on 09.10.1965 to ZIRINSKY, Michael Paul
+  - text: '01> BESTEBREURTJE, Hendriekje Maud m on 09.10.1965 to ZIRINSKY, Michael Paul
 
 '
     bounds:
@@ -30,7 +30,6 @@ blocks:
       top: 539
       bottom: 606
   - text: |
-      Maud
       b 10.01.1943
     bounds:
       left: 601

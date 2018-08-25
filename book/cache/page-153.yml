@@ -58,6 +58,13 @@ blocks:
       bottom: 921
   - text: |
       Julia b. at Gisborne.
+    bounds:
+      left: 578
+      right: 1483
+      top: 932
+      bottom: 1080
+- paragraphs:
+  - text: |
       02> TRAFFORD, Timothy Selwyn Maurice
     bounds:
       left: 578

@@ -47,7 +47,14 @@ blocks:
   - text: |
       b ** ** ****
       Address: 17 Wood Street, Swanbourne, Perth 6010, Western Australia.
-      bi> WILLIAMS, Lucy Anne
+    bounds:
+      left: 504
+      right: 1743
+      top: 696
+      bottom: 902
+- paragraphs:
+  - text: |
+      01> WILLIAMS, Lucy Anne
     bounds:
       left: 504
       right: 1743
@@ -113,33 +120,25 @@ blocks:
       top: 1397
       bottom: 1439
 - paragraphs:
-  - text: '12>
-
-'
-    bounds:
-      left: 272
-      right: 343
-      top: 1534
-      bottom: 1573
   - text: |
-      WILLIAMS, Emma Gertrude
+      12> WILLIAMS, Emma Gertrude
       b 28.10.1866 d 22.11.1959
       Emma b. at Puketona and d. at Hastings. She trained as a nurse at Dunedin Hospital and enlisted in wwi serving
       in Gibraltar and England. She lived with her two sisters at Pukehou before moving to Havelock North and was
       deeply involved in the Nurses Christian Fellowship of which she was Life Vice-President.
     bounds:
-      left: 358
+      left: 260
       right: 2146
       top: 1538
       bottom: 1795
 - paragraphs:
   - text: |
-      WILLIAMS, Ada Frances
+      13> WILLIAMS, Ada Frances
       b 06.05.1869 d 18.12.1952
       Ada b. at Pukehou and d. at Hastings. She lived with her parents at Mount Eden, Auckland and later moved to Te
       Aute.
     bounds:
-      left: 364
+      left: 260
       right: 2149
       top: 1838
       bottom: 2042
