@@ -106,7 +106,7 @@ blocks:
       top: 1418
       bottom: 1517
 - paragraphs:
-  - text: 'b1> BIGENI, Anna Clare
+  - text: '01> BIGENI, Anna Clare
 
 '
     bounds:
@@ -188,6 +188,13 @@ blocks:
       bottom: 2614
   - text: |
       b 30.09.1961
+    bounds:
+      left: 509
+      right: 1114
+      top: 2616
+      bottom: 2763
+- paragraphs:
+  - text: |
       02> BROWN, Steven Jewell
     bounds:
       left: 509

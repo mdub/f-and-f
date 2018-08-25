@@ -90,6 +90,13 @@ blocks:
       bottom: 1247
   - text: |
       Brett is a car valet.
+    bounds:
+      left: 502
+      right: 1128
+      top: 1256
+      bottom: 1411
+- paragraphs:
+  - text: |
       05> NELSON, Michael Craig
     bounds:
       left: 502

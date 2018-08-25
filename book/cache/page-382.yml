@@ -52,7 +52,7 @@ blocks:
       top: 1000
       bottom: 1095
 - paragraphs:
-  - text: '03> LUDBROOK, Joanna Jane m on 10.12.1988 to (1) GANNAWAY, Ivan Raymond
+  - text: '03> LUDBROOK, Joanna Jane Sayers m on 10.12.1988 to (1) GANNAWAY, Ivan Raymond
 
 '
     bounds:
@@ -61,7 +61,6 @@ blocks:
       top: 1194
       bottom: 1241
   - text: |
-      Sayers
       b 04.04.1964
     bounds:
       left: 603
@@ -114,7 +113,7 @@ blocks:
       top: 1850
       bottom: 1944
 - paragraphs:
-  - text: '04>''LUDBROOK, Diana Robin m on 04.02.1959 to PARKER, Anthony Gordon Hastie
+  - text: '04>''LUDBROOK, Diana Robin m on 04.02.1959 to PARKER, Anthony Gordon Hastie (Tony)
 
 '
     bounds:
@@ -123,7 +122,6 @@ blocks:
       top: 2036
       bottom: 2094
   - text: |
-      (Tony)
       b 03.10.1932
     bounds:
       left: 529

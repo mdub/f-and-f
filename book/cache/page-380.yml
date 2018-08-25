@@ -39,10 +39,10 @@ blocks:
       bottom: 653
 - paragraphs:
   - text: |
-      | 04> LUDBROOK, Kerry Scott and DRYDEN, Shirley Diane
+      04> LUDBROOK, Kerry Scott and DRYDEN, Shirley Diane
       b 01.10.1965
     bounds:
-      left: 436
+      left: 510
       right: 1763
       top: 743
       bottom: 856
@@ -57,7 +57,7 @@ blocks:
       bottom: 981
 - paragraphs:
   - text: '01> LUDBROOK, Peter Henry Whibley m on 22.06.1985 to (2)LEWIN, Noeline
-      Mary
+      Mary Theresa
 
 '
     bounds:
@@ -66,7 +66,6 @@ blocks:
       top: 1043
       bottom: 1110
   - text: |
-      Theresa
       b 04.07.1928 d 23.09.1997
     bounds:
       left: 531
@@ -171,7 +170,7 @@ blocks:
       bottom: 2754
 - paragraphs:
   - text: |
-      02 AVERILL, Morris Hanson and BANFIELD, Mary
+      02> AVERILL, Morris Hanson and BANFIELD, Mary
       b 03.07.1956
     bounds:
       left: 517

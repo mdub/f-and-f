@@ -97,6 +97,13 @@ blocks:
       bottom: 1769
   - text: |
       b 27.06.1945
+    bounds:
+      left: 433
+      right: 2040
+      top: 1704
+      bottom: 1880
+- paragraphs:
+  - text: |
       02> LUDBROOK, Peter Wilson m on 20.07.1968 to BUDGE, Louise Margaret
     bounds:
       left: 433
@@ -104,7 +111,6 @@ blocks:
       top: 1704
       bottom: 1880
   - text: |
-      20.07.1968 to BUDGE , Louise Margaret
       b 21.10.1941
     bounds:
       left: 534

@@ -20,6 +20,13 @@ blocks:
       bottom: 392
   - text: |
       JHAWKES, Jocelyn Adderley and WATSON, Edward Jacques
+    bounds:
+      left: 428
+      right: 2153
+      top: 383
+      bottom: 598
+- paragraphs:
+  - text: |
       02> HAWKES, Jocelyn Adderley m on 29.05.1953 to (1) WATSON, Edward Jacques
       b 03.08.1934
     bounds:

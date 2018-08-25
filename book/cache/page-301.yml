@@ -22,15 +22,13 @@ blocks:
       bottom: 500
 - paragraphs:
   - text: |
-      05> WILLIAMS, Timothy Charles m on 01.07.1989 to MOTLEY, Samantha Antonia
-      Bentham
+      05> WILLIAMS, Timothy Charles Bentham m on 01.07.1989 to MOTLEY, Samantha Antonia Clare
     bounds:
       left: 506
       right: 2231
       top: 531
       bottom: 651
   - text: |
-      Clare
       b 21.08.1962
     bounds:
       left: 602

@@ -132,7 +132,7 @@ blocks:
       top: 2108
       bottom: 2199
 - paragraphs:
-  - text: '04> HASLETT, David Murray m on 03.09.1994 to HOLLAND, Susan Margaret
+  - text: '04> HASLETT, David Murray Ludbrook m on 03.09.1994 to HOLLAND, Susan Margaret
 
 '
     bounds:
@@ -141,7 +141,6 @@ blocks:
       top: 2292
       bottom: 2353
   - text: |
-      Ludbrook
       b 27.10.1962
     bounds:
       left: 608

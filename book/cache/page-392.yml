@@ -60,7 +60,7 @@ blocks:
       top: 1106
       bottom: 1225
   - text: |
-      . b 04.01.1904 d 16.03.1977.
+      b 04.01.1904 d 16.03.1977
       Brenda b. at "Waiorongomai" station and m. at Gisborne. Sidney, s/o CH Burdett and Lillian Grace Haig, b.
       at Waipiro Bay and d. at Auckland. Address: PO Box 84, Opotiki.
       Brenda was educated at a convent in Napier and was in Napier during the 1931 earthquake. She was always
@@ -127,22 +127,14 @@ blocks:
       top: 2617
       bottom: 2924
 - paragraphs:
-  - text: '03>
-
-'
+  - text: |
+      03> BURDETT, Margaret m on 16.07.1971 to HUNT, Gordon Mathew
+      b 19.02.1948
     bounds:
       left: 446
       right: 510
       top: 2977
       bottom: 3011
-  - text: |
-      BURDETT, Margaret m on 16.07.1971 to HUNT, Gordon Mathew
-      b 19.02.1948
-    bounds:
-      left: 543
-      right: 1854
-      top: 2963
-      bottom: 3072
   - text: |
       b 17.05.1950
       Margaret b. at Gisborne. Address: PO Box 84, Opotiki.

@@ -50,7 +50,7 @@ blocks:
       top: 904
       bottom: 996
 - paragraphs:
-  - text: '03> CLAPHAM, Terrence Peter and PRICE, Kathleen Joan
+  - text: '03> CLAPHAM, Terrence Peter (Terry) and PRICE, Kathleen Joan
 
 '
     bounds:
@@ -59,7 +59,6 @@ blocks:
       top: 1086
       bottom: 1148
   - text: |
-      (Terry)
       b 24.07.1974
     bounds:
       left: 677

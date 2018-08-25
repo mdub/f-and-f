@@ -97,6 +97,13 @@ blocks:
       bottom: 1579
   - text: |
       Alexander b. at Ipswich, England.
+    bounds:
+      left: 575
+      right: 1256
+      top: 1584
+      bottom: 1732
+- paragraphs:
+  - text: |
       03> BRUNT, Harriet Patricia
     bounds:
       left: 575

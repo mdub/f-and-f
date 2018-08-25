@@ -19,6 +19,13 @@ blocks:
       bottom: 352
   - text: |
       JHADFIELD, Selwyn Tancred and HARPER, Rosamond Mary Templer
+    bounds:
+      left: 349
+      right: 2262
+      top: 338
+      bottom: 542
+- paragraphs:
+  - text: |
       05> HADFIELD, Selwyn Tancred m on 17.10.1937 to (1) HARPER, Rosamond Mary Templer
       b 31.01.1907 d 29.05.1973
     bounds:

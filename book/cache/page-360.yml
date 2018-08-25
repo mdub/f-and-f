@@ -75,15 +75,13 @@ blocks:
       bottom: 1083
 - paragraphs:
   - text: |
-      03> HARDIE BOYS, Rachel m on 21.02.1987 to WATTERS, Jonathan William
-      Maryann
+      03> HARDIE BOYS, Rachel Maryann m on 21.02.1987 to WATTERS, Jonathan William Fitzgerald
     bounds:
       left: 496
       right: 2108
       top: 1184
       bottom: 1291
   - text: |
-      Fitzgerald
       b 09.10.1961
     bounds:
       left: 599
@@ -223,7 +221,7 @@ blocks:
       top: 2839
       bottom: 2884
 - paragraphs:
-  - text: 'di> ZOHRAB, Allen Anthony
+  - text: '01> ZOHRAB, Allen Anthony
 
 '
     bounds:

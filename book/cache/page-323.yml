@@ -42,7 +42,7 @@ blocks:
       top: 540
       bottom: 887
 - paragraphs:
-  - text: '01> HUTTON, Alexia Lynnette m on 20.06.1970 to BRESSOLLES, Michel Paul
+  - text: '01> HUTTON, Alexia Lynnette Marie m on 20.06.1970 to BRESSOLLES, Michel Paul
 
 '
     bounds:
@@ -51,7 +51,6 @@ blocks:
       top: 930
       bottom: 988
   - text: |
-      Marie
       b 08.05.1949
     bounds:
       left: 601

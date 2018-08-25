@@ -20,6 +20,13 @@ blocks:
       bottom: 390
   - text: |
       JHUTTON, Robert Clayton and TAKIARI, Atarua (Topsy)
+    bounds:
+      left: 429
+      right: 2042
+      top: 379
+      bottom: 590
+- paragraphs:
+  - text: |
       04> HUTTON, Robert Clayton m on 05.05.1951 to TAKIARI, Atarua (Topsy)
       b 12.11.1927
     bounds:

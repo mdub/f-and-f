@@ -15,6 +15,13 @@ blocks:
       JBRANCH, Henry Kenneth and NICHOLLS, Elsie
       IBRANCH, Joan Mavis and WATSON, Donald Cameron
       IWATSON, Gillian Mary and SCOTT, John Richard
+    bounds:
+      left: 571
+      right: 1735
+      top: 226
+      bottom: 589
+- paragraphs:
+  - text: |
       02> SCOTT, Sophie Margaret
     bounds:
       left: 571

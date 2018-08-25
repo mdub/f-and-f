@@ -90,20 +90,11 @@ blocks:
       top: 1203
       bottom: 1244
 - paragraphs:
-  - text: '03>
-
-'
-    bounds:
-      left: 428
-      right: 491
-      top: 1349
-      bottom: 1385
-- paragraphs:
   - text: |
-      ZOHRAB, Allen Edward Hadfield m on 19.02.1986 to (2)COOPER, Janet Alice
+      03> ZOHRAB, Allen Edward Hadfield m on 19.02.1986 to (2)COOPER, Janet Alice
       b 06.03.1935
     bounds:
-      left: 526
+      left: 427
       right: 2205
       top: 1345
       bottom: 1449
@@ -158,15 +149,13 @@ blocks:
       bottom: 2248
 - paragraphs:
   - text: |
-      02> ZOHRAB, Penelope Susan m on 14.03.1992 to ALLISON, Andrew Richard
-      (Penny)
+      02> ZOHRAB, Penelope Susan (Penny) m on 14.03.1992 to ALLISON, Andrew Richard (Andy)
     bounds:
       left: 507
       right: 2136
       top: 2294
       bottom: 2393
   - text: |
-      (Andy)
       b 24.09.1964
     bounds:
       left: 602

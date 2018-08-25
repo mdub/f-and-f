@@ -20,16 +20,15 @@ blocks:
       top: 247
       bottom: 453
 - paragraphs:
-  - text: 'LUDBROOK, Peter Henry m on 07.01.1956 to (1) JONES, Margaret Hingston
+  - text: '01> LUDBROOK, Peter Henry Whibley m on 07.01.1956 to (1) JONES, Margaret Hingston
 
 '
     bounds:
-      left: 526
+      left: 426
       right: 2126
       top: 491
       bottom: 558
   - text: |
-      Whibley
       b 04.07.1928 d 23.09.1997
     bounds:
       left: 521
@@ -98,7 +97,7 @@ blocks:
       top: 1495
       bottom: 1752
 - paragraphs:
-  - text: '01> LUDBROOK, Michael Geoffrey and (3) SKINNER, Laura
+  - text: '01> LUDBROOK, Michael Geoffrey and (3) SKINNER, Laura Margaret Gwendolyn
 
 '
     bounds:
@@ -107,7 +106,6 @@ blocks:
       top: 1789
       bottom: 1854
   - text: |
-      Margaret Gwendolyn
       b 18.08.1957
     bounds:
       left: 607

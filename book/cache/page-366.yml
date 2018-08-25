@@ -145,6 +145,13 @@ blocks:
   - text: |
       b 06.09.1959
       Guy b. at Dunedin.
+    bounds:
+      left: 503
+      right: 2152
+      top: 2704
+      bottom: 2951
+- paragraphs:
+  - text: |
       02> LUDBROOK, Guy Lawrence m on 14.04.1993 to (2)GIBBS, Diana Margaret
       b 23.01.1960
     bounds:

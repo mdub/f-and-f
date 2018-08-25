@@ -15,6 +15,13 @@ blocks:
       JLUDBROOK, Ronald Henry and GREENING, Dorothy
       JLUDBROOK, Barbara Rosemary and WHITE, Robert Edwin
       JWHITE, Christopher Stephen and NEWTON, Claire Elizabeth
+    bounds:
+      left: 580
+      right: 2101
+      top: 236
+      bottom: 601
+- paragraphs:
+  - text: |
       01> WHITE, William Espie
     bounds:
       left: 580

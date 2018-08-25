@@ -157,7 +157,7 @@ blocks:
       top: 2536
       bottom: 2776
 - paragraphs:
-  - text: '02> CLAPHAM, Deborah Jane m on 21.03.1992 to MYOCEVICH, Shane John
+  - text: '02> CLAPHAM, Deborah Jane (Debbie) m on 21.03.1992 to MYOCEVICH, Shane John
 
 '
     bounds:
@@ -166,7 +166,6 @@ blocks:
       top: 2822
       bottom: 2876
   - text: |
-      (Debbie)
       b 24.06.1970
     bounds:
       left: 684

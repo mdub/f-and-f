@@ -32,6 +32,13 @@ blocks:
   - text: |
       b ** ** ****
       Anthony m. at LDS Chapel, Stoke Valley, Nelson, Divorced 1977.
+    bounds:
+      left: 505
+      right: 2078
+      top: 588
+      bottom: 833
+- paragraphs:
+  - text: |
       03> HUTTON, Anthony Maurice m on 13.01.1980 to (2)WILLIAMS, Loretta
       b 07.04.1953
     bounds:
@@ -83,19 +90,11 @@ blocks:
       top: 1239
       bottom: 1334
 - paragraphs:
-  - text: '02>
-
-'
-    bounds:
-      left: 430
-      right: 492
-      top: 1436
-      bottom: 1473
   - text: |
-      HUTTON, June Katherine m on 06.03.1946 to LUTZ, Leonard Desmond
+      02> HUTTON, June Katherine m on 06.03.1946 to LUTZ, Leonard Desmond
       b 10.06.1922
     bounds:
-      left: 527
+      left: 450
       right: 2004
       top: 1435
       bottom: 1532

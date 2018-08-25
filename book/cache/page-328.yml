@@ -29,6 +29,13 @@ blocks:
       bottom: 395
   - text: |
       JHUTTON, Keith and CROSBIE, Gayleen
+    bounds:
+      left: 425
+      right: 1724
+      top: 381
+      bottom: 549
+- paragraphs:
+  - text: |
       05> HUTTON, Keith m on 20.10.1984 to (2)CROSBIE, Gayleen
     bounds:
       left: 425
@@ -69,7 +76,7 @@ blocks:
       top: 800
       bottom: 943
 - paragraphs:
-  - text: '05> HUTTON, Marianne Elizabeth Georgina m on 04.03.1887 to KEMP, Francis
+  - text: '05> HUTTON, Marianne Elizabeth Georgina (Bessie) m on 04.03.1887 to KEMP, Francis
       James
 
 '
@@ -79,7 +86,6 @@ blocks:
       top: 982
       bottom: 1044
   - text: |
-      (Bessie)
       b 18.02.1860 d 21.03.1950
     bounds:
       left: 376

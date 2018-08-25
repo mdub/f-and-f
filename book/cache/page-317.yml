@@ -45,7 +45,7 @@ blocks:
       bottom: 625
   - text: |
       b 27.12.1857 d ** ** 1931
-      | Anna b. at Hutt near Wellington and m. in Hoylandswaine in Yorkshire by her father, T
+      Anna b. at Hutt near Wellington and m. in Hoylandswaine in Yorkshire by her father, T
     bounds:
       left: 788
       right: 2186
@@ -100,10 +100,10 @@ blocks:
       bottom: 1779
 - paragraphs:
   - text: |
-      BRANCH, Freda Christine m on ** ** 1910 to TUCKEY, Arthur William
+      02> BRANCH, Freda Christine m on ** ** 1910 to TUCKEY, Arthur William
       b 12.12.1887 d ** **.1935
     bounds:
-      left: 452
+      left: 352
       right: 1985
       top: 1817
       bottom: 1924

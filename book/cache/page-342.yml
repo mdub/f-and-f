@@ -198,6 +198,13 @@ blocks:
       bottom: 2740
   - text: |
       b 19.09.1994
+    bounds:
+      left: 591
+      right: 1237
+      top: 2744
+      bottom: 2888
+- paragraphs:
+  - text: |
       03> BEZETT, Olivia Noelene
     bounds:
       left: 591

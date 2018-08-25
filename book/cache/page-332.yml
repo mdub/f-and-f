@@ -22,10 +22,10 @@ blocks:
       bottom: 496
 - paragraphs:
   - text: |
-      > NEWLAND, Varien Clarem on 23.02.1963 to STEELE, Roderick George
+      02> NEWLAND, Varien Clarem on 23.02.1963 to STEELE, Roderick George
       b 16.08.1943
     bounds:
-      left: 565
+      left: 510
       right: 2099
       top: 542
       bottom: 649

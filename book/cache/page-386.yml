@@ -72,6 +72,13 @@ blocks:
       bottom: 1365
   - text: |
       b 27.08.1994
+    bounds:
+      left: 580
+      right: 1211
+      top: 1368
+      bottom: 1524
+- paragraphs:
+  - text: |
       02> COVENTRY, Joseph Rhys
     bounds:
       left: 580

@@ -129,17 +129,17 @@ blocks:
       Joy and Peter are sheep and beef farmers at Aria. They love raising their children in the farm
       environment. Each summer the family travels to Cooks Beach for their holidays. The children
       attend Aria School and the family are very involved in community activities.
-      bi> HURLEY, Nicole Sara
     bounds:
       left: 581
       right: 2252
       top: 1655
       bottom: 2312
-  - text: 'b 26.07.1990
-
-'
+- paragraphs:
+  - text: |
+      01> HURLEY, Nicole Sara
+      b 26.07.1990
     bounds:
-      left: 686
+      left: 588
       right: 902
       top: 2314
       bottom: 2353

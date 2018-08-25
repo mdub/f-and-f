@@ -15,6 +15,13 @@ blocks:
       JHUTTON, Edward George and ARNDT, Alice May
       JHUTTON, Robert Clayton and TAKIARI, Atarua (Topsy)
       SHUTTON, Georgina Ann and BISSET, Noel John
+    bounds:
+      left: 571
+      right: 2083
+      top: 232
+      bottom: 594
+- paragraphs:
+  - text: |
       04> BISSET, Bridget Holly
     bounds:
       left: 571
@@ -170,24 +177,24 @@ blocks:
       top: 2290
       bottom: 2331
 - paragraphs:
-  - text: "(02\n"
-    bounds:
-      left: 429
-      right: 470
-      top: 2439
-      bottom: 2464
-- paragraphs:
   - text: |
-      HUTTON, Bruce m on 16.12.1972 to (1) LAWSON, Ruth Elizabeth
+      02> HUTTON, Bruce m on 16.12.1972 to (1) LAWSON, Ruth Elizabeth
       b 06.10.1951
     bounds:
-      left: 521
+      left: 424
       right: 1875
       top: 2432
       bottom: 2534
   - text: |
       b 26.02.1952
       Divorced 14.11.1988. Ruth is a shop manager. Address: (Ruth) 17 Gladstone Street, Woodville.
+    bounds:
+      left: 499
+      right: 2030
+      top: 2479
+      bottom: 2692
+- paragraphs:
+  - text: |
       01> HUTTON, Ivan Justin
     bounds:
       left: 499

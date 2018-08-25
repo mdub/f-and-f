@@ -88,6 +88,13 @@ blocks:
       bottom: 1204
   - text: |
       b 28.10.1988
+    bounds:
+      left: 653
+      right: 1175
+      top: 1208
+      bottom: 1352
+- paragraphs:
+  - text: |
       02> DRABBLE, Amy Anne
     bounds:
       left: 653

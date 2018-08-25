@@ -15,6 +15,13 @@ blocks:
       JHADFIELD, Selwyn Tancred and HARPER, Rosamond Mary Templer
       JHADFIELD, Dawn Gay (Sue) and SUTCLIFF, Paul Richard
       ISUTCLIFF, Susan Dawn and JONES, Winston Forrest
+    bounds:
+      left: 576
+      right: 2073
+      top: 242
+      bottom: 656
+- paragraphs:
+  - text: |
       01> JONES, Forrest Zachary
       b 15.08.1993
     bounds:

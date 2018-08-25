@@ -15,6 +15,13 @@ blocks:
       JWILLIAMS, John Dow and MacLAURIN, Catherine Annie (Nancy)
       JWILLIAMS, Philippa Anne and BROAD, Kim Lowther
       JBROAD, Penelope Catherine and JONES, Paul Robert
+    bounds:
+      left: 576
+      right: 2043
+      top: 221
+      bottom: 587
+- paragraphs:
+  - text: |
       01> JONES, Samuel Robert
     bounds:
       left: 576
@@ -48,7 +55,7 @@ blocks:
       bottom: 926
 - paragraphs:
   - text: |
-      4> WILLIAMS, Barbara Mary m on 26.06.1972 to HOULDING, Peter Karl
+      04> WILLIAMS, Barbara Mary m on 26.06.1972 to HOULDING, Peter Karl
       b 29.11.1940
     bounds:
       left: 461
