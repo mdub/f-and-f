@@ -19,6 +19,13 @@ blocks:
       bottom: 348
   - text: |
       JWILLIAMS, Garthowen and ALISON, Audrey May
+    bounds:
+      left: 348
+      right: 1842
+      top: 333
+      bottom: 545
+- paragraphs:
+  - text: |
       01> WILLIAMS, Garthowen m on 08.12.1968 to (2)ALISON, Audrey May
       b 26.09.1906 d 28.07.1975
     bounds:
@@ -99,6 +106,13 @@ blocks:
       bottom: 2094
   - text: |
       b 18.09.1971
+    bounds:
+      left: 501
+      right: 914
+      top: 2097
+      bottom: 2242
+- paragraphs:
+  - text: |
       02> LARKIN, Adam
     bounds:
       left: 501

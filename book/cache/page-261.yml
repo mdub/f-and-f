@@ -27,6 +27,13 @@ blocks:
       Hertford Town Council and active in the European Union of Women, Lady Tavener's Freedom Assn, the New
       Zealand Assn and the Conservative Party.
       Robert is a paper broker, agent, merchant and managing director of Savory Paper.
+    bounds:
+      left: 487
+      right: 2254
+      top: 492
+      bottom: 905
+- paragraphs:
+  - text: |
       01> SAVORY, Charlotte Catherine Anne
     bounds:
       left: 487
@@ -60,6 +67,13 @@ blocks:
       bottom: 1145
   - text: |
       Victoria b. in Hertfordshire, England. She is in her third year at Newcastle Polytech
+    bounds:
+      left: 492
+      right: 1901
+      top: 1144
+      bottom: 1300
+- paragraphs:
+  - text: |
       03> SAVORY, Josephine Elizabeth
     bounds:
       left: 492

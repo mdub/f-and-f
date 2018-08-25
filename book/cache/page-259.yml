@@ -21,6 +21,13 @@ blocks:
       WILLIAMS, Nancy Hope and BORTHWICK, Patrick John
       IBORTHWICK, Patricia Mary and BELL, Francis Michael Dillon
       IBELL, Sarah Mary and BROUGHTON, Roger
+    bounds:
+      left: 570
+      right: 2044
+      top: 335
+      bottom: 601
+- paragraphs:
+  - text: |
       03> BROUGHTON, Rosie Amanda
     bounds:
       left: 570

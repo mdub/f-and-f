@@ -62,7 +62,7 @@ blocks:
       top: 841
       bottom: 1284
 - paragraphs:
-  - text: '01> WILLIAMS, Peter William m on 14.12.1965 to HOLDEN, Mary Louise Phyllis
+  - text: '01> WILLIAMS, Peter William Gerard m on 14.12.1965 to HOLDEN, Mary Louise Phyllis
 
 '
     bounds:
@@ -71,7 +71,6 @@ blocks:
       top: 1330
       bottom: 1384
   - text: |
-      Gerard
       b 12.07.1938
     bounds:
       left: 525

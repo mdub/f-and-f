@@ -20,6 +20,13 @@ blocks:
       bottom: 397
   - text: |
       JMARX, David George Locke and DICKIE, Jiří Morag
+    bounds:
+      left: 501
+      right: 1780
+      top: 390
+      bottom: 552
+- paragraphs:
+  - text: |
       01> MARX, Francis Angus Locke
     bounds:
       left: 501

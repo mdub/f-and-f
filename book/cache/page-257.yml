@@ -41,7 +41,7 @@ blocks:
       top: 539
       bottom: 851
 - paragraphs:
-  - text: '02> WILLIAMS, Richard Alister m on 04.03. 1967 to PEARCE, Susan Elizabeth
+  - text: '02> WILLIAMS, Richard Alister (Buzz) m on 04.03. 1967 to PEARCE, Susan Elizabeth
 
 '
     bounds:
@@ -50,7 +50,6 @@ blocks:
       top: 929
       bottom: 1000
   - text: |
-      (Buzz)
       b 24.03.1942
     bounds:
       left: 523

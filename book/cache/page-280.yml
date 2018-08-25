@@ -21,7 +21,7 @@ blocks:
       top: 239
       bottom: 490
 - paragraphs:
-  - text: '01> MANNION, Gerald de Vere m on 21.06.1986 to TAYLOR, Davina Elizabeth
+  - text: '01> MANNION, Gerald de Vere m on 21.06.1986 to TAYLOR, Davina Elizabeth Mary
 
 '
     bounds:
@@ -30,7 +30,6 @@ blocks:
       top: 531
       bottom: 593
   - text: |
-      Mary
       b 05.06.1959
     bounds:
       left: 601
@@ -97,7 +96,7 @@ blocks:
       top: 1148
       bottom: 1189
 - paragraphs:
-  - text: '02> MANNION, Penelope m on 12.03.1988 to ROBINSON, Alastair Garth
+  - text: '02> MANNION, Penelope Cranstoun m on 12.03.1988 to ROBINSON, Alastair Garth
 
 '
     bounds:
@@ -106,7 +105,6 @@ blocks:
       top: 1277
       bottom: 1348
   - text: |
-      Cranstoun
       b 30.05.1961
     bounds:
       left: 606

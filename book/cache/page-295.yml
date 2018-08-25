@@ -61,7 +61,14 @@ blocks:
       bottom: 1074
   - text: |
       Nicholas is a student at King's College, Auckland.
-      02> WILLIAMS, Catherine Diana (Ko0)
+    bounds:
+      left: 500
+      right: 1387
+      top: 1078
+      bottom: 1236
+- paragraphs:
+  - text: |
+      02> WILLIAMS, Catherine Diana (Koo)
     bounds:
       left: 500
       right: 1387

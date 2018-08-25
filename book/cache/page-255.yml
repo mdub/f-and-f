@@ -99,17 +99,17 @@ blocks:
       Sarah, dlo Christopher and Leone Morkane.
       Timothy was educated at Medbury School and Nelson College. He is a farmer and landscape
       contractor. Sarah is studying at Lincoln University to become a winemaker.
-      01> DEANS, Oscar Charles MacFarlane
     bounds:
       left: 577
       right: 2059
       top: 1249
       bottom: 1553
-  - text: 'b 12.06.1997
-
-'
+- paragraphs:
+  - text: |
+      01> DEANS, Oscar Charles MacFarlane
+      b 12.06.1997
     bounds:
-      left: 677
+      left: 625
       right: 892
       top: 1553
       bottom: 1597

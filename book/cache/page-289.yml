@@ -120,15 +120,13 @@ blocks:
       bottom: 2186
 - paragraphs:
   - text: |
-      03> CACCIA-BIRCH, Nicola Marym on 28.09.1991 to SANDHAM, Salvadore John
-      (Nici)
+      03> CACCIA-BIRCH, Nicola Mary (Nici) m on 28.09.1991 to SANDHAM, Salvadore John (Sam)
     bounds:
       left: 501
       right: 2209
       top: 2219
       bottom: 2333
   - text: |
-      (Sam)
       b 13.04.1963
     bounds:
       left: 602

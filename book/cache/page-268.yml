@@ -27,6 +27,13 @@ blocks:
       bottom: 393
   - text: |
       JFITZGERALD, Edward Temple Guy and MCCLELLAND, Lisa Jane
+    bounds:
+      left: 502
+      right: 1989
+      top: 383
+      bottom: 550
+- paragraphs:
+  - text: |
       01> FITZGERALD, Samuel Alexander Beaumont
     bounds:
       left: 502
@@ -107,7 +114,7 @@ blocks:
       bottom: 1897
 - paragraphs:
   - text: |
-      lo> WILLIAMS, Algar Temple m on ** ** **** to (2)GOULD, Dorothy Sylvia
+      10> WILLIAMS, Algar Temple m on ** ** **** to (2)GOULD, Dorothy Sylvia
       b 03.10.1877 d 07.08.1966
     bounds:
       left: 275

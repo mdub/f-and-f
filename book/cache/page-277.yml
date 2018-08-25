@@ -29,15 +29,13 @@ blocks:
       bottom: 491
 - paragraphs:
   - text: |
-      01> WILLIAMS, Christopher. Henry m on 28.08.1982 to LAWRENCE, Jocelyn
-      LowrᎩ
+      01> WILLIAMS, Christopher Henry Lowry m on 28.08.1982 to LAWRENCE, Jocelyn Elizabeth
     bounds:
       left: 502
       right: 2110
       top: 538
       bottom: 643
   - text: |
-      Elizabeth
       b 23.10.1954
     bounds:
       left: 599
@@ -120,6 +118,13 @@ blocks:
   - text: |
       b ** ** ****
       Address: 3 Houpara Street, Onehunga, Auckland.
+    bounds:
+      left: 583
+      right: 1901
+      top: 1745
+      bottom: 1952
+- paragraphs:
+  - text: |
       01> BOOL, Melanie
     bounds:
       left: 583

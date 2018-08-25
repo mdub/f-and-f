@@ -27,6 +27,13 @@ blocks:
       bottom: 393
   - text: |
       JWIGLEY, Sarah Charlotte Cranstoun and VAN DER ZIJPP, Jacob
+    bounds:
+      left: 502
+      right: 2071
+      top: 385
+      bottom: 546
+- paragraphs:
+  - text: |
       03> VAN DER ZIJPP, Jane
     bounds:
       left: 502
@@ -42,7 +49,7 @@ blocks:
       top: 547
       bottom: 591
 - paragraphs:
-  - text: '03> WIGLEY, Marianne Cranstoun m on 27.02.1960 to PATCHETT, Irving Anthony
+  - text: '03> WIGLEY, Marianne Cranstoun m on 27.02.1960 to PATCHETT, Irving Anthony Hetherington
 
 '
     bounds:
@@ -51,7 +58,6 @@ blocks:
       top: 684
       bottom: 749
   - text: |
-      Hetherington
       b 26.03.1940
     bounds:
       left: 524

@@ -28,6 +28,13 @@ blocks:
       bottom: 442
   - text: |
       JWILLIAMS, Philip Nicholas and TIMMS, Heather Jean
+    bounds:
+      left: 498
+      right: 2101
+      top: 431
+      bottom: 643
+- paragraphs:
+  - text: |
       03> WILLIAMS, Philip Nicholas m on 16.02.1991 to TIMMS, Heather Jean
       b 31.01.1963.
     bounds:
@@ -116,7 +123,7 @@ blocks:
       top: 1999
       bottom: 2095
 - paragraphs:
-  - text: '04> WILLIAMS, Sarah Cooper (Sally) m on 15.04.1936 to WIGLEY, Edward Thomas
+  - text: '04> WILLIAMS, Sarah Cooper (Sally) m on 15.04.1936 to WIGLEY, Edward Thomas Cranstoun
 
 '
     bounds:
@@ -125,7 +132,6 @@ blocks:
       top: 2131
       bottom: 2199
   - text: |
-      Cranstoun
       b 05.03.1907 d 07.05.1987
     bounds:
       left: 454

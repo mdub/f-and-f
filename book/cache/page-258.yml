@@ -90,6 +90,13 @@ blocks:
       bottom: 1236
   - text: |
       b 13.12.1960
+    bounds:
+      left: 499
+      right: 1004
+      top: 1240
+      bottom: 1384
+- paragraphs:
+  - text: |
       03> BORTHWICK, Nigel
     bounds:
       left: 499
