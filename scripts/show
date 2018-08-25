@@ -57,6 +57,7 @@ Clamp do
     option ["-l", "--max-level"], "N", "maximum level", &method(:Integer)
 
     INDENT = Paint["| ", :faint]
+    DOT = Paint["•", :faint]
     MARRIED = Paint[" = ", :cyan]
     ERROR = Paint["!!!", :red]
 
@@ -69,7 +70,7 @@ Clamp do
         when FaithAndFarming::Book::Elements::Entry
           next if max_level && e.level > max_level
           indent = INDENT * (e.level - 1)
-          puts "#{indent}#{entry_heading(e)}"
+          puts "#{indent}#{DOT} #{entry_heading(e)}"
           if @last_entry && e.level > @last_entry.level + 1
             show_error("too deep", indent: indent)
           end
