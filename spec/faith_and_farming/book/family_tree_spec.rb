@@ -88,7 +88,6 @@ describe FaithAndFarming::Book, "family tree" do
 
     it "had 14 children" do
       kids_names = edward.families.first.children.map { |i| i.name.split(" ").first }
-      pending
       expect(kids_names).to eq %w[
         Henry
         Samuel
