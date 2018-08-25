@@ -91,6 +91,20 @@ describe FaithAndFarming::TreeBuilder do
 
     end
 
+    context "with unknown surname" do
+
+      let(:entry) do
+        individual_entry(name: "??, Colin")
+      end
+
+      let(:colin) { db.individuals.first }
+
+      it "strips surname placeholder" do
+        expect(colin.name).to eq("Colin")
+      end
+
+    end
+
     context "with a note" do
 
       let(:text) { "Sally so fine\n" }

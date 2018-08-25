@@ -89,6 +89,7 @@ module FaithAndFarming
       end
       last, rest = name.split(", ", 2)
       name = "#{rest} /#{last}/"
+      name.sub!(" /??/", "")
       [name, nickname]
     end
 
