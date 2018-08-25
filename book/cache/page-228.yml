@@ -20,6 +20,13 @@ blocks:
       bottom: 398
   - text: |
       JJACKSON, Dorothy Elizabeth Josephine and DRUCE, David
+    bounds:
+      left: 425
+      right: 2133
+      top: 386
+      bottom: 587
+- paragraphs:
+  - text: |
       03> JACKSON, Dorothy Elizabeth Josephine m on 25.07.1992 to DRUCE, David
       b 15.09.1930
     bounds:
@@ -83,6 +90,13 @@ blocks:
       bottom: 1242
   - text: |
       station. He was drowned in a yachting accident.
+    bounds:
+      left: 425
+      right: 1976
+      top: 1244
+      bottom: 1439
+- paragraphs:
+  - text: |
       02> WILLIAMS, Patrick Gordon m on ** ** **** to WANKLYN, Janet May
       b 25.09.1927
     bounds:

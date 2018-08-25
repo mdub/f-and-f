@@ -27,7 +27,7 @@ blocks:
       top: 377
       bottom: 487
 - paragraphs:
-  - text: '02> WILLIAMS, Michael John m on 28.09.1985 to LOCHHEAD, Kate Alexandra
+  - text: '02> WILLIAMS, Michael John m on 28.09.1985 to LOCHHEAD, Kate Alexandra Helen
 
 '
     bounds:
@@ -36,7 +36,6 @@ blocks:
       top: 523
       bottom: 595
   - text: |
-      Helen
       b 08.10.1951
     bounds:
       left: 602
@@ -205,7 +204,7 @@ blocks:
       top: 2633
       bottom: 2840
 - paragraphs:
-  - text: '04> WILLIAMS, William Atholm on 27.03.1954 to BATHGATE, Vivienne Cecilia
+  - text: '04> WILLIAMS, William Athol (Bill) m on 27.03.1954 to BATHGATE, Vivienne Cecilia
 
 '
     bounds:
@@ -214,7 +213,6 @@ blocks:
       top: 2880
       bottom: 2934
   - text: |
-      (Bill)
       b 20.09.1928
     bounds:
       left: 533

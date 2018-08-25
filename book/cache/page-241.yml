@@ -80,15 +80,13 @@ blocks:
       bottom: 1845
 - paragraphs:
   - text: |
-      01> WARREN, Jennifer Anketell m on 16.12.1966 to CARGILL THOMPSON, William
-      Williams
+      01> WARREN, Jennifer Anketell Williams m on 16.12.1966 to CARGILL THOMPSON, William David James
     bounds:
       left: 429
       right: 2195
       top: 1889
       bottom: 1993
   - text: |
-      David James
       b 16.09.1931
     bounds:
       left: 527

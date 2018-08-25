@@ -115,7 +115,7 @@ blocks:
       top: 2100
       bottom: 2359
 - paragraphs:
-  - text: '03> WARREN, Nicola Frances m on 10.02.1959 to BUSH, Paul David Horndon
+  - text: '03> WARREN, Nicola Frances Caroline m on 10.02.1959 to BUSH, Paul David Horndon
 
 '
     bounds:
@@ -124,7 +124,6 @@ blocks:
       top: 2435
       bottom: 2507
   - text: |
-      Caroline
       b 28.10.1937
     bounds:
       left: 535

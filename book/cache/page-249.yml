@@ -1,16 +1,16 @@
 ---
 blocks:
 - paragraphs:
-  - text: 'Descendants of WILLIAMS, Henry and COLDHAM, Marianne
-
-'
+  - text: |
+      Descendants of WILLIAMS, Henry and COLDHAM, Marianne
+      JWILLIAMS, Thomas Coldham and BEETHAM, Anne Palmer (Annie)
     bounds:
       left: 202
       right: 1507
       top: 175
       bottom: 240
+- paragraphs:
   - text: |
-      JWILLIAMS, Thomas Coldham and BEETHAM, Anne Palmer (Annie)
       05> WILLIAMS, Thomas Coldham m on 20.10.1858 to BEETHAM, Anne Palmer (Annie)
       b 18.07.1825 d 19.05.1912
     bounds:
