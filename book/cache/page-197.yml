@@ -24,17 +24,18 @@ blocks:
       JDAVIES, Christopher ap Rhys and HAWKES, Lilian Margaret
       I DAVIES, Margaret Dorothy and BRAMLEY, Frank William (Bill)
       IBRAMLEY, Peter Rhys Ealand and BAKER, Marie Noelene
-      02> BRAMLEY, William Rhys
     bounds:
       left: 585
       right: 2076
       top: 208
       bottom: 581
+- paragraphs:
   - text: |
+      02> BRAMLEY, William Rhys
       b 03.07.1992
       William b. at Taumarunui.
     bounds:
-      left: 685
+      left: 587
       right: 1093
       top: 571
       bottom: 666

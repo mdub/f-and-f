@@ -48,15 +48,13 @@ blocks:
       bottom: 791
 - paragraphs:
   - text: |
-      02>'CANNING, Elsie Mary McQueen m on 02.08.1929 to WYNNE - LEWIS, Thomas Herbert
-      (Nunie)
+      02>'CANNING, Elsie Mary McQueen (Nunie) m on 02.08.1929 to WYNNE - LEWIS, Thomas Herbert (Toc)
     bounds:
       left: 429
       right: 2283
       top: 729
       bottom: 846
   - text: |
-      (Toc)
       b 31.07.1898 d 17.11.1987
     bounds:
       left: 528

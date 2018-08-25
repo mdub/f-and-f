@@ -21,7 +21,7 @@ blocks:
       top: 221
       bottom: 487
 - paragraphs:
-  - text: '01> BRAMLEY, Susan Margaret m on 23.01.1988 to van der VLOODT, Frederik
+  - text: '01> BRAMLEY, Susan Margaret m on 23.01.1988 to van der VLOODT, Frederik Hendrik
 
 '
     bounds:
@@ -30,7 +30,6 @@ blocks:
       top: 517
       bottom: 585
   - text: |
-      Hendrik
       b 28.05.1960
     bounds:
       left: 604

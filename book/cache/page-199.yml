@@ -75,9 +75,9 @@ blocks:
       top: 1130
       bottom: 1221
 - paragraphs:
-  - text: "> HODSON, David Alexander Simon\n"
+  - text: "02> HODSON, David Alexander Simon\n"
     bounds:
-      left: 706
+      left: 658
       right: 1488
       top: 1271
       bottom: 1321
@@ -107,7 +107,7 @@ blocks:
       top: 1530
       bottom: 1623
 - paragraphs:
-  - text: '02> POORE, Caroline Louise m on 01.12.1979 to SPENCER, Montgomery
+  - text: '02> POORE, Caroline Louise m on 01.12.1979 to SPENCER, Montgomery Martyn
 
 '
     bounds:
@@ -116,7 +116,6 @@ blocks:
       top: 1714
       bottom: 1776
   - text: |
-      Martyn
       b 31.03.1955
     bounds:
       left: 679
@@ -169,10 +168,10 @@ blocks:
       bottom: 2422
 - paragraphs:
   - text: |
-      > POORE , Elizabeth Julia m on 06.08.1983 to WILSON, John Paul
+      03> POORE, Elizabeth Julia m on 06.08.1983 to WILSON, John Paul
       b 16.03.1957
     bounds:
-      left: 635
+      left: 575
       right: 2055
       top: 2526
       bottom: 2618

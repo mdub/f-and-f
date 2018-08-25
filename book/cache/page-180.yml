@@ -115,7 +115,7 @@ blocks:
       top: 2121
       bottom: 2262
 - paragraphs:
-  - text: '02> DAVIES, Kathleen Rosemary m on 05.03.1988 to (2)MCLENNAN, Murray
+  - text: '02> DAVIES, Kathleen Rosemary m on 05.03.1988 to (2)MCLENNAN, Murray Matthew
 
 '
     bounds:
@@ -124,7 +124,6 @@ blocks:
       top: 2362
       bottom: 2420
   - text: |
-      Matthew
       b 17.03.1949
     bounds:
       left: 600

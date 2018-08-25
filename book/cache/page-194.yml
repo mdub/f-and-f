@@ -98,6 +98,13 @@ blocks:
       bottom: 1731
   - text: |
       creative pursuits and piano and music.
+    bounds:
+      left: 575
+      right: 1381
+      top: 1727
+      bottom: 1881
+- paragraphs:
+  - text: |
       03> BEVIN, George Alister Robert
     bounds:
       left: 575

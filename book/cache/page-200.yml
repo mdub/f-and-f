@@ -58,9 +58,9 @@ blocks:
       top: 947
       bottom: 1047
 - paragraphs:
-  - text: "> PIERCE, Emily\n"
+  - text: "02> PIERCE, Emily\n"
     bounds:
-      left: 705
+      left: 652
       right: 1079
       top: 1089
       bottom: 1139
@@ -126,9 +126,9 @@ blocks:
       top: 1900
       bottom: 1940
 - paragraphs:
-  - text: "> SAINTY, Alexander Charles\n"
+  - text: "02> SAINTY, Alexander Charles\n"
     bounds:
-      left: 705
+      left: 654
       right: 1384
       top: 1991
       bottom: 2037

@@ -19,7 +19,7 @@ blocks:
       top: 231
       bottom: 395
   - text: |
-      DAVIES, John Douglas Geoffrey and HARRIS, Gertrude Melba Elizabeth
+      IDAVIES, John Douglas Geoffrey and HARRIS, Gertrude Melba Elizabeth
       IDAVIES, Kathleen Rosemary and MCLENNAN, Murray Matthew
     bounds:
       left: 579
@@ -151,6 +151,13 @@ blocks:
       bottom: 1783
   - text: |
       Derek b. at Buenos Aires, Argentina.
+    bounds:
+      left: 580
+      right: 1260
+      top: 1792
+      bottom: 1942
+- paragraphs:
+  - text: |
       03> FORBES, Adam Beaumont
     bounds:
       left: 580
