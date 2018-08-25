@@ -6938,7 +6938,7 @@
 1 FAMS @Fp177.e5@
 1 NOTE @Np177.e3@
 0 @Ip177.e3.i2@ INDI
-1 NAME Dorian /??/
+1 NAME Dorian
 1 SEX M
 1 FAMS @Fp177.e3@
 1 NOTE @Np177.e3@
@@ -10019,7 +10019,7 @@
 1 FAMS @Fp227.e7@
 1 NOTE @Np227.e7@
 0 @Ip227.e7.i2@ INDI
-1 NAME Christina /??/
+1 NAME Christina
 1 SEX F
 1 FAMS @Fp227.e7@
 1 NOTE @Np227.e7@
@@ -16723,7 +16723,7 @@
 1 FAMS @Fp331.e1@
 1 NOTE @Np331.e1@
 0 @Ip330.e8.i2@ INDI
-1 NAME Catherine /??/
+1 NAME Catherine
 1 SEX F
 1 BIRT
 2 DATE 3 JAN 1952
@@ -17182,7 +17182,7 @@
 1 FAMC @Fp336.e1@
 1 NOTE @Np336.e5@
 0 @Ip336.e6.i2@ INDI
-1 NAME Colin /??/
+1 NAME Colin
 1 SEX M
 1 FAMS @Fp336.e6@
 1 NOTE @Np336.e6@
@@ -20475,7 +20475,7 @@
 1 FAMS @Fp385.e2@
 1 NOTE @Np385.e2@
 0 @Ip385.e2.i2@ INDI
-1 NAME Marita /??/
+1 NAME Marita
 1 SEX F
 1 FAMS @Fp385.e2@
 1 NOTE @Np385.e2@
