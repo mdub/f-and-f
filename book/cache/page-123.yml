@@ -125,8 +125,7 @@ blocks:
       top: 1755
       bottom: 1852
 - paragraphs:
-  - text: '01> TRIPE, Susan Elizabeth m on 01.09.1984 to (2)LINDEMAN, Johannes Petrus
-
+  - text: '01> TRIPE, Susan Elizabeth m on 01.09.1984 to (2)LINDEMAN, Johannes Petrus Geradus
 '
     bounds:
       left: 504
@@ -134,7 +133,6 @@ blocks:
       top: 1947
       bottom: 2000
   - text: |
-      Geradus
       b 06.07.1932 d 15.09.1992
     bounds:
       left: 601
@@ -151,17 +149,14 @@ blocks:
       top: 2052
       bottom: 2207
 - paragraphs:
-  - text: '03> WILLIAMS, Allen Donald Buchanan m on ** ** 1939 to WALLS, Elizabeth
-      Marion
-
-'
+  - text: |
+      03> WILLIAMS, Allen Donald Buchanan m on ** ** 1939 to WALLS, Elizabeth Marion Gwendoline
     bounds:
       left: 427
       right: 2289
       top: 2288
       bottom: 2357
   - text: |
-      Gwendoline
       b 04.02.1917 d 22.09.1983
     bounds:
       left: 528

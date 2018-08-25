@@ -58,7 +58,7 @@ blocks:
       top: 851
       bottom: 1046
 - paragraphs:
-  - text: 'b1> CADWALLADER, Rebecca Mary
+  - text: '01> CADWALLADER, Rebecca Mary
 
 '
     bounds:
@@ -92,7 +92,7 @@ blocks:
       top: 1303
       bottom: 1341
 - paragraphs:
-  - text: '65> GIESEN, Hamish John Blyth
+  - text: '05> GIESEN, Hamish John Blyth
 
 '
     bounds:
@@ -152,24 +152,23 @@ blocks:
       top: 2047
       bottom: 2445
 - paragraphs:
-  - text: '01> HARRÉ, Urma Ra Awatea
-
-'
+  - text: |
+      01> HARRÉ, Urma Ra Awatea
+      b 30.07.1996
     bounds:
       left: 658
       right: 1286
       top: 2483
       bottom: 2548
+- paragraphs:
   - text: |
-      b 30.07.1996
-      d2> HARRÉ, Wiremu
+      02> HARRÉ, Wiremu
     bounds:
       left: 653
       right: 1080
       top: 2548
       bottom: 2693
   - text: |
-      iremu
       b 20.07.1998
       Wiremu b. at home at Oratia, Auckland.
     bounds:

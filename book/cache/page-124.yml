@@ -98,16 +98,16 @@ blocks:
       right: 1315
       top: 1746
       bottom: 1800
-  - text: 'b 21.07.1981
-
-'
+  - text: |
+      b 21.07.1981
+      Rose b. at Gisborne.
     bounds:
       left: 756
       right: 967
       top: 1808
       bottom: 1851
+- paragraphs:
   - text: |
-      Rose b. at Gisborne.
       02> COPPIN, Sophie Anne
     bounds:
       left: 653

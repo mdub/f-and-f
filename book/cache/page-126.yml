@@ -95,13 +95,14 @@ blocks:
   - text: |
       01> GIESEN, Adele Jean m on ** ** **** to (1) MARSH, Spencer Wallace
       b 26.07.1958
+      b 29.12.1948
     bounds:
       left: 575
       right: 2157
       top: 1430
       bottom: 1539
+- paragraphs:
   - text: |
-      b 29.12.1948
       01> MARSH, Zane John Wallace
     bounds:
       left: 651
@@ -117,7 +118,7 @@ blocks:
       top: 1642
       bottom: 1686
 - paragraphs:
-  - text: '62> MARSH, Aaron Spencer
+  - text: '02> MARSH, Aaron Spencer
 
 '
     bounds:
@@ -187,15 +188,6 @@ blocks:
       top: 2340
       bottom: 2488
 - paragraphs:
-  - text: 'E
-
-'
-    bounds:
-      left: 1174
-      right: 1178
-      top: 2537
-      bottom: 2582
-- paragraphs:
   - text: '01> GIESEN, Natasha Elizabeth
 
 '
@@ -214,15 +206,13 @@ blocks:
       bottom: 2636
 - paragraphs:
   - text: |
-      03> GIESEN, Andrew John m on 06.10.1984 to MORRIS, Adrianne Mary
-      Charles
+      03> GIESEN, Andrew John Charles m on 06.10.1984 to MORRIS, Adrianne Mary Helena
     bounds:
       left: 582
       right: 2086
       top: 2737
       bottom: 2839
   - text: |
-      Helena
       b 01.07.1962
     bounds:
       left: 684
