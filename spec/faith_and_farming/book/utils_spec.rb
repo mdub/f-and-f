@@ -58,8 +58,10 @@ describe FaithAndFarming::Book::Utils do
       expect_normalise_name("HARRÉ, Urma Ra Awatea", "Harré, Urma Ra Awatea")
     end
 
-    it "collapses whitespace around hyphens" do
+    it "cleans up stray whitespace" do
       expect_normalise_name("WYNNE - LEWIS, Peter Thomas", "Wynne-Lewis, Peter Thomas")
+      expect_normalise_name("PAGE , Matthew Edward", "Page, Matthew Edward")
+
     end
 
   end
