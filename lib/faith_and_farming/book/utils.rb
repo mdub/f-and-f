@@ -16,6 +16,7 @@ module FaithAndFarming
           .gsub("****.", "**.**.")
           .sub("********", "**.**.****")
           .gsub(". ", ".")
+          .sub(" ****", ".****")
       end
 
       def normalise_name(name)
