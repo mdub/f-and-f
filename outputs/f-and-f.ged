@@ -1656,7 +1656,7 @@
 2 DATE 1 JUN 1846
 1 DEAT
 2 DATE 1 JUN 1846
-1 FAMC @Fp79.e1@
+1 FAMC @Fp74.e1@
 1 NOTE @Np100.e1@
 0 @Ip100.e2.i1@ INDI
 1 NAME Thomas Sydney /Williams/
@@ -1870,7 +1870,7 @@
 1 FAMS @Fp103.e4@
 1 NOTE @Np103.e4@
 0 @Ip104.e1.i1@ INDI
-1 NAME Matthew O1iver /Lennox-King/
+1 NAME Matthew Oliver /Lennox-King/
 1 SEX M
 1 BIRT
 2 DATE 25 MAY 1976
@@ -3276,31 +3276,29 @@
 0 @Ip123.e7.i1@ INDI
 1 NAME Susan Elizabeth /Tripe/
 1 SEX F
+1 BIRT
+2 DATE 8 AUG 1929
 1 FAMC @Fp122.e4@
 1 FAMS @Fp123.e7@
 1 NOTE @Np123.e7@
 0 @Ip123.e7.i2@ INDI
-1 NAME Johannes Petrus /Lindeman/
+1 NAME Johannes Petrus Geradus B 06.07.1932 D 15.09.1992 /Lindeman/
 1 SEX M
-1 BIRT
-2 DATE 6 JUL 1932
-1 DEAT
-2 DATE 15 SEP 1992
 1 FAMS @Fp123.e7@
 1 NOTE @Np123.e7@
 0 @Ip123.e8.i1@ INDI
 1 NAME Allen Donald Buchanan /Williams/
 1 SEX M
-1 FAMC @Fp122.e2@
-1 FAMS @Fp123.e8@
-1 NOTE @Np123.e8@
-0 @Ip123.e8.i2@ INDI
-1 NAME Elizabeth Marion /Walls/
-1 SEX F
 1 BIRT
 2 DATE 4 FEB 1917
 1 DEAT
 2 DATE 22 SEP 1983
+1 FAMC @Fp122.e2@
+1 FAMS @Fp123.e8@
+1 NOTE @Np123.e8@
+0 @Ip123.e8.i2@ INDI
+1 NAME Elizabeth Marion Gwendoline /Walls/
+1 SEX F
 1 FAMS @Fp123.e8@
 1 NOTE @Np123.e8@
 0 @Ip123.e9.i1@ INDI
@@ -3378,47 +3376,54 @@
 1 FAMC @Fp124.e3@
 1 NOTE @Np124.e4@
 0 @Ip124.e5.i1@ INDI
+1 NAME Sophie Anne /Coppin/
+1 SEX F
+1 BIRT
+2 DATE 26 SEP 1983
+1 FAMC @Fp124.e3@
+1 NOTE @Np124.e5@
+0 @Ip124.e6.i1@ INDI
 1 NAME Belinda Mary /Coppin/
 1 SEX F
 1 BIRT
 2 DATE 23 NOV 1986
 1 FAMC @Fp124.e3@
-1 NOTE @Np124.e5@
-0 @Ip124.e6.i1@ INDI
+1 NOTE @Np124.e6@
+0 @Ip124.e7.i1@ INDI
 1 NAME Kay Suzanne /Parker/
 1 SEX M
 1 BIRT
 2 DATE 1 SEP 1957
 1 FAMC @Fp124.e2@
-1 FAMS @Fp124.e6@
-1 NOTE @Np124.e6@
-0 @Ip124.e6.i2@ INDI
+1 FAMS @Fp124.e7@
+1 NOTE @Np124.e7@
+0 @Ip124.e7.i2@ INDI
 1 NAME Frederick Colin /Smith/
 1 SEX M
 1 BIRT
 2 DATE 30 APR 1957
-1 FAMS @Fp124.e6@
-1 NOTE @Np124.e6@
-0 @Ip124.e7.i1@ INDI
+1 FAMS @Fp124.e7@
+1 NOTE @Np124.e7@
+0 @Ip124.e8.i1@ INDI
 1 NAME Hannah Maree /Smith/
 1 SEX F
 1 BIRT
 2 DATE 23 APR 1985
-1 FAMC @Fp124.e6@
-1 NOTE @Np124.e7@
-0 @Ip124.e8.i1@ INDI
+1 FAMC @Fp124.e7@
+1 NOTE @Np124.e8@
+0 @Ip124.e9.i1@ INDI
 1 NAME Benjamin Paul /Smith/
 1 SEX M
 1 BIRT
 2 DATE 9 OCT 1986
-1 FAMC @Fp124.e6@
-1 NOTE @Np124.e8@
+1 FAMC @Fp124.e7@
+1 NOTE @Np124.e9@
 0 @Ip125.e1.i1@ INDI
 1 NAME Toby James /Smith/
 1 SEX M
 1 BIRT
 2 DATE 10 OCT 1988
-1 FAMC @Fp124.e6@
+1 FAMC @Fp124.e7@
 1 NOTE @Np125.e1@
 0 @Ip125.e2.i1@ INDI
 1 NAME Jan Mary /Parker/
@@ -3544,73 +3549,79 @@
 2 DATE 26 JUL 1958
 1 FAMC @Fp126.e4@
 1 FAMS @Fp126.e5@
-1 FAMS @Fp126.e7@
-1 NOTE @Np126.e5@
+1 FAMS @Fp126.e8@
 0 @Ip126.e5.i2@ INDI
 1 NAME Spencer Wallace /Marsh/
 1 SEX M
 1 BIRT
 2 DATE 29 DEC 1948
 1 FAMS @Fp126.e5@
-1 NOTE @Np126.e5@
 0 @Ip126.e6.i1@ INDI
+1 NAME Zane John Wallace /Marsh/
+1 SEX F
+1 BIRT
+2 DATE 16 APR 1982
+1 FAMC @Fp126.e5@
+0 @Ip126.e7.i1@ INDI
 1 NAME Aaron Spencer /Marsh/
 1 SEX M
 1 FAMC @Fp126.e5@
-0 @Ip126.e7.i2@ INDI
+0 @Ip126.e8.i2@ INDI
 1 NAME Martin Andrew /Rowe/
 1 SEX M
-1 FAMS @Fp126.e7@
-0 @Ip126.e8.i1@ INDI
+1 FAMS @Fp126.e8@
+0 @Ip126.e9.i1@ INDI
 1 NAME Emma Adele Selena /Rowe/
 1 SEX F
 1 BIRT
 2 DATE 9 AUG 1991
-1 FAMC @Fp126.e7@
-0 @Ip126.e9.i1@ INDI
+1 FAMC @Fp126.e8@
+0 @Ip126.e10.i1@ INDI
 1 NAME Robert John /Giesen/
 1 SEX M
 1 BIRT
 2 DATE 30 DEC 1959
 1 FAMC @Fp126.e4@
-1 FAMS @Fp126.e9@
-1 NOTE @Np126.e9@
-0 @Ip126.e9.i2@ INDI
+1 FAMS @Fp126.e10@
+1 NOTE @Np126.e10@
+0 @Ip126.e10.i2@ INDI
 1 NAME Sandra /Murray/
 1 SEX F
 1 BIRT
 2 DATE 19 APR 1961
-1 FAMS @Fp126.e9@
-1 NOTE @Np126.e9@
-0 @Ip126.e10.i1@ INDI
+1 FAMS @Fp126.e10@
+1 NOTE @Np126.e10@
+0 @Ip126.e11.i1@ INDI
 1 NAME Natasha Elizabeth /Giesen/
 1 SEX F
 1 BIRT
 2 DATE 29 DEC 1987
-1 FAMC @Fp126.e9@
-0 @Ip126.e11.i1@ INDI
-1 NAME Andrew John /Giesen/
-1 SEX M
-1 FAMC @Fp126.e4@
-1 FAMS @Fp126.e11@
-1 NOTE @Np126.e11@
-0 @Ip126.e11.i2@ INDI
-1 NAME Adrianne Mary /Morris/
-1 SEX F
-1 FAMS @Fp126.e11@
-1 NOTE @Np126.e11@
+1 FAMC @Fp126.e10@
 0 @Ip126.e12.i1@ INDI
+1 NAME Andrew John Charles /Giesen/
+1 SEX M
+1 BIRT
+2 DATE 1 JUL 1962
+1 FAMC @Fp126.e4@
+1 FAMS @Fp126.e12@
+0 @Ip126.e12.i2@ INDI
+1 NAME Adrianne Mary Helena /Morris/
+1 SEX F
+1 BIRT
+2 DATE 16 JAN 1963
+1 FAMS @Fp126.e12@
+0 @Ip126.e13.i1@ INDI
 1 NAME Lisa Marie /Giesen/
 1 SEX F
 1 BIRT
 2 DATE 2 APR 1987
-1 FAMC @Fp126.e11@
+1 FAMC @Fp126.e12@
 0 @Ip127.e1.i1@ INDI
 1 NAME Daniel John Andrew /Giesen/
 1 SEX M
 1 BIRT
 2 DATE 1 DEC 1989
-1 FAMC @Fp126.e11@
+1 FAMC @Fp126.e12@
 0 @Ip127.e2.i1@ INDI
 1 NAME Mary Suzanne /Giesen/
 1 SEX F
@@ -3668,50 +3679,55 @@
 1 FAMS @Fp127.e7@
 1 NOTE @Np127.e7@
 0 @Ip127.e7.i2@ INDI
-1 NAME Miro /HarrÉ/
+1 NAME Miro /Harré/
 1 SEX M
 1 BIRT
 2 DATE 26 AUG 1968
 1 FAMS @Fp127.e7@
 1 NOTE @Np127.e7@
 0 @Ip127.e8.i1@ INDI
-1 NAME Urma Ra Awatea /HarrÉ/
+1 NAME Urma Ra Awatea /Harré/
 1 BIRT
 2 DATE 30 JUL 1996
 1 FAMC @Fp127.e7@
-1 NOTE @Np127.e8@
 0 @Ip127.e9.i1@ INDI
+1 NAME Wiremu /Harré/
+1 BIRT
+2 DATE 20 JUL 1998
+1 FAMC @Fp127.e7@
+1 NOTE @Np127.e9@
+0 @Ip127.e10.i1@ INDI
 1 NAME Victoria Susan /Parker/
 1 SEX F
 1 BIRT
 2 DATE 31 MAY 1967
 1 FAMC @Fp127.e6@
-1 FAMS @Fp127.e9@
-1 NOTE @Np127.e9@
-0 @Ip127.e9.i2@ INDI
+1 FAMS @Fp127.e10@
+1 NOTE @Np127.e10@
+0 @Ip127.e10.i2@ INDI
 1 NAME David /Hazlett/
 1 SEX M
 1 BIRT
 2 DATE 5 MAY 1966
-1 FAMS @Fp127.e9@
-1 NOTE @Np127.e9@
+1 FAMS @Fp127.e10@
+1 NOTE @Np127.e10@
 0 @Ip128.e1.i1@ INDI
 1 NAME Angus Charles Luke /Hazlett/
 1 SEX M
 1 BIRT
 2 DATE 26 SEP 1992
-1 FAMC @Fp127.e9@
+1 FAMC @Fp127.e10@
 0 @Ip128.e2.i1@ INDI
 1 NAME Alexandra Kate /Hazlett/
 1 SEX F
 1 BIRT
 2 DATE 14 JUL 1994
-1 FAMC @Fp127.e9@
+1 FAMC @Fp127.e10@
 0 @Ip128.e3.i1@ INDI
 1 NAME Jacquetta Annabel /Hazlett/
 1 BIRT
 2 DATE 5 SEP 1997
-1 FAMC @Fp127.e9@
+1 FAMC @Fp127.e10@
 0 @Ip128.e4.i1@ INDI
 1 NAME Caroline Ann /Parker/
 1 SEX F
@@ -4067,7 +4083,9 @@
 1 FAMS @Fp132.e6@
 1 NOTE @Np132.e6@
 0 @Ip133.e1.i1@ INDI
-1 NAME Hendriekje /Bestebreurtje/
+1 NAME Hendriekje Maud /Bestebreurtje/
+1 BIRT
+2 DATE 10 JAN 1943
 1 FAMC @Fp132.e6@
 1 FAMS @Fp133.e1@
 1 NOTE @Np133.e1@
@@ -4075,7 +4093,7 @@
 1 NAME Michael Paul /Zirinsky/
 1 SEX M
 1 BIRT
-2 DATE 10 JAN 1943
+2 DATE 25 NOV 1942
 1 FAMS @Fp133.e1@
 1 NOTE @Np133.e1@
 0 @Ip133.e2.i1@ INDI
@@ -4184,7 +4202,7 @@
 1 FAMC @Fp133.e8@
 1 NOTE @Np133.e10@
 0 @Ip134.e1.i2@ INDI
-1 NAME Susanna /KüFfer/
+1 NAME Susanna /Küffer/
 1 SEX F
 1 BIRT
 2 DATE 9 MAR 1946
@@ -4222,14 +4240,16 @@
 0 @Ip134.e5.i1@ INDI
 1 NAME Christine Barbara /Heer/
 1 SEX F
+1 BIRT
+2 DATE 2 OCT 1953
 1 FAMC @Fp133.e7@
 1 FAMS @Fp134.e5@
 1 NOTE @Np134.e5@
 0 @Ip134.e5.i2@ INDI
-1 NAME Johannes /Van Merkesteyn/
+1 NAME Johannes Philippus Roeland /Van Merkesteyn/
 1 SEX M
 1 BIRT
-2 DATE 2 OCT 1953
+2 DATE 17 APR 1949
 1 FAMS @Fp134.e5@
 1 NOTE @Np134.e5@
 0 @Ip134.e6.i1@ INDI
@@ -4293,13 +4313,21 @@
 1 NOTE @Np134.e10@
 0 @Ip135.e1.i1@ INDI
 1 NAME Joseph Langdale /Sunderland/
+2 NICK Joe
 1 SEX M
+1 BIRT
+2 DATE 1 MAY 1917
+1 DEAT
+2 DATE 1 JAN 1979
 1 FAMC @Fp134.e10@
 1 FAMS @Fp135.e1@
 1 NOTE @Np156.e4@
 0 @Ip135.e1.i2@ INDI
 1 NAME Joan Elizabeth /Crosse/
+2 NICK Sem
 1 SEX F
+1 BIRT
+2 DATE 13 SEP 1923
 1 FAMC @Fp156.e3@
 1 FAMS @Fp135.e1@
 1 NOTE @Np156.e4@
@@ -4431,8 +4459,12 @@
 1 BIRT
 2 DATE 22 AUG 1985
 1 FAMC @Fp136.e8@
-1 NOTE @Np136.e9@
 0 @Ip136.e10.i1@ INDI
+1 NAME Jaque /Sunderland/
+1 BIRT
+2 DATE 5 OCT 1988
+1 FAMC @Fp136.e8@
+0 @Ip136.e11.i1@ INDI
 1 NAME Peter Thomas /Sunderland/
 1 SEX M
 1 BIRT
@@ -4440,7 +4472,7 @@
 1 DEAT
 2 DATE 16 JUL 1957
 1 FAMC @Fp135.e6@
-1 NOTE @Np136.e10@
+1 NOTE @Np136.e11@
 0 @Ip137.e1.i1@ INDI
 1 NAME Graeme Bruce /Sunderland/
 1 SEX M
@@ -5116,14 +5148,16 @@
 0 @Ip149.e1.i1@ INDI
 1 NAME Sallie Elizabeth /Drummond/
 1 SEX F
+1 BIRT
+2 DATE 4 AUG 1946
 1 FAMC @Fp148.e7@
 1 FAMS @Fp149.e1@
 1 NOTE @Np149.e1@
 0 @Ip149.e1.i2@ INDI
-1 NAME Peter Winston /Moore/
+1 NAME Peter Winston Gifford /Moore/
 1 SEX M
 1 BIRT
-2 DATE 4 AUG 1946
+2 DATE 16 FEB 1942
 1 FAMS @Fp149.e1@
 1 NOTE @Np149.e1@
 0 @Ip149.e2.i1@ INDI
@@ -5282,9 +5316,9 @@
 2 DATE 8 MAY 1944
 1 FAMC @Fp74.e1@
 1 FAMS @Fp151.e2@
-1 FAMS @Fp155.e7@
-1 FAMS @Fp155.e8@
-1 NOTE @Np155.e8@
+1 FAMS @Fp155.e9@
+1 FAMS @Fp155.e10@
+1 NOTE @Np155.e10@
 0 @Ip151.e2.i2@ INDI
 1 NAME Ethel Norma /Braithwaite/
 1 SEX F
@@ -5440,118 +5474,125 @@
 1 FAMC @Fp153.e1@
 1 NOTE @Np153.e2@
 0 @Ip153.e3.i1@ INDI
+1 NAME Timothy Selwyn Maurice /Trafford/
+1 SEX M
+1 BIRT
+2 DATE 20 FEB 1975
+1 FAMC @Fp153.e1@
+1 NOTE @Np153.e3@
+0 @Ip153.e4.i1@ INDI
 1 NAME Olivia Rose /Trafford/
 1 SEX F
 1 BIRT
 2 DATE 16 SEP 1979
 1 FAMC @Fp153.e1@
-1 NOTE @Np153.e3@
-0 @Ip153.e4.i1@ INDI
+1 NOTE @Np153.e4@
+0 @Ip153.e5.i1@ INDI
 1 NAME Robyn Jocelyn /Murphy/
 1 SEX F
 1 BIRT
 2 DATE 7 NOV 1952
 1 FAMC @Fp152.e8@
-1 FAMS @Fp153.e4@
-1 NOTE @Np153.e4@
-0 @Ip153.e4.i2@ INDI
+1 FAMS @Fp153.e5@
+1 NOTE @Np153.e5@
+0 @Ip153.e5.i2@ INDI
 1 NAME Geoffrey /Tombleson/
 1 SEX M
 1 BIRT
 2 DATE 28 FEB 1953
-1 FAMS @Fp153.e4@
-1 NOTE @Np153.e4@
-0 @Ip153.e5.i1@ INDI
+1 FAMS @Fp153.e5@
+1 NOTE @Np153.e5@
+0 @Ip153.e6.i1@ INDI
 1 NAME Caroline Robyn /Tombleson/
 1 SEX F
 1 BIRT
 2 DATE 19 APR 1982
-1 FAMC @Fp153.e4@
-1 NOTE @Np153.e5@
-0 @Ip153.e6.i1@ INDI
+1 FAMC @Fp153.e5@
+1 NOTE @Np153.e6@
+0 @Ip153.e7.i1@ INDI
 1 NAME Jenny Anne /Tombleson/
 1 SEX F
 1 BIRT
 2 DATE 12 DEC 1983
-1 FAMC @Fp153.e4@
-1 NOTE @Np153.e6@
-0 @Ip153.e7.i1@ INDI
+1 FAMC @Fp153.e5@
+1 NOTE @Np153.e7@
+0 @Ip153.e8.i1@ INDI
 1 NAME Deborah Enid /Murphy/
 1 SEX F
 1 BIRT
 2 DATE 25 NOV 1957
 1 FAMC @Fp152.e8@
-1 FAMS @Fp153.e7@
-1 NOTE @Np153.e7@
-0 @Ip153.e7.i2@ INDI
+1 FAMS @Fp153.e8@
+1 NOTE @Np153.e8@
+0 @Ip153.e8.i2@ INDI
 1 NAME Jonathan Charles /Bell/
 1 SEX M
 1 BIRT
 2 DATE 15 NOV 1956
-1 FAMS @Fp153.e7@
-1 NOTE @Np153.e7@
-0 @Ip153.e8.i1@ INDI
+1 FAMS @Fp153.e8@
+1 NOTE @Np153.e8@
+0 @Ip153.e9.i1@ INDI
 1 NAME Philip James /Murphy/
 2 NICK Pip
 1 SEX M
 1 BIRT
 2 DATE 27 MAY 1921
 1 FAMC @Fp151.e3@
-1 FAMS @Fp153.e8@
-1 NOTE @Np153.e8@
-0 @Ip153.e8.i2@ INDI
+1 FAMS @Fp153.e9@
+1 NOTE @Np153.e9@
+0 @Ip153.e9.i2@ INDI
 1 NAME June Katherine /White/
 1 SEX F
 1 BIRT
 2 DATE 27 JAN 1923
-1 FAMS @Fp153.e8@
-1 NOTE @Np153.e8@
-0 @Ip153.e9.i1@ INDI
+1 FAMS @Fp153.e9@
+1 NOTE @Np153.e9@
+0 @Ip153.e10.i1@ INDI
 1 NAME Jonathan Robert /Murphy/
 1 SEX M
 1 BIRT
 2 DATE 1 JUL 1950
-1 FAMC @Fp153.e8@
-1 FAMS @Fp153.e9@
-1 NOTE @Np153.e9@
-0 @Ip153.e9.i2@ INDI
+1 FAMC @Fp153.e9@
+1 FAMS @Fp153.e10@
+1 NOTE @Np153.e10@
+0 @Ip153.e10.i2@ INDI
 1 NAME Fay /Durdy/
 1 SEX F
 1 BIRT
 2 DATE 7 AUG 1956
-1 FAMS @Fp153.e9@
-1 NOTE @Np153.e9@
+1 FAMS @Fp153.e10@
+1 NOTE @Np153.e10@
 0 @Ip154.e1.i1@ INDI
 1 NAME Symon James /Murphy/
 1 SEX M
 1 BIRT
 2 DATE 20 MAR 1978
-1 FAMC @Fp153.e9@
+1 FAMC @Fp153.e10@
 0 @Ip154.e2.i1@ INDI
 1 NAME Matthew Robert /Murphy/
 1 SEX M
 1 BIRT
 2 DATE 28 JUN 1980
-1 FAMC @Fp153.e9@
+1 FAMC @Fp153.e10@
 0 @Ip154.e3.i1@ INDI
 1 NAME Andrew Keith /Murphy/
 1 SEX M
 1 BIRT
 2 DATE 28 JUN 1983
-1 FAMC @Fp153.e9@
+1 FAMC @Fp153.e10@
 0 @Ip154.e4.i1@ INDI
 1 NAME Katherine Sarah /Murphy/
 1 SEX F
 1 BIRT
 2 DATE 4 AUG 1952
-1 FAMC @Fp153.e8@
+1 FAMC @Fp153.e9@
 1 NOTE @Np154.e4@
 0 @Ip154.e5.i1@ INDI
 1 NAME Belinda Mary /Murphy/
 1 SEX F
 1 BIRT
 2 DATE 5 OCT 1957
-1 FAMC @Fp153.e8@
+1 FAMC @Fp153.e9@
 1 FAMS @Fp154.e5@
 1 NOTE @Np154.e5@
 0 @Ip154.e5.i2@ INDI
@@ -5588,7 +5629,7 @@
 2 DATE 6 DEC 1985
 1 FAMC @Fp151.e2@
 1 FAMS @Fp154.e8@
-1 FAMS @Fp155.e6@
+1 FAMS @Fp155.e8@
 1 NOTE @Np154.e8@
 0 @Ip154.e8.i2@ INDI
 1 NAME Edward Francis /Disbrowe/
@@ -5637,43 +5678,64 @@
 1 FAMC @Fp155.e2@
 1 NOTE @Np155.e3@
 0 @Ip155.e4.i1@ INDI
+1 NAME George Distrowe /Forster/
+1 SEX M
+1 BIRT
+2 DATE 2 NOV 1994
+1 FAMC @Fp155.e2@
+0 @Ip155.e5.i1@ INDI
 1 NAME Suzanne Cathryn /Disbrowe/
 1 SEX F
 1 BIRT
 2 DATE 19 NOV 1964
 1 FAMC @Fp155.e1@
-1 FAMS @Fp155.e4@
-1 NOTE @Np155.e4@
-0 @Ip155.e4.i2@ INDI
+1 FAMS @Fp155.e5@
+1 NOTE @Np155.e5@
+0 @Ip155.e5.i2@ INDI
 1 NAME Nic /Tucker/
 1 SEX M
-1 FAMS @Fp155.e4@
-1 NOTE @Np155.e4@
-0 @Ip155.e5.i1@ INDI
+1 FAMS @Fp155.e5@
+1 NOTE @Np155.e5@
+0 @Ip155.e6.i1@ INDI
 1 NAME Hamish John /Disbrowe/
 1 SEX M
 1 BIRT
 2 DATE 2 SEP 1967
 1 FAMC @Fp155.e1@
-1 NOTE @Np155.e5@
-0 @Ip155.e6.i2@ INDI
+1 NOTE @Np155.e6@
+0 @Ip155.e7.i1@ INDI
+1 NAME Pamela Lois /Disbrowe/
+1 SEX F
+1 BIRT
+2 DATE 24 JUL 1929
+1 FAMC @Fp154.e8@
+1 FAMS @Fp155.e7@
+1 NOTE @Np155.e7@
+0 @Ip155.e7.i2@ INDI
+1 NAME John /Attwood/
+1 SEX M
+1 BIRT
+2 DATE 21 JUL 1922
+1 FAMS @Fp155.e7@
+1 NOTE @Np155.e7@
+0 @Ip155.e8.i2@ INDI
 1 NAME Horace /Anderson/
 1 SEX M
 1 DEAT
 2 DATE 1975
-1 FAMS @Fp155.e6@
-0 @Ip155.e7.i2@ INDI
+1 FAMS @Fp155.e8@
+0 @Ip155.e9.i2@ INDI
 1 NAME Isabel /Maclagan/
 1 SEX F
 1 DEAT
 2 DATE 8 NOV 1927
-1 FAMS @Fp155.e7@
-0 @Ip155.e8.i2@ INDI
+1 FAMS @Fp155.e9@
+0 @Ip155.e10.i2@ INDI
 1 NAME Edith Moncrieff /Mollet/
 2 NICK Molly
 1 SEX F
-1 FAMS @Fp155.e8@
-1 NOTE @Np155.e8@
+1 FAMS @Fp155.e10@
+1 NOTE @Np155.e10@
 0 @Ip156.e1.i1@ INDI
 1 NAME Arthur Frederick /Williams/
 1 SEX M
@@ -5739,8 +5801,10 @@
 1 FAMS @Fp157.e1@
 1 NOTE @Np157.e1@
 0 @Ip157.e2.i1@ INDI
-1 NAME Andrew Sebastian /Crosse/
+1 NAME Andrew Sebastian Ord /Crosse/
 1 SEX M
+1 BIRT
+2 DATE 2 APR 1955
 1 FAMC @Fp157.e1@
 1 FAMS @Fp157.e2@
 1 NOTE @Np157.e2@
@@ -5748,7 +5812,7 @@
 1 NAME Cheryl Louise /Chernoff/
 1 SEX F
 1 BIRT
-2 DATE 2 APR 1955
+2 DATE 23 OCT 1958
 1 FAMS @Fp157.e2@
 1 NOTE @Np157.e2@
 0 @Ip157.e3.i1@ INDI
@@ -5758,6 +5822,13 @@
 1 FAMC @Fp157.e2@
 1 NOTE @Np157.e3@
 0 @Ip157.e4.i1@ INDI
+1 NAME Natasha Alexis /Crosse/
+1 SEX F
+1 BIRT
+2 DATE 16 JUN 1990
+1 FAMC @Fp157.e2@
+1 NOTE @Np157.e4@
+0 @Ip157.e5.i1@ INDI
 1 NAME Christopher Ilbert /Crosse/
 1 SEX M
 1 BIRT
@@ -5765,20 +5836,36 @@
 1 DEAT
 2 DATE 8 FEB 1952
 1 FAMC @Fp156.e3@
-1 NOTE @Np157.e4@
-0 @Ip157.e5.i1@ INDI
+1 NOTE @Np157.e5@
+0 @Ip157.e6.i1@ INDI
+1 NAME Simon Courtenay /Crosse/
+1 SEX M
+1 BIRT
+2 DATE 2 MAY 1930
+1 FAMC @Fp156.e3@
+1 FAMS @Fp157.e6@
+1 FAMS @Fp158.e6@
+1 NOTE @Np158.e6@
+0 @Ip157.e6.i2@ INDI
+1 NAME Sheila Margaret Holland /Upjohn/
+1 SEX F
+1 BIRT
+2 DATE 28 NOV 1930
+1 FAMS @Fp157.e6@
+1 NOTE @Np157.e6@
+0 @Ip157.e7.i1@ INDI
 1 NAME Lucy Sarah /Crosse/
 1 SEX F
 1 BIRT
 2 DATE 8 MAR 1960
-1 FAMC @Fp156.e3@
-1 NOTE @Np157.e5@
+1 FAMC @Fp157.e6@
+1 NOTE @Np157.e7@
 0 @Ip158.e1.i1@ INDI
 1 NAME Robert Oliver Courtenay /Crosse/
 1 SEX M
 1 BIRT
 2 DATE 8 JAN 1962
-1 FAMC @Fp156.e3@
+1 FAMC @Fp157.e6@
 1 FAMS @Fp158.e1@
 1 NOTE @Np158.e1@
 0 @Ip158.e1.i2@ INDI
@@ -5794,35 +5881,32 @@
 1 BIRT
 2 DATE 10 OCT 1989
 1 FAMC @Fp158.e1@
-1 NOTE @Np158.e2@
 0 @Ip158.e3.i1@ INDI
+1 NAME Carson Barrington /Crosse/
+1 SEX M
+1 BIRT
+2 DATE 6 APR 1993
+1 FAMC @Fp158.e1@
+0 @Ip158.e4.i1@ INDI
 1 NAME Keaton Mackenzie /Crosse/
 1 SEX M
 1 BIRT
 2 DATE 13 MAR 1995
 1 FAMC @Fp158.e1@
-0 @Ip158.e4.i1@ INDI
+0 @Ip158.e5.i1@ INDI
 1 NAME Trenton Royce /Crosse/
 1 SEX M
 1 BIRT
 2 DATE 8 JUN 1997
 1 FAMC @Fp158.e1@
-0 @Ip158.e5.i1@ INDI
-1 NAME Simon Courtenay /Crosse/
-1 SEX M
-1 BIRT
-2 DATE 2 MAY 1930
-1 FAMC @Fp156.e3@
-1 FAMS @Fp158.e5@
-1 NOTE @Np158.e5@
-0 @Ip158.e5.i2@ INDI
+0 @Ip158.e6.i2@ INDI
 1 NAME Carolyn /Galpin/
 1 SEX F
 1 BIRT
 2 DATE 1 JUN 1937
-1 FAMS @Fp158.e5@
-1 NOTE @Np158.e5@
-0 @Ip158.e6.i1@ INDI
+1 FAMS @Fp158.e6@
+1 NOTE @Np158.e6@
+0 @Ip158.e7.i1@ INDI
 1 NAME Philip Leslie Bruce /Williams/
 1 SEX M
 1 BIRT
@@ -5830,41 +5914,41 @@
 1 DEAT
 2 DATE 14 JUL 1987
 1 FAMC @Fp156.e1@
-1 FAMS @Fp158.e6@
-1 FAMS @Fp161.e8@
-1 NOTE @Np161.e8@
-0 @Ip158.e6.i2@ INDI
+1 FAMS @Fp158.e7@
+1 FAMS @Fp161.e9@
+1 NOTE @Np161.e9@
+0 @Ip158.e7.i2@ INDI
 1 NAME Esme Guyon /Purchas/
 1 SEX F
 1 BIRT
 2 DATE 30 SEP 1899
 1 DEAT
 2 DATE 18 OCT 1968
-1 FAMS @Fp158.e6@
-1 NOTE @Np158.e6@
-0 @Ip158.e7.i1@ INDI
+1 FAMS @Fp158.e7@
+1 NOTE @Np158.e7@
+0 @Ip158.e8.i1@ INDI
 1 NAME Anthony Philip Marsh /Williams/
 1 SEX M
 1 BIRT
 2 DATE 11 APR 1930
 1 DEAT
 2 DATE 31 OCT 1993
-1 FAMC @Fp158.e6@
-1 FAMS @Fp158.e7@
-1 NOTE @Np158.e7@
-0 @Ip158.e7.i2@ INDI
+1 FAMC @Fp158.e7@
+1 FAMS @Fp158.e8@
+1 NOTE @Np158.e8@
+0 @Ip158.e8.i2@ INDI
 1 NAME Pamela Helen /Spencer/
 1 SEX F
 1 BIRT
 2 DATE 13 SEP 1946
-1 FAMS @Fp158.e7@
-1 NOTE @Np158.e7@
+1 FAMS @Fp158.e8@
+1 NOTE @Np158.e8@
 0 @Ip159.e1.i1@ INDI
 1 NAME Leslie Elizabeth Esme /Williams/
 1 SEX F
 1 BIRT
 2 DATE 1 MAR 1932
-1 FAMC @Fp158.e6@
+1 FAMC @Fp158.e7@
 1 FAMS @Fp159.e1@
 1 NOTE @Np159.e1@
 0 @Ip159.e1.i2@ INDI
@@ -5970,7 +6054,7 @@
 1 SEX F
 1 BIRT
 2 DATE 15 OCT 1933
-1 FAMC @Fp158.e6@
+1 FAMC @Fp158.e7@
 1 FAMS @Fp160.e6@
 1 NOTE @Np160.e6@
 0 @Ip160.e6.i2@ INDI
@@ -6037,55 +6121,61 @@
 1 BIRT
 2 DATE 9 OCT 1982
 1 FAMC @Fp161.e1@
-1 NOTE @Np161.e2@
 0 @Ip161.e3.i1@ INDI
+1 NAME Tobias /Tuffery/
+1 SEX M
+1 BIRT
+2 DATE 12 JUN 1984
+1 FAMC @Fp161.e1@
+1 NOTE @Np161.e3@
+0 @Ip161.e4.i1@ INDI
 1 NAME Tallulah /Tuffery/
 1 BIRT
 2 DATE 24 JAN 1989
 1 FAMC @Fp161.e1@
-1 NOTE @Np161.e3@
-0 @Ip161.e4.i1@ INDI
+1 NOTE @Np161.e4@
+0 @Ip161.e5.i1@ INDI
 1 NAME Yasmin /Tuffery/
 1 SEX F
 1 BIRT
 2 DATE 23 FEB 1991
 1 FAMC @Fp161.e1@
-1 NOTE @Np161.e4@
-0 @Ip161.e5.i1@ INDI
+1 NOTE @Np161.e5@
+0 @Ip161.e6.i1@ INDI
 1 NAME Cappi /Tuffery/
 1 BIRT
 2 DATE 4 MAY 1993
 1 FAMC @Fp161.e1@
-1 NOTE @Np161.e5@
-0 @Ip161.e6.i1@ INDI
+1 NOTE @Np161.e6@
+0 @Ip161.e7.i1@ INDI
 1 NAME Roger Gordon Robert /Land/
 1 SEX M
 1 BIRT
 2 DATE 25 MAY 1960
 1 FAMC @Fp160.e6@
-1 FAMS @Fp161.e6@
-1 NOTE @Np161.e6@
-0 @Ip161.e6.i2@ INDI
+1 FAMS @Fp161.e7@
+1 NOTE @Np161.e7@
+0 @Ip161.e7.i2@ INDI
 1 NAME Elizabeth /Hooley/
 1 SEX F
 1 BIRT
 2 DATE 8 DEC 1958
-1 FAMS @Fp161.e6@
-1 NOTE @Np161.e6@
-0 @Ip161.e7.i1@ INDI
+1 FAMS @Fp161.e7@
+1 NOTE @Np161.e7@
+0 @Ip161.e8.i1@ INDI
 1 NAME Russell Philip Seton /Williams/
 1 SEX M
 1 BIRT
 2 DATE 28 MAR 1935
-1 FAMC @Fp158.e6@
-1 NOTE @Np161.e7@
-0 @Ip161.e8.i2@ INDI
+1 FAMC @Fp158.e7@
+1 NOTE @Np161.e8@
+0 @Ip161.e9.i2@ INDI
 1 NAME Joyce Mary /Harris/
 1 SEX F
 1 DEAT
 2 DATE 14 JUL 1983
-1 FAMS @Fp161.e8@
-1 NOTE @Np161.e8@
+1 FAMS @Fp161.e9@
+1 NOTE @Np161.e9@
 0 @Ip162.e1.i1@ INDI
 1 NAME Brian Leslie /Williams/
 1 SEX M
@@ -6420,8 +6510,10 @@
 2 DATE 3 MAR 1987
 1 FAMC @Fp166.e1@
 0 @Ip166.e6.i1@ INDI
-1 NAME Martine Te Ahumai /Seymour/
+1 NAME Martine Te Ahumai Pitihira /Seymour/
 1 SEX F
+1 BIRT
+2 DATE 7 MAY 1968
 1 FAMC @Fp165.e7@
 1 FAMS @Fp166.e6@
 1 FAMS @Fp166.e7@
@@ -6429,51 +6521,58 @@
 0 @Ip166.e6.i2@ INDI
 1 NAME Paul Justin /Keller/
 1 SEX M
-1 BIRT
-2 DATE 7 MAY 1968
 1 FAMS @Fp166.e6@
 1 NOTE @Np166.e6@
 0 @Ip166.e7.i2@ INDI
-1 NAME Stephen /Moratti/
+1 NAME Stephen Tausia /Moratti/
 1 SEX M
+1 BIRT
+2 DATE 4 OCT 1941
 1 FAMS @Fp166.e7@
 1 NOTE @Np166.e7@
 0 @Ip166.e8.i1@ INDI
+1 NAME Jake Antonio /Moratti/
+1 SEX M
+1 BIRT
+2 DATE 22 JUL 1995
+1 FAMC @Fp166.e7@
+1 NOTE @Np166.e8@
+0 @Ip166.e9.i1@ INDI
 1 NAME Cecil Jeanette /Williams/
 1 SEX M
 1 BIRT
 2 DATE 8 FEB 1944
 1 FAMC @Fp162.e1@
-1 FAMS @Fp166.e8@
-1 NOTE @Np166.e8@
-0 @Ip166.e8.i2@ INDI
+1 FAMS @Fp166.e9@
+1 NOTE @Np166.e9@
+0 @Ip166.e9.i2@ INDI
 1 NAME Graham William /Blithe/
 1 SEX M
 1 BIRT
 2 DATE 20 OCT 1938
-1 FAMS @Fp166.e8@
-1 NOTE @Np166.e8@
-0 @Ip166.e9.i1@ INDI
+1 FAMS @Fp166.e9@
+1 NOTE @Np166.e9@
+0 @Ip166.e10.i1@ INDI
 1 NAME David Leslie /Blithe/
 1 SEX M
 1 BIRT
 2 DATE 6 FEB 1964
-1 FAMC @Fp166.e8@
-1 FAMS @Fp166.e9@
-1 NOTE @Np166.e9@
-0 @Ip166.e9.i2@ INDI
+1 FAMC @Fp166.e9@
+1 FAMS @Fp166.e10@
+1 NOTE @Np166.e10@
+0 @Ip166.e10.i2@ INDI
 1 NAME Melissa Margot-Marie /McEnnis/
 1 SEX F
 1 BIRT
 2 DATE 10 MAR 1964
-1 FAMS @Fp166.e9@
-1 NOTE @Np166.e9@
+1 FAMS @Fp166.e10@
+1 NOTE @Np166.e10@
 0 @Ip167.e1.i1@ INDI
 1 NAME Allan Noel /Blithe/
 1 SEX M
 1 BIRT
 2 DATE 9 JAN 1966
-1 FAMC @Fp166.e8@
+1 FAMC @Fp166.e9@
 1 FAMS @Fp167.e1@
 1 NOTE @Np167.e1@
 0 @Ip167.e1.i2@ INDI
@@ -6488,7 +6587,7 @@
 1 SEX M
 1 BIRT
 2 DATE 22 NOV 1971
-1 FAMC @Fp166.e8@
+1 FAMC @Fp166.e9@
 1 NOTE @Np167.e2@
 0 @Ip167.e3.i1@ INDI
 1 NAME Fritz Leslie /Williams/
@@ -6728,28 +6827,52 @@
 1 FAMS @Fp170.e2@
 1 NOTE @Np170.e2@
 0 @Ip170.e3.i1@ INDI
+1 NAME Lucy Anne /Williams/
+1 SEX F
+1 BIRT
+2 DATE 20 SEP 1964
+1 FAMC @Fp170.e2@
+0 @Ip170.e4.i1@ INDI
 1 NAME Patrick Henry /Williams/
 1 SEX M
 1 BIRT
 2 DATE 21 MAY 1966
 1 FAMC @Fp170.e2@
-0 @Ip170.e4.i1@ INDI
+0 @Ip170.e5.i1@ INDI
 1 NAME Celia Elizabeth /Williams/
 1 SEX F
 1 BIRT
 2 DATE 1944
 1 FAMC @Fp170.e1@
-0 @Ip170.e5.i1@ INDI
+0 @Ip170.e6.i1@ INDI
 1 NAME Sarah Amanda Maria /Williams/
 1 SEX F
 1 BIRT
 2 DATE 1947
 1 FAMC @Fp170.e1@
-1 FAMS @Fp170.e5@
-0 @Ip170.e5.i2@ INDI
+1 FAMS @Fp170.e6@
+0 @Ip170.e6.i2@ INDI
 1 NAME Douglas /Matthews/
 1 SEX M
-1 FAMS @Fp170.e5@
+1 FAMS @Fp170.e6@
+0 @Ip170.e7.i1@ INDI
+1 NAME Emma Gertrude /Williams/
+1 SEX F
+1 BIRT
+2 DATE 28 OCT 1866
+1 DEAT
+2 DATE 22 NOV 1959
+1 FAMC @Fp74.e1@
+1 NOTE @Np170.e7@
+0 @Ip170.e8.i1@ INDI
+1 NAME Ada Frances /Williams/
+1 SEX F
+1 BIRT
+2 DATE 6 MAY 1869
+1 DEAT
+2 DATE 18 DEC 1952
+1 FAMC @Fp74.e1@
+1 NOTE @Np170.e8@
 0 @Ip176.e2.i1@ INDI
 1 NAME George Henry /Davies/
 1 SEX M
@@ -6926,14 +7049,16 @@
 0 @Ip179.e5.i1@ INDI
 1 NAME John Douglas Geoffrey /Davies/
 1 SEX M
+1 BIRT
+2 DATE 3 FEB 1926
 1 FAMC @Fp177.e1@
 1 FAMS @Fp179.e5@
 1 NOTE @Np179.e5@
 0 @Ip179.e5.i2@ INDI
-1 NAME Gertrude Melba /Harris/
+1 NAME Gertrude Melba Elizabeth /Harris/
 1 SEX F
 1 BIRT
-2 DATE 3 FEB 1926
+2 DATE 30 MAR 1925
 1 FAMS @Fp179.e5@
 1 NOTE @Np179.e5@
 0 @Ip180.e1.i1@ INDI
@@ -6960,7 +7085,8 @@
 2 DATE 17 MAR 1949
 1 FAMC @Fp179.e5@
 1 FAMS @Fp180.e2@
-1 NOTE @Np180.e2@
+1 FAMS @Fp180.e5@
+1 NOTE @Np180.e5@
 0 @Ip180.e2.i2@ INDI
 1 NAME David Ian /McCormack/
 1 SEX M
@@ -6982,17 +7108,11 @@
 2 DATE 22 JAN 1978
 1 FAMC @Fp180.e2@
 1 NOTE @Np180.e4@
-0 @Ip180.e5.i1@ INDI
-1 NAME Kathleen Rosemary /Davies/
-1 SEX F
-1 FAMC @Fp179.e5@
-1 FAMS @Fp180.e5@
-1 NOTE @Np180.e5@
 0 @Ip180.e5.i2@ INDI
-1 NAME Murray /McLennan/
+1 NAME Murray Matthew /McLennan/
 1 SEX M
 1 BIRT
-2 DATE 17 MAR 1949
+2 DATE 12 JUN 1950
 1 FAMS @Fp180.e5@
 1 NOTE @Np180.e5@
 0 @Ip181.e1.i1@ INDI
@@ -7036,40 +7156,47 @@
 1 FAMC @Fp181.e3@
 1 NOTE @Np181.e5@
 0 @Ip181.e6.i1@ INDI
+1 NAME Adam Beaumont /Forbes/
+1 SEX M
+1 BIRT
+2 DATE 17 DEC 1984
+1 FAMC @Fp181.e3@
+1 NOTE @Np181.e6@
+0 @Ip181.e7.i1@ INDI
 1 NAME John Godfrey /Davies/
 1 SEX M
 1 BIRT
 2 DATE 17 NOV 1952
 1 FAMC @Fp179.e5@
-1 FAMS @Fp181.e6@
 1 FAMS @Fp181.e7@
-1 NOTE @Np181.e7@
-0 @Ip181.e6.i2@ INDI
+1 FAMS @Fp181.e8@
+1 NOTE @Np181.e8@
+0 @Ip181.e7.i2@ INDI
 1 NAME Deborah /Mathews/
 1 SEX F
 1 BIRT
 2 DATE 3 FEB 1953
-1 FAMS @Fp181.e6@
-1 NOTE @Np181.e6@
-0 @Ip181.e7.i2@ INDI
+1 FAMS @Fp181.e7@
+1 NOTE @Np181.e7@
+0 @Ip181.e8.i2@ INDI
 1 NAME Lynda Carmen /Hicks/
 1 SEX F
 1 BIRT
 2 DATE 18 SEP 1952
-1 FAMS @Fp181.e7@
-1 NOTE @Np181.e7@
-0 @Ip181.e8.i1@ INDI
+1 FAMS @Fp181.e8@
+1 NOTE @Np181.e8@
+0 @Ip181.e9.i1@ INDI
 1 NAME Samuel Godfrey /Davies/
 1 SEX M
 1 BIRT
 2 DATE 8 JUN 1984
-1 FAMC @Fp181.e7@
+1 FAMC @Fp181.e8@
 0 @Ip182.e1.i1@ INDI
 1 NAME Thomas Henry /Davies/
 1 SEX M
 1 BIRT
 2 DATE 11 JUL 1989
-1 FAMC @Fp181.e7@
+1 FAMC @Fp181.e8@
 0 @Ip182.e2.i1@ INDI
 1 NAME Phillip Geoffrey /Davies/
 1 SEX M
@@ -7510,75 +7637,96 @@
 2 DATE 18 AUG 1989
 1 FAMC @Fp192.e1@
 0 @Ip193.e1.i1@ INDI
+1 NAME Anthony Rhys /Vickerman/
+1 SEX M
+1 BIRT
+2 DATE 14 APR 1954
+1 FAMC @Fp191.e5@
+1 FAMS @Fp193.e1@
+1 NOTE @Np193.e1@
+0 @Ip193.e1.i2@ INDI
+1 NAME Raewyn Jean /Percival/
+1 BIRT
+2 DATE 25 NOV 1954
+1 FAMS @Fp193.e1@
+1 NOTE @Np193.e1@
+0 @Ip193.e2.i1@ INDI
 1 NAME Brooke Jean /Vickerman/
 1 SEX F
 1 BIRT
 2 DATE 20 AUG 1980
-1 FAMC @Fp192.e1@
-1 NOTE @Np193.e1@
-0 @Ip193.e2.i1@ INDI
+1 FAMC @Fp193.e1@
+1 NOTE @Np193.e2@
+0 @Ip193.e3.i1@ INDI
 1 NAME Hamish Anthony /Vickerman/
 1 SEX M
 1 BIRT
 2 DATE 28 JAN 1983
-1 FAMC @Fp192.e1@
-1 NOTE @Np193.e2@
-0 @Ip193.e3.i1@ INDI
+1 FAMC @Fp193.e1@
+1 NOTE @Np193.e3@
+0 @Ip193.e4.i1@ INDI
 1 NAME Kendyl Rose /Vickerman/
 1 BIRT
 2 DATE 5 JUN 1984
-1 FAMC @Fp192.e1@
-1 NOTE @Np193.e3@
-0 @Ip193.e4.i1@ INDI
+1 FAMC @Fp193.e1@
+1 NOTE @Np193.e4@
+0 @Ip193.e5.i1@ INDI
 1 NAME Judith Anne /Vickerman/
 1 SEX F
 1 BIRT
 2 DATE 4 AUG 1955
 1 FAMC @Fp191.e5@
-1 FAMS @Fp193.e4@
-1 NOTE @Np193.e4@
-0 @Ip193.e4.i2@ INDI
+1 FAMS @Fp193.e5@
+1 NOTE @Np193.e5@
+0 @Ip193.e5.i2@ INDI
 1 NAME Nicholas Peter /Bevin/
 1 SEX M
 1 BIRT
 2 DATE 18 SEP 1955
-1 FAMS @Fp193.e4@
-1 NOTE @Np193.e4@
+1 FAMS @Fp193.e5@
+1 NOTE @Np193.e5@
 0 @Ip194.e1.i1@ INDI
 1 NAME Hilary Ngawai /Bevin/
 1 SEX F
 1 BIRT
 2 DATE 15 MAR 1984
-1 FAMC @Fp193.e4@
+1 FAMC @Fp193.e5@
 1 NOTE @Np194.e1@
 0 @Ip194.e2.i1@ INDI
 1 NAME Sylvia Rose /Bevin/
 1 SEX F
 1 BIRT
 2 DATE 15 JAN 1987
-1 FAMC @Fp193.e4@
+1 FAMC @Fp193.e5@
 1 NOTE @Np194.e2@
 0 @Ip194.e3.i1@ INDI
+1 NAME George Alister Robert /Bevin/
+1 SEX M
+1 BIRT
+2 DATE 16 MAY 1989
+1 FAMC @Fp193.e5@
+1 NOTE @Np194.e3@
+0 @Ip194.e4.i1@ INDI
 1 NAME James Pearson /Davies/
 2 NICK Jim
 1 SEX M
 1 BIRT
 2 DATE 18 JAN 1927
 1 FAMC @Fp188.e5@
-1 FAMS @Fp194.e3@
-1 NOTE @Np194.e3@
-0 @Ip194.e3.i2@ INDI
+1 FAMS @Fp194.e4@
+1 NOTE @Np194.e4@
+0 @Ip194.e4.i2@ INDI
 1 NAME Loeta /Halse/
 1 BIRT
 2 DATE 19 SEP 1933
-1 FAMS @Fp194.e3@
-1 NOTE @Np194.e3@
+1 FAMS @Fp194.e4@
+1 NOTE @Np194.e4@
 0 @Ip195.e1.i1@ INDI
 1 NAME Megan /Davies/
 1 SEX F
 1 BIRT
 2 DATE 1 MAY 1959
-1 FAMC @Fp194.e3@
+1 FAMC @Fp194.e4@
 1 FAMS @Fp195.e1@
 1 NOTE @Np195.e1@
 0 @Ip195.e1.i2@ INDI
@@ -7599,7 +7747,7 @@
 1 SEX M
 1 BIRT
 2 DATE 14 MAR 1961
-1 FAMC @Fp194.e3@
+1 FAMC @Fp194.e4@
 1 FAMS @Fp195.e3@
 1 NOTE @Np195.e3@
 0 @Ip195.e3.i2@ INDI
@@ -7635,14 +7783,16 @@
 0 @Ip196.e1.i1@ INDI
 1 NAME Susan Margaret /Bramley/
 1 SEX F
+1 BIRT
+2 DATE 28 MAY 1960
 1 FAMC @Fp195.e5@
 1 FAMS @Fp196.e1@
 1 NOTE @Np196.e1@
 0 @Ip196.e1.i2@ INDI
-1 NAME Frederik /van der Vloodt/
+1 NAME Frederik Hendrik /van der Vloodt/
 1 SEX M
 1 BIRT
-2 DATE 28 MAY 1960
+2 DATE 23 JUL 1958
 1 FAMS @Fp196.e1@
 1 NOTE @Np196.e1@
 0 @Ip196.e2.i1@ INDI
@@ -7682,51 +7832,58 @@
 1 FAMC @Fp196.e4@
 1 NOTE @Np196.e5@
 0 @Ip197.e1.i1@ INDI
+1 NAME William Rhys /Bramley/
+1 SEX M
+1 BIRT
+2 DATE 3 JUL 1992
+1 FAMC @Fp196.e4@
+1 NOTE @Np197.e1@
+0 @Ip197.e2.i1@ INDI
 1 NAME Rebecca Julia /Bramley/
 1 SEX F
 1 BIRT
 2 DATE 7 JAN 1995
 1 FAMC @Fp196.e4@
-1 NOTE @Np197.e1@
-0 @Ip197.e2.i1@ INDI
+1 NOTE @Np197.e2@
+0 @Ip197.e3.i1@ INDI
 1 NAME Michael Guy /Bramley/
 1 SEX M
 1 BIRT
 2 DATE 24 MAR 1964
 1 FAMC @Fp195.e5@
-1 FAMS @Fp197.e2@
-1 NOTE @Np197.e2@
-0 @Ip197.e2.i2@ INDI
+1 FAMS @Fp197.e3@
+1 NOTE @Np197.e3@
+0 @Ip197.e3.i2@ INDI
 1 NAME Kiri Terehea /Norton/
 1 BIRT
 2 DATE 6 FEB 1966
-1 FAMS @Fp197.e2@
-1 NOTE @Np197.e2@
-0 @Ip197.e3.i1@ INDI
+1 FAMS @Fp197.e3@
+1 NOTE @Np197.e3@
+0 @Ip197.e4.i1@ INDI
 1 NAME Rhain Daniel /Bramley/
 1 SEX M
 1 BIRT
 2 DATE 7 DEC 1990
-1 FAMC @Fp197.e2@
-1 NOTE @Np197.e3@
-0 @Ip197.e4.i1@ INDI
+1 FAMC @Fp197.e3@
+1 NOTE @Np197.e4@
+0 @Ip197.e5.i1@ INDI
 1 NAME Rachel Stacey /Bramley/
 1 SEX F
 1 BIRT
 2 DATE 12 SEP 1994
-1 FAMC @Fp197.e2@
-1 NOTE @Np197.e4@
-0 @Ip197.e5.i1@ INDI
-1 NAME Thomas /Davies/
-1 SEX M
-1 FAMC @Fp176.e2@
+1 FAMC @Fp197.e3@
 1 NOTE @Np197.e5@
 0 @Ip197.e6.i1@ INDI
-1 NAME Henry /Davies/
+1 NAME Thomas /Davies/
 1 SEX M
 1 FAMC @Fp176.e2@
 1 NOTE @Np197.e6@
 0 @Ip197.e7.i1@ INDI
+1 NAME Henry /Davies/
+1 SEX M
+1 FAMC @Fp176.e2@
+1 NOTE @Np197.e7@
+0 @Ip197.e8.i1@ INDI
 1 NAME Henry /Davies/
 1 SEX M
 1 BIRT
@@ -7734,7 +7891,7 @@
 1 DEAT
 2 DATE 19 FEB 1918
 1 FAMC @Fp75.e1@
-1 NOTE @Np197.e7@
+1 NOTE @Np197.e8@
 0 @Ip198.e1.i1@ INDI
 1 NAME Marianne Caroline /Davies/
 1 SEX F
@@ -7840,46 +7997,70 @@
 1 FAMC @Fp199.e2@
 1 NOTE @Np199.e3@
 0 @Ip199.e4.i1@ INDI
+1 NAME David Alexander Simon /Hodson/
+1 SEX M
+1 BIRT
+2 DATE 10 JAN 1986
+1 FAMC @Fp199.e2@
+1 NOTE @Np199.e4@
+0 @Ip199.e5.i1@ INDI
 1 NAME Rosemary Elizabeth Marion /Hodson/
 1 SEX F
 1 BIRT
 2 DATE 14 OCT 1989
 1 FAMC @Fp199.e2@
-1 NOTE @Np199.e4@
-0 @Ip199.e5.i1@ INDI
-1 NAME Caroline Louise /Poore/
-1 SEX F
-1 FAMC @Fp199.e1@
-1 FAMS @Fp199.e5@
-1 NOTE @Np199.e5@
-0 @Ip199.e5.i2@ INDI
-1 NAME Montgomery /Spencer/
-1 SEX M
-1 BIRT
-2 DATE 31 MAR 1955
-1 FAMS @Fp199.e5@
 1 NOTE @Np199.e5@
 0 @Ip199.e6.i1@ INDI
+1 NAME Caroline Louise /Poore/
+1 SEX F
+1 BIRT
+2 DATE 31 MAR 1955
+1 FAMC @Fp199.e1@
+1 FAMS @Fp199.e6@
+1 NOTE @Np199.e6@
+0 @Ip199.e6.i2@ INDI
+1 NAME Montgomery Martyn /Spencer/
+1 SEX M
+1 BIRT
+2 DATE 30 AUG 1951
+1 FAMS @Fp199.e6@
+1 NOTE @Np199.e6@
+0 @Ip199.e7.i1@ INDI
 1 NAME Fergus Montgomery /Spencer/
 1 SEX M
 1 BIRT
 2 DATE 19 AUG 1983
-1 FAMC @Fp199.e5@
-1 NOTE @Np199.e6@
-0 @Ip199.e7.i1@ INDI
+1 FAMC @Fp199.e6@
+1 NOTE @Np199.e7@
+0 @Ip199.e8.i1@ INDI
 1 NAME Guy Barrett /Spencer/
 1 SEX M
 1 BIRT
 2 DATE 17 NOV 1985
-1 FAMC @Fp199.e5@
-1 NOTE @Np199.e7@
-0 @Ip199.e8.i1@ INDI
+1 FAMC @Fp199.e6@
+1 NOTE @Np199.e8@
+0 @Ip199.e9.i1@ INDI
+1 NAME Elizabeth Julia /Poore/
+1 SEX F
+1 BIRT
+2 DATE 16 MAR 1957
+1 FAMC @Fp199.e1@
+1 FAMS @Fp199.e9@
+1 NOTE @Np199.e9@
+0 @Ip199.e9.i2@ INDI
+1 NAME John Paul /Wilson/
+1 SEX M
+1 BIRT
+2 DATE 5 OCT 1955
+1 FAMS @Fp199.e9@
+1 NOTE @Np199.e9@
+0 @Ip199.e10.i1@ INDI
 1 NAME John Bernard /Wilson/
 1 SEX M
 1 BIRT
 2 DATE 28 JUL 1984
-1 FAMC @Fp199.e5@
-1 NOTE @Np199.e8@
+1 FAMC @Fp199.e9@
+1 NOTE @Np199.e10@
 0 @Ip200.e1.i1@ INDI
 1 NAME Judith Rosamund /Poore/
 1 SEX F
@@ -7903,6 +8084,13 @@
 1 FAMC @Fp200.e1@
 1 NOTE @Np200.e2@
 0 @Ip200.e3.i1@ INDI
+1 NAME Emily /Pierce/
+1 SEX F
+1 BIRT
+2 DATE 6 JAN 1986
+1 FAMC @Fp200.e1@
+1 NOTE @Np200.e3@
+0 @Ip200.e4.i1@ INDI
 1 NAME Elizabeth Barrett /Canning/
 1 SEX F
 1 BIRT
@@ -7910,87 +8098,103 @@
 1 DEAT
 2 DATE 3 JUN 1986
 1 FAMC @Fp198.e4@
-1 FAMS @Fp200.e3@
-1 NOTE @Np200.e3@
-0 @Ip200.e3.i2@ INDI
+1 FAMS @Fp200.e4@
+1 NOTE @Np200.e4@
+0 @Ip200.e4.i2@ INDI
 1 NAME John Scott /Muspratt/
 1 SEX M
 1 BIRT
 2 DATE 16 OCT 1925
-1 FAMS @Fp200.e3@
-1 NOTE @Np200.e3@
-0 @Ip200.e4.i1@ INDI
+1 FAMS @Fp200.e4@
+1 NOTE @Np200.e4@
+0 @Ip200.e5.i1@ INDI
 1 NAME Emma Susanna /Muspratt/
 1 SEX F
 1 BIRT
 2 DATE 22 OCT 1959
-1 FAMC @Fp200.e3@
-1 FAMS @Fp200.e4@
-1 NOTE @Np200.e4@
-0 @Ip200.e4.i2@ INDI
+1 FAMC @Fp200.e4@
+1 FAMS @Fp200.e5@
+1 NOTE @Np200.e5@
+0 @Ip200.e5.i2@ INDI
 1 NAME Jillian Lawrence /Sainty/
 1 SEX F
 1 BIRT
 2 DATE 12 AUG 1953
-1 FAMS @Fp200.e4@
-1 NOTE @Np200.e4@
-0 @Ip200.e5.i1@ INDI
+1 FAMS @Fp200.e5@
+1 NOTE @Np200.e5@
+0 @Ip200.e6.i1@ INDI
 1 NAME James Stair /Sainty/
 1 SEX M
 1 BIRT
 2 DATE 25 APR 1987
-1 FAMC @Fp200.e4@
-0 @Ip200.e6.i1@ INDI
+1 FAMC @Fp200.e5@
+0 @Ip200.e7.i1@ INDI
+1 NAME Alexander Charles /Sainty/
+1 SEX M
+1 BIRT
+2 DATE 4 AUG 1989
+1 FAMC @Fp200.e5@
+0 @Ip200.e8.i1@ INDI
 1 NAME Isabella Louise /Sainty/
 1 SEX F
 1 BIRT
 2 DATE 1 FEB 1996
-1 FAMC @Fp200.e4@
-0 @Ip200.e7.i1@ INDI
+1 FAMC @Fp200.e5@
+0 @Ip200.e9.i1@ INDI
 1 NAME Belinda Ann /Muspratt/
 1 SEX F
 1 BIRT
 2 DATE 10 DEC 1960
-1 FAMC @Fp200.e3@
-1 FAMS @Fp200.e7@
-1 NOTE @Np200.e7@
-0 @Ip200.e7.i2@ INDI
+1 FAMC @Fp200.e4@
+1 FAMS @Fp200.e9@
+1 NOTE @Np200.e9@
+0 @Ip200.e9.i2@ INDI
 1 NAME Jonathon /Rayner/
 1 SEX M
 1 BIRT
 2 DATE 21 JUN 1959
-1 FAMS @Fp200.e7@
-1 NOTE @Np200.e7@
-0 @Ip200.e8.i1@ INDI
+1 FAMS @Fp200.e9@
+1 NOTE @Np200.e9@
+0 @Ip200.e10.i1@ INDI
 1 NAME Alexander Machon /Rayner/
 1 SEX M
 1 BIRT
 2 DATE 6 APR 1993
-1 FAMC @Fp200.e7@
-0 @Ip200.e9.i1@ INDI
+1 FAMC @Fp200.e9@
+0 @Ip200.e11.i1@ INDI
 1 NAME Nicholai William Hockin /Rayner/
 1 BIRT
 2 DATE 24 JUN 1995
-1 FAMC @Fp200.e7@
-0 @Ip200.e10.i1@ INDI
+1 FAMC @Fp200.e9@
+0 @Ip200.e12.i1@ INDI
 1 NAME James Canning /Muspratt/
 1 SEX M
 1 BIRT
 2 DATE 18 JUN 1962
-1 FAMC @Fp200.e3@
+1 FAMC @Fp200.e4@
 0 @Ip201.e1.i1@ INDI
 1 NAME Christopher /Muspratt/
 1 SEX M
-1 FAMC @Fp200.e3@
+1 FAMC @Fp200.e4@
 0 @Ip201.e2.i1@ INDI
 1 NAME Elsie Mary McQueen /Canning/
+2 NICK Nunie
 1 SEX F
+1 BIRT
+2 DATE 31 JUL 1898
+1 DEAT
+2 DATE 17 NOV 1987
 1 FAMC @Fp198.e3@
 1 FAMS @Fp201.e2@
 1 NOTE @Np201.e2@
 0 @Ip201.e2.i2@ INDI
-1 NAME Thomas Herbert /Wynne - Lewis/
+1 NAME Thomas Herbert /Wynne-Lewis/
+2 NICK Toc
 1 SEX M
+1 BIRT
+2 DATE 18 JUN 1897
+1 DEAT
+2 DATE 9 JUN 1992
 1 FAMS @Fp201.e2@
 1 NOTE @Np201.e2@
 0 @Ip201.e3.i1@ INDI
@@ -8009,7 +8213,7 @@
 1 FAMS @Fp201.e3@
 1 NOTE @Np201.e3@
 0 @Ip201.e4.i1@ INDI
-1 NAME Peter Thomas /Wynne - Lewis/
+1 NAME Peter Thomas /Wynne-Lewis/
 1 SEX M
 1 BIRT
 2 DATE 16 FEB 1959
@@ -8024,20 +8228,20 @@
 1 FAMS @Fp201.e4@
 1 NOTE @Np201.e4@
 0 @Ip201.e5.i1@ INDI
-1 NAME Gemma Kate /Wynne -Lewis/
+1 NAME Gemma Kate /Wynne-Lewis/
 1 SEX F
 1 BIRT
 2 DATE 3 JUL 1991
 1 FAMC @Fp201.e4@
 0 @Ip201.e6.i1@ INDI
-1 NAME Robyn Joan /Wynne - Lewis/
+1 NAME Robyn Joan /Wynne-Lewis/
 1 SEX F
 1 BIRT
 2 DATE 20 MAY 1960
 1 FAMC @Fp201.e3@
 1 NOTE @Np201.e6@
 0 @Ip201.e7.i1@ INDI
-1 NAME Susan /Wynne -Lewis/
+1 NAME Susan /Wynne-Lewis/
 1 SEX F
 1 BIRT
 2 DATE 30 JUL 1961
@@ -8073,41 +8277,44 @@
 2 DATE 11 OCT 1991
 1 FAMC @Fp201.e7@
 0 @Ip202.e4.i1@ INDI
-1 NAME Richard /Wynne - Lewis/
+1 NAME Richard Eric /Wynne-Lewis/
 1 SEX M
+1 BIRT
+2 DATE 11 FEB 1963
 1 FAMC @Fp201.e3@
 1 FAMS @Fp202.e4@
 1 NOTE @Np202.e4@
 0 @Ip202.e4.i2@ INDI
 1 NAME Alessandra Mary /Lowry/
+2 NICK Sana
 1 SEX F
-1 FAMC @Fp617.e1@
+1 BIRT
+2 DATE 21 SEP 1965
 1 FAMS @Fp202.e4@
-1 FAMS @Fp617.e4@
-1 NOTE @Np617.e4@
+1 NOTE @Np202.e4@
 0 @Ip202.e5.i1@ INDI
-1 NAME Harry Thomas /Wynne - Lewis/
+1 NAME Harry Thomas /Wynne-Lewis/
 1 SEX M
 1 BIRT
 2 DATE 15 MAY 1990
 1 FAMC @Fp202.e4@
 1 NOTE @Np202.e5@
 0 @Ip202.e6.i1@ INDI
-1 NAME Tom Huw /Wynne -Lewis/
+1 NAME Tom Huw /Wynne-Lewis/
 1 SEX M
 1 BIRT
 2 DATE 4 MAR 1992
 1 FAMC @Fp202.e4@
 1 NOTE @Np202.e6@
 0 @Ip202.e7.i1@ INDI
-1 NAME Timothy David /Wynne - Lewis/
+1 NAME Timothy David /Wynne-Lewis/
 1 SEX M
 1 BIRT
 2 DATE 19 OCT 1967
 1 FAMC @Fp201.e3@
 1 NOTE @Np202.e7@
 0 @Ip202.e8.i1@ INDI
-1 NAME John /Wynne - Lewis/
+1 NAME John /Wynne-Lewis/
 1 SEX M
 1 BIRT
 2 DATE 5 SEP 1935
@@ -8122,14 +8329,14 @@
 1 FAMS @Fp202.e8@
 1 NOTE @Np202.e8@
 0 @Ip203.e1.i1@ INDI
-1 NAME Jonathan /Wynne -Lewis/
+1 NAME Jonathan /Wynne-Lewis/
 1 SEX M
 1 BIRT
 2 DATE 13 OCT 1965
 1 FAMC @Fp202.e8@
 1 NOTE @Np203.e1@
 0 @Ip203.e2.i1@ INDI
-1 NAME Katherine /Wynne - Lewis/
+1 NAME Katherine /Wynne-Lewis/
 1 SEX F
 1 BIRT
 2 DATE 27 JUN 1968
@@ -8164,7 +8371,10 @@
 1 NOTE @Np203.e4@
 0 @Ip203.e5.i1@ INDI
 1 NAME Beatrix Busby /Canning/
+2 NICK Betty
 1 SEX F
+1 BIRT
+2 DATE 29 JAN 1905
 1 FAMC @Fp198.e3@
 1 FAMS @Fp203.e5@
 1 NOTE @Np203.e5@
@@ -8173,7 +8383,9 @@
 2 NICK Pat
 1 SEX M
 1 BIRT
-2 DATE 29 JAN 1905
+2 DATE 15 MAY 1899
+1 DEAT
+2 DATE 21 NOV 1976
 1 FAMS @Fp203.e5@
 1 NOTE @Np203.e5@
 0 @Ip203.e6.i1@ INDI
@@ -8383,35 +8595,42 @@
 1 FAMC @Fp206.e2@
 1 NOTE @Np206.e3@
 0 @Ip206.e4.i1@ INDI
+1 NAME John Robert /Phillips/
+1 SEX M
+1 BIRT
+2 DATE 19 JUL 1981
+1 FAMC @Fp206.e2@
+1 NOTE @Np206.e4@
+0 @Ip206.e5.i1@ INDI
 1 NAME John Robert /Canning/
 1 SEX M
 1 BIRT
 2 DATE 5 MAY 1955
 1 FAMC @Fp205.e2@
-1 FAMS @Fp206.e4@
-1 NOTE @Np206.e4@
-0 @Ip206.e4.i2@ INDI
+1 FAMS @Fp206.e5@
+1 NOTE @Np206.e5@
+0 @Ip206.e5.i2@ INDI
 1 NAME Bridget Diana /Maunsell/
 1 SEX F
 1 BIRT
 2 DATE 12 AUG 1957
-1 FAMS @Fp206.e4@
-1 NOTE @Np206.e4@
-0 @Ip206.e5.i1@ INDI
+1 FAMS @Fp206.e5@
+1 NOTE @Np206.e5@
+0 @Ip206.e6.i1@ INDI
 1 NAME Simon Davis /Canning/
 1 SEX M
 1 BIRT
 2 DATE 10 AUG 1982
-1 FAMC @Fp206.e4@
-1 NOTE @Np206.e5@
-0 @Ip206.e6.i1@ INDI
+1 FAMC @Fp206.e5@
+1 NOTE @Np206.e6@
+0 @Ip206.e7.i1@ INDI
 1 NAME Diana Bridget /Canning/
 1 SEX F
 1 BIRT
 2 DATE 12 FEB 1984
-1 FAMC @Fp206.e4@
-1 NOTE @Np206.e6@
-0 @Ip206.e7.i1@ INDI
+1 FAMC @Fp206.e5@
+1 NOTE @Np206.e7@
+0 @Ip206.e8.i1@ INDI
 1 NAME Elsie /Busby/
 1 SEX F
 1 BIRT
@@ -8419,8 +8638,8 @@
 1 DEAT
 2 DATE 4 OCT 1942
 1 FAMC @Fp198.e1@
-1 NOTE @Np206.e7@
-0 @Ip206.e8.i1@ INDI
+1 NOTE @Np206.e8@
+0 @Ip206.e9.i1@ INDI
 1 NAME Beatrice /Busby/
 1 SEX F
 1 BIRT
@@ -8428,31 +8647,33 @@
 1 DEAT
 2 DATE 11 MAR 1969
 1 FAMC @Fp198.e1@
-1 FAMS @Fp206.e8@
-1 NOTE @Np206.e8@
-0 @Ip206.e8.i2@ INDI
+1 FAMS @Fp206.e9@
+1 NOTE @Np206.e9@
+0 @Ip206.e9.i2@ INDI
 1 NAME Charles Toms /Jefferd/
 1 SEX M
 1 BIRT
 2 DATE 18 OCT 1889
 1 DEAT
 2 DATE 4 SEP 1978
-1 FAMS @Fp206.e8@
-1 NOTE @Np206.e8@
+1 FAMS @Fp206.e9@
+1 NOTE @Np206.e9@
 0 @Ip207.e1.i1@ INDI
 1 NAME John Busby /Jefferd/
 2 NICK Jack
 1 SEX M
-1 FAMC @Fp206.e8@
-1 FAMS @Fp207.e1@
-1 NOTE @Np207.e1@
-0 @Ip207.e1.i2@ INDI
-1 NAME Margaret Shirley /Reeves/
-1 SEX F
 1 BIRT
 2 DATE 19 JUL 1918
 1 DEAT
 2 DATE 11 SEP 1981
+1 FAMC @Fp206.e9@
+1 FAMS @Fp207.e1@
+1 NOTE @Np207.e1@
+0 @Ip207.e1.i2@ INDI
+1 NAME Margaret Shirley Leigh /Reeves/
+1 SEX F
+1 BIRT
+2 DATE 23 APR 1924
 1 FAMS @Fp207.e1@
 1 NOTE @Np207.e1@
 0 @Ip207.e2.i1@ INDI
@@ -8512,14 +8733,16 @@
 0 @Ip207.e8.i1@ INDI
 1 NAME Patricia Anne /Jefferd/
 1 SEX F
+1 BIRT
+2 DATE 29 AUG 1950
 1 FAMC @Fp207.e1@
 1 FAMS @Fp207.e8@
 1 NOTE @Np207.e8@
 0 @Ip207.e8.i2@ INDI
-1 NAME Nicholas /Girling - Butcher/
+1 NAME Nicholas John /Girling-Butcher/
 1 SEX M
 1 BIRT
-2 DATE 29 AUG 1950
+2 DATE 27 JUN 1950
 1 FAMS @Fp207.e8@
 1 NOTE @Np207.e8@
 0 @Ip208.e1.i1@ INDI
@@ -8530,80 +8753,89 @@
 1 FAMC @Fp207.e8@
 1 NOTE @Np208.e1@
 0 @Ip208.e2.i1@ INDI
+1 NAME Louis James Jefferd /Girling-Butcher/
+1 SEX M
+1 BIRT
+2 DATE 18 JUL 1985
+1 FAMC @Fp207.e8@
+1 NOTE @Np208.e2@
+0 @Ip208.e3.i1@ INDI
 1 NAME Rosemary Margaret /Jefferd/
 1 SEX F
 1 BIRT
 2 DATE 26 MAR 1952
 1 FAMC @Fp207.e1@
-1 FAMS @Fp208.e2@
-1 NOTE @Np208.e2@
-0 @Ip208.e2.i2@ INDI
+1 FAMS @Fp208.e3@
+1 NOTE @Np208.e3@
+0 @Ip208.e3.i2@ INDI
 1 NAME Colin Stanley /Pettigrew/
 1 SEX M
 1 BIRT
 2 DATE 10 JUL 1948
-1 FAMS @Fp208.e2@
-1 NOTE @Np208.e2@
-0 @Ip208.e3.i1@ INDI
+1 FAMS @Fp208.e3@
+1 NOTE @Np208.e3@
+0 @Ip208.e4.i1@ INDI
 1 NAME Alice Sarah /Pettigrew/
 1 SEX F
 1 BIRT
 2 DATE 21 FEB 1977
-1 FAMC @Fp208.e2@
-1 NOTE @Np208.e3@
-0 @Ip208.e4.i1@ INDI
+1 FAMC @Fp208.e3@
+1 NOTE @Np208.e4@
+0 @Ip208.e5.i1@ INDI
 1 NAME Anna Margaret /Pettigrew/
 1 SEX F
 1 BIRT
 2 DATE 27 MAY 1979
-1 FAMC @Fp208.e2@
-1 NOTE @Np208.e4@
-0 @Ip208.e5.i1@ INDI
+1 FAMC @Fp208.e3@
+1 NOTE @Np208.e5@
+0 @Ip208.e6.i1@ INDI
 1 NAME Emily Rose /Pettigrew/
 1 SEX F
 1 BIRT
 2 DATE 9 MAY 1982
-1 FAMC @Fp208.e2@
-1 NOTE @Np208.e5@
-0 @Ip208.e6.i1@ INDI
+1 FAMC @Fp208.e3@
+1 NOTE @Np208.e6@
+0 @Ip208.e7.i1@ INDI
 1 NAME Andrew Charles Reeves /Jefferd/
 1 SEX M
 1 BIRT
 2 DATE 13 JUN 1953
 1 FAMC @Fp207.e1@
-1 FAMS @Fp208.e6@
-1 NOTE @Np208.e6@
-0 @Ip208.e6.i2@ INDI
+1 FAMS @Fp208.e7@
+1 NOTE @Np208.e7@
+0 @Ip208.e7.i2@ INDI
 1 NAME Sally Janet /Rattray/
 1 SEX F
 1 BIRT
 2 DATE 13 DEC 1955
-1 FAMS @Fp208.e6@
-1 NOTE @Np208.e6@
-0 @Ip208.e7.i1@ INDI
+1 FAMS @Fp208.e7@
+1 NOTE @Np208.e7@
+0 @Ip208.e8.i1@ INDI
 1 NAME Julia Florence /Jefferd/
 1 SEX F
 1 BIRT
 2 DATE 16 FEB 1983
-1 FAMC @Fp208.e6@
-1 NOTE @Np208.e7@
-0 @Ip208.e8.i1@ INDI
+1 FAMC @Fp208.e7@
+1 NOTE @Np208.e8@
+0 @Ip208.e9.i1@ INDI
 1 NAME John Reeves Rattray /Jefferd/
 1 SEX M
 1 BIRT
 2 DATE 24 JAN 1985
-1 FAMC @Fp208.e6@
-1 NOTE @Np208.e8@
-0 @Ip208.e9.i1@ INDI
+1 FAMC @Fp208.e7@
+1 NOTE @Np208.e9@
+0 @Ip208.e10.i1@ INDI
 1 NAME Edward Michael /Jefferd/
 1 SEX M
 1 BIRT
 2 DATE 5 JUN 1988
-1 FAMC @Fp208.e6@
-1 NOTE @Np208.e9@
+1 FAMC @Fp208.e7@
+1 NOTE @Np208.e10@
 0 @Ip209.e1.i1@ INDI
-1 NAME Bruce Donald /Jefferd/
+1 NAME Bruce Donald Reeves /Jefferd/
 1 SEX M
+1 BIRT
+2 DATE 24 SEP 1959
 1 FAMC @Fp207.e1@
 1 FAMS @Fp209.e1@
 1 NOTE @Np209.e1@
@@ -8611,7 +8843,7 @@
 1 NAME Nicola Margaret /Robinson/
 1 SEX F
 1 BIRT
-2 DATE 24 SEP 1959
+2 DATE 5 AUG 1960
 1 FAMS @Fp209.e1@
 1 NOTE @Np209.e1@
 0 @Ip209.e2.i1@ INDI
@@ -8676,7 +8908,7 @@
 1 SEX M
 1 BIRT
 2 DATE 6 FEB 1921
-1 FAMC @Fp206.e8@
+1 FAMC @Fp206.e9@
 1 FAMS @Fp209.e9@
 1 NOTE @Np209.e9@
 0 @Ip209.e9.i2@ INDI
@@ -8856,35 +9088,39 @@
 1 FAMS @Fp211.e6@
 1 NOTE @Np211.e6@
 0 @Ip211.e7.i1@ INDI
+1 NAME Paula /Nairn/
+1 SEX F
+1 FAMC @Fp211.e6@
+0 @Ip211.e8.i1@ INDI
 1 NAME Tam /Nairn/
 1 SEX M
 1 FAMC @Fp211.e6@
-0 @Ip211.e8.i1@ INDI
+0 @Ip211.e9.i1@ INDI
 1 NAME Bryce /Cowan/
 1 SEX M
 1 BIRT
 2 DATE 24 NOV 1954
 1 FAMC @Fp211.e5@
-1 FAMS @Fp211.e8@
-1 NOTE @Np211.e8@
-0 @Ip211.e8.i2@ INDI
+1 FAMS @Fp211.e9@
+1 NOTE @Np211.e9@
+0 @Ip211.e9.i2@ INDI
 1 NAME Maire /Blundell/
 1 SEX F
-1 FAMS @Fp211.e8@
-1 NOTE @Np211.e8@
-0 @Ip211.e9.i1@ INDI
+1 FAMS @Fp211.e9@
+1 NOTE @Np211.e9@
+0 @Ip211.e10.i1@ INDI
 1 NAME Heidi /Collins-Cowan/
 1 SEX F
 1 BIRT
 2 DATE 1977
-1 FAMC @Fp211.e8@
-1 NOTE @Np211.e9@
-0 @Ip211.e10.i1@ INDI
+1 FAMC @Fp211.e9@
+1 NOTE @Np211.e10@
+0 @Ip211.e11.i1@ INDI
 1 NAME Paul /Cowan/
 1 SEX M
 1 BIRT
 2 DATE 1978
-1 FAMC @Fp211.e8@
+1 FAMC @Fp211.e9@
 0 @Ip212.e1.i1@ INDI
 1 NAME John Gordon /Busby/
 1 SEX M
@@ -8962,8 +9198,10 @@
 1 FAMC @Fp212.e1@
 1 NOTE @Np212.e8@
 0 @Ip213.e1.i1@ INDI
-1 NAME Richard Alexander /Busby/
+1 NAME Richard Alexander Dearden /Busby/
 1 SEX M
+1 BIRT
+2 DATE 8 JAN 1956
 1 FAMC @Fp212.e1@
 1 FAMS @Fp213.e1@
 1 NOTE @Np213.e1@
@@ -8971,7 +9209,7 @@
 1 NAME Janet Robyn /Wilson/
 1 SEX F
 1 BIRT
-2 DATE 8 JAN 1956
+2 DATE 24 OCT 1958
 1 FAMS @Fp213.e1@
 1 NOTE @Np213.e1@
 0 @Ip213.e2.i1@ INDI
@@ -9040,28 +9278,41 @@
 1 FAMC @Fp213.e5@
 1 NOTE @Np214.e2@
 0 @Ip214.e3.i1@ INDI
+1 NAME Donald Richard /Sinclair/
+1 SEX M
+1 BIRT
+2 DATE 27 SEP 1949
+1 FAMC @Fp213.e4@
+1 FAMS @Fp214.e3@
+1 NOTE @Np214.e3@
+0 @Ip214.e3.i2@ INDI
+1 NAME Lindsay /Cleland/
+1 SEX F
+1 FAMS @Fp214.e3@
+1 NOTE @Np214.e3@
+0 @Ip214.e4.i1@ INDI
 1 NAME Deborah Jane /Sinclair/
 1 SEX F
 1 BIRT
 2 DATE 20 APR 1974
-1 FAMC @Fp213.e5@
-1 NOTE @Np214.e3@
-0 @Ip214.e4.i1@ INDI
+1 FAMC @Fp214.e3@
+1 NOTE @Np214.e4@
+0 @Ip214.e5.i1@ INDI
 1 NAME Victoria Ray /Sinclair/
 1 SEX F
 1 BIRT
 2 DATE 3 APR 1951
 1 FAMC @Fp213.e4@
-1 FAMS @Fp214.e4@
-1 NOTE @Np214.e4@
-0 @Ip214.e4.i2@ INDI
+1 FAMS @Fp214.e5@
+1 NOTE @Np214.e5@
+0 @Ip214.e5.i2@ INDI
 1 NAME Frederick /Grosse/
 1 SEX M
 1 BIRT
 2 DATE 22 MAY 1936
-1 FAMS @Fp214.e4@
-1 NOTE @Np214.e4@
-0 @Ip214.e5.i1@ INDI
+1 FAMS @Fp214.e5@
+1 NOTE @Np214.e5@
+0 @Ip214.e6.i1@ INDI
 1 NAME Helen /Busby/
 1 SEX F
 1 BIRT
@@ -9069,8 +9320,8 @@
 1 DEAT
 2 DATE 16 APR 1968
 1 FAMC @Fp198.e1@
-1 NOTE @Np214.e5@
-0 @Ip214.e6.i1@ INDI
+1 NOTE @Np214.e6@
+0 @Ip214.e7.i1@ INDI
 1 NAME Eleanor Maud /Busby/
 2 NICK Lena
 1 SEX F
@@ -9079,23 +9330,23 @@
 1 DEAT
 2 DATE 16 NOV 1968
 1 FAMC @Fp198.e1@
-1 FAMS @Fp214.e6@
-1 NOTE @Np214.e6@
-0 @Ip214.e6.i2@ INDI
+1 FAMS @Fp214.e7@
+1 NOTE @Np214.e7@
+0 @Ip214.e7.i2@ INDI
 1 NAME Frederic Reader /Jefferd/
 1 SEX M
 1 BIRT
 2 DATE 4 JUL 1886
 1 DEAT
 2 DATE 11 NOV 1970
-1 FAMS @Fp214.e6@
-1 NOTE @Np214.e6@
+1 FAMS @Fp214.e7@
+1 NOTE @Np214.e7@
 0 @Ip215.e1.i1@ INDI
 1 NAME Janet Mary /Jefferd/
 1 SEX F
 1 BIRT
 2 DATE 25 MAY 1918
-1 FAMC @Fp214.e6@
+1 FAMC @Fp214.e7@
 1 FAMS @Fp215.e1@
 1 NOTE @Np215.e1@
 0 @Ip215.e1.i2@ INDI
@@ -9176,7 +9427,7 @@
 1 SEX M
 1 BIRT
 2 DATE 25 AUG 1920
-1 FAMC @Fp214.e6@
+1 FAMC @Fp214.e7@
 1 FAMS @Fp216.e3@
 1 NOTE @Np216.e3@
 0 @Ip216.e3.i2@ INDI
@@ -9415,7 +9666,10 @@
 1 NOTE @Np219.e1@
 0 @Ip219.e2.i1@ INDI
 1 NAME Joanna Mary /Willock/
+2 NICK Janna
 1 SEX F
+1 BIRT
+2 DATE 21 APR 1972
 1 FAMC @Fp219.e1@
 1 FAMS @Fp219.e2@
 1 NOTE @Np219.e2@
@@ -9423,7 +9677,7 @@
 1 NAME Michael Lowther /Broad/
 1 SEX M
 1 BIRT
-2 DATE 21 APR 1972
+2 DATE 23 JAN 1969
 1 FAMS @Fp219.e2@
 1 NOTE @Np219.e2@
 0 @Ip219.e3.i1@ INDI
@@ -10242,7 +10496,7 @@
 1 FAMC @Fp233.e5@
 1 NOTE @Np233.e6@
 0 @Ip233.e7.i1@ INDI
-1 NAME Henry Thomas /Williams - Porteous/
+1 NAME Henry Thomas /Williams-Porteous/
 1 SEX M
 1 BIRT
 2 DATE 10 FEB 1997
@@ -12728,7 +12982,7 @@
 1 FAMS @Fp272.e2@
 1 NOTE @Np272.e2@
 0 @Ip272.e2.i2@ INDI
-1 NAME Edward Lindsay /Orr- Ewing/
+1 NAME Edward Lindsay /Orr-Ewing/
 1 SEX M
 1 BIRT
 2 DATE 1898
@@ -14127,7 +14381,7 @@
 1 FAMS @Fp292.e5@
 1 NOTE @Np292.e5@
 0 @Ip292.e6.i1@ INDI
-1 NAME Sabina ThéRèSe /Fortescue/
+1 NAME Sabina Thérèse /Fortescue/
 1 SEX F
 1 BIRT
 2 DATE 23 SEP 1973
@@ -14261,7 +14515,7 @@
 1 FAMS @Fp294.e7@
 1 NOTE @Np294.e7@
 0 @Ip294.e7.i2@ INDI
-1 NAME Roger Richmond /Ashley -Wilson/
+1 NAME Roger Richmond /Ashley-Wilson/
 1 SEX M
 1 BIRT
 2 DATE 5 OCT 1941
@@ -14274,7 +14528,7 @@
 2 DATE 14 SEP 1968
 1 FAMC @Fp294.e7@
 0 @Ip294.e9.i1@ INDI
-1 NAME Paul /Ashley - Wilson/
+1 NAME Paul /Ashley-Wilson/
 1 SEX M
 1 BIRT
 2 DATE 1 SEP 1970
@@ -21666,7 +21920,8 @@
 1 FAMC @Fp484.e5@
 1 NOTE @Np484.e8@
 0 @Ip485.e1.i1@ INDI
-1 NAME RenéE Louise /Drysdale/
+1 NAME Renée Louise /Drysdale/
+1 SEX F
 1 BIRT
 2 DATE 25 JAN 1994
 1 FAMC @Fp484.e5@
@@ -23085,7 +23340,7 @@
 1 FAMS @Fp501.e6@
 1 NOTE @Np501.e6@
 0 @Ip501.e4.i2@ INDI
-1 NAME Adrien /Seldon - Truss/
+1 NAME Adrien /Seldon-Truss/
 1 SEX M
 1 BIRT
 2 DATE 1928
@@ -23423,7 +23678,7 @@
 1 FAMC @Fp509.e3@
 1 NOTE @Np510.e1@
 0 @Ip510.e2.i1@ INDI
-1 NAME Danielle Kiri - Hana Daisy /Green/
+1 NAME Danielle Kiri-Hana Daisy /Green/
 1 SEX F
 1 BIRT
 2 DATE 2 NOV 1991
@@ -24020,7 +24275,8 @@
 1 FAMS @Fp520.e1@
 1 NOTE @Np520.e1@
 0 @Ip520.e1.i2@ INDI
-1 NAME ZéLie Elizabeth /Meek/
+1 NAME Zélie Elizabeth /Meek/
+1 SEX F
 1 BIRT
 2 DATE 11 MAR 1927
 1 FAMS @Fp520.e1@
@@ -24175,7 +24431,7 @@
 1 FAMC @Fp522.e4@
 1 NOTE @Np522.e5@
 0 @Ip522.e6.i1@ INDI
-1 NAME 0liver Richard /Brosnahan/
+1 NAME 0Liver Richard /Brosnahan/
 1 BIRT
 2 DATE 8 NOV 1996
 1 FAMC @Fp522.e4@
@@ -26652,8 +26908,7 @@
 1 FAMS @Fp563.e2@
 1 NOTE @Np563.e2@
 0 @Ip563.e2.i2@ INDI
-1 NAME Margaret -Anne /McFadyen/
-1 SEX F
+1 NAME Margaret-Anne /McFadyen/
 1 BIRT
 2 DATE 10 JAN 1931
 1 FAMS @Fp563.e2@
@@ -27852,7 +28107,7 @@
 1 FAMS @Fp580.e7@
 1 NOTE @Np580.e7@
 0 @Ip580.e8.i1@ INDI
-1 NAME Paul Richard /Harvey - Williams/
+1 NAME Paul Richard /Harvey-Williams/
 1 SEX M
 1 BIRT
 2 DATE 26 OCT 1969
@@ -29090,7 +29345,7 @@
 1 FAMS @Fp611.e3@
 1 NOTE @Np611.e3@
 0 @Ip611.e3.i2@ INDI
-1 NAME June Sheila /Osborne - Smith/
+1 NAME June Sheila /Osborne-Smith/
 1 SEX F
 1 BIRT
 2 DATE 12 NOV 1921
@@ -29615,8 +29870,14 @@
 1 SEX M
 1 FAMS @Fp617.e3@
 1 NOTE @Np617.e3@
+0 @Ip617.e4.i1@ INDI
+1 NAME Alessandra Mary /Lowry/
+1 SEX F
+1 FAMC @Fp617.e1@
+1 FAMS @Fp617.e4@
+1 NOTE @Np617.e4@
 0 @Ip617.e4.i2@ INDI
-1 NAME Richard Eric /Wynne - Lewis/
+1 NAME Richard Eric /Wynne-Lewis/
 1 SEX M
 1 BIRT
 2 DATE 21 SEP 1965
@@ -30719,7 +30980,7 @@
 1 FAMS @Fp634.e4@
 1 NOTE @Np634.e4@
 0 @Ip634.e4.i2@ INDI
-1 NAME Diana Mary /Mason - Elliott/
+1 NAME Diana Mary /Mason-Elliott/
 1 SEX F
 1 BIRT
 2 DATE 28 APR 1949
@@ -31271,6 +31532,7 @@
 1 MARR
 2 DATE 9 FEB 1843
 1 CHIL @Ip79.e1.i1@
+1 CHIL @Ip100.e1.i1@
 1 CHIL @Ip100.e2.i1@
 1 CHIL @Ip117.e3.i1@
 1 CHIL @Ip117.e4.i1@
@@ -31280,13 +31542,15 @@
 1 CHIL @Ip156.e1.i1@
 1 CHIL @Ip169.e5.i1@
 1 CHIL @Ip169.e6.i1@
+1 CHIL @Ip170.e7.i1@
+1 CHIL @Ip170.e8.i1@
 0 @Fp75.e1@ FAM
 1 HUSB @Ip75.e1.i2@
 1 WIFE @Ip75.e1.i1@
 1 MARR
 2 DATE 9 FEB 1843
 1 CHIL @Ip176.e2.i1@
-1 CHIL @Ip197.e7.i1@
+1 CHIL @Ip197.e8.i1@
 1 CHIL @Ip198.e1.i1@
 1 CHIL @Ip117.e3.i2@
 1 CHIL @Ip222.e5.i1@
@@ -31398,7 +31662,6 @@
 1 CHIL @Ip89.e4.i1@
 1 CHIL @Ip89.e5.i1@
 1 CHIL @Ip99.e3.i1@
-1 CHIL @Ip100.e1.i1@
 0 @Fp79.e2@ FAM
 1 HUSB @Ip79.e2.i1@
 1 WIFE @Ip79.e2.i2@
@@ -32332,7 +32595,7 @@
 1 MARR
 2 DATE 28 APR 1954
 1 CHIL @Ip124.e3.i1@
-1 CHIL @Ip124.e6.i1@
+1 CHIL @Ip124.e7.i1@
 1 CHIL @Ip125.e2.i1@
 0 @Fp124.e3@ FAM
 1 HUSB @Ip124.e3.i2@
@@ -32341,13 +32604,14 @@
 2 DATE 15 APR 1978
 1 CHIL @Ip124.e4.i1@
 1 CHIL @Ip124.e5.i1@
-0 @Fp124.e6@ FAM
-1 HUSB @Ip124.e6.i2@
-1 WIFE @Ip124.e6.i1@
+1 CHIL @Ip124.e6.i1@
+0 @Fp124.e7@ FAM
+1 HUSB @Ip124.e7.i2@
+1 WIFE @Ip124.e7.i1@
 1 MARR
 2 DATE 9 NOV 1979
-1 CHIL @Ip124.e7.i1@
 1 CHIL @Ip124.e8.i1@
+1 CHIL @Ip124.e9.i1@
 1 CHIL @Ip125.e1.i1@
 0 @Fp125.e2@ FAM
 1 HUSB @Ip125.e2.i2@
@@ -32383,32 +32647,33 @@
 1 MARR
 2 DATE 14 FEB 1956
 1 CHIL @Ip126.e5.i1@
-1 CHIL @Ip126.e9.i1@
-1 CHIL @Ip126.e11.i1@
+1 CHIL @Ip126.e10.i1@
+1 CHIL @Ip126.e12.i1@
 1 CHIL @Ip127.e2.i1@
 1 CHIL @Ip127.e5.i1@
 0 @Fp126.e5@ FAM
 1 HUSB @Ip126.e5.i2@
 1 WIFE @Ip126.e5.i1@
 1 CHIL @Ip126.e6.i1@
-0 @Fp126.e7@ FAM
-1 HUSB @Ip126.e7.i2@
+1 CHIL @Ip126.e7.i1@
+0 @Fp126.e8@ FAM
+1 HUSB @Ip126.e8.i2@
 1 WIFE @Ip126.e5.i1@
 1 MARR
 2 DATE 10 APR 1991
-1 CHIL @Ip126.e8.i1@
-0 @Fp126.e9@ FAM
-1 HUSB @Ip126.e9.i1@
-1 WIFE @Ip126.e9.i2@
+1 CHIL @Ip126.e9.i1@
+0 @Fp126.e10@ FAM
+1 HUSB @Ip126.e10.i1@
+1 WIFE @Ip126.e10.i2@
 1 MARR
 2 DATE 15 OCT 1983
-1 CHIL @Ip126.e10.i1@
-0 @Fp126.e11@ FAM
-1 HUSB @Ip126.e11.i1@
-1 WIFE @Ip126.e11.i2@
+1 CHIL @Ip126.e11.i1@
+0 @Fp126.e12@ FAM
+1 HUSB @Ip126.e12.i1@
+1 WIFE @Ip126.e12.i2@
 1 MARR
 2 DATE 6 OCT 1984
-1 CHIL @Ip126.e12.i1@
+1 CHIL @Ip126.e13.i1@
 1 CHIL @Ip127.e1.i1@
 0 @Fp127.e2@ FAM
 1 HUSB @Ip127.e2.i2@
@@ -32423,15 +32688,16 @@
 1 MARR
 2 DATE 15 FEB 1964
 1 CHIL @Ip127.e7.i1@
-1 CHIL @Ip127.e9.i1@
+1 CHIL @Ip127.e10.i1@
 1 CHIL @Ip128.e4.i1@
 0 @Fp127.e7@ FAM
 1 HUSB @Ip127.e7.i2@
 1 WIFE @Ip127.e7.i1@
 1 CHIL @Ip127.e8.i1@
-0 @Fp127.e9@ FAM
-1 HUSB @Ip127.e9.i2@
-1 WIFE @Ip127.e9.i1@
+1 CHIL @Ip127.e9.i1@
+0 @Fp127.e10@ FAM
+1 HUSB @Ip127.e10.i2@
+1 WIFE @Ip127.e10.i1@
 1 MARR
 2 DATE 23 NOV 1991
 1 CHIL @Ip128.e1.i1@
@@ -32628,7 +32894,7 @@
 2 DATE 16 JUN 1951
 1 CHIL @Ip136.e1.i1@
 1 CHIL @Ip136.e6.i1@
-1 CHIL @Ip136.e10.i1@
+1 CHIL @Ip136.e11.i1@
 1 CHIL @Ip137.e1.i1@
 0 @Fp136.e1@ FAM
 1 HUSB @Ip136.e1.i2@
@@ -32651,6 +32917,7 @@
 1 MARR
 2 DATE 10 SEP 1983
 1 CHIL @Ip136.e9.i1@
+1 CHIL @Ip136.e10.i1@
 0 @Fp137.e1@ FAM
 1 HUSB @Ip137.e1.i1@
 1 WIFE @Ip137.e1.i2@
@@ -32917,7 +33184,7 @@
 1 CHIL @Ip128.e6.i2@
 1 CHIL @Ip151.e5.i1@
 1 CHIL @Ip152.e8.i1@
-1 CHIL @Ip153.e8.i1@
+1 CHIL @Ip153.e9.i1@
 0 @Fp151.e5@ FAM
 1 HUSB @Ip151.e5.i2@
 1 WIFE @Ip151.e5.i1@
@@ -32947,8 +33214,8 @@
 1 MARR
 2 DATE 23 APR 1948
 1 CHIL @Ip153.e1.i1@
-1 CHIL @Ip153.e4.i1@
-1 CHIL @Ip153.e7.i1@
+1 CHIL @Ip153.e5.i1@
+1 CHIL @Ip153.e8.i1@
 0 @Fp153.e1@ FAM
 1 HUSB @Ip153.e1.i2@
 1 WIFE @Ip153.e1.i1@
@@ -32956,29 +33223,30 @@
 2 DATE 15 DEC 1972
 1 CHIL @Ip153.e2.i1@
 1 CHIL @Ip153.e3.i1@
-0 @Fp153.e4@ FAM
-1 HUSB @Ip153.e4.i2@
-1 WIFE @Ip153.e4.i1@
+1 CHIL @Ip153.e4.i1@
+0 @Fp153.e5@ FAM
+1 HUSB @Ip153.e5.i2@
+1 WIFE @Ip153.e5.i1@
 1 MARR
 2 DATE 28 NOV 1980
-1 CHIL @Ip153.e5.i1@
 1 CHIL @Ip153.e6.i1@
-0 @Fp153.e7@ FAM
-1 HUSB @Ip153.e7.i2@
-1 WIFE @Ip153.e7.i1@
+1 CHIL @Ip153.e7.i1@
+0 @Fp153.e8@ FAM
+1 HUSB @Ip153.e8.i2@
+1 WIFE @Ip153.e8.i1@
 1 MARR
 2 DATE 22 DEC 1990
-0 @Fp153.e8@ FAM
-1 HUSB @Ip153.e8.i1@
-1 WIFE @Ip153.e8.i2@
-1 MARR
-2 DATE 21 JAN 1949
-1 CHIL @Ip153.e9.i1@
-1 CHIL @Ip154.e4.i1@
-1 CHIL @Ip154.e5.i1@
 0 @Fp153.e9@ FAM
 1 HUSB @Ip153.e9.i1@
 1 WIFE @Ip153.e9.i2@
+1 MARR
+2 DATE 21 JAN 1949
+1 CHIL @Ip153.e10.i1@
+1 CHIL @Ip154.e4.i1@
+1 CHIL @Ip154.e5.i1@
+0 @Fp153.e10@ FAM
+1 HUSB @Ip153.e10.i1@
+1 WIFE @Ip153.e10.i2@
 1 MARR
 2 DATE 21 SEP 1975
 1 CHIL @Ip154.e1.i1@
@@ -32995,38 +33263,45 @@
 1 MARR
 2 DATE 11 JUL 1927
 1 CHIL @Ip155.e1.i1@
+1 CHIL @Ip155.e7.i1@
 0 @Fp155.e1@ FAM
 1 HUSB @Ip155.e1.i1@
 1 WIFE @Ip155.e1.i2@
 1 MARR
 2 DATE 1 MAY 1957
 1 CHIL @Ip155.e2.i1@
-1 CHIL @Ip155.e4.i1@
 1 CHIL @Ip155.e5.i1@
+1 CHIL @Ip155.e6.i1@
 0 @Fp155.e2@ FAM
 1 HUSB @Ip155.e2.i2@
 1 WIFE @Ip155.e2.i1@
 1 MARR
 2 DATE 12 FEB 1987
 1 CHIL @Ip155.e3.i1@
-0 @Fp155.e4@ FAM
-1 HUSB @Ip155.e4.i2@
-1 WIFE @Ip155.e4.i1@
+1 CHIL @Ip155.e4.i1@
+0 @Fp155.e5@ FAM
+1 HUSB @Ip155.e5.i2@
+1 WIFE @Ip155.e5.i1@
 1 MARR
 2 DATE 24 NOV 1988
-0 @Fp155.e6@ FAM
-1 HUSB @Ip155.e6.i2@
+0 @Fp155.e7@ FAM
+1 HUSB @Ip155.e7.i2@
+1 WIFE @Ip155.e7.i1@
+1 MARR
+2 DATE 19 APR 1986
+0 @Fp155.e8@ FAM
+1 HUSB @Ip155.e8.i2@
 1 WIFE @Ip154.e8.i1@
 1 MARR
 2 DATE 18 OCT 1950
-0 @Fp155.e7@ FAM
+0 @Fp155.e9@ FAM
 1 HUSB @Ip151.e2.i1@
-1 WIFE @Ip155.e7.i2@
+1 WIFE @Ip155.e9.i2@
 1 MARR
 2 DATE 24 JUN 1914
-0 @Fp155.e8@ FAM
+0 @Fp155.e10@ FAM
 1 HUSB @Ip151.e2.i1@
-1 WIFE @Ip155.e8.i2@
+1 WIFE @Ip155.e10.i2@
 1 MARR
 2 DATE 16 JAN 1929
 0 @Fp156.e1@ FAM
@@ -33036,7 +33311,7 @@
 2 DATE 29 NOV 1893
 1 CHIL @Ip156.e2.i1@
 1 CHIL @Ip156.e3.i1@
-1 CHIL @Ip158.e6.i1@
+1 CHIL @Ip158.e7.i1@
 1 CHIL @Ip162.e1.i1@
 1 CHIL @Ip167.e3.i1@
 0 @Fp156.e3@ FAM
@@ -33046,10 +33321,8 @@
 2 DATE 7 SEP 1922
 1 CHIL @Ip135.e1.i2@
 1 CHIL @Ip157.e1.i1@
-1 CHIL @Ip157.e4.i1@
 1 CHIL @Ip157.e5.i1@
-1 CHIL @Ip158.e1.i1@
-1 CHIL @Ip158.e5.i1@
+1 CHIL @Ip157.e6.i1@
 0 @Fp157.e1@ FAM
 1 HUSB @Ip157.e1.i1@
 1 WIFE @Ip157.e1.i2@
@@ -33062,6 +33335,14 @@
 1 MARR
 2 DATE 19 MAY 1982
 1 CHIL @Ip157.e3.i1@
+1 CHIL @Ip157.e4.i1@
+0 @Fp157.e6@ FAM
+1 HUSB @Ip157.e6.i1@
+1 WIFE @Ip157.e6.i2@
+1 MARR
+2 DATE 12 JAN 1957
+1 CHIL @Ip157.e7.i1@
+1 CHIL @Ip158.e1.i1@
 0 @Fp158.e1@ FAM
 1 HUSB @Ip158.e1.i1@
 1 WIFE @Ip158.e1.i2@
@@ -33070,23 +33351,24 @@
 1 CHIL @Ip158.e2.i1@
 1 CHIL @Ip158.e3.i1@
 1 CHIL @Ip158.e4.i1@
-0 @Fp158.e5@ FAM
-1 HUSB @Ip158.e5.i1@
-1 WIFE @Ip158.e5.i2@
-1 MARR
-2 DATE 12 JUL 1997
+1 CHIL @Ip158.e5.i1@
 0 @Fp158.e6@ FAM
-1 HUSB @Ip158.e6.i1@
+1 HUSB @Ip157.e6.i1@
 1 WIFE @Ip158.e6.i2@
 1 MARR
-2 DATE 8 MAY 1929
-1 CHIL @Ip158.e7.i1@
-1 CHIL @Ip159.e1.i1@
-1 CHIL @Ip160.e6.i1@
-1 CHIL @Ip161.e7.i1@
+2 DATE 12 JUL 1997
 0 @Fp158.e7@ FAM
 1 HUSB @Ip158.e7.i1@
 1 WIFE @Ip158.e7.i2@
+1 MARR
+2 DATE 8 MAY 1929
+1 CHIL @Ip158.e8.i1@
+1 CHIL @Ip159.e1.i1@
+1 CHIL @Ip160.e6.i1@
+1 CHIL @Ip161.e8.i1@
+0 @Fp158.e8@ FAM
+1 HUSB @Ip158.e8.i1@
+1 WIFE @Ip158.e8.i2@
 1 MARR
 2 DATE 20 APR 1989
 0 @Fp159.e1@ FAM
@@ -33126,7 +33408,7 @@
 2 DATE 7 MAY 1955
 1 CHIL @Ip160.e7.i1@
 1 CHIL @Ip161.e1.i1@
-1 CHIL @Ip161.e6.i1@
+1 CHIL @Ip161.e7.i1@
 0 @Fp160.e7@ FAM
 1 HUSB @Ip160.e7.i2@
 1 WIFE @Ip160.e7.i1@
@@ -33144,14 +33426,15 @@
 1 CHIL @Ip161.e3.i1@
 1 CHIL @Ip161.e4.i1@
 1 CHIL @Ip161.e5.i1@
-0 @Fp161.e6@ FAM
-1 HUSB @Ip161.e6.i1@
-1 WIFE @Ip161.e6.i2@
+1 CHIL @Ip161.e6.i1@
+0 @Fp161.e7@ FAM
+1 HUSB @Ip161.e7.i1@
+1 WIFE @Ip161.e7.i2@
 1 MARR
 2 DATE 2 JUN 1984
-0 @Fp161.e8@ FAM
-1 HUSB @Ip158.e6.i1@
-1 WIFE @Ip161.e8.i2@
+0 @Fp161.e9@ FAM
+1 HUSB @Ip158.e7.i1@
+1 WIFE @Ip161.e9.i2@
 1 MARR
 2 DATE 7 NOV 1969
 0 @Fp162.e1@ FAM
@@ -33162,7 +33445,7 @@
 1 CHIL @Ip162.e2.i1@
 1 CHIL @Ip163.e6.i1@
 1 CHIL @Ip165.e7.i1@
-1 CHIL @Ip166.e8.i1@
+1 CHIL @Ip166.e9.i1@
 0 @Fp162.e2@ FAM
 1 HUSB @Ip162.e2.i1@
 1 WIFE @Ip162.e2.i2@
@@ -33259,17 +33542,18 @@
 1 WIFE @Ip166.e6.i1@
 1 MARR
 2 DATE 21 AUG 1994
-0 @Fp166.e8@ FAM
-1 HUSB @Ip166.e8.i2@
-1 WIFE @Ip166.e8.i1@
+1 CHIL @Ip166.e8.i1@
+0 @Fp166.e9@ FAM
+1 HUSB @Ip166.e9.i2@
+1 WIFE @Ip166.e9.i1@
 1 MARR
 2 DATE 14 SEP 1963
-1 CHIL @Ip166.e9.i1@
+1 CHIL @Ip166.e10.i1@
 1 CHIL @Ip167.e1.i1@
 1 CHIL @Ip167.e2.i1@
-0 @Fp166.e9@ FAM
-1 HUSB @Ip166.e9.i1@
-1 WIFE @Ip166.e9.i2@
+0 @Fp166.e10@ FAM
+1 HUSB @Ip166.e10.i1@
+1 WIFE @Ip166.e10.i2@
 1 MARR
 2 DATE 4 NOV 1990
 0 @Fp167.e1@ FAM
@@ -33344,15 +33628,16 @@
 1 HUSB @Ip170.e1.i1@
 1 WIFE @Ip170.e1.i2@
 1 CHIL @Ip170.e2.i1@
-1 CHIL @Ip170.e4.i1@
 1 CHIL @Ip170.e5.i1@
+1 CHIL @Ip170.e6.i1@
 0 @Fp170.e2@ FAM
 1 HUSB @Ip170.e2.i1@
 1 WIFE @Ip170.e2.i2@
 1 CHIL @Ip170.e3.i1@
-0 @Fp170.e5@ FAM
-1 HUSB @Ip170.e5.i2@
-1 WIFE @Ip170.e5.i1@
+1 CHIL @Ip170.e4.i1@
+0 @Fp170.e6@ FAM
+1 HUSB @Ip170.e6.i2@
+1 WIFE @Ip170.e6.i1@
 0 @Fp176.e2@ FAM
 1 HUSB @Ip176.e2.i1@
 1 WIFE @Ip176.e2.i2@
@@ -33364,8 +33649,8 @@
 1 CHIL @Ip183.e4.i1@
 1 CHIL @Ip183.e5.i1@
 1 CHIL @Ip188.e5.i1@
-1 CHIL @Ip197.e5.i1@
 1 CHIL @Ip197.e6.i1@
+1 CHIL @Ip197.e7.i1@
 0 @Fp177.e1@ FAM
 1 HUSB @Ip177.e1.i1@
 1 WIFE @Ip177.e1.i2@
@@ -33425,9 +33710,8 @@
 2 DATE 23 APR 1946
 1 CHIL @Ip180.e1.i1@
 1 CHIL @Ip180.e2.i1@
-1 CHIL @Ip180.e5.i1@
 1 CHIL @Ip181.e3.i1@
-1 CHIL @Ip181.e6.i1@
+1 CHIL @Ip181.e7.i1@
 1 CHIL @Ip182.e2.i1@
 0 @Fp180.e1@ FAM
 1 HUSB @Ip180.e1.i2@
@@ -33443,7 +33727,7 @@
 1 CHIL @Ip180.e4.i1@
 0 @Fp180.e5@ FAM
 1 HUSB @Ip180.e5.i2@
-1 WIFE @Ip180.e5.i1@
+1 WIFE @Ip180.e2.i1@
 1 MARR
 2 DATE 5 MAR 1988
 1 CHIL @Ip181.e1.i1@
@@ -33455,17 +33739,18 @@
 2 DATE 27 NOV 1971
 1 CHIL @Ip181.e4.i1@
 1 CHIL @Ip181.e5.i1@
-0 @Fp181.e6@ FAM
-1 HUSB @Ip181.e6.i1@
-1 WIFE @Ip181.e6.i2@
-1 MARR
-2 DATE 8 MAY 1975
+1 CHIL @Ip181.e6.i1@
 0 @Fp181.e7@ FAM
-1 HUSB @Ip181.e6.i1@
+1 HUSB @Ip181.e7.i1@
 1 WIFE @Ip181.e7.i2@
 1 MARR
+2 DATE 8 MAY 1975
+0 @Fp181.e8@ FAM
+1 HUSB @Ip181.e7.i1@
+1 WIFE @Ip181.e8.i2@
+1 MARR
 2 DATE 8 MAY 1984
-1 CHIL @Ip181.e8.i1@
+1 CHIL @Ip181.e9.i1@
 1 CHIL @Ip182.e1.i1@
 0 @Fp182.e2@ FAM
 1 HUSB @Ip182.e2.i1@
@@ -33547,7 +33832,7 @@
 2 DATE 4 FEB 1920
 1 CHIL @Ip189.e1.i1@
 1 CHIL @Ip191.e5.i1@
-1 CHIL @Ip194.e3.i1@
+1 CHIL @Ip194.e4.i1@
 1 CHIL @Ip195.e5.i1@
 0 @Fp189.e1@ FAM
 1 HUSB @Ip189.e1.i1@
@@ -33576,7 +33861,8 @@
 1 MARR
 2 DATE 15 NOV 1952
 1 CHIL @Ip192.e1.i1@
-1 CHIL @Ip193.e4.i1@
+1 CHIL @Ip193.e1.i1@
+1 CHIL @Ip193.e5.i1@
 0 @Fp192.e1@ FAM
 1 HUSB @Ip192.e1.i1@
 1 WIFE @Ip192.e1.i2@
@@ -33585,19 +33871,25 @@
 1 CHIL @Ip192.e2.i1@
 1 CHIL @Ip192.e3.i1@
 1 CHIL @Ip192.e4.i1@
-1 CHIL @Ip193.e1.i1@
+0 @Fp193.e1@ FAM
+1 HUSB @Ip193.e1.i1@
+1 WIFE @Ip193.e1.i2@
+1 MARR
+2 DATE 4 SEP 1976
 1 CHIL @Ip193.e2.i1@
 1 CHIL @Ip193.e3.i1@
-0 @Fp193.e4@ FAM
-1 HUSB @Ip193.e4.i2@
-1 WIFE @Ip193.e4.i1@
+1 CHIL @Ip193.e4.i1@
+0 @Fp193.e5@ FAM
+1 HUSB @Ip193.e5.i2@
+1 WIFE @Ip193.e5.i1@
 1 MARR
 2 DATE 31 JAN 1981
 1 CHIL @Ip194.e1.i1@
 1 CHIL @Ip194.e2.i1@
-0 @Fp194.e3@ FAM
-1 HUSB @Ip194.e3.i1@
-1 WIFE @Ip194.e3.i2@
+1 CHIL @Ip194.e3.i1@
+0 @Fp194.e4@ FAM
+1 HUSB @Ip194.e4.i1@
+1 WIFE @Ip194.e4.i2@
 1 MARR
 2 DATE 7 MAY 1958
 1 CHIL @Ip195.e1.i1@
@@ -33621,7 +33913,7 @@
 2 DATE 19 JUL 1958
 1 CHIL @Ip196.e1.i1@
 1 CHIL @Ip196.e4.i1@
-1 CHIL @Ip197.e2.i1@
+1 CHIL @Ip197.e3.i1@
 0 @Fp196.e1@ FAM
 1 HUSB @Ip196.e1.i2@
 1 WIFE @Ip196.e1.i1@
@@ -33636,13 +33928,14 @@
 2 DATE 10 JAN 1987
 1 CHIL @Ip196.e5.i1@
 1 CHIL @Ip197.e1.i1@
-0 @Fp197.e2@ FAM
-1 HUSB @Ip197.e2.i1@
-1 WIFE @Ip197.e2.i2@
+1 CHIL @Ip197.e2.i1@
+0 @Fp197.e3@ FAM
+1 HUSB @Ip197.e3.i1@
+1 WIFE @Ip197.e3.i2@
 1 MARR
 2 DATE 7 NOV 1994
-1 CHIL @Ip197.e3.i1@
 1 CHIL @Ip197.e4.i1@
+1 CHIL @Ip197.e5.i1@
 0 @Fp198.e1@ FAM
 1 HUSB @Ip198.e1.i2@
 1 WIFE @Ip198.e1.i1@
@@ -33650,11 +33943,11 @@
 2 DATE 30 JUN 1870
 1 CHIL @Ip198.e2.i1@
 1 CHIL @Ip198.e3.i1@
-1 CHIL @Ip206.e7.i1@
 1 CHIL @Ip206.e8.i1@
+1 CHIL @Ip206.e9.i1@
 1 CHIL @Ip211.e2.i1@
-1 CHIL @Ip214.e5.i1@
 1 CHIL @Ip214.e6.i1@
+1 CHIL @Ip214.e7.i1@
 0 @Fp198.e3@ FAM
 1 HUSB @Ip198.e3.i2@
 1 WIFE @Ip198.e3.i1@
@@ -33673,14 +33966,15 @@
 1 MARR
 2 DATE 12 APR 1927
 1 CHIL @Ip199.e1.i1@
-1 CHIL @Ip200.e3.i1@
+1 CHIL @Ip200.e4.i1@
 0 @Fp199.e1@ FAM
 1 HUSB @Ip199.e1.i2@
 1 WIFE @Ip199.e1.i1@
 1 MARR
 2 DATE 25 OCT 1952
 1 CHIL @Ip199.e2.i1@
-1 CHIL @Ip199.e5.i1@
+1 CHIL @Ip199.e6.i1@
+1 CHIL @Ip199.e9.i1@
 1 CHIL @Ip200.e1.i1@
 0 @Fp199.e2@ FAM
 1 HUSB @Ip199.e2.i2@
@@ -33689,41 +33983,49 @@
 2 DATE 18 APR 1981
 1 CHIL @Ip199.e3.i1@
 1 CHIL @Ip199.e4.i1@
-0 @Fp199.e5@ FAM
-1 HUSB @Ip199.e5.i2@
-1 WIFE @Ip199.e5.i1@
+1 CHIL @Ip199.e5.i1@
+0 @Fp199.e6@ FAM
+1 HUSB @Ip199.e6.i2@
+1 WIFE @Ip199.e6.i1@
 1 MARR
 2 DATE 1 DEC 1979
-1 CHIL @Ip199.e6.i1@
 1 CHIL @Ip199.e7.i1@
 1 CHIL @Ip199.e8.i1@
+0 @Fp199.e9@ FAM
+1 HUSB @Ip199.e9.i2@
+1 WIFE @Ip199.e9.i1@
+1 MARR
+2 DATE 6 AUG 1983
+1 CHIL @Ip199.e10.i1@
 0 @Fp200.e1@ FAM
 1 HUSB @Ip200.e1.i2@
 1 WIFE @Ip200.e1.i1@
 1 MARR
 2 DATE 5 JAN 1980
 1 CHIL @Ip200.e2.i1@
-0 @Fp200.e3@ FAM
-1 HUSB @Ip200.e3.i2@
-1 WIFE @Ip200.e3.i1@
-1 MARR
-2 DATE 1957
-1 CHIL @Ip200.e4.i1@
-1 CHIL @Ip200.e7.i1@
-1 CHIL @Ip200.e10.i1@
-1 CHIL @Ip201.e1.i1@
+1 CHIL @Ip200.e3.i1@
 0 @Fp200.e4@ FAM
 1 HUSB @Ip200.e4.i2@
 1 WIFE @Ip200.e4.i1@
 1 MARR
-2 DATE 26 MAR 1983
+2 DATE 1957
 1 CHIL @Ip200.e5.i1@
-1 CHIL @Ip200.e6.i1@
-0 @Fp200.e7@ FAM
-1 HUSB @Ip200.e7.i2@
-1 WIFE @Ip200.e7.i1@
-1 CHIL @Ip200.e8.i1@
 1 CHIL @Ip200.e9.i1@
+1 CHIL @Ip200.e12.i1@
+1 CHIL @Ip201.e1.i1@
+0 @Fp200.e5@ FAM
+1 HUSB @Ip200.e5.i2@
+1 WIFE @Ip200.e5.i1@
+1 MARR
+2 DATE 26 MAR 1983
+1 CHIL @Ip200.e6.i1@
+1 CHIL @Ip200.e7.i1@
+1 CHIL @Ip200.e8.i1@
+0 @Fp200.e9@ FAM
+1 HUSB @Ip200.e9.i2@
+1 WIFE @Ip200.e9.i1@
+1 CHIL @Ip200.e10.i1@
+1 CHIL @Ip200.e11.i1@
 0 @Fp201.e2@ FAM
 1 HUSB @Ip201.e2.i2@
 1 WIFE @Ip201.e2.i1@
@@ -33822,7 +34124,7 @@
 2 DATE 23 DEC 1939
 1 CHIL @Ip205.e3.i1@
 1 CHIL @Ip206.e2.i1@
-1 CHIL @Ip206.e4.i1@
+1 CHIL @Ip206.e5.i1@
 0 @Fp205.e3@ FAM
 1 HUSB @Ip205.e3.i1@
 1 WIFE @Ip205.e3.i2@
@@ -33839,16 +34141,17 @@
 1 MARR
 2 DATE 6 APR 1974
 1 CHIL @Ip206.e3.i1@
-0 @Fp206.e4@ FAM
-1 HUSB @Ip206.e4.i1@
-1 WIFE @Ip206.e4.i2@
+1 CHIL @Ip206.e4.i1@
+0 @Fp206.e5@ FAM
+1 HUSB @Ip206.e5.i1@
+1 WIFE @Ip206.e5.i2@
 1 MARR
 2 DATE 9 DEC 1978
-1 CHIL @Ip206.e5.i1@
 1 CHIL @Ip206.e6.i1@
-0 @Fp206.e8@ FAM
-1 HUSB @Ip206.e8.i2@
-1 WIFE @Ip206.e8.i1@
+1 CHIL @Ip206.e7.i1@
+0 @Fp206.e9@ FAM
+1 HUSB @Ip206.e9.i2@
+1 WIFE @Ip206.e9.i1@
 1 MARR
 2 DATE 3 OCT 1917
 1 CHIL @Ip207.e1.i1@
@@ -33860,8 +34163,8 @@
 2 DATE 23 JUL 1947
 1 CHIL @Ip207.e2.i1@
 1 CHIL @Ip207.e8.i1@
-1 CHIL @Ip208.e2.i1@
-1 CHIL @Ip208.e6.i1@
+1 CHIL @Ip208.e3.i1@
+1 CHIL @Ip208.e7.i1@
 1 CHIL @Ip209.e1.i1@
 1 CHIL @Ip209.e5.i1@
 0 @Fp207.e2@ FAM
@@ -33880,22 +34183,23 @@
 1 MARR
 2 DATE 27 FEB 1982
 1 CHIL @Ip208.e1.i1@
-0 @Fp208.e2@ FAM
-1 HUSB @Ip208.e2.i2@
-1 WIFE @Ip208.e2.i1@
+1 CHIL @Ip208.e2.i1@
+0 @Fp208.e3@ FAM
+1 HUSB @Ip208.e3.i2@
+1 WIFE @Ip208.e3.i1@
 1 MARR
 2 DATE 2 MAR 1973
-1 CHIL @Ip208.e3.i1@
 1 CHIL @Ip208.e4.i1@
 1 CHIL @Ip208.e5.i1@
-0 @Fp208.e6@ FAM
-1 HUSB @Ip208.e6.i1@
-1 WIFE @Ip208.e6.i2@
+1 CHIL @Ip208.e6.i1@
+0 @Fp208.e7@ FAM
+1 HUSB @Ip208.e7.i1@
+1 WIFE @Ip208.e7.i2@
 1 MARR
 2 DATE 6 MAR 1981
-1 CHIL @Ip208.e7.i1@
 1 CHIL @Ip208.e8.i1@
 1 CHIL @Ip208.e9.i1@
+1 CHIL @Ip208.e10.i1@
 0 @Fp209.e1@ FAM
 1 HUSB @Ip209.e1.i1@
 1 WIFE @Ip209.e1.i2@
@@ -33959,16 +34263,17 @@
 1 MARR
 2 DATE 1947
 1 CHIL @Ip211.e6.i1@
-1 CHIL @Ip211.e8.i1@
+1 CHIL @Ip211.e9.i1@
 0 @Fp211.e6@ FAM
 1 HUSB @Ip211.e6.i2@
 1 WIFE @Ip211.e6.i1@
 1 CHIL @Ip211.e7.i1@
-0 @Fp211.e8@ FAM
-1 HUSB @Ip211.e8.i1@
-1 WIFE @Ip211.e8.i2@
-1 CHIL @Ip211.e9.i1@
+1 CHIL @Ip211.e8.i1@
+0 @Fp211.e9@ FAM
+1 HUSB @Ip211.e9.i1@
+1 WIFE @Ip211.e9.i2@
 1 CHIL @Ip211.e10.i1@
+1 CHIL @Ip211.e11.i1@
 0 @Fp212.e1@ FAM
 1 HUSB @Ip212.e1.i1@
 1 WIFE @Ip212.e1.i2@
@@ -34000,7 +34305,8 @@
 1 MARR
 2 DATE 27 AUG 1946
 1 CHIL @Ip213.e5.i1@
-1 CHIL @Ip214.e4.i1@
+1 CHIL @Ip214.e3.i1@
+1 CHIL @Ip214.e5.i1@
 0 @Fp213.e5@ FAM
 1 HUSB @Ip213.e5.i2@
 1 WIFE @Ip213.e5.i1@
@@ -34009,15 +34315,20 @@
 1 CHIL @Ip213.e6.i1@
 1 CHIL @Ip214.e1.i1@
 1 CHIL @Ip214.e2.i1@
-1 CHIL @Ip214.e3.i1@
-0 @Fp214.e4@ FAM
-1 HUSB @Ip214.e4.i2@
-1 WIFE @Ip214.e4.i1@
+0 @Fp214.e3@ FAM
+1 HUSB @Ip214.e3.i1@
+1 WIFE @Ip214.e3.i2@
+1 MARR
+2 DATE 1 MAY 1971
+1 CHIL @Ip214.e4.i1@
+0 @Fp214.e5@ FAM
+1 HUSB @Ip214.e5.i2@
+1 WIFE @Ip214.e5.i1@
 1 MARR
 2 DATE 14 NOV 1987
-0 @Fp214.e6@ FAM
-1 HUSB @Ip214.e6.i2@
-1 WIFE @Ip214.e6.i1@
+0 @Fp214.e7@ FAM
+1 HUSB @Ip214.e7.i2@
+1 WIFE @Ip214.e7.i1@
 1 MARR
 2 DATE 1 JUN 1915
 1 CHIL @Ip215.e1.i1@
@@ -40042,7 +40353,7 @@
 2 DATE 22 JAN 1960
 1 CHIL @Ip617.e2.i1@
 1 CHIL @Ip617.e3.i1@
-1 CHIL @Ip202.e4.i2@
+1 CHIL @Ip617.e4.i1@
 0 @Fp617.e3@ FAM
 1 HUSB @Ip617.e3.i2@
 1 WIFE @Ip617.e3.i1@
@@ -40050,7 +40361,7 @@
 2 DATE 12 DEC 1992
 0 @Fp617.e4@ FAM
 1 HUSB @Ip617.e4.i2@
-1 WIFE @Ip202.e4.i2@
+1 WIFE @Ip617.e4.i1@
 1 MARR
 2 DATE 12 FEB 1988
 0 @Fp617.e5@ FAM
@@ -42024,11 +42335,8 @@
 0 @Np123.e6@ NOTE
 1 CONT Zoe b. at Wellington.
 0 @Np123.e7@ NOTE
-1 CONT b 08.08.1929
-1 CONT Susan m. at Taupo. Johannes, slo Johannes Petrus Gerardus Lindeman and Elizabeth Pleuntje Bogaard,
 1 CONT b. at Rotterdam, Holland. Address: 25 Shepherd Road, Taupo.
 0 @Np123.e8@ NOTE
-1 CONT b ** ** **** d ** ** ****
 1 CONT Allen m. at Christchurch. No children. Allen first farmed "Pawanui" station near Waipawa then exchanged
 1 CONT this for his mother's Knight family land at "Pukemiro", Dannevirke. After his death "Pukemiro" was left
 1 CONT in trust for the education and advancement of young farmers in the district.
@@ -42056,18 +42364,17 @@
 1 CONT Christopher was educated at Gisborne Boys' High School and works for an oil company.
 0 @Np124.e4@ NOTE
 1 CONT Rose b. at Gisborne.
-1 CONT 02> COPPIN, Sophie Anne
-1 CONT b 26.09.1983
-1 CONT Sophie b. at Gisborne.
 0 @Np124.e5@ NOTE
-1 CONT Belinda b. at Gisborne.
+1 CONT Sophie b. at Gisborne.
 0 @Np124.e6@ NOTE
+1 CONT Belinda b. at Gisborne.
+0 @Np124.e7@ NOTE
 1 CONT Kay b. and m, at Gisborne. Colin, slo Frederick Bertram Thomas Smith and Betty May Dever, b, at
 1 CONT Gisborne.
 1 CONT Kay was educated at Woodford House and is a money market dealer. Colin is a bank manager.
-0 @Np124.e7@ NOTE
-1 CONT Hannah b, at Howick, Auckland.
 0 @Np124.e8@ NOTE
+1 CONT Hannah b, at Howick, Auckland.
+0 @Np124.e9@ NOTE
 1 CONT Benjamin b, at Howick, Auckland.
 0 @Np125.e1@ NOTE
 1 CONT Toby b. at Townsville, Australia.
@@ -42101,15 +42408,9 @@
 1 CONT Julie is nursing part-time in a private hospital and Mark is working for a seed maize company.
 0 @Np126.e4@ NOTE
 1 CONT Address: RD 9, Feilding.
-0 @Np126.e5@ NOTE
-1 CONT 01> MARSH, Zane John Wallace
-1 CONT b 16.04.1982
-0 @Np126.e9@ NOTE
+0 @Np126.e10@ NOTE
 1 CONT Refer to "The Descendants of Thomas Berry" published by Evagean Publishing in 1993 for records
 1 CONT of Sandra's family.
-0 @Np126.e11@ NOTE
-1 CONT b 01.07.1962
-1 CONT b 16.01.1963
 0 @Np127.e2@ NOTE
 1 CONT Ian, slo Clyde Vernon Cadwallader and Alison Rae Berry. Address: RD 9, Feilding.
 1 CONT Refer to "The Descendants of Thomas Berry" published by Evagean Publishing in 1993 for records
@@ -42127,12 +42428,9 @@
 1 CONT clothing label, "Red Evidence". She then went on to costume for film and television.
 1 CONT Miro owns and developed a property in Honeymoon Valley, Northland. He designed and built their
 1 CONT home at Bethells Beach.
-0 @Np127.e8@ NOTE
-1 CONT d2> HARRÉ, Wiremu
-1 CONT iremu
-1 CONT b 20.07.1998
-1 CONT Wiremu b. at home at Oratia, Auckland.
 0 @Np127.e9@ NOTE
+1 CONT Wiremu b. at home at Oratia, Auckland.
+0 @Np127.e10@ NOTE
 1 CONT Address: 179 West Belt, Rangiora, Canterbury.
 1 CONT Victoria was educated at Woodford House and graduated BCom from University of Canterbury.
 0 @Np128.e4@ NOTE
@@ -42262,7 +42560,6 @@
 1 CONT Gertrude b. at Sydney, Australia. Arie b, at Rotterdam, The Netherlands. Address: 250 Pantops, Mountain
 1 CONT Road, Charlottesville VA 22901, USA.
 0 @Np133.e1@ NOTE
-1 CONT b 25.11.1942
 1 CONT Hendriekje b. at London, England and m, at Louisville, Kentucky, USA. Michael, s/o Nahman Zirinsky
 1 CONT and Edith Silber, b. at Brooklyn, New York, USA. Address: 2731 Terrace Way, Boise, Idaho 83702,
 1 CONT USA.
@@ -42304,7 +42601,6 @@
 0 @Np134.e4@ NOTE
 1 CONT Christoph b. at Zurich.
 0 @Np134.e5@ NOTE
-1 CONT b 17.04.1949
 1 CONT Christine b. at Zurich and m, at Kilchberg, Switzerland. Roel, s/o Johannes Van Merkesteyn and
 1 CONT Giesen Trusje, b. at Bloemendaal, Holland. He spent his early years in Sumatra, Indonesia and
 1 CONT returned to Holland with his family in 1957. Address: Frohburg Str 57, 8006 Zurich, Switzerland.
@@ -42319,8 +42615,6 @@
 1 CONT As a boy and amongst his friends, Richard was generally known as Dick, although in later life the men who
 1 CONT (cont...)
 0 @Np135.e1@ NOTE
-1 CONT b 01.05.1917 d 01.01.1979
-1 CONT b 13.09.1923
 1 CONT Joe b. at Havelock North and m. at Henley-on-Thames by Joan's father, Joan, d/o Ernest Courtenay Crosse
 1 CONT and Joyce Leslie Elizabeth Williams. Joe and Joan are second cousins. Joe's ashes were scattered on the
 1 CONT hills at "Te Apiti". Address: 211 Leo Street, Hastings.
@@ -42368,10 +42662,7 @@
 0 @Np136.e8@ NOTE
 1 CONT Divorced. Address: PO Box 9059, Greerton, Tauranga.
 1 CONT Richard is living near Tauranga and is driving a refrigerated truck between Tauranga and Auckland.
-0 @Np136.e9@ NOTE
-1 CONT 02> SUNDERLAND, Jaque
-1 CONT b 05.10.1988
-0 @Np136.e10@ NOTE
+0 @Np136.e11@ NOTE
 1 CONT Peter d. of croup.
 0 @Np137.e1@ NOTE
 1 CONT Address: 911 Lyall Street, Hastings.
@@ -42774,7 +43065,6 @@
 1 CONT three years with Mr R Waters, a lecturer at Massey Agricultural College. She then worked at the
 1 CONT Palmerston North Post Office until her marriage.
 0 @Np149.e1@ NOTE
-1 CONT b 16.02.1942
 1 CONT Sallie b. at Hastings and m. at St Mary's Church, Waipukurau. Peter, s/o Gordon Melville Gifford
 1 CONT (John) Moore and Joan Susan Gaisford, b. at Palmerston North. 3 Redwood Place, Te Awanga.
 1 CONT Sallie was a Nutri-Metics district director and then sales manager with the Sun newspaper. She is
@@ -42904,30 +43194,29 @@
 1 CONT Hugh is a farmer on "Mapiri" station, Muriwai.
 0 @Np153.e2@ NOTE
 1 CONT Julia b. at Gisborne.
-1 CONT 02> TRAFFORD, Timothy Selwyn Maurice
-1 CONT b 20.02.1975
-1 CONT Timothy b. at Gisborne.
 0 @Np153.e3@ NOTE
-1 CONT Olivia b. at Gisborne.
+1 CONT Timothy b. at Gisborne.
 0 @Np153.e4@ NOTE
+1 CONT Olivia b. at Gisborne.
+0 @Np153.e5@ NOTE
 1 CONT Robyn b. at Gisborne and m. at Manutuke. Geoffrey, s/o Peter Tombleson and Peggy Fraser, b. at
 1 CONT Tolaga Bay. Address: "Reripi" Station, 258 Pakowhai Road, RD 2, Gisborne.
 1 CONT Robyn and Geoff are farmers.
-0 @Np153.e5@ NOTE
-1 CONT Caroline b, at Gisborne.
 0 @Np153.e6@ NOTE
-1 CONT Jenny b. at Gisborne.
+1 CONT Caroline b, at Gisborne.
 0 @Np153.e7@ NOTE
+1 CONT Jenny b. at Gisborne.
+0 @Np153.e8@ NOTE
 1 CONT Deborah b. and m. at Gisborne. Jonathan, s/o Russell Alexander Bell and Francis Barbara Gilling, b.
 1 CONT at Oamaru. Address; 39 Murphy Road, Wainui Beach, Gisborne.
 1 CONT Deborah is a travel consultant and Johathan is a horticultural consultant.
-0 @Np153.e8@ NOTE
+0 @Np153.e9@ NOTE
 1 CONT Pip b. at Gisborne and m. at Patutahi. June, d/o H M White and Kate Sherratt, b. at Gisborne. Address:
 1 CONT 7 Grant Road, Gisborne.
 1 CONT Pip was educated at Huntley School and Wanganui Collegiate School and farmed on "Tararau" station,
 1 CONT Muriwai. June was educated at Gisborne Girls' High School and Woodford House and trained as a Karitane
 1 CONT nurse.
-0 @Np153.e9@ NOTE
+0 @Np153.e10@ NOTE
 1 CONT Jonathan b. at Gisborne and m, at Wairoa. Fay, d/o Royce Durdy and Pauline Ethyl Edwards, b. at
 1 CONT Wairoa. Address: 16 River Road, Tewantin, Qld, Australia.
 0 @Np154.e4@ NOTE
@@ -42957,17 +43246,23 @@
 1 CONT Christina b. at Matamata. Address: Pukenoa, Matakitaki Road, RD 5, Tuakau.
 0 @Np155.e3@ NOTE
 1 CONT Harry b. at Hastings.
-1 CONT 02> FORSTER, George Distrowe
-1 CONT b 02.11.1994
-0 @Np155.e4@ NOTE
-1 CONT Suzanne b. at Hamilton. Nic is a civil engineer working on the new London Library.
 0 @Np155.e5@ NOTE
+1 CONT Suzanne b. at Hamilton. Nic is a civil engineer working on the new London Library.
+0 @Np155.e6@ NOTE
 1 CONT Hamish b. at Hamilton. Address: "Ngamawhetu", Keanes Road, RD 1 Howick, Auckland.
 1 CONT Hamish was educated at King's College (1981-85) where he was Head of House, Captain of Hockey and
 1 CONT joint recipient of the Headmaster's Supreme Award. Hamish teaches riding at home in summer and in
 1 CONT Japan in winter. He has had riding experience in Britain, the United States, Japan, Australia and
 1 CONT New Zealand and has captained a junior eventing team to Australia.
-0 @Np155.e8@ NOTE
+0 @Np155.e7@ NOTE
+1 CONT Pamela b. at Southsea, Hampshire, England and m, at St Thomas-a-Beckett, Warblington, Havant, Hants,
+1 CONT England, John, s/o FN Attwood and Ursule de Salis, b. at East Marden, Sussex, England, Address: 19
+1 CONT Pells Close, Guilsborough, Northampton NNG 8QR, England,
+1 CONT Pamela was a nurse, midwife and health visitor. John served in the Royal Navy and was an electrical
+1 CONT engineer. Both now retired.
+1 CONT John is active in church affairs, and takes services in their village church and in surrounding
+1 CONT villages. He has retired as a church warden after 20 years service.
+0 @Np155.e10@ NOTE
 1 CONT George d. at Wellington. Molly was a nurse.
 0 @Np156.e1@ NOTE
 1 CONT Arthur (Ata Wiremu) b. at Waimate, Bay of Islands, d. at Hastings and bd, at Pukehou.
@@ -43008,8 +43303,6 @@
 1 CONT artist, she exhibited at the Royal Water Colour Society and earned her first penny teaching art when she
 1 CONT was 80 years old.
 0 @Np156.e4@ NOTE
-1 CONT b 13.09.1923
-1 CONT b 01.05.1917 d 01.01.1979
 1 CONT Joe, s/o Richard Sunderland and Norah Williams. Joan and Joe are second cousins. Their biographical
 1 CONT notes and descendants are listed under Joe's entry in this Family Tree.
 0 @Np157.e1@ NOTE
@@ -43026,25 +43319,20 @@
 1 CONT Sacred Heart Convent in Vancouver, and the Kinsman's Foundation. In later years she took up water
 1 CONT colour painting and became an established artist.
 0 @Np157.e2@ NOTE
-1 CONT b 23.10.1958
 1 CONT Andrew b. at Leamington Spa, Warwickshire, England. Divorced.
 1 CONT Andrew graduated BA from the University of British Columbia and is a real estate developer in
 1 CONT Vancouver, BC.
 0 @Np157.e3@ NOTE
 1 CONT Kaylen b. at Vancouver, BC, Canada.
-1 CONT 02> CROSSE, Natasha Alexis
-1 CONT b 16.06.1990
-1 CONT Natasha b. at Vancouver, BC, Canada.
 0 @Np157.e4@ NOTE
+1 CONT Natasha b. at Vancouver, BC, Canada.
+0 @Np157.e5@ NOTE
 1 CONT Christopher was educated at Marlborough College, Wilts and the Royal Naval Engineering College, Keyham.
 1 CONT A Lieutenant (E) RN, he served in the Korean War on HMS Belfast. He was drowned at Spithead.
-1 CONT 04> CROSSE, Simon Courtenay m on 12.01.1957 to (1)UPJOHN, Sheila Margaret
-1 CONT Holland
-1 CONT b 02.05.1930
-1 CONT b 28.11.1930
+0 @Np157.e6@ NOTE
 1 CONT Simon b. at Christchurch and m. at Lindfield, Sussex, England. Divorced 1995. Sheila, d/o Wilfred
 1 CONT Henry Upjohn and Dorothy Leonora Olive Victoria Scutt, b. at Ipswich, England.
-0 @Np157.e5@ NOTE
+0 @Np157.e7@ NOTE
 1 CONT Lucy b. at London, England, Address: 121 Felsham Road, Putney, London SW18 1BA, England.
 1 CONT Lucy was educated at Norwich High School and after obtaining her "A" Levels in English, History and
 1 CONT Geography, she started her career in the television industry. After fifteen years with Anglia
@@ -43060,10 +43348,7 @@
 1 CONT development programme in Bangladesh. He is now based in Sydney, Australia, and currently runs the
 1 CONT structural engineering section of Kinhill, a subsidiary of Halliburton Company, and is currently
 1 CONT working in Norwich,
-0 @Np158.e2@ NOTE
-1 CONT 02> CROSSE, Carson Barrington
-1 CONT b 06.04.1993
-0 @Np158.e5@ NOTE
+0 @Np158.e6@ NOTE
 1 CONT Address: Riverbank, Whitlingham Lane, Trowse, Norwich NR14 8TW, England.
 1 CONT Simon is an architect. After qualifying at the Architectural Association in London in 1955, Simon
 1 CONT worked for Sir Hugh Casson in London. He moved to Norwich in 1962 and built himself a house in the
@@ -43073,14 +43358,14 @@
 1 CONT and representing Great Britain in the European Championships in 1957, 1958 and 1959. He won a Gold
 1 CONT Medal and achieved a world record in a coxed 4 at the Commonwealth and Empire Games in Wales in 1958
 1 CONT and carried on to represent Great Britain in a coxed 4 in the 1960 Olympics.
-0 @Np158.e6@ NOTE
+0 @Np158.e7@ NOTE
 1 CONT Philip b. at Te Aute and educated at Huntley School and Wanganui Collegiate School. He graduated BE at the
 1 CONT University of Canterbury and won a GEC graduate fellowship to the USA. He was a long term employee of Lever
 1 CONT Bros as chief engineer in Wellington and was design engineer with Dominion Breweries in Auckland.
 1 CONT His interests included gardening, writing poetry, hand-made jewellery and harmony singing with a group of
 1 CONT long-standing friends. In his retirement he was involved in researching and writing on historical matters
 1 CONT of both the Maori race and the Williams family. He had several articles published by historical societies.
-0 @Np158.e7@ NOTE
+0 @Np158.e8@ NOTE
 1 CONT Anthony b. at Auckland. Address: 101b Bassett Road, Remuera, Auckland.
 1 CONT Anthony was educated at Huntley College, Marton and King's College, Auckland (Prefect, 1948). He spent
 1 CONT 13 years in the Territorial Army retiring with the rank of Major. He studied accounting and at the
@@ -43149,20 +43434,17 @@
 1 CONT Rosemary b. at Hastings and m, at Woolwich, London, England. Graham, s/o Gerald Ivor Tuffrey and
 1 CONT Iris Mary Jones, b. at Barnet, Herts, England. Address: Waiteata Woolshed, RD 1, Tolaga Bay,
 1 CONT Gisborne.
-0 @Np161.e2@ NOTE
-1 CONT Dawn b. at Sidcup, Kent, England.
-1 CONT 02> TUFFERY, Tobias
-1 CONT b 12.06.1984
-1 CONT Tobias b. at Truro, Cornwall, England,
 0 @Np161.e3@ NOTE
-1 CONT Tallulah b. at Truro, Cornwall, England.
+1 CONT Tobias b. at Truro, Cornwall, England,
 0 @Np161.e4@ NOTE
-1 CONT Yasmin b. at Hastings, NZ.
+1 CONT Tallulah b. at Truro, Cornwall, England.
 0 @Np161.e5@ NOTE
-1 CONT Cappi b. at Whangarei.
+1 CONT Yasmin b. at Hastings, NZ.
 0 @Np161.e6@ NOTE
-1 CONT Roger m, at Los Angeles, California, USA. Address: 997 Madison Terrace, Acworth, Georgia, USA.
+1 CONT Cappi b. at Whangarei.
 0 @Np161.e7@ NOTE
+1 CONT Roger m, at Los Angeles, California, USA. Address: 997 Madison Terrace, Acworth, Georgia, USA.
+0 @Np161.e8@ NOTE
 1 CONT Russell b. at Wellington. Address: 113 Selwyn Avenue, Mission Bay, Auckland.
 1 CONT Russell moved to Auckland with the family in 1944. He was educated at Kings School and
 1 CONT Kings College and chose a career as a Chartered Accountant, working with Coopers &
@@ -43173,7 +43455,7 @@
 1 CONT Russell has given strong community service with the Auckland Regiment (Captain, 14 years), surf life
 1 CONT saving (21 years) and triathlons (9 years). He has acted as treasurer and as sports commentator. He
 1 CONT holds service awards from both organisations and was NZ's first helicopter lifeguard.
-0 @Np161.e8@ NOTE
+0 @Np161.e9@ NOTE
 1 CONT Joyce nee O'Halloran.
 0 @Np162.e1@ NOTE
 1 CONT Brian b. at Pukehou and d. at Waipukurau. Patricia, d/o Hildebrand Holderness and Cecil May McNeill, b, at
@@ -43309,21 +43591,18 @@
 0 @Np166.e6@ NOTE
 1 CONT Divorced.
 0 @Np166.e7@ NOTE
-1 CONT b 07.05.1968
-1 CONT b 04.10.1941
 1 CONT Address: 2 Woodward Street, Woodbourne, Blenheim.
 1 CONT Martine has been involved in the catering industry from the age of 19, rising to become
 1 CONT co-ordinator of training for the Valentine's chain at the age of 26. Stephen is in the Airforce
 1 CONT and studying towards a BEng.
-1 CONT 01> MORATTI, Jake Antonio
-1 CONT b 22.07.1995
-1 CONT Jake b. at Auckland.
 0 @Np166.e8@ NOTE
+1 CONT Jake b. at Auckland.
+0 @Np166.e9@ NOTE
 1 CONT Cecil b. at Waipawa and m. at Christ Church, Pukehou. Graham, s/o David McFarlane Blithe and Rhoda
 1 CONT Caroline Bennett. Address: Orui Road, RD 12, Masterton.
 1 CONT Cecil and Graham now live at their property near Riversdale Beach, Graham is Managing Director of CSL
 1 CONT and Cecil is currently Women's Captain at Riversdale Beach Golf Club.
-0 @Np166.e9@ NOTE
+0 @Np166.e10@ NOTE
 1 CONT David b. at Masterton and m. at Lower Hutt. Separated.
 1 CONT David is living in Lower Hutt.
 0 @Np167.e1@ NOTE
@@ -43429,8 +43708,13 @@
 1 CONT Samuel b. at Auckland. Address: 4 Markham Square, London SW 3, England.
 0 @Np170.e2@ NOTE
 1 CONT Address: 17 Wood Street, Swanbourne, Perth 6010, Western Australia.
-1 CONT bi> WILLIAMS, Lucy Anne
-1 CONT b 20.09.1964
+0 @Np170.e7@ NOTE
+1 CONT Emma b. at Puketona and d. at Hastings. She trained as a nurse at Dunedin Hospital and enlisted in wwi serving
+1 CONT in Gibraltar and England. She lived with her two sisters at Pukehou before moving to Havelock North and was
+1 CONT deeply involved in the Nurses Christian Fellowship of which she was Life Vice-President.
+0 @Np170.e8@ NOTE
+1 CONT Ada b. at Pukehou and d. at Hastings. She lived with her parents at Mount Eden, Auckland and later moved to Te
+1 CONT Aute.
 0 @Np176.e1@ NOTE
 1 CONT Marianne b. at Cheltenham, England, m. at Paihia, Bay of Islands and d. at Napier.
 1 CONT | Christopher, slo George and Catherine Davies, b. at London, England, bap. on 22.05.1811 at
@@ -43579,7 +43863,6 @@
 1 CONT and Glendowie College. She attended Auckland Technical Institute doing the Senior Business Course
 1 CONT and is now working as a secretaryl receptionist. Her interests include cooking, movies and reading.
 0 @Np179.e5@ NOTE
-1 CONT b 30.03.1925
 1 CONT Twin. Douglas b. at Napier and m. at Christchurch. Melba, dlo Horace Edmund
 1 CONT Harris and Gertrude Selina Pegley, b, at Christchurch. Address: 20A East Coast
 1 CONT Road, Milford, Auckland.
@@ -43626,7 +43909,6 @@
 1 CONT Sada attends North Shore Grammar School and plays the violin in the North Shore Junior
 1 CONT orchestra.
 0 @Np180.e5@ NOTE
-1 CONT b 12.06.1950
 1 CONT Kathleen m. at Takapuna, Auckland. Murray, slo Kenneth McLennan and Catherine
 1 CONT Summers, b. at Carterton. Address: 27 Westwell Road, Takapuna, Auckland.
 1 CONT Kathleen was educated at Hillmorton High School, Christchurch, and trained as a
@@ -43653,13 +43935,12 @@
 1 CONT Jedd b. at Vancouver, Canada.
 0 @Np181.e5@ NOTE
 1 CONT Derek b. at Buenos Aires, Argentina.
-1 CONT 03> FORBES, Adam Beaumont
-1 CONT b 17.12.1984
-1 CONT Adam b. at Auckland.
 0 @Np181.e6@ NOTE
+1 CONT Adam b. at Auckland.
+0 @Np181.e7@ NOTE
 1 CONT John b. and m. at Christchurch. Deborah, d/o Noel Mathews and Auriol Bodington, b. at Christchurch.
 1 CONT Deborah graduated BA, BSc from Canterbury University. She is a computer programmer/ analyst.
-0 @Np181.e7@ NOTE
+0 @Np181.e8@ NOTE
 1 CONT John m., at Christchurch. Lynda, d/o John Hicks and Myrtle Cooper, b, at
 1 CONT Christchurch. Address: 26 Aratoro Place, McCormacks Bay, Christchurch.
 1 CONT John is a qualified carpenter and joiner and Lynda is a primary school teacher. John
@@ -44031,17 +44312,41 @@
 1 CONT moved to the Gold Coast where she worked as a part-time computer operator with Richard Ellis Real
 1 CONT Estate. Her other interests include music, creative writing, music, tennis and swimming.
 0 @Np193.e1@ NOTE
+1 CONT Tony, twin brother of David, b. at Lower Hutt and m. at St John's Church,
+1 CONT Willis Street, Wellington. Raewyn, d/o Raymond Percival and Jean Gordon,
+1 CONT b, at Wanganui. Address: 68 Hautana Street, Lower Hutt.
+1 CONT Tony was educated at Eastern Hutt Primary School (1959-62); Wellesley
+1 CONT College (1962-66); Hutt Valley High School (1967-72); Victoria University
+1 CONT (1973); Wellington Polytechnic and the University of Canterbury. He was a
+1 CONT committee member of the Victoria University Ski Club for three years. He obtained a NZ Certificate
+1 CONT of Engineering from the Polytechnic and Bachelor of Engineering (Civil) from the University of
+1 CONT Canterbury. After graduation he worked for a short time for a construction company and then for a
+1 CONT firm of structural engineers in Lower Hutt. He and a partner then set up a housing construction
+1 CONT business. Later he and the same partner established Harbour Capital Properties Ltd and set about
+1 CONT acquiring and leasing commercial properties. He is a Founder Board Member of a new Independent
+1 CONT Boys' Secondary School - the first new school for boys in the Wellington region. He has built and
+1 CONT altered three houses, the latest being a substantial renovation of their present home. His leisure
+1 CONT interests include boating, water and snow skiing and tennis.
+1 CONT Raewyn was educated at Muritai School, Eastbourne; Wellington Girls' College and later at the
+1 CONT Wellington Polytechnic and Hutt Valley Polytechnic. While at school she was a member of the
+1 CONT Wellington Girls' College Netball and Tennis "A" Teams. She gained a Secretarial Certificate from
+1 CONT the Wellington Polytechnic and, from the Hutt Valley Polytechnic, a first class pass in Pitman Word
+1 CONT Processing. She has served on committees of the Plunket Society, the Wellesley College School and
+1 CONT the Lower Hutt Tennis Club. She worked as a secretary for Norwich Union Insurance, Caltex Oil, ICI
+1 CONT (NZ) Ltd and CB Norwood before marriage and is currently a Beauty Consultant for Estee Lauder. Her
+1 CONT other interests include dog showing, gardening, handicrafts, music and tennis.
+0 @Np193.e2@ NOTE
 1 CONT Brooke b, at Lower Hutt. She attends Chilton Saint James School where she won the Junior
 1 CONT Swimming Championship, was awarded the Little Chilton Cup for Academic Excellence in 1991 and
 1 CONT gained a three year school scholarship. Her interests include piano, swimming and hockey.
-0 @Np193.e2@ NOTE
+0 @Np193.e3@ NOTE
 1 CONT Hamish b. at Lower Hutt. He attends Wellesley College and won the Junior Championship in both
 1 CONT swimming and athletics. He is a keen and talented rugby player and has represented the Hutt
 1 CONT Valley. He is also a keen cricketer.
-0 @Np193.e3@ NOTE
+0 @Np193.e4@ NOTE
 1 CONT Kendyl b. at Lower Hutt. She attends Chilton Saint James and is interested in singing, piano
 1 CONT playing, ballet and swimming.
-0 @Np193.e4@ NOTE
+0 @Np193.e5@ NOTE
 1 CONT Judith has not taken the name Bevin. Nicholas, s/o Robert Bevin and Joan
 1 CONT Rothery. Address: 69 Richmond Street, Petone.
 1 CONT Judith was educated at Eastern Hutt Primary School, Chilton Saint James,
@@ -44058,11 +44363,10 @@
 0 @Np194.e2@ NOTE
 1 CONT Sylvia attends Petone Central School. Her interests are netball, mini-ball, touch rugby,
 1 CONT creative pursuits and piano and music.
-1 CONT 03> BEVIN, George Alister Robert
-1 CONT b 16.05.1989
+0 @Np194.e3@ NOTE
 1 CONT George attends Petone Central School where he is an active sportsperson, playing rugby,
 1 CONT cricket, touch rugby and basketball. He also enjoys music and plays the piano.
-0 @Np194.e3@ NOTE
+0 @Np194.e4@ NOTE
 1 CONT Si Jim b. at Manaia and m. at St Stephen's Church, Marton. Loeta, d/o Roy Hewitt
 1 CONT Halse and Mary Louise Searle, b. at Marton. Address: 111 Kawaha Point Road,
 1 CONT Rotorua.
@@ -44117,7 +44421,6 @@
 1 CONT From 1964-89 he farmed at Kirikau, Taumarunui and is now retired. He was Executive Officer of the
 1 CONT Ruapehu Province Federated Farmers, and is President of the Rotary Club (1997-98),
 0 @Np196.e1@ NOTE
-1 CONT b 23.07.1958
 1 CONT Susan b. at Taihape and m, at Taumarunui. Frederik, slo Hendrik van der
 1 CONT Vloodt and Margreta Helena Clara Meijering, b. at Greytown. Hendrik and
 1 CONT Margreta were born in the East Indies.
@@ -44158,8 +44461,10 @@
 0 @Np196.e5@ NOTE
 1 CONT Hannah b. at Taumarunui.
 0 @Np197.e1@ NOTE
-1 CONT Rebecca b. at Taumarunui.
+1 CONT William b. at Taumarunui.
 0 @Np197.e2@ NOTE
+1 CONT Rebecca b. at Taumarunui.
+0 @Np197.e3@ NOTE
 1 CONT Michael b. at Taihape and m. at Hamilton. Address: PO Box 301 Matamata.
 1 CONT Michael was educated at Kirikau Primary School, St George's, Wanganui, Palmerston
 1 CONT North Boys' High School and Massey University. While at High School he gained first
@@ -44173,15 +44478,15 @@
 1 CONT for a year, obtaining a Certificate in Secretarial Studies. She moved to Australia in 1986 where
 1 CONT she worked for various mining companies. She and Mike returned to New Zealand in 1993. Her
 1 CONT interests are swimming, running and old movies.
-0 @Np197.e3@ NOTE
-1 CONT Rhain b. at Camden, Australia.
 0 @Np197.e4@ NOTE
-1 CONT Rachel 6. at Hamilton.
+1 CONT Rhain b. at Camden, Australia.
 0 @Np197.e5@ NOTE
-1 CONT Thomas d, as an infant.
+1 CONT Rachel 6. at Hamilton.
 0 @Np197.e6@ NOTE
-1 CONT Henry d. as an infant.
+1 CONT Thomas d, as an infant.
 0 @Np197.e7@ NOTE
+1 CONT Henry d. as an infant.
+0 @Np197.e8@ NOTE
 1 CONT Henry b. at Tauranga and d. at Napier.
 0 @Np198.e1@ NOTE
 1 CONT Marianne b. at Tauranga and d. and bd. at Tokomaru Bay. William first managed "Edenham" in
@@ -44212,17 +44517,23 @@
 0 @Np199.e3@ NOTE
 1 CONT Roger b. at Dunedin.
 0 @Np199.e4@ NOTE
-1 CONT Rosemary b. at Auckland.
+1 CONT David b. at Dunedin.
 0 @Np199.e5@ NOTE
-1 CONT b 30.08.1951
+1 CONT Rosemary b. at Auckland.
+0 @Np199.e6@ NOTE
 1 CONT Caroline b. and m. at Auckland. Address: Te Peneha Farm, Tuapiro RD, Katikati, Bay of Plenty.
 1 CONT Caroline was educated at Auckland Diocesan School of Girls and graduated BHortSc from Massey
 1 CONT University. She is now a research worker in hydroponics at Tauranga Polytech.
-0 @Np199.e6@ NOTE
-1 CONT Fergus b. at Tauranga.
 0 @Np199.e7@ NOTE
-1 CONT Guy b. at Tauranga.
+1 CONT Fergus b. at Tauranga.
 0 @Np199.e8@ NOTE
+1 CONT Guy b. at Tauranga.
+0 @Np199.e9@ NOTE
+1 CONT Elizabeth b. at m. at Auckland. Address: via Jarach 7, Milan 20128, Italy.
+1 CONT Elizabeth was educated at Auckland Diocesan School for Girls and graduated BA from University
+1 CONT of Auckland and RSA Dip. She is now translating and teaching English at the School for
+1 CONT Interpreters and Translaters in Milan.
+0 @Np199.e10@ NOTE
 1 CONT John b. at Milan.
 0 @Np200.e1@ NOTE
 1 CONT Judith b. and m. at Auckland. Divorced. Address: 602 Queen Street West, Hastings,
@@ -44231,18 +44542,18 @@
 0 @Np200.e2@ NOTE
 1 CONT Ashley b. at Hastings.
 0 @Np200.e3@ NOTE
+1 CONT Emily b. at Hastings.
+0 @Np200.e4@ NOTE
 1 CONT Elizabeth b. at Waipukurau, m. at Salisbury, Southern Rhodesia and d, at Sydney, Australia. John,
 1 CONT s/o General Sir Sydney Muspratt and Lady Muspratt of Salisbury, England.
-0 @Np200.e4@ NOTE
+0 @Np200.e5@ NOTE
 1 CONT Emma b. at Salisbury, UK and m, at Chelsea Old Church. Address: Dove House, Ham, Marlborough,
 1 CONT Wiltshire SN8 3QR, England.
-0 @Np200.e7@ NOTE
+0 @Np200.e9@ NOTE
 1 CONT Belinda b. at Darwin, Australia and m. at London, England. Jonathon b. at Liverpool. Address:
 1 CONT Yew Tree House, Aldbourne, Wiltshire, England.
 1 CONT Jonathon is a medical doctor.
 0 @Np201.e2@ NOTE
-1 CONT b 31.07.1898 d 17.11.1987
-1 CONT b 18.06.1897 d 09.06.1992
 1 CONT Thomas b. in England.
 1 CONT After being commissioned in the Lancashire Fusiliers in Flanders, he volunteered to fly and served in
 1 CONT 34 Squadron RFC during WW1. He survived multiple wounds from machinegun-fire and a crash landing
@@ -44280,8 +44591,6 @@
 0 @Np202.e1@ NOTE
 1 CONT Guy is learning French.
 0 @Np202.e4@ NOTE
-1 CONT b 11.02.1963
-1 CONT b 21.09.1965
 1 CONT Alessandra, d/o Thomas Russell Lowry and Jane de Gruchy. Address: "Oakbourne", RD 4,
 1 CONT Waipukurau.
 1 CONT Richard is a sheep, beef and grain farmer on "Oakbourne" station. He was educated at Wanganui
@@ -44326,7 +44635,6 @@
 1 CONT Peter b. at Hastings and bd, at St Michael's and All Angels Church Cemetery, Porangahau. No children.
 1 CONT Peter farmed "Oakbourne" station from 1924.
 0 @Np203.e5@ NOTE
-1 CONT b 15.05.1899 d 21.11.1976
 1 CONT Beatrix b. at Hastings and m. at Williams Memorial Church, Paihia.
 1 CONT Pat farmed "Meteor Downs" station near Springshore, Queensland, with his brother, Darcy. He retired to
 1 CONT live in Bowral, NSW. During WW1 he served in the Light Horse Regiment and in WW2 he was a Major in the
@@ -44397,21 +44705,20 @@
 1 CONT Anne is a primary school teacher and Richard is an estate agent.
 0 @Np206.e3@ NOTE
 1 CONT Sarah b. at Wellington. She is studying nursing at Palmerston North Technical Institute.
-1 CONT 02> PHILLIPS, John Robert
-1 CONT b 19.07.1981
-1 CONT John b. at Wellington.
 0 @Np206.e4@ NOTE
+1 CONT John b. at Wellington.
+0 @Np206.e5@ NOTE
 1 CONT John b. at Waipukurau and m. at Tinui. Bridget, d/o Brian Edward Maunsell and Pamela Dearsley Wade.
 1 CONT Address: "Ruru", Tinui, Masterton.
 1 CONT John is a farm manager and Bridget is a horticulturist.
-0 @Np206.e5@ NOTE
-1 CONT Simon b. at Masterton.
 0 @Np206.e6@ NOTE
-1 CONT Diana b, at Masterton.
+1 CONT Simon b. at Masterton.
 0 @Np206.e7@ NOTE
+1 CONT Diana b, at Masterton.
+0 @Np206.e8@ NOTE
 1 CONT Elsie b, at Pahake and bd, at Tokomaru Bay Cemetery. She worked as a VAD in London during WW1 and was later
 1 CONT asked to join the London Police Force. She did woodcarving as a hobby.
-0 @Np206.e8@ NOTE
+0 @Np206.e9@ NOTE
 1 CONT Beatrice b. at Pakaraka, Bay of Islands, m. at Tokomaru Bay, d. at Te Puia Springs and bd. at Tokomaru Bay.
 1 CONT Charles b, in Devon, England and d. at Tokomaru Bay.
 1 CONT Charles worked as a bank clerk in Brazil for two years before coming to New Zealand in 1916, He managed
@@ -44424,7 +44731,6 @@
 1 CONT an interesting variety of beautiful trees around "Mangarakai" homestead, and several plantations on the
 1 CONT (cont...)
 0 @Np207.e1@ NOTE
-1 CONT b 23.04.1924
 1 CONT Jack b. at Tokomaru Bay, m, at Gisborne and d. at Tokomaru bay. Margaret, d/o
 1 CONT Andrew Ernest Reeves and Edith Cantrell Donald, b. at Auckland. Address: 2
 1 CONT Lloyd George Road, Wainui, Gisborne.
@@ -44454,40 +44760,37 @@
 1 CONT Mark b. at Gisborne. He graduated from Lincoln University with a Bachelor of Landscape
 1 CONT Architecture in 1997.
 0 @Np207.e8@ NOTE
-1 CONT b 27.06.1950
 1 CONT Nicholas, s/o Dr Martin Girling-Butcher and Elizabeth Espagne. Address: "Ihunui", PO Box 142,
 1 CONT Tolaga Bay.
 1 CONT Patricia and Nicholas are farmers and have a small Cashmere garment business.
 0 @Np208.e1@ NOTE
 1 CONT George b. at Auckland.
-1 CONT 02> GIRLING-BUTCHER, Louis James Jefferd
-1 CONT b 18.07.1985
-1 CONT Louis b. at Auckland.
 0 @Np208.e2@ NOTE
+1 CONT Louis b. at Auckland.
+0 @Np208.e3@ NOTE
 1 CONT Rosemary b. at Gisborne and m. at Tokomaru Bay. Colin, s/o Arnott William Pettigrew and Doris
 1 CONT Howland. Address: "Awatai", PO Box 157, Tolaga Bay.
 1 CONT Rosemary is a secretary and Colin is a farmer and stock buyer.
-0 @Np208.e3@ NOTE
-1 CONT Alice b, at Gisborne.
 0 @Np208.e4@ NOTE
-1 CONT Anna b. at Gisborne.
+1 CONT Alice b, at Gisborne.
 0 @Np208.e5@ NOTE
-1 CONT Emily b. at Gisborne.
+1 CONT Anna b. at Gisborne.
 0 @Np208.e6@ NOTE
+1 CONT Emily b. at Gisborne.
+0 @Np208.e7@ NOTE
 1 CONT Andrew b. at Gisborne and m. at Waimate. Sally, d/o Michael Rattray and Juliet Sherratt. Address:
 1 CONT Hiriroroa Road, RD 2, Ngatapa, Gisborne.
 1 CONT Andrew was educated at Huntley School and Wanganui Collegiate School (1st rugby XV 1969-71) and
 1 CONT Lincoln College and is now a farmer. He is a good all-round sportsman playing rugby for NZ
 1 CONT Universities, Canterbury and East Coast. He was a NZ Trialist in 1979 and 1980 and played for the
 1 CONT All Blacks in the 1980-81 seasons.
-0 @Np208.e7@ NOTE
-1 CONT Julia b. at Gisborne.
 0 @Np208.e8@ NOTE
-1 CONT John b. at Gisborne.
+1 CONT Julia b. at Gisborne.
 0 @Np208.e9@ NOTE
+1 CONT John b. at Gisborne.
+0 @Np208.e10@ NOTE
 1 CONT Edward b. at Gisborne.
 0 @Np209.e1@ NOTE
-1 CONT b 05.08.1960
 1 CONT Bruce b. at Te Puia Springs, East Cape. Address: PO Box 29, Tolaga Bay.
 1 CONT Bruce and Nicola farm a mixture of stud sheep and cash crops. Both have keen sporting interests.
 0 @Np209.e2@ NOTE
@@ -44558,13 +44861,11 @@
 1 CONT Molly was a keen sportswoman. She served as a land girl during ww2.
 0 @Np211.e6@ NOTE
 1 CONT Elizabeth lives at North Stadbroke Island, Australia, where she runs a guest house.
-1 CONT 01> NAIRN, Paula
-1 CONT b ** ** ****
-0 @Np211.e8@ NOTE
+0 @Np211.e9@ NOTE
 1 CONT Bryce b. at Auckland. Address: 27 Clifton Road, Te Awanga, Hawkes Bay.
 1 CONT Bryce was educated at Dannevirke. He is now a commercial fishing captain and has a small farm at
 1 CONT Hawkesbury.
-0 @Np211.e9@ NOTE
+0 @Np211.e10@ NOTE
 1 CONT Heidi b. at Auckland.
 0 @Np212.e1@ NOTE
 1 CONT Helen d, as a result of a car accident at Gisborne. She was known for her Maori portraits and
@@ -44606,7 +44907,6 @@
 1 CONT her return in 1978 she underwent the necessary two years required to gain a Diploma in Horticulture
 1 CONT (cont...)
 0 @Np213.e1@ NOTE
-1 CONT b 24.10.1958
 1 CONT Richard b. at Gisborne and m. at Woodford Chapel, Havelock North. Robyn, d/o Peter Wilson and
 1 CONT Janet Gough, b. at Waipawa. Address: Makorori Station, RD 3 Whangara, Gisborne.
 1 CONT Richard was educated at Huntley School, Marton, and Wanganui Collegiate School then farmed at
@@ -44646,10 +44946,16 @@
 1 CONT Richard b, at Masterton. He was educated at Hadlow Prep School, Rathkeale and Wairarapa College
 1 CONT and is a manager in retail.
 0 @Np214.e3@ NOTE
+1 CONT Donald b. at Gisborne and m. at New Plymouth. Divorced. Lindsay, dlo Duncan Cleland. Address: 34
+1 CONT Cutfield Road, New Plymouth.
+1 CONT Donald was educated at Waipawa Primary and Dannevirke High School. He obtained a Diploma in
+1 CONT Industrial Design at the Wellington Polytech. He is now Manager of Taranaki Trust Bank Real Estate.
+1 CONT He is also a keen yachtsman.
+0 @Np214.e4@ NOTE
 1 CONT Address: 11/259 The Terrace, Wellington.
 1 CONT Deborah was educated at New Plymouth Girls High School and was an American Field Scholar to
 1 CONT Germany for three months, She graduated BCom from Victoria University.
-0 @Np214.e4@ NOTE
+0 @Np214.e5@ NOTE
 1 CONT Victoria b. at Gisborne and m. at Phoenix, Arizona, USA. Frederick, s/o Patrick and Ruth Grosse, b.
 1 CONT at New York, USA. Victoria was educated at Waipawa Primary, Dannevirke High School and Massey
 1 CONT University (BA). She worked with the International Labour Office in Geneva, the UNDP in Iran, the
@@ -44657,9 +44963,9 @@
 1 CONT office in Auckland for 3 years. She is now a holistic healer with her own practice in Phoenix and
 1 CONT became a Reiki Master in 1991. Frederick has a PhD and is a rabbi and psychotherapist. He works as
 1 CONT a consultant with a number of New Zealand companies.
-0 @Np214.e5@ NOTE
-1 CONT Helen b. at Tokatoka, d. at Gisborne and bd, at Taruheru Cemetery, Gisborne,
 0 @Np214.e6@ NOTE
+1 CONT Helen b. at Tokatoka, d. at Gisborne and bd, at Taruheru Cemetery, Gisborne,
+0 @Np214.e7@ NOTE
 1 CONT Eleanor b. at Edenham, Patangata, Hawkes Bay, m. at St Mary's Church, Tokomaru Bay, d. at Te Puia Springs
 1 CONT Hospital and cremated at Hastings. Frederic b. at Egg Buckland, Devon, England, d. at Te Puia Springs
 1 CONT Hospital and cremated at Hastings.
@@ -44813,7 +45119,6 @@
 1 CONT Wendy was educated at Woodford House and Michael was educated at Wanganui Collegiate School. They
 1 CONT are now farming in partnership.
 0 @Np219.e2@ NOTE
-1 CONT b 23.01.1969
 1 CONT Joanna b. at Gisborne and m. at Wharehau, Gisborne. Michael, slo Daniel Lowther Broad and Mary
 1 CONT Busby, b, at Gisborne. Address: 137 Lytton Road, Gisborne.
 1 CONT Janna was educated at Woodford House and graduated DipTchng and BEd from Teacher's Training
