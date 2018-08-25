@@ -58,10 +58,10 @@ blocks:
       bottom: 1003
 - paragraphs:
   - text: |
-      > SINCLAIR, Donald Richard m on 01.05.1971 to CLELAND, Lindsay
+      02> SINCLAIR, Donald Richard m on 01.05.1971 to CLELAND, Lindsay
       b 27.09.1949
     bounds:
-      left: 557
+      left: 512
       right: 2006
       top: 1096
       bottom: 1199

@@ -123,7 +123,7 @@ blocks:
       top: 1940
       bottom: 2090
 - paragraphs:
-  - text: '05> CANNING, Beatrix Busby m on 26.10.1933 to DONKIN, Douglas Sydney (Pat)
+  - text: '05> CANNING, Beatrix Busby (Betty) m on 26.10.1933 to DONKIN, Douglas Sydney (Pat)
 
 '
     bounds:
@@ -132,7 +132,6 @@ blocks:
       top: 2134
       bottom: 2192
   - text: |
-      (Betty)
       b 29.01.1905
     bounds:
       left: 528

@@ -76,6 +76,13 @@ blocks:
       bottom: 1237
   - text: |
       Sarah b. at Wellington. She is studying nursing at Palmerston North Technical Institute.
+    bounds:
+      left: 578
+      right: 2057
+      top: 1242
+      bottom: 1390
+- paragraphs:
+  - text: |
       02> PHILLIPS, John Robert
     bounds:
       left: 578

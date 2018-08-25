@@ -120,6 +120,13 @@ blocks:
   - text: |
       b ** ** ****
       Elizabeth lives at North Stadbroke Island, Australia, where she runs a guest house.
+    bounds:
+      left: 576
+      right: 1900
+      top: 1793
+      bottom: 2009
+- paragraphs:
+  - text: |
       01> NAIRN, Paula
     bounds:
       left: 576

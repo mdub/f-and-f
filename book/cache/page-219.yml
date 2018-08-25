@@ -70,7 +70,7 @@ blocks:
       top: 1289
       bottom: 1398
 - paragraphs:
-  - text: '01> WILLOCK, Joanna Mary m on 14.12.1996 to BROAD, Michael Lowther
+  - text: '01> WILLOCK, Joanna Mary (Janna) m on 14.12.1996 to BROAD, Michael Lowther
 
 '
     bounds:
@@ -79,7 +79,6 @@ blocks:
       top: 1424
       bottom: 1497
   - text: |
-      (Janna)
       b 21.04.1972
     bounds:
       left: 677

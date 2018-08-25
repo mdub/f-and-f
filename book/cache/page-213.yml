@@ -33,7 +33,7 @@ blocks:
       top: 490
       bottom: 793
 - paragraphs:
-  - text: '04> BUSBY, Richard Alexander m on 07.09.1985 to WILSON, Janet Robyn
+  - text: '04> BUSBY, Richard Alexander Dearden m on 07.09.1985 to WILSON, Janet Robyn
 
 '
     bounds:
@@ -42,7 +42,6 @@ blocks:
       top: 835
       bottom: 898
   - text: |
-      Dearden
       b 08.01.1956
     bounds:
       left: 602

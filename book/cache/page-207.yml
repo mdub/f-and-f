@@ -28,7 +28,7 @@ blocks:
       top: 438
       bottom: 538
 - paragraphs:
-  - text: '01> JEFFERD, John Busby (Jack) m on 23.07.1947 to REEVES, Margaret Shirley
+  - text: '01> JEFFERD, John Busby (Jack) m on 23.07.1947 to REEVES, Margaret Shirley Leigh
 
 '
     bounds:
@@ -37,7 +37,6 @@ blocks:
       top: 578
       bottom: 645
   - text: |
-      Leigh
       b 19.07.1918 d 11.09.1981
     bounds:
       left: 527
@@ -182,7 +181,7 @@ blocks:
       top: 2592
       bottom: 2735
 - paragraphs:
-  - text: '02> JEFFERD, Patricia Anne m on 27.02.1982 to GIRLING - BUTCHER, Nicholas
+  - text: '02> JEFFERD, Patricia Anne m on 27.02.1982 to GIRLING - BUTCHER, Nicholas John
 
 '
     bounds:
@@ -191,7 +190,6 @@ blocks:
       top: 2826
       bottom: 2888
   - text: |
-      John
       b 29.08.1950
     bounds:
       left: 608

@@ -39,6 +39,13 @@ blocks:
       bottom: 631
   - text: |
       George b. at Auckland.
+    bounds:
+      left: 577
+      right: 1589
+      top: 640
+      bottom: 788
+- paragraphs:
+  - text: |
       02> GIRLING-BUTCHER, Louis James Jefferd
     bounds:
       left: 577
