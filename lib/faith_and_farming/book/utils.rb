@@ -20,7 +20,7 @@ module FaithAndFarming
 
       def normalise_name(name)
         name
-          .gsub(/\w+/, &:capitalize)
+          .gsub(/\p{Latin}+/, &:capitalize)
           .sub("Van Der", "van der")
           .sub(/Mc([a-z])/) { "Mc" + $1.upcase }
       end

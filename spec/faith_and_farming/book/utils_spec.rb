@@ -55,6 +55,7 @@ describe FaithAndFarming::Book::Utils do
       expect_normalise_name("VAN DER ZIJPP, Jacob", "van der Zijpp, Jacob")
       expect_normalise_name("MCKENNA, Jeanne", "McKenna, Jeanne")
       expect_normalise_name("O'CONNOR, Elizabeth Jane", "O'Connor, Elizabeth Jane")
+      expect_normalise_name("HARRÉ, Urma Ra Awatea", "Harré, Urma Ra Awatea")
     end
 
   end
