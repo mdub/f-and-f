@@ -51,7 +51,7 @@ blocks:
       top: 961
       bottom: 1005
 - paragraphs:
-  - text: '01> PINCKNEY, David William m on 08.09.1989 to PHELPS-BROWN, Kathryn
+  - text: '01> PINCKNEY, David William m on 08.09.1989 to PHELPS-BROWN, Kathryn (Kate)
 
 '
     bounds:
@@ -60,7 +60,6 @@ blocks:
       top: 1047
       bottom: 1111
   - text: |
-      (Kate)
       b 16.09.1963
     bounds:
       left: 602

@@ -63,6 +63,13 @@ blocks:
       bottom: 911
   - text: |
       b 07.09.1986
+    bounds:
+      left: 578
+      right: 1360
+      top: 910
+      bottom: 1064
+- paragraphs:
+  - text: |
       02> TYLEE, Alice Elizabeth Jane
     bounds:
       left: 578

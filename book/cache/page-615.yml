@@ -170,7 +170,7 @@ blocks:
       top: 2661
       bottom: 2817
 - paragraphs:
-  - text: '05> RUSSELL, Margaret Gertrude m on 10.06.1933 to LOWRY, Thomas Coleman
+  - text: '05> RUSSELL, Margaret Gertrude (Margot) m on 10.06.1933 to LOWRY, Thomas Coleman
       (Tom)
 
 '
@@ -180,7 +180,6 @@ blocks:
       top: 2899
       bottom: 2967
   - text: |
-      (Margot)
       b 06.07.1906 d 13.07.1993
     bounds:
       left: 465
@@ -192,13 +191,14 @@ blocks:
       Margot shared Tom's enthusiasm for horses and racing and was always warmly interested in people.
       Tom was educated at Christ's College (Prefect, Captain of Cadets, captain of 1st rugby XV, captain of 1st
       cricket XI). He served in the RFC (RAF) in WW1.
+      (cont...)
     bounds:
       left: 463
       right: 2122
       top: 3006
       bottom: 3217
+- paragraphs:
   - text: |
-      (cont...)
       1 2 3 4 5 6 7 8 9
     bounds:
       left: 222

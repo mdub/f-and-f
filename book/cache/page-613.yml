@@ -38,6 +38,13 @@ blocks:
       bottom: 604
   - text: |
       b 12.11.1983
+    bounds:
+      left: 581
+      right: 1287
+      top: 603
+      bottom: 758
+- paragraphs:
+  - text: |
       02> DUNNE, Peter John Gerard
     bounds:
       left: 581
@@ -81,6 +88,13 @@ blocks:
       bottom: 1201
   - text: |
       b 27.10.1981
+    bounds:
+      left: 583
+      right: 1003
+      top: 1204
+      bottom: 1349
+- paragraphs:
+  - text: |
       02> BAYFORD, Alec
     bounds:
       left: 583

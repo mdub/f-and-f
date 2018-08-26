@@ -24,29 +24,21 @@ blocks:
       IRUSSELL, Andrew Hamilton and MCSWEENY, Eve
       IRUSSELL, Katherine Mary and CAVE, Adrian Michael
       JCAVE , Philip Russell and PARSONS, Maree Colleen
-      01> CAVE, Rebecca Mary
     bounds:
       left: 573
       right: 2126
       top: 250
       bottom: 613
+- paragraphs:
   - text: |
+      01> CAVE, Rebecca Mary
       b 12.02.1995
       Rebecca b. at Gisborne.
     bounds:
-      left: 680
+      left: 573
       right: 1049
       top: 608
       bottom: 704
-- paragraphs:
-  - text: 'IRUSSELAndrew Hamitify Beetham and pary-Margaret
-
-'
-    bounds:
-      left: 571
-      right: 1838
-      top: 226
-      bottom: 463
 - paragraphs:
   - text: '02> CAVE, Nicholas William
 

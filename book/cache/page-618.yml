@@ -75,6 +75,13 @@ blocks:
       bottom: 1201
   - text: |
       Cedric is studying Commerce at Otago University. He enjoys skiing.
+    bounds:
+      left: 503
+      right: 1680
+      top: 1202
+      bottom: 1354
+- paragraphs:
+  - text: |
       02> MARIE, Alexandra Gisele Helene
     bounds:
       left: 503
@@ -154,14 +161,20 @@ blocks:
   - text: |
       Williams received "Aramutu" (615 hectares) and Barnabas Wilder Williams received "Papahope" (451 hectares).
       "Aramutu" is now farmed by Mark Antony Williams.
-      01> WILLIAMS, Mary Margaret Wilder m on 08.01.1930 to WILLIAMS, Bevan Sydney
+    bounds:
+      left: 357
+      right: 2167
+      top: 2701
+      bottom: 2903
+- paragraphs:
+  - text: |
+      01> WILLIAMS, Mary Margaret Wilder (Bettie) m on 08.01.1930 to WILLIAMS, Bevan Sydney
     bounds:
       left: 357
       right: 2167
       top: 2701
       bottom: 2903
   - text: |
-      (Bettie)
       b 13.02.1908 d 29.11.1979
     bounds:
       left: 456

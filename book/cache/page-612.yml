@@ -15,23 +15,23 @@ blocks:
       VRUSSELL, Katherine Mary and DEANS, William
       VDEANS, William Russell and OSBORNE-SMITH, June Sheila (Topsy)
       IDEANS, Philip Russell and MIDDLETON, Jocelyn Lee
-      03> DEANS, Derek Douglas
     bounds:
       left: 573
       right: 2136
       top: 253
       bottom: 608
-  - text: 'b 15.08.1995
-
-'
+- paragraphs:
+  - text: |
+      03> DEANS, Derek Douglas
+      b 15.08.1995
     bounds:
-      left: 679
+      left: 573
       right: 891
       top: 616
       bottom: 654
 - paragraphs:
   - text: |
-      DEANS, Katherine Russell
+      03> DEANS, Katherine Russell
       b 29.08.1958
       Katherine b. at Darfield. Address: 75 McBride Street, Frankton, Central Otago.
       Katherine was educated at Selwyn House, Christchurch, and Craighead, Timaru. In 1979 she gained a
@@ -52,19 +52,10 @@ blocks:
       Europe, America, India and Alaska. Her other interests are tramping, climbing, mountain biking,
       tennis, running and dancing.
     bounds:
-      left: 590
+      left: 496
       right: 2232
       top: 757
       bottom: 1759
-- paragraphs:
-  - text: 'e
-
-'
-    bounds:
-      left: 2121
-      right: 2124
-      top: 1812
-      bottom: 1848
 - paragraphs:
   - text: |
       04> DEANS, Fiona Jane Russell m on 20.11.1991 to HUMPHREY, Russell Neil

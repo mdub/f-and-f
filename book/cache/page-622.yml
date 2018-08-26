@@ -21,15 +21,6 @@ blocks:
       top: 244
       bottom: 508
 - paragraphs:
-  - text: 'Mariargaret Pearlie)
-
-'
-    bounds:
-      left: 1710
-      right: 2283
-      top: 263
-      bottom: 407
-- paragraphs:
   - text: |
       01> FRASER, Deborah (Debbie) m on 21.03.1992 to HARVEY, Simon
       b 11.05.1970
@@ -48,6 +39,13 @@ blocks:
       bottom: 716
   - text: |
       Debbie is a travel consultant and Simon is a sales and marketing manager for an engineering firm.
+    bounds:
+      left: 503
+      right: 2132
+      top: 707
+      bottom: 856
+- paragraphs:
+  - text: |
       b2> FRASER, David
     bounds:
       left: 503
@@ -63,7 +61,7 @@ blocks:
       top: 856
       bottom: 896
 - paragraphs:
-  - text: '03> KELLY, Teresa Mary de facto (2) MORRISON, Roderick Charles
+  - text: '03> KELLY, Teresa Mary de facto (2) MORRISON, Roderick Charles Malcolm
 
 '
     bounds:
@@ -72,7 +70,6 @@ blocks:
       top: 994
       bottom: 1052
   - text: |
-      Malcolm
       b 19.08.1949
     bounds:
       left: 526
@@ -91,14 +88,15 @@ blocks:
       bottom: 1303
   - text: |
       moved to an eight acre lifestyle block near Elsthorpe, retaining the name, "Glayva".
-      04> KELLY, Elizabeth Janet and TAYLOR, Michael
-      b 31.10.1951
     bounds:
       left: 427
       right: 1838
       top: 1304
       bottom: 1496
+- paragraphs:
   - text: |
+      04> KELLY, Elizabeth Janet and TAYLOR, Michael
+      b 31.10.1951
       b 18.07.1949
       Elizabeth b. at Hastings. Michael, s/o Albert Taylor and Patricia Simpson, b. at Preston, Selford,
       England. Address: 30 Wiremu Street, Auckland 4.
@@ -113,7 +111,7 @@ blocks:
       taught art after graduating from training college, and has been a librarian and practising artist since
       1977.
     bounds:
-      left: 514
+      left: 427
       right: 2230
       top: 1456
       bottom: 2096

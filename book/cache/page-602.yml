@@ -61,7 +61,7 @@ blocks:
       bottom: 1566
 - paragraphs:
   - text: |
-      01> WILLIAMS, Janet Mary m on 06.02.1948 to WILLIAMS, Leonard Heathcote (Bill).
+      01> WILLIAMS, Janet Mary m on 06.02.1948 to WILLIAMS, Leonard Heathcote (Bill)
       b 16.07.1918 d 28.11.1979
     bounds:
       left: 354
@@ -97,7 +97,7 @@ blocks:
       top: 2015
       bottom: 2164
 - paragraphs:
-  - text: '03> WILLIAMS, Heathcote Beetham m on 09.11.1946 to NOLAN, Patricia Elizabeth
+  - text: '03> WILLIAMS, Heathcote Beetham (Bill) m on 09.11.1946 to NOLAN, Patricia Elizabeth
 
 '
     bounds:
@@ -106,7 +106,6 @@ blocks:
       top: 2358
       bottom: 2409
   - text: |
-      (Bill)
       b 16.08.1922
     bounds:
       left: 454
