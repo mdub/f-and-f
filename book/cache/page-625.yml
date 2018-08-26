@@ -12,13 +12,14 @@ blocks:
   - text: |
       JWILLIAMS, James Nelson and BEETHAM, Mary-Margaret
       JWILLIAMS, Cyril Nelson Beetham and WILDER, Maud Margaret (Pearlie)
+      JWILLIAMS, Barnabas Wilder (Barney) and JAMIESON, Moira Jane
     bounds:
       left: 585
       right: 2271
       top: 251
       bottom: 361
+- paragraphs:
   - text: |
-      JWILLIAMS, Barnabas Wilder (Barney) and JAMIESON, Moira Jane
       06> WILLIAMS, Barnabas Wilder (Barney) m on ** ** **** to (2) JAMIESON, Moira Jane
       b 17.07.1917 d 31.05.1991
     bounds:
@@ -128,7 +129,7 @@ blocks:
       bottom: 2152
 - paragraphs:
   - text: '02> WILLIAMS, Christina Elsie m on 02.03.1940 to DUCKWORTH, Auberon Charles
-      Alan
+      Alan Campbell
 
 '
     bounds:
@@ -137,7 +138,6 @@ blocks:
       top: 2241
       bottom: 2309
   - text: |
-      Campbell
       b 25.11.1918
     bounds:
       left: 455
@@ -156,7 +156,7 @@ blocks:
       top: 2352
       bottom: 2603
 - paragraphs:
-  - text: '01> DUCKWORTH, Jane Margaret Christina m on 10.02.1970 to BLAKENEY, Hugh
+  - text: '01> DUCKWORTH, Jane Margaret Christina Victoria m on 10.02.1970 to BLAKENEY, Hugh
 
 '
     bounds:
@@ -165,7 +165,6 @@ blocks:
       top: 2642
       bottom: 2704
   - text: |
-      Victoria
       b 01.01.1941
     bounds:
       left: 532

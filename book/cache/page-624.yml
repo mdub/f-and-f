@@ -20,7 +20,7 @@ blocks:
       bottom: 405
 - paragraphs:
   - text: '05> WILLIAMS, Timothy John Wilder m on 21.12.1963 to (2)DINSDALE, Agnes
-      Hill
+      Hill (Nancy)
 
 '
     bounds:
@@ -29,7 +29,6 @@ blocks:
       top: 433
       bottom: 505
   - text: |
-      (Nancy)
       b 21.08.1915 d 08.01.1979
     bounds:
       left: 449
@@ -39,14 +38,20 @@ blocks:
   - text: |
       b 17.11.1921
       Timothy bd. at Elsthorpe. Nancy nee Tullis. Address: 14 Kohatu Parade, 3 Mile Bay, Taupo.
-      06> WILLIAMS, Barnabas Wilder m on **.**.1941 to (1) DALZIELL, Kathleen Kelly
+    bounds:
+      left: 353
+      right: 2154
+      top: 554
+      bottom: 753
+- paragraphs:
+  - text: |
+      06> WILLIAMS, Barnabas Wilder (Barney) m on **.**.1941 to (1) DALZIELL, Kathleen Kelly
     bounds:
       left: 353
       right: 2154
       top: 554
       bottom: 753
   - text: |
-      (Barney)
       b 17.07.1917 d 31.05.1991
     bounds:
       left: 449

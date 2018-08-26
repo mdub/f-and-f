@@ -30,7 +30,7 @@ blocks:
       top: 492
       bottom: 649
 - paragraphs:
-  - text: '01> HILSON, Richard Patrick m on 18.04.1998 to MIDDELBERG, Karen Elizabeth
+  - text: '01> HILSON, Richard Patrick Nelson m on 18.04.1998 to MIDDELBERG, Karen Elizabeth
 
 '
     bounds:
@@ -39,7 +39,6 @@ blocks:
       top: 687
       bottom: 746
   - text: |
-      Nelson
       b 15.03.1967
     bounds:
       left: 605

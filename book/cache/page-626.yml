@@ -89,6 +89,13 @@ blocks:
   - text: |
       b 15.08.1945
       Address: "Myskyns", Ticehurst, Sussex, England.
+    bounds:
+      left: 500
+      right: 1924
+      top: 1030
+      bottom: 1230
+- paragraphs:
+  - text: |
       b1> KUSEL, Sophie
     bounds:
       left: 500

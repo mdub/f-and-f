@@ -109,6 +109,13 @@ blocks:
       bottom: 1600
   - text: |
       Liza adopted by George.
+    bounds:
+      left: 498
+      right: 1155
+      top: 1609
+      bottom: 1754
+- paragraphs:
+  - text: |
       02> NELSON, David Nicholas
     bounds:
       left: 498
@@ -125,6 +132,13 @@ blocks:
       bottom: 1800
   - text: |
       David adopted by George.
+    bounds:
+      left: 501
+      right: 1075
+      top: 1807
+      bottom: 1950
+- paragraphs:
+  - text: |
       03> NELSON, Amy Estelle
     bounds:
       left: 501

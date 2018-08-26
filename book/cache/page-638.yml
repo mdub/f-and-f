@@ -118,6 +118,13 @@ blocks:
       bottom: 2138
   - text: |
       pump company in Taupo in 1998.
+    bounds:
+      left: 507
+      right: 1264
+      top: 2145
+      bottom: 2288
+- paragraphs:
+  - text: |
       02> STRATFORD, Anthony Warwick
     bounds:
       left: 507

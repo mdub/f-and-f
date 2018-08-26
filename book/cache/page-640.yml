@@ -90,17 +90,17 @@ blocks:
       Cristobal b. at Buenos Aires, Argentina. Address: 37 Rocking Horse Road, Christchurch.
       Cristobal completed an MSc in Geology at Auckland University. Wendy graduated PhD from Cambridge
       University and is now lecturing in the Department of Geography at Canterbury University.
-      01> NELSON, Sarah Kate
     bounds:
       left: 498
       right: 2179
       top: 1386
       bottom: 1701
-  - text: 'b ** ** ****
-
-'
+- paragraphs:
+  - text: |
+      01> NELSON, Sarah Kate
+      b ** ** ****
     bounds:
-      left: 603
+      left: 498
       right: 817
       top: 1692
       bottom: 1735
