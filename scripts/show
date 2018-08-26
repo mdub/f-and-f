@@ -14,6 +14,7 @@ Clamp do
   option ["-p", "--page"], "PAGE", "only page" do |arg|
     self.from = self.to = arg
   end
+  option ["--[no-]color"], :flag, "show colours", default: true
 
   def pages
     FaithAndFarming::Book.pages(from..to)
@@ -56,11 +57,6 @@ Clamp do
     option ["-e", "--show-errors"], :flag, "show errors"
     option ["-l", "--max-level"], "N", "maximum level", &method(:Integer)
 
-    INDENT = Paint["| ", :faint]
-    DOT = Paint["•", :faint]
-    MARRIED = Paint[" = ", :cyan]
-    ERROR = Paint["!!!", :red]
-
     def execute
       elements.each do |e|
         case e
@@ -68,17 +64,16 @@ Clamp do
           @page_index = e.page_index
           if show_pages?
             puts ""
-            puts Paint["--- page #{e.page_index}", :faint]
+            puts faint("--- page #{e.page_index}")
           end
         when FaithAndFarming::Book::Elements::Entry
           next if max_level && e.level > max_level
-          indent = INDENT * (e.level - 1)
-          puts "#{indent}#{DOT} #{entry_heading(e)}"
+          puts "#{indent(e.level)}#{faint("•")} #{entry_heading(e)}"
           if @last_entry && e.level > @last_entry.level + 1
-            show_error("too deep", indent: indent)
+            show_error("too deep", level: e.level)
           end
           e.errors.each do |error|
-            show_error(error, indent: indent)
+            show_error(error, level: e.level)
           end
           @last_entry = e
         end
@@ -88,12 +83,16 @@ Clamp do
     private
 
     def entry_heading(entry)
-      entry.people.map(&:name).join(MARRIED)
+      entry.people.map(&:name).join(paint(" = ", :cyan))
     end
 
-    def show_error(message, indent:)
+    def indent(level = 1)
+      faint("| ") * (level - 1)
+    end
+
+    def show_error(message, level:)
       return unless show_errors?
-      puts indent + Paint["!!! #{message}", :red]
+      puts indent(level) + paint("!!! #{message}", :red)
     end
 
   end
@@ -123,6 +122,15 @@ Clamp do
       pages.family_tree.write_gedcom($stdout)
     end
 
+  end
+
+  def paint(text, *style)
+    return text unless color?
+    Paint[text, *style]
+  end
+
+  def faint(text)
+    paint(text, :faint)
   end
 
   def run(*)
