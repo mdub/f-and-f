@@ -30,7 +30,7 @@ blocks:
       top: 594
       bottom: 636
 - paragraphs:
-  - text: '04> HOLDSWORTH, Sarah Louise m on 30.01.1987 to SMITH, Spencer Gannon
+  - text: '04> HOLDSWORTH, Sarah Louise (Sally) m on 30.01.1987 to SMITH, Spencer Gannon
 
 '
     bounds:
@@ -39,7 +39,6 @@ blocks:
       top: 729
       bottom: 797
   - text: |
-      (Sally)
       b 28.11.1961
     bounds:
       left: 601

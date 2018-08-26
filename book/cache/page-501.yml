@@ -21,17 +21,17 @@ blocks:
       bottom: 449
   - text: |
       JBLUNT, Gerald Hugħ Lawson and ARMES, Emma Tamsin Harcourt
-      01> BLUNT, Gerald Hugh Lawson m on 08.12.1990 to ARMES, Emma Tamsin
     bounds:
       left: 503
       right: 2083
       top: 433
       bottom: 609
+- paragraphs:
   - text: |
-      Harcourt
+      01> BLUNT, Gerald Hugh Lawson m on 08.12.1990 to ARMES, Emma Tamsin Harcourt
       b 27.12.1959
     bounds:
-      left: 604
+      left: 500
       right: 1949
       top: 599
       bottom: 695

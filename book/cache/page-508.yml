@@ -72,7 +72,7 @@ blocks:
       top: 1648
       bottom: 1842
 - paragraphs:
-  - text: '02> GRAY, Mary Damaris Bryony m on 29.07.1961 to HOLLINRAKE, Harold Acheson
+  - text: '02> GRAY, Mary Damaris Bryony m on 29.07.1961 to HOLLINRAKE, Harold Acheson (Bud)
 
 '
     bounds:
@@ -81,7 +81,6 @@ blocks:
       top: 1986
       bottom: 2044
   - text: |
-      (Bud)
       b 03.09.1927
     bounds:
       left: 525

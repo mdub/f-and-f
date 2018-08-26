@@ -20,7 +20,7 @@ blocks:
       top: 222
       bottom: 432
 - paragraphs:
-  - text: '01> MACLEAN, Margaret Joan m on 19.01.1940 to ANDREWS, Frederick Robert
+  - text: '01> MACLEAN, Margaret Joan m on 19.01.1940 to ANDREWS, Frederick Robert William
 
 '
     bounds:
@@ -29,7 +29,6 @@ blocks:
       top: 466
       bottom: 537
   - text: |
-      William
       b 16.08.1912 d 31.10.1986
     bounds:
       left: 532

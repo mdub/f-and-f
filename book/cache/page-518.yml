@@ -45,7 +45,7 @@ blocks:
       top: 603
       bottom: 1048
 - paragraphs:
-  - text: 'b1> COLLISTER, Emma Louise
+  - text: '01> COLLISTER, Emma Louise
 
 '
     bounds:
@@ -63,7 +63,14 @@ blocks:
       bottom: 1192
   - text: |
       Emma b. at Auckland. She is a pupil at Parnell District School.
-      b2> COLLISTER, Jeremy Paul
+    bounds:
+      left: 577
+      right: 1672
+      top: 1199
+      bottom: 1349
+- paragraphs:
+  - text: |
+      02> COLLISTER, Jeremy Paul
     bounds:
       left: 577
       right: 1672
@@ -99,7 +106,7 @@ blocks:
       bottom: 1855
 - paragraphs:
   - text: |
-      01> MACLEAN, Alloway Anne m on 03.05.1964 to EVANS, Grahame Edwyn.
+      01> MACLEAN, Alloway Anne m on 03.05.1964 to EVANS, Grahame Edwyn
       b 25.05.1945
     bounds:
       left: 502

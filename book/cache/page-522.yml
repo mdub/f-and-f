@@ -72,7 +72,7 @@ blocks:
       top: 988
       bottom: 1083
 - paragraphs:
-  - text: '03> BROSNAHAN, David Charles m on 27.03.1992 to BLAIKIE, Georgina Margaret
+  - text: '03> BROSNAHAN, David Charles m on 27.03.1992 to BLAIKIE, Georgina Margaret Wyllie
 
 '
     bounds:
@@ -81,7 +81,6 @@ blocks:
       top: 1174
       bottom: 1241
   - text: |
-      Wyllie
       b 26.02.1966
     bounds:
       left: 601
@@ -109,7 +108,7 @@ blocks:
       top: 1583
       bottom: 1631
   - text: |
-      "b 02.02.1995
+      b 02.02.1995
       Stuart b. at Wanganui.
     bounds:
       left: 660
@@ -117,7 +116,7 @@ blocks:
       top: 1639
       bottom: 1732
 - paragraphs:
-  - text: '02> BROSNAHAN, 0liver Richard
+  - text: '02> BROSNAHAN, Oliver Richard
 
 '
     bounds:
@@ -162,15 +161,6 @@ blocks:
       right: 2067
       top: 2388
       bottom: 2487
-- paragraphs:
-  - text: 'rivuprepis
-
-'
-    bounds:
-      left: 528
-      right: 622
-      top: 2429
-      bottom: 2443
 - paragraphs:
   - text: |
       01> MACLEAN, Anne Margaret Palmer m on 10.08.1940 to ROSS, Charles Macdonald

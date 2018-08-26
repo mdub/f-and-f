@@ -57,6 +57,13 @@ blocks:
       bottom: 1292
   - text: |
       an interest in photography and enjoys skiing and white-water kayaking.
+    bounds:
+      left: 501
+      right: 1708
+      top: 1274
+      bottom: 1433
+- paragraphs:
+  - text: |
       03> HOLLINRAKE, Douglas Harold
     bounds:
       left: 501
