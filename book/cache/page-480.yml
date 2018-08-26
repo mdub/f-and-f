@@ -87,6 +87,13 @@ blocks:
       bottom: 1738
   - text: |
       Peg b. at Camperdown, Sydney, Australia. Divorced 1979.
+    bounds:
+      left: 576
+      right: 2026
+      top: 1741
+      bottom: 1938
+- paragraphs:
+  - text: |
       02> PUTT, Margaret Ann (Peg) de facto (2)LIDDELL, Neil (Nav)
       b 05.06.1953
     bounds:

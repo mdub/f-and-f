@@ -166,6 +166,13 @@ blocks:
       bottom: 2740
   - text: |
       b 20.01.1982
+    bounds:
+      left: 586
+      right: 1083
+      top: 2744
+      bottom: 2888
+- paragraphs:
+  - text: |
       02> GRAY, Todd Errol
     bounds:
       left: 586

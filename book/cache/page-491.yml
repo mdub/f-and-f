@@ -109,7 +109,14 @@ blocks:
   - text: |
       b 11.03.1960
       Robyn b. at Opotiki. Address: 24 Coleraine Street, Cromwell, South Island.
-      b1> SILVESTER, Danielle Kate
+    bounds:
+      left: 654
+      right: 1877
+      top: 1590
+      bottom: 1788
+- paragraphs:
+  - text: |
+      01> SILVESTER, Danielle Kate
     bounds:
       left: 654
       right: 1877
@@ -125,6 +132,13 @@ blocks:
       bottom: 1825
   - text: |
       Danielle b. at Cromwell.
+    bounds:
+      left: 654
+      right: 1313
+      top: 1832
+      bottom: 1985
+- paragraphs:
+  - text: |
       02> SILVESTER, Jamie Peter
     bounds:
       left: 654
@@ -141,7 +155,7 @@ blocks:
       bottom: 2079
 - paragraphs:
   - text: |
-      01>' CAMPBELL, Adrienne Joan m on 05.04.1974 to (2)SIMS, Leonard Graham
+      01> CAMPBELL, Adrienne Joan m on 05.04.1974 to (2)SIMS, Leonard Graham
       b 26.08.1940
     bounds:
       left: 505

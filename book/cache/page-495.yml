@@ -94,7 +94,7 @@ blocks:
       top: 1699
       bottom: 1899
 - paragraphs:
-  - text: 'b1> GRAY, Kirsten Anna
+  - text: '01> GRAY, Kirsten Anna
 
 '
     bounds:
@@ -104,17 +104,17 @@ blocks:
       bottom: 1996
   - text: |
       b 13.08.1977
-      02> GRAY, Benjamin C
     bounds:
       left: 581
       right: 1078
       top: 2000
       bottom: 2148
-  - text: 'b 06.09.1978
-
-'
+- paragraphs:
+  - text: |
+      02> GRAY, Benjamin C
+      b 06.09.1978
     bounds:
-      left: 681
+      left: 581
       right: 896
       top: 2149
       bottom: 2191

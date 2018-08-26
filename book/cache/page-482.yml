@@ -53,7 +53,7 @@ blocks:
       Amy b. at Dangar Island, Sydney, Australia. Address: 29 Riverview Avenue,
       Dangar Island, NSW 2083, Australia.
       Amy has been educated at Mooney Mooney Primary School, Berowra (Hillcrest)
-      | Primary School, and in the Opportunity Class at Waitara (Sydney) Primary
+      Primary School, and in the Opportunity Class at Waitara (Sydney) Primary
     bounds:
       left: 940
       right: 2245
@@ -93,7 +93,7 @@ blocks:
       top: 1487
       bottom: 1988
 - paragraphs:
-  - text: '05> PUTT, Sarah Ethel Jane m on 15.09.1983 to MURRAY, Michael Thomas
+  - text: '05> PUTT, Sarah Ethel Jane m on 15.09.1983 to MURRAY, Michael Thomas (Mick)
 
 '
     bounds:
@@ -102,7 +102,6 @@ blocks:
       top: 2024
       bottom: 2085
   - text: |
-      (Mick)
       b 25.11.1962
     bounds:
       left: 678

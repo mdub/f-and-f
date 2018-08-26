@@ -141,11 +141,11 @@ blocks:
       bottom: 2190
 - paragraphs:
   - text: |
-      GRAY, Dorothy Eva
+      02> GRAY, Dorothy Eva
       b 17.01.1905 d 28.06.1906
       Dorothy b. at Vancouver, Canada and d. at Chicago, USA.
     bounds:
-      left: 529
+      left: 432
       right: 1460
       top: 2293
       bottom: 2447

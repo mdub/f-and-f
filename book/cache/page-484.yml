@@ -35,7 +35,7 @@ blocks:
       top: 429
       bottom: 536
 - paragraphs:
-  - text: '02> TOMBLESON, Natalie Claire m on 18.02.1978 to (1) PETERSON, Bruce St
+  - text: '02> TOMBLESON, Natalie Claire m on 18.02.1978 to (1) PETERSON, Bruce St Clair
 
 '
     bounds:
@@ -44,7 +44,6 @@ blocks:
       top: 576
       bottom: 643
   - text: |
-      Clair
       b 18.08.1955
     bounds:
       left: 682
@@ -62,15 +61,13 @@ blocks:
       bottom: 837
 - paragraphs:
   - text: |
-      02> TOMBLESON, Natalie m on 19.02.1994 to (2) HARPER, Timothy Tane
-      Claire
+      02> TOMBLESON, Natalie Claire m on 19.02.1994 to (2) HARPER, Timothy Tane (Timm)
     bounds:
       left: 580
       right: 2104
       top: 876
       bottom: 985
   - text: |
-      (Timm)
       b 18.08.1955
     bounds:
       left: 677
@@ -129,7 +126,7 @@ blocks:
       top: 1841
       bottom: 1932
 - paragraphs:
-  - text: '03> TOMBLESON, Elizabethm on 03.05.1985 to DRYSDALE, Neil Edward
+  - text: '03> TOMBLESON, Elizabeth Phillipa m on 03.05.1985 to DRYSDALE, Neil Edward
 
 '
     bounds:
@@ -138,7 +135,6 @@ blocks:
       top: 2024
       bottom: 2086
   - text: |
-      Phillipa
       b 23.01.1957
     bounds:
       left: 678

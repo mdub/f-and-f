@@ -164,7 +164,7 @@ blocks:
       top: 2238
       bottom: 2437
 - paragraphs:
-  - text: '01> PLOWMAN, Catherine m on 25.04.1998 to STRACHAN, Andrew Kenneth
+  - text: '01> PLOWMAN, Catherine Louise m on 25.04.1998 to STRACHAN, Andrew Kenneth
 
 '
     bounds:
@@ -173,7 +173,6 @@ blocks:
       top: 2485
       bottom: 2534
   - text: |
-      Louise
       b 07.07.1970
     bounds:
       left: 684
@@ -191,7 +190,7 @@ blocks:
       top: 2579
       bottom: 2802
 - paragraphs:
-  - text: '62> PLOWMAN, Gregory Michael
+  - text: '02> PLOWMAN, Gregory Michael
 
 '
     bounds:

@@ -45,16 +45,14 @@ blocks:
       top: 695
       bottom: 794
 - paragraphs:
-  - text: '01> WILLIAMS, Ronald Wanklyn m on 04.09.1918 to FITZROY, Louisa Gwendoline
-
-'
+  - text: |
+      01> WILLIAMS, Ronald Wanklyn m on 04.09.1918 to FITZROY, Louisa Gwendoline l'Strang
     bounds:
       left: 356
       right: 2104
       top: 832
       bottom: 895
   - text: |
-      1'Strang
       b 01.09.1884 d ** **.1963
     bounds:
       left: 451

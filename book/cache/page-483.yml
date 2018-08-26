@@ -62,7 +62,7 @@ blocks:
       bottom: 1191
 - paragraphs:
   - text: |
-      02> 'WATSON, Edith Ruth m on 23.05.1953 to (1) TOMBLESON, Martin Grahame
+      02> WATSON, Edith Ruth m on 23.05.1953 to (1) TOMBLESON, Martin Grahame
       b 06.07.1933
     bounds:
       left: 502
@@ -101,7 +101,7 @@ blocks:
       top: 1841
       bottom: 1987
 - paragraphs:
-  - text: '01> TOMBLESON, Jacqueline m on 20.12.1975 to SLAVICH, John Kenneth
+  - text: '01> TOMBLESON, Jacqueline Mary m on 20.12.1975 to SLAVICH, John Kenneth
 
 '
     bounds:
@@ -110,7 +110,6 @@ blocks:
       top: 2034
       bottom: 2084
   - text: |
-      Mary
       b 12.04.1954
     bounds:
       left: 682
@@ -146,11 +145,11 @@ blocks:
       top: 2496
       bottom: 2588
 - paragraphs:
-  - text: '2> SLAVICH, Andrew John
+  - text: '02> SLAVICH, Andrew John
 
 '
     bounds:
-      left: 693
+      left: 660
       right: 1268
       top: 2635
       bottom: 2684

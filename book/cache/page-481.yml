@@ -11,7 +11,7 @@ blocks:
       bottom: 232
   - text: |
       JWILLIAMS, William Leonard and WANKLYN, Sarah
-      |WILLIAMS, Emily Jane and GRAY, Charles
+      IWILLIAMS, Emily Jane and GRAY, Charles
       VGRAY, Robert Leonard and LANGFORD, Margaret
       IGRAY, Amy Mary and WATSON, Robert Wallis
     bounds:
@@ -28,7 +28,7 @@ blocks:
       top: 426
       bottom: 540
 - paragraphs:
-  - text: '02> PUTT, Margaret Ann (Peg) de facto (3)GRAHAM, Alistair
+  - text: '02> PUTT, Margaret Ann (Peg) de facto (3)GRAHAM, Alistair Menzies
 
 '
     bounds:
@@ -37,7 +37,6 @@ blocks:
       top: 578
       bottom: 640
   - text: |
-      Menzies
       b 05.06.1953
     bounds:
       left: 683
@@ -116,7 +115,7 @@ blocks:
       top: 2488
       bottom: 2683
 - paragraphs:
-  - text: '03> PUTT, Gerard Charles m on 16.07.1986 to (2)MCLEOD, Elizabeth
+  - text: '03> PUTT, Gerard Charles m on 16.07.1986 to (2)MCLEOD, Elizabeth Jervis (Liz)
 
 '
     bounds:
@@ -125,7 +124,6 @@ blocks:
       top: 2870
       bottom: 2938
   - text: |
-      Jervis (Liz)
       b 19.07.1955
     bounds:
       left: 685

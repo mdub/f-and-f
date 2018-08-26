@@ -15,17 +15,17 @@ blocks:
       VGRAY, Robert Leonard and LANGFORD, Margaret
       IGRAY, Lesley Margaret and CAMPBELL, John Haldane (Jock)
       JCAMPBELL, Diane Margaret and HEMINGWAY, David
-      02> HEMINGWAY, Warren David
     bounds:
       left: 577
       right: 1985
       top: 235
       bottom: 597
-  - text: 'b 18.07.1967
-
-'
+- paragraphs:
+  - text: |
+      02> HEMINGWAY, Warren David
+      b 18.07.1967
     bounds:
-      left: 676
+      left: 577
       right: 890
       top: 598
       bottom: 639
