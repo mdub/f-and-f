@@ -67,6 +67,13 @@ blocks:
   - text: |
       b 24.08.1959
       Address: High Craigneston, Moniaive, Thornhill, Dumfrieshire DG3 4EP, United Kingdom.
+    bounds:
+      left: 652
+      right: 2125
+      top: 1104
+      bottom: 1297
+- paragraphs:
+  - text: |
       01> GOURLAY, Harrison Robert John
     bounds:
       left: 652
@@ -82,7 +89,7 @@ blocks:
       top: 1300
       bottom: 1341
 - paragraphs:
-  - text: '03> GOURLAY, John Charles m on 06.05.1990 to STEVENS, Gillian Louise
+  - text: '03> GOURLAY, John Charles Stewart m on 06.05.1990 to STEVENS, Gillian Louise
 
 '
     bounds:
@@ -91,7 +98,6 @@ blocks:
       top: 1435
       bottom: 1499
   - text: |
-      Stewart
       b 14.05.1963
     bounds:
       left: 676

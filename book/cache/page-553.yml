@@ -18,13 +18,6 @@ blocks:
       top: 243
       bottom: 346
 - paragraphs:
-  - text: "\"WELL AS A iian leonina and sai 1 m. Sarah. "
-    bounds:
-      left: 506
-      right: 1734
-      top: 182
-      bottom: 344
-- paragraphs:
   - text: |
       01> WILLIAMS, Zoe
       b 30.10.1889 d 18.02.1962
@@ -94,7 +87,7 @@ blocks:
       top: 1601
       bottom: 1647
   - text: |
-      | walker, and won prizes at the Poverty Bay A&P Show for her tapestry.
+      walker, and won prizes at the Poverty Bay A&P Show for her tapestry.
       Rua was educated at Palmerston North Boys' High School. He worked as shepherd on "Ruangarehu" station,
       "Puketoro" station and "Mangatai" station. In 1928 he purchased the 50 acre property, "Whaiti" at Patutahi
       where he became a dairy farmer and pig breeder. He was a member of the Pig Industry Council, chairman of
@@ -137,6 +130,13 @@ blocks:
       b ** ** ****
       Address: Deep Creek Road, RD 1, Reparoa.
       Nicola is a physical education teacher and Avon (BAgCom) is a farm consultant.
+    bounds:
+      left: 573
+      right: 1868
+      top: 2338
+      bottom: 2616
+- paragraphs:
+  - text: |
       01> MCLAUGHLIN, Benjamin
     bounds:
       left: 573

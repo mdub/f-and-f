@@ -86,7 +86,7 @@ blocks:
       top: 1456
       bottom: 1496
 - paragraphs:
-  - text: '02> WILLIAMS, James Leonard m on 02.07.1977 to VIGORS, Sarah Ann (Sally)
+  - text: '02> WILLIAMS, James Leonard Heathcote m on 02.07.1977 to VIGORS, Sarah Ann (Sally)
 
 '
     bounds:
@@ -95,7 +95,6 @@ blocks:
       top: 1834
       bottom: 1896
   - text: |
-      Heathcote
       b 13.04.1950
     bounds:
       left: 527

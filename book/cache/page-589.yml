@@ -59,7 +59,7 @@ blocks:
       top: 800
       bottom: 1443
 - paragraphs:
-  - text: '01> WILLIAMS, William Rolleston m on 27.01.1973 to DAVEY, Jillian Myrtle
+  - text: '01> WILLIAMS, William Rolleston Standish (Bill) m on 27.01.1973 to DAVEY, Jillian Myrtle
 
 '
     bounds:
@@ -68,7 +68,6 @@ blocks:
       top: 1482
       bottom: 1544
   - text: |
-      Standish (Bill)
       b 20.07.1947
     bounds:
       left: 527

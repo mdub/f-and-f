@@ -103,7 +103,7 @@ blocks:
       top: 1904
       bottom: 2046
 - paragraphs:
-  - text: '3> WILLOCK, William Patrick
+  - text: '03> WILLOCK, William Patrick
 
 '
     bounds:
@@ -139,7 +139,7 @@ blocks:
       top: 2404
       bottom: 2548
 - paragraphs:
-  - text: '04>''CURRIE, Robert George Manson m on 18.02.1950 to (1) POWER, Marie Willamere
+  - text: '04>''CURRIE, Robert George Manson (Robin) m on 18.02.1950 to (1) POWER, Marie Willamere
 
 '
     bounds:
@@ -148,7 +148,6 @@ blocks:
       top: 2633
       bottom: 2700
   - text: |
-      (Robin)
       b 18.01.1918 d 30.05.1986
     bounds:
       left: 533

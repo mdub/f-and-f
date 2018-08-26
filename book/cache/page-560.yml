@@ -21,7 +21,7 @@ blocks:
       top: 247
       bottom: 499
 - paragraphs:
-  - text: '01> BURBURY, Helen Christine m on 10.07.1990 to WILDING, Edwyn Peter
+  - text: '01> BURBURY, Helen Christine Eleanor m on 10.07.1990 to WILDING, Edwyn Peter
 
 '
     bounds:
@@ -30,7 +30,6 @@ blocks:
       top: 542
       bottom: 604
   - text: |
-      Eleanor
       b 04.09.1952
     bounds:
       left: 603

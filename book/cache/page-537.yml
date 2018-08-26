@@ -24,18 +24,19 @@ blocks:
   - text: |
       SHERRIFF, John Richard and WINCHCOMBE, Ngaire Frances (cont...)
       Eastern Bay of Plenty Manager for the Kiwifruit Marketing Board.
-      01> SHERRIFF, Craig William
     bounds:
       left: 585
       right: 1727
       top: 530
       bottom: 741
+- paragraphs:
   - text: |
+      01> SHERRIFF, Craig William
       b 13.09.1976
       Craig b. at Sydney, Australia. He completed five years secondary education at Hamilton Boys'
       High School,
     bounds:
-      left: 677
+      left: 580
       right: 2171
       top: 735
       bottom: 879
@@ -86,7 +87,7 @@ blocks:
       top: 1387
       bottom: 1536
 - paragraphs:
-  - text: '04> SHERRIFF, Laurence Patrick m on 28.09.1967 to TULLOCH, Jessie Mary
+  - text: '04> SHERRIFF, Laurence Patrick (Paddy) m on 28.09.1967 to TULLOCH, Jessie Mary
 
 '
     bounds:
@@ -95,7 +96,6 @@ blocks:
       top: 1627
       bottom: 1680
   - text: |
-      (Paddy)
       b 08.04.1945 d 21.07.1984
     bounds:
       left: 600

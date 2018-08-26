@@ -95,9 +95,9 @@ blocks:
       top: 1493
       bottom: 1644
 - paragraphs:
-  - text: "• SHERRIFF, Paul William\n"
+  - text: "02> SHERRIFF, Paul William\n"
     bounds:
-      left: 643
+      left: 585
       right: 1243
       top: 1689
       bottom: 1742
@@ -110,7 +110,7 @@ blocks:
       top: 1744
       bottom: 1850
 - paragraphs:
-  - text: '02> SHERRIFF, David William m on 29.10.1988 to (2) MCCARTHY, Brigid Joan
+  - text: '02> SHERRIFF, David William m on 29.10.1988 to (2) MCCARTHY, Brigid Joan Pearcey
 
 '
     bounds:
@@ -119,7 +119,6 @@ blocks:
       top: 1930
       bottom: 2000
   - text: |
-      Pearcey
       b 15.05.1942
     bounds:
       left: 606

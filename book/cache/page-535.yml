@@ -40,10 +40,10 @@ blocks:
       bottom: 735
 - paragraphs:
   - text: |
-      > SYME. Lesley Ann m on 23.05.1964 to (1) JOLL, Ian Matthew
+      03> SYME, Lesley Ann m on 23.05.1964 to (1) JOLL, Ian Matthew
       b 22.09.1944
     bounds:
-      left: 560
+      left: 504
       right: 1910
       top: 828
       bottom: 938

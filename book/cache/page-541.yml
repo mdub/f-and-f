@@ -38,7 +38,7 @@ blocks:
       top: 604
       bottom: 698
 - paragraphs:
-  - text: '03> CORKILL, Susan Jane m on 30.04.1988 to PYNENBURG, Ronald John
+  - text: '03> CORKILL, Susan Jane m on 30.04.1988 to PYNENBURG, Ronald John Christopher
 
 '
     bounds:
@@ -47,7 +47,6 @@ blocks:
       top: 790
       bottom: 852
   - text: |
-      Christopher
       b 07.09.1957
     bounds:
       left: 604

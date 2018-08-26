@@ -116,14 +116,20 @@ blocks:
   - text: |
       b 19.06.1962
       Hamish b. at Waipawa.
-      01> WILLIAMS, Hamish Warwick m on 01.05.1993 to (2) DAVIES, Philippa Jane
+    bounds:
+      left: 510
+      right: 2204
+      top: 2347
+      bottom: 2550
+- paragraphs:
+  - text: |
+      01> WILLIAMS, Hamish Warwick Hassall m on 01.05.1993 to (2) DAVIES, Philippa Jane
     bounds:
       left: 510
       right: 2204
       top: 2347
       bottom: 2550
   - text: |
-      Hassall
       b 06.10.1958
     bounds:
       left: 611

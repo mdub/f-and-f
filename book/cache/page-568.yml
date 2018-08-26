@@ -91,6 +91,13 @@ blocks:
       bottom: 1340
   - text: |
       Monique b. at Singapore.
+    bounds:
+      left: 578
+      right: 1582
+      top: 1344
+      bottom: 1494
+- paragraphs:
+  - text: |
       03> DICKERSON, Hollie Elizabeth Marjorie
     bounds:
       left: 578

@@ -15,17 +15,17 @@ blocks:
       JWILLIAMS, Bevan Sydney and WILLIAMS, Mary Margaret Wilder (Bettie)
       JWILLIAMS, Anthony Leonard and NORRIS, Dinah Allison
       JWILLIAMS, Amanda Jane and WALLACE, Duncan Ross
-      01> WALLACE, William Duncan Anthony
     bounds:
       left: 569
       right: 2289
       top: 248
       bottom: 609
-  - text: 'b 09.11.1997
-
-'
+- paragraphs:
+  - text: |
+      01> WALLACE, William Duncan Anthony
+      b 09.11.1997
     bounds:
-      left: 676
+      left: 569
       right: 891
       top: 609
       bottom: 650

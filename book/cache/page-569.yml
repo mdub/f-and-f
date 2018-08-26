@@ -111,6 +111,13 @@ blocks:
       b 16.06.1970
       Alister b. at Gisborne and m. at Taihape. Maree, d/o James Robert Rea and Judith Ann Weir, b. at
       Taihape. Address: C/- Siberia Station, PB, Taihape.
+    bounds:
+      left: 574
+      right: 2154
+      top: 1594
+      bottom: 1847
+- paragraphs:
+  - text: |
       01> SMITH, Jarrad William
     bounds:
       left: 574

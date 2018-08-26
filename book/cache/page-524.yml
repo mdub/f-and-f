@@ -21,6 +21,13 @@ blocks:
       bottom: 436
   - text: |
       JROSS, James Alexander and JOYCE, Sarah
+    bounds:
+      left: 502
+      right: 2000
+      top: 420
+      bottom: 642
+- paragraphs:
+  - text: |
       04> ROSS, James Alexander m on 29.11.1986 to JOYCE, Sarah Louise
       b 28.11.1955
     bounds:
@@ -85,7 +92,7 @@ blocks:
       top: 1401
       bottom: 1402
 - paragraphs:
-  - text: '02> ''MACLEAN, Kenneth Joseph m on 22.02.1949 to WHITCOMBE, Joan Mary Somerset
+  - text: '02> MACLEAN, Kenneth Joseph Palmer (Joe) m on 22.02.1949 to WHITCOMBE, Joan Mary Somerset
 
 '
     bounds:
@@ -94,7 +101,6 @@ blocks:
       top: 1417
       bottom: 1489
   - text: |
-      Palmer (Joe)
       b 12.01.1917 d 14.08.1992
     bounds:
       left: 521

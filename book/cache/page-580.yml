@@ -56,6 +56,13 @@ blocks:
   - text: |
       b ** ** ****
       Andrea b. at Huntly. Divorced. Address: Peppe Valley, RD 2, Huntly.
+    bounds:
+      left: 569
+      right: 1702
+      top: 844
+      bottom: 1052
+- paragraphs:
+  - text: |
       01> PICOT, Jaclyn
     bounds:
       left: 569

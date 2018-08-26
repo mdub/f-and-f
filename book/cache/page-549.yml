@@ -20,10 +20,10 @@ blocks:
       bottom: 405
 - paragraphs:
   - text: |
-      | 10> MACLEAN, Christopher Nelson m on 20.12.1928 to BAIRD, Jessie Elizabeth (Betty)
+      10> MACLEAN, Christopher Nelson m on 20.12.1928 to BAIRD, Jessie Elizabeth (Betty)
       b 03.04.1897 d 18.09.1982
     bounds:
-      left: 283
+      left: 350
       right: 2300
       top: 441
       bottom: 551

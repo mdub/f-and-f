@@ -72,7 +72,7 @@ blocks:
       top: 1500
       bottom: 1651
 - paragraphs:
-  - text: '04> WILLIAMS, Sarah Standish m on 20.03.1976 to GRIFFIN, Richard Geoffrey
+  - text: '04> WILLIAMS, Sarah Standish m on 20.03.1976 to GRIFFIN, Richard Geoffrey (Rick)
 
 '
     bounds:
@@ -81,7 +81,6 @@ blocks:
       top: 1687
       bottom: 1755
   - text: |
-      (Rick)
       b 13.10.1953
     bounds:
       left: 528

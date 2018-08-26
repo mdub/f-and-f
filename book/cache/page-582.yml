@@ -37,7 +37,7 @@ blocks:
       top: 395
       bottom: 1003
 - paragraphs:
-  - text: '01> WILLIAMS, Bevan Sydney m on 08.01.1930 to WILLIAMS, Mary Margaret Wilder
+  - text: '01> WILLIAMS, Bevan Sydney m on 08.01.1930 to WILLIAMS, Mary Margaret Wilder (Bettie)
 
 '
     bounds:
@@ -46,7 +46,6 @@ blocks:
       top: 1045
       bottom: 1097
   - text: |
-      (Bettie)
       b 29.03.1904 d 18.06.1975
     bounds:
       left: 448

@@ -92,7 +92,7 @@ blocks:
       top: 1802
       bottom: 2152
 - paragraphs:
-  - text: '02> WILLIAMS, Christine Louise m on 24.05.1951 to BURBURY, Duncan Edward
+  - text: '02> WILLIAMS, Christine Louise (Kirsty) m on 24.05.1951 to BURBURY, Duncan Edward
 
 '
     bounds:
@@ -101,7 +101,6 @@ blocks:
       top: 2240
       bottom: 2302
   - text: |
-      (Kirsty)
       b 02.09.1928
     bounds:
       left: 528

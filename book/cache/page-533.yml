@@ -66,7 +66,7 @@ blocks:
       bottom: 1148
 - paragraphs:
   - text: |
-      01> SYME, Janet Elizabeth am on 26.01.1963 to WOOD, David Edwin
+      01> SYME, Janet Elizabeth m on 26.01.1963 to WOOD, David Edwin
       b 23.02.1940
     bounds:
       left: 509
@@ -131,6 +131,13 @@ blocks:
       bottom: 2100
   - text: |
       b 24.03.1992
+    bounds:
+      left: 659
+      right: 1290
+      top: 2104
+      bottom: 2248
+- paragraphs:
+  - text: |
       02> MOORE, Jonathon Bruce
     bounds:
       left: 659
