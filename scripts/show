@@ -54,6 +54,7 @@ Clamp do
   subcommand ["names", "n"], "display entry names" do
 
     option ["-p", "--show-pages"], :flag, "show pages"
+    option ["-d", "--show-dates"], :flag, "show dates of birth/death"
     option ["-e", "--show-errors"], :flag, "show errors"
     option ["-l", "--max-level"], "N", "maximum level", &method(:Integer)
 
@@ -83,11 +84,25 @@ Clamp do
     private
 
     def entry_heading(entry)
-      entry.people.map(&:name).join(paint(" = ", :cyan))
+      entry.people.map(&method(:person_details)).join(paint(" = ", :cyan))
     end
 
     def indent(level = 1)
       faint("| ") * (level - 1)
+    end
+
+    def person_details(person)
+      details = person.name
+      if show_dates?
+        lifespan = [person.date_of_birth, person.date_of_death].map { |d| extract_year(d) }.join("-")
+        details += " " + paint("(#{lifespan})", :faint, :green)
+      end
+      details
+    end
+
+    def extract_year(date)
+      return nil if date.nil?
+      date.scan(/\d\d\d\d/).first
     end
 
     def show_error(message, level:)
