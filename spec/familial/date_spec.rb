@@ -83,7 +83,7 @@ describe Familial::Date do
     end
 
     describe "#to_date" do
-      it "assumes day and month" do
+      it "assumes day" do
         expect(date.to_date).to eq(::Date.new(1856, 8, 1))
       end
     end
@@ -91,6 +91,24 @@ describe Familial::Date do
     describe "#to_gedcom" do
       it "returns a partial GEDCOM date" do
         expect(date.to_gedcom).to eq("AUG 1856")
+      end
+    end
+
+  end
+
+  context "approximate" do
+
+    let(:date) { described_class.new(1856, approximate: true) }
+
+    describe "#to_date" do
+      it "assumes day and month" do
+        expect(date.to_date).to eq(::Date.new(1856, 1, 1))
+      end
+    end
+
+    describe "#to_gedcom" do
+      it "returns an approximate GEDCOM date" do
+        expect(date.to_gedcom).to eq("ABT 1856")
       end
     end
 
@@ -134,6 +152,22 @@ describe Familial::Date do
 
       it "returns nil" do
         expect(date).to eq(nil)
+      end
+
+    end
+
+    context "with 'circa'" do
+
+      let(:date) { described_class.parse("circa 1942") }
+
+      it "fills year only" do
+        expect(date.year).to eq(1942)
+        expect(date.month).to eq(nil)
+        expect(date.day).to eq(nil)
+      end
+
+      it "is approximate" do
+        expect(date).to be_approximate
       end
 
     end
