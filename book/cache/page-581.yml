@@ -98,19 +98,13 @@ blocks:
       bottom: 1746
   - text: |
       b 04.11.1961
+      b **.**.****
       Nancy b. at Aldershot, England. Address: 10 Ashley Road, Richmond, Surrey Tw9 2TG, England.
     bounds:
       left: 599
       right: 2160
       top: 1745
       bottom: 1844
-- paragraphs:
-  - text: "** ****\n"
-    bounds:
-      left: 1643
-      right: 1758
-      top: 1752
-      bottom: 1772
 - paragraphs:
   - text: |
       08>' WILLIAMS, Francis James Volkner (Frank) m on 23.01.1903 to STANDISH, Edith Frances

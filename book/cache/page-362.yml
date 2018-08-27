@@ -116,8 +116,7 @@ blocks:
       right: 956
       top: 1482
       bottom: 1540
-- paragraphs:
-  - text: "• ** ****\n"
+  - text: "b ** ** ****\n"
     bounds:
       left: 668
       right: 813
@@ -132,8 +131,7 @@ blocks:
       right: 928
       top: 1630
       bottom: 1692
-- paragraphs:
-  - text: "• ** ****\n"
+  - text: "b ** ** ****\n"
     bounds:
       left: 668
       right: 813

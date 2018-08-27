@@ -98,8 +98,7 @@ blocks:
       right: 1085
       top: 1682
       bottom: 1745
-- paragraphs:
-  - text: "** ** ****\n"
+  - text: "b ** ** ****\n"
     bounds:
       left: 804
       right: 970

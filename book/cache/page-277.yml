@@ -148,7 +148,6 @@ blocks:
       right: 941
       top: 2038
       bottom: 2096
-- paragraphs:
   - text: 'b ** ** ****
 
 '
@@ -166,7 +165,6 @@ blocks:
       right: 1038
       top: 2186
       bottom: 2244
-- paragraphs:
   - text: 'b ** ** ****
 
 '

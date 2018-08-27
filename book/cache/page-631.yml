@@ -74,6 +74,7 @@ blocks:
       bottom: 1147
   - text: |
       b 16.04.1972
+      b **.**.****
       Saffron b. at London, England. Address: 25/14 Watson Street, Neutral Bay 2089, NSW, Australia.
       Saffron emigrated to Sydney, Australia, at eight months. She grew up on a seven-acre hobby farm in
       West Pennant Hills and completed her secondary schooling at Ascham School, Edgecliff, then
@@ -112,13 +113,6 @@ blocks:
       top: 2104
       bottom: 2203
 - paragraphs:
-  - text: "* ** ****\n"
-    bounds:
-      left: 1774
-      right: 1925
-      top: 2306
-      bottom: 2327
-- paragraphs:
   - text: '04> NELSON, Richard Rupert Lionel m on ** ** **** to WEBSTER, Elizabeth
 
 '
@@ -129,6 +123,7 @@ blocks:
       bottom: 2292
   - text: |
       b 21.04.1950
+      b **.**.****
       Address: Dental Surgery, 23 Fitzroy Street, Tumut 2720, NSW, Australia.
       Richard graduated in Dentistry (BDS) at Sydney University.
     bounds:

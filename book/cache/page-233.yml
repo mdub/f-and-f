@@ -178,7 +178,7 @@ blocks:
 - paragraphs:
   - text: |
       01> WILLIAMS, Tui
-      | b 21.07.1992
+      b 21.07.1992
     bounds:
       left: 579
       right: 1015

@@ -89,19 +89,13 @@ blocks:
       bottom: 1604
   - text: |
       b 12.11.1921 d ** **.1985
+      b ** ** ****
       Russell b. at Christchurch.
     bounds:
       left: 528
       right: 1774
       top: 1604
       bottom: 1754
-- paragraphs:
-  - text: "** ** ****\n"
-    bounds:
-      left: 1561
-      right: 1731
-      top: 1663
-      bottom: 1684
 - paragraphs:
   - text: |
       01> DEANS, William George Russell m on 07.04.1984 to WAKEMAN, Ann Louise

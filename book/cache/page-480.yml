@@ -77,9 +77,9 @@ blocks:
       right: 2212
       top: 1627
       bottom: 1689
-  - text: 'b 05.06.1953
-
-'
+  - text: |
+      b 05.06.1953
+      b **.**.****
     bounds:
       left: 679
       right: 893

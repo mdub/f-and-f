@@ -79,19 +79,13 @@ blocks:
       bottom: 1749
   - text: |
       b 25.09.1963
+      b ** ** ****
       Rachel b. at Hastings. Divorced.
     bounds:
       left: 600
       right: 1122
       top: 1752
       bottom: 1847
-- paragraphs:
-  - text: "* ** ****\n"
-    bounds:
-      left: 1596
-      right: 1748
-      top: 1753
-      bottom: 1773
 - paragraphs:
   - text: |
       05> WARREN, Rachel Dinah and (2)ARCHAMBAULT, Marc

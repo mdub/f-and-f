@@ -96,21 +96,13 @@ blocks:
       bottom: 1639
   - text: |
       b 24.03.1950
+      b ** ** ****
       Elizabeth b. at Melbourne, Australia.
     bounds:
       left: 600
       right: 1178
       top: 1646
       bottom: 1741
-- paragraphs:
-  - text: 'b ** ** ****
-
-'
-    bounds:
-      left: 1700
-      right: 1912
-      top: 1645
-      bottom: 1677
 - paragraphs:
   - text: |
       01> KEARNS, Elizabeth Patience m on 28.10.1993 to (2)BEALE, William John

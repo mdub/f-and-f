@@ -44,19 +44,13 @@ blocks:
       bottom: 549
   - text: |
       b 31.05.1958
+      b ** ** ****
       Keith is a caterer.
     bounds:
       left: 526
       right: 798
       top: 548
       bottom: 643
-- paragraphs:
-  - text: "** ****\n"
-    bounds:
-      left: 1332
-      right: 1448
-      top: 553
-      bottom: 575
 - paragraphs:
   - text: '04> HUTTON, Edward Michael
 
