@@ -56,7 +56,7 @@ module FaithAndFarming
               end
               names.each_with_index do |name, i|
                 e.people[i].name = Utils.normalise_name(name.sub(/^\(\d\) */,""))
-                if lines.shift =~ /^b ([\d*. ]+)(?: d ([\d*. ]+))?$/
+                if lines.shift =~ /^b ([circa \d*.]+)(?: d ([circa \d*.]+))?$/
                   e.people[i].date_of_birth = Utils.normalise_date($1)
                   e.people[i].date_of_death = Utils.normalise_date($2)
                 end

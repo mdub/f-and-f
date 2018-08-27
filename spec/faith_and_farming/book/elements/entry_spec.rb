@@ -281,6 +281,25 @@ describe FaithAndFarming::Book::Elements::Entry do
 
     end
 
+    context "with an approximate date" do
+
+      let(:text) do
+        <<~TEXT
+          08> WILLIAMS, George Coldham m on 16.01.1929 to (3) MOLLET, Edith Moncrieff (Molly)
+          b 26.04.1858 d 08.05.1944
+          b circa 1896 d 13.06.1980
+          George d. at Wellington. Molly was a nurse.
+        TEXT
+      end
+
+      it "extracts approximate marriage date" do
+        edith = entry.people[1]
+        expect(edith.date_of_birth).to eq("circa 1896")
+      end
+
+    end
+
+
     context "with '0' mis-parsed as '6'" do
 
       let(:text) do
