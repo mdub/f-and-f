@@ -5,7 +5,7 @@ require "faith_and_farming/book"
 describe FaithAndFarming::Book, "family tree" do
 
   before(:all) do
-    @tree = FaithAndFarming::Book.family_tree(last_page: 199)
+    @tree = FaithAndFarming::Book.family_tree(last_page: 600)
   end
 
   attr_reader :tree
@@ -123,6 +123,31 @@ describe FaithAndFarming::Book, "family tree" do
       expect(ralph.note.content).to include(
         "elders at Son City Apostolic Church in Gisborne"
       )
+    end
+
+  end
+
+  describe "William Williams" do
+
+    subject(:william) { tree.individuals.get(name: "William Leonard /Williams/") }
+
+    born "22.07.1829"
+    died "24.08.1916"
+
+    it "had 10 children" do
+      kids_names = william.families.first.children.map { |i| i.name.split(" ").first }
+      expect(kids_names).to eq %w[
+        Frederick
+        Emily
+        Margaret
+        Edith
+        Herbert
+        Agnes
+        Alfred
+        Francis
+        Sydney
+        Arthur
+      ]
     end
 
   end
