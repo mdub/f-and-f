@@ -29,8 +29,15 @@ end
 
 require 'rspec/core/rake_task'
 
-RSpec::Core::RakeTask.new(:spec)
+RSpec::Core::RakeTask.new("spec:fast") do |t|
+  t.rspec_opts = "--tag ~slow"
+end
 
+RSpec::Core::RakeTask.new("spec:slow") do |t|
+  t.rspec_opts = "--tag slow"
+end
+
+task "default" => ["spec:fast", "spec:slow"]
 task "default" => "spec"
 
 task "generate" do

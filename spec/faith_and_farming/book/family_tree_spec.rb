@@ -2,7 +2,7 @@ require "spec_helper"
 
 require "faith_and_farming/book"
 
-describe FaithAndFarming::Book, "family tree" do
+describe FaithAndFarming::Book, "family tree", slow: true do
 
   before(:all) do
     @tree = FaithAndFarming::Book.family_tree(last_page: 600)
