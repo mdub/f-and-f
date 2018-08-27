@@ -94,7 +94,6 @@ blocks:
       right: 1465
       top: 2171
       bottom: 2252
-- paragraphs:
   - text: 'b 23.10.1989
 
 '
@@ -112,7 +111,6 @@ blocks:
       right: 2236
       top: 2377
       bottom: 2444
-- paragraphs:
   - text: 'b 20.04.1955
 
 '
@@ -121,7 +119,6 @@ blocks:
       right: 1824
       top: 2491
       bottom: 2534
-- paragraphs:
   - text: |
       b 24.09.1959
       Lesley b. and m. at Gisborne. Divorced Dec 1989.

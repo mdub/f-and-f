@@ -40,11 +40,11 @@ blocks:
       top: 741
       bottom: 789
   - text: |
-      b• 24.08.1978
+      b 24.08.1978
       Juliet b. at Dunedin. She attended Fendalton Primary School, Rangi Ruru Girls' School and
       Rudolf Steiner School in Christchurch, and Victoria and Canterbury Universities. She has acted
       since she was small and aims to study at a drama school, as she pursues a career on the stage
-      and in film,
+      and in film.
     bounds:
       left: 659
       right: 2170
@@ -59,7 +59,6 @@ blocks:
       right: 2252
       top: 1134
       bottom: 1192
-- paragraphs:
   - text: 'b 18.08.1949
 
 '
@@ -68,7 +67,6 @@ blocks:
       right: 814
       top: 1246
       bottom: 1286
-- paragraphs:
   - text: |
       b 12.01.1945
       Nicholas b. at Dunedin and m. at Timaru. Victoria, d/o Guy Rhodes and

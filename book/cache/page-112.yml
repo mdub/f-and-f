@@ -20,13 +20,6 @@ blocks:
       top: 249
       bottom: 451
 - paragraphs:
-  - text: "* ::::\n"
-    bounds:
-      left: 711
-      right: 724
-      top: 727
-      bottom: 776
-- paragraphs:
   - text: |
       01> WILLIAMS, Ann Wallism on 03.10.1952 to GADDUM, Peter Richard (Dick)
       b 22.03.1926
@@ -111,13 +104,6 @@ blocks:
       top: 1752
       bottom: 1852
 - paragraphs:
-  - text: ". .Ae4w YAIKUTNYA\n"
-    bounds:
-      left: 663
-      right: 677
-      top: 1865
-      bottom: 2051
-- paragraphs:
   - text: |
       02> GADDUM, Nicholas Richard
       b 15.09.1982
@@ -143,7 +129,6 @@ blocks:
       right: 1241
       top: 2542
       bottom: 2604
-- paragraphs:
   - text: 'b 09.11.1983
 
 '
@@ -152,7 +137,6 @@ blocks:
       right: 903
       top: 2613
       bottom: 2647
-- paragraphs:
   - text: 'Georgina b, at Hastings.
 
 '
