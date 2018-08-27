@@ -59,7 +59,7 @@ module FaithAndFarming
       self.last_note = nil
       unless entry.note.nil? || entry.note.strip.empty?
         note = db.notes.create(id: "N#{base_id}", content: entry.note)
-        individuals.each { |i| i.note = note }
+        individuals.each { |i| i.notes << note }
         self.last_note = note
       end
     end

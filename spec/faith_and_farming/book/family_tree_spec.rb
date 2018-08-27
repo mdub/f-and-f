@@ -116,13 +116,13 @@ describe FaithAndFarming::Book, "family tree", slow: true do
     born "28.07.1969"
 
     it "was educated in Gisborne Mataurangi" do
-      expect(ralph.note.content).to include(
+      expect(ralph.note_content).to include(
         "educated at Makauri School, Gisborne"
       )
     end
 
     it "is a church elder" do
-      expect(ralph.note.content).to include(
+      expect(ralph.note_content).to include(
         "elders at Son City Apostolic Church in Gisborne"
       )
     end

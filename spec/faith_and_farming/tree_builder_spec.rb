@@ -120,7 +120,7 @@ describe FaithAndFarming::TreeBuilder do
       end
 
       it "links the Note" do
-        expect(db.individuals.first.note).to be(db.notes.first)
+        expect(db.individuals.first.notes).to include(db.notes.first)
       end
 
     end
@@ -359,15 +359,15 @@ describe FaithAndFarming::TreeBuilder do
     let(:joe) { db.get(name: "Joe /BLOGGS/") }
 
     it "attaches the continuation text to the previous entry" do
-      expect(joe.note.content).to include("has a cool hat")
+      expect(joe.notes.first.content).to include("has a cool hat")
     end
 
     it "retains existing text" do
-      expect(joe.note.content).to include("Joe is awesome")
+      expect(joe.notes.first.content).to include("Joe is awesome")
     end
 
     it "strips (cont...)" do
-      expect(joe.note.content).to eq(<<~TEXT)
+      expect(joe.notes.first.content).to eq(<<~TEXT)
         Joe is awesome.
         Joe has a cool hat.
       TEXT

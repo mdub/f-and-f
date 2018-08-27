@@ -86,4 +86,24 @@ describe Familial::Individual do
 
   end
 
+  context "with a note" do
+
+    let(:blah_blah) { dataset.notes.create(content: "blah blah") }
+
+    before do
+      individual.notes << blah_blah
+    end
+
+    describe "#to_gedcom" do
+
+      it "includes note links" do
+        expect(individual.to_gedcom).to include <<~GEDCOM
+          1 NOTE @#{blah_blah.id}@
+        GEDCOM
+      end
+
+    end
+
+  end
+
 end

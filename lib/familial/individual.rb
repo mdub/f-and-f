@@ -45,7 +45,13 @@ module Familial
       families.flat_map(&:children)
     end
 
-    attr_accessor :note
+    def notes
+      @notes ||= []
+    end
+
+    def note_content
+      notes.map(&:content).join
+    end
 
     def write_gedcom(out)
       out.puts "0 @#{id}@ INDI"
@@ -64,7 +70,9 @@ module Familial
       families.each do |family|
         out.puts "1 FAMS @#{family.id}@"
       end
-      out.puts "1 NOTE @#{note.id}@" unless note.nil?
+      notes.each do |note|
+        out.puts "1 NOTE @#{note.id}@"
+      end
     end
 
     def name_matches?(other_name)
