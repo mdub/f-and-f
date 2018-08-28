@@ -114,19 +114,40 @@ Clamp do
 
   subcommand ["families", "f"], "display families" do
 
+    option ["-i", "--show-ids"], :flag, "show ids"
+    option ["-d", "--show-dates"], :flag, "show dates of birth/death"
+    option ["-e", "--show-errors"], :flag, "show errors"
+
     def execute
       db = pages.family_tree
       db.families.each do |family|
-        puts YAML.dump(family_data(family))
+        puts ""
+        puts format_parents(family)
+        family.children.each do |child|
+          puts "  " + format_individual(child)
+        end
       end
     end
 
-    def family_data(family)
-      {}.tap do |h|
-        h["husband"] = family.husband.name
-        h["wife"] = family.wife.name
-        h["children"] = family.children.map(&:name) unless family.children.empty?
-      end
+    private
+
+    def format_parents(family)
+      family.parents.map(&method(:format_individual)).join(paint(" = ", :cyan))
+    end
+
+    def format_individual(i)
+      [].tap { |parts|
+        parts << i.name
+        if show_dates?
+          lifespan = [i.date_of_birth, i.date_of_death].map { |d| d&.year }.join("-")
+          parts << paint("(#{lifespan})", :faint, :green)
+        end
+        parts << faint("(#{i.id})") if show_ids?
+      }.join(" ")
+    end
+
+    def db
+      @db ||= pages.family_tree
     end
 
   end

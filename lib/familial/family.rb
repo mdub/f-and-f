@@ -38,6 +38,10 @@ module Familial
       self
     end
 
+    def parents
+      [husband, wife].compact
+    end
+
     def children
       @children.dup
     end
