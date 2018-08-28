@@ -38,7 +38,8 @@ module FaithAndFarming
           [].tap do |errors|
             errors << "unparsed birth-date" if note =~ /^b [0-9*]/
             people.each_with_index do |person, i|
-              errors << "missing date-of-birth (individual ##{i+1})" if person.date_of_birth.nil?
+              errors << "dodgy name: #{person.name}" unless person.name =~ /, /
+              errors << "missing date-of-birth for #{person.name}" if person.date_of_birth.nil?
             end
           end
         end
