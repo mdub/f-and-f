@@ -29,13 +29,16 @@ module Familial
       out.puts <<~GEDCOM
         0 HEAD
         1 GEDC
-        2 VERS 5.5
+        2 VERS 5.5.1
         2 FORM LINEAGE-LINKED
         1 CHAR UTF-8
         1 LANG English
         1 SUBM @SUBM@
         0 @SUBM@ SUBM
         1 NAME Mike Williams
+        1 SOUR mdub/f-and-f
+        2 DATA Faith and Farming, Te Huarahi Id te Ora, The Legacy of Henry Williams and William Williams
+        3 DATE 1998
       GEDCOM
       [individuals, families, notes].each do |collection|
         collection.each do |record|
