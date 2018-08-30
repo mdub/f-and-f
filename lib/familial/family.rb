@@ -59,6 +59,13 @@ module Familial
       end
     end
 
+    def problems
+      []
+      # Thing to check for:
+      # - This individual's children sort order may be incorrect
+      # - Individual married a spouse who wasn't yet 13
+    end
+
   end
 
 end

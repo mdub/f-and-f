@@ -16,6 +16,12 @@ module Familial
       ::Date.new(year, month || 1, day || 1)
     end
 
+    def <=>(other)
+      to_date <=> other.to_date
+    end
+
+    include Comparable
+
     alias_method :approximate?, :approximate
 
     MONTHS = %w(JAN FEB MAR APR MAY JUN JUL AUG SEP OCT NOV DEC)

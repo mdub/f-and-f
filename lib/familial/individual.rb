@@ -22,7 +22,7 @@ module Familial
     attr_reader :date_of_death
 
     def sex=(arg)
-      @sex = Familial::Sex.fetch(arg)
+      @sex = (Familial::Sex.fetch(arg) unless arg.nil?)
     end
 
     attr_reader :sex
@@ -81,6 +81,33 @@ module Familial
 
     def inspect
       "<Individual @name=#{name.inspect}>"
+    end
+
+    def problems
+      [].tap do |problems|
+        problems << "sex is unspecified" if sex.nil?
+        %w(mother father).each do |relationship|
+          parent = public_send(relationship)
+          next if parent.nil?
+          parents_age_at_birth = years_between(parent.date_of_birth, date_of_birth)
+          if parents_age_at_birth < 14
+            problems << "born when #{relationship} was only #{parents_age_at_birth}"
+          end
+          if parents_age_at_birth > 70
+            problems << "born when #{relationship} was #{parents_age_at_birth}"
+          end
+          if parent.date_of_death && date_of_birth > parent.date_of_death
+            problems << "born when #{relationship} was dead"
+          end
+        end
+      end
+    end
+
+    private
+
+    def years_between(start_date, end_date)
+      return nil unless start_date && end_date
+      (end_date.to_date - start_date.to_date).to_i / 365
     end
 
   end

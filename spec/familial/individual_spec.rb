@@ -28,6 +28,21 @@ describe Familial::Individual do
 
   end
 
+  describe "#problems" do
+
+    subject(:problems) { individual.problems }
+
+    it "is usually empty" do
+      expect(problems).to be_empty
+    end
+
+    it "complains when sex is unknown" do
+      individual.sex = nil
+      expect(problems).to include("sex is unspecified")
+    end
+
+  end
+
   describe "#to_gedcom" do
 
     it "generates valid GEDCOM" do
@@ -44,22 +59,69 @@ describe Familial::Individual do
 
   end
 
-  context "with family ties" do
+  context "with mum and dad" do
 
-    let(:mum_and_dad) { dataset.families.create }
-    let(:family_unit) { dataset.families.create }
+    let(:mum) { dataset.individuals.create(date_of_birth: "01.01.1960") }
+    let(:dad) { dataset.individuals.create(date_of_birth: "01.01.1955") }
+    let(:parents) { dataset.families.create(husband: dad, wife: mum) }
 
     before do
-      mum_and_dad.add_child(individual)
-      family_unit.husband = individual
+      parents.add_child(individual)
+    end
+
+    describe "#problems" do
+
+      subject(:problems) { individual.problems }
+
+      it "complains when born when parent was too young" do
+        individual.date_of_birth = "01.01.1980"
+        mum.date_of_birth = "01.01.1970"
+        expect(problems).to include("born when mother was only 10")
+      end
+
+      it "complains when born when parent was too old" do
+        individual.date_of_birth = "01.01.1980"
+        dad.date_of_birth = "01.01.1900"
+        expect(problems).to include("born when father was 80")
+      end
+
+      it "complains when born when parent was dead" do
+        individual.date_of_birth = "01.01.1980"
+        mum.date_of_death = "01.01.1978"
+        expect(problems).to include("born when mother was dead")
+      end
+
+      # - The birth date occurred after his/her mother died
+      # - The birth date occurred more than one year after his/her father died
+      # - Individual married a spouse who wasn't yet 13
+
     end
 
     describe "#to_gedcom" do
 
-      it "includes links" do
+      it "references parents" do
         expect(individual.to_gedcom).to include <<~GEDCOM
-          1 FAMC @#{mum_and_dad.id}@
-          1 FAMS @#{family_unit.id}@
+          1 FAMC @#{parents.id}@
+        GEDCOM
+      end
+
+    end
+
+  end
+
+  context "with wife and kids" do
+
+    let(:family) { dataset.families.create }
+
+    before do
+      family.husband = individual
+    end
+
+    describe "#to_gedcom" do
+
+      it "references family" do
+        expect(individual.to_gedcom).to include <<~GEDCOM
+          1 FAMS @#{family.id}@
         GEDCOM
       end
 
