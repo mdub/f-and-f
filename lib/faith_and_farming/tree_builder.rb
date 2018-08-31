@@ -53,6 +53,8 @@ module FaithAndFarming
         f = marriage_of(individuals, id: "F#{base_id}")
         f.date_married = entry.date_married if entry.date_married
         push_context(f, level: entry.level)
+      else
+        push_context(individuals.first, level: entry.level)
       end
       self.last_note = nil
       unless entry.note.nil? || entry.note.strip.empty?
@@ -124,7 +126,22 @@ module FaithAndFarming
     end
 
     def current_family
-      stack.last&.record
+      return nil if stack.empty?
+      ensure_context_is_a_family
+      stack.last.record
+    end
+
+    def ensure_context_is_a_family
+      return if stack.last.record.kind_of?(Familial::Family)
+      current = stack.pop
+      i = current.record
+      family = db.families.create(id: i.id.sub('I', 'F'))
+      if i.sex&.male?
+        family.husband = i
+      else
+        family.wife = i
+      end
+      push_context(family, level: current.level)
     end
 
   end

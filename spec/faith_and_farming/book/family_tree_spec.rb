@@ -154,9 +154,23 @@ describe FaithAndFarming::Book, "family tree", slow: true do
 
   end
 
+  describe "Christopher Vanderkolk" do
+
+    subject(:christopher) { tree.individuals.get(name: "Christopher Diederick /Vanderkolk/") }
+
+    it "is the son of Isabelle Faulkner" do
+      expect(christopher.mother.name).to eq("Isabelle Margaret /Faulkner/")
+    end
+
+    it "has no (known) father" do
+      expect(christopher.father).to eq(nil)
+    end
+
+  end
+
   describe "husbands" do
 
-    let(:husbands) { tree.families.map(&:husband) }
+    let(:husbands) { tree.families.map(&:husband).compact }
 
     they "are all male" do
       pending
@@ -172,7 +186,7 @@ describe FaithAndFarming::Book, "family tree", slow: true do
 
   describe "wives" do
 
-    let(:wives) { tree.families.map(&:wife) }
+    let(:wives) { tree.families.map(&:wife).compact }
 
     they "are all female" do
       pending

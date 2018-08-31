@@ -14,6 +14,13 @@ blocks:
       JWILLIAMS, Allen Marsh and BUCHANAN, Annabelle Milne (Bella)
       JWILLIAMS, Muriel Buchanan and FAULKNER, Albert Joseph
       JFAULKNER, Ian Douglas Allen and CHEESEMAN, Margaret
+    bounds:
+      left: 581
+      right: 2092
+      top: 227
+      bottom: 539
+- paragraphs:
+  - text: |
       02> VANDERKOLK, Christopher Diederick
     bounds:
       left: 581

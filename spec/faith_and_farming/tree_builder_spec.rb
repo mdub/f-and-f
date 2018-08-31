@@ -206,6 +206,53 @@ describe FaithAndFarming::TreeBuilder do
 
   end
 
+  context "with an indiviual followed by children" do
+
+    before do
+      elements << make_entry(
+        level: 1,
+        people: [
+          { name: "FIFINGER, Audrey" }
+        ]
+      )
+      elements << make_entry(
+        level: 2,
+        people: [
+          { name: "FIFINGER, Roger" }
+        ]
+      )
+      elements << make_entry(
+        level: 2,
+        people: [
+          { name: "FIFINGER, Cindy" }
+        ]
+      )
+    end
+
+    it "creates all Individuals" do
+      expect(db.individuals.size).to eq(3)
+    end
+
+    it "creates a Family" do
+      expect(db.families.size).to eq(1)
+    end
+
+    let(:family) { db.families.first }
+
+    it "associates one parent" do
+      expect(family.wife.name).to eq("Audrey /FIFINGER/")
+      expect(family.husband).to eq(nil)
+    end
+
+    it "associates children" do
+      expect(family.children.map(&:name)).to include(
+        "Roger /FIFINGER/",
+        "Cindy /FIFINGER/"
+      )
+    end
+
+  end
+
   context "with two generations" do
 
     before do
