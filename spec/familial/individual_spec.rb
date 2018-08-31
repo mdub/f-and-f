@@ -71,29 +71,27 @@ describe Familial::Individual do
 
     describe "#problems" do
 
-      subject(:problems) { individual.problems }
+      subject(:problems) do
+        individual.problems.map { |s| s.sub(/\(I\d\)/, "(In)") }
+      end
 
       it "complains when born when parent was too young" do
         individual.date_of_birth = "01.01.1980"
         mum.date_of_birth = "01.01.1970"
-        expect(problems).to include("born when mother was only 10")
+        expect(problems).to include("born when mother (In) was only 10")
       end
 
       it "complains when born when parent was too old" do
         individual.date_of_birth = "01.01.1980"
         dad.date_of_birth = "01.01.1900"
-        expect(problems).to include("born when father was 80")
+        expect(problems).to include("born when father (In) was 80")
       end
 
       it "complains when born when parent was dead" do
         individual.date_of_birth = "01.01.1980"
         mum.date_of_death = "01.01.1978"
-        expect(problems).to include("born when mother was dead")
+        expect(problems).to include("born when mother (In) was dead")
       end
-
-      # - The birth date occurred after his/her mother died
-      # - The birth date occurred more than one year after his/her father died
-      # - Individual married a spouse who wasn't yet 13
 
     end
 

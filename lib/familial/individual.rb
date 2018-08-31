@@ -90,14 +90,16 @@ module Familial
           parent = public_send(relationship)
           next if parent.nil?
           parents_age_at_birth = years_between(parent.date_of_birth, date_of_birth)
-          if parents_age_at_birth < 14
-            problems << "born when #{relationship} was only #{parents_age_at_birth}"
+          unless parents_age_at_birth.nil?
+            if parents_age_at_birth < 14
+              problems << "born when #{relationship} (#{parent.id}) was only #{parents_age_at_birth}"
+            end
+            if parents_age_at_birth > 70
+              problems << "born when #{relationship} (#{parent.id}) was #{parents_age_at_birth}"
+            end
           end
-          if parents_age_at_birth > 70
-            problems << "born when #{relationship} was #{parents_age_at_birth}"
-          end
-          if parent.date_of_death && date_of_birth > parent.date_of_death
-            problems << "born when #{relationship} was dead"
+          if parent.date_of_death && date_of_birth && date_of_birth > parent.date_of_death
+            problems << "born when #{relationship} (#{parent.id}) was dead"
           end
         end
       end
