@@ -7,7 +7,7 @@ module FaithAndFarming
 
     def initialize
       @db = Familial::Dataset.new
-      @family_stack = []
+      @stack = []
       @page_index = "-"
       @entry_index = 0
     end
@@ -42,19 +42,17 @@ module FaithAndFarming
     private
 
     def add_entry(entry)
-      pop_to_level(entry.level)
+      pop_context_to(level: entry.level - 1)
       self.entry_index += 1
       base_id = "p#{page_index}.e#{entry_index}"
       individuals = entry.people.each_with_index.map do |person, i|
         individual_from(person, id: "I#{base_id}.i#{i+1}")
       end
-      unless family_stack.empty?
-        current_family.add_child(individuals.first)
-      end
+      current_family.add_child(individuals.first) if current_family
       if individuals.size == 2
         f = marriage_of(individuals, id: "F#{base_id}")
         f.date_married = entry.date_married if entry.date_married
-        set_current_family(f, level: entry.level)
+        push_context(f, level: entry.level)
       end
       self.last_note = nil
       unless entry.note.nil? || entry.note.strip.empty?
@@ -111,22 +109,22 @@ module FaithAndFarming
       result.to_s.sub(/^mostly_/,'')
     end
 
-    attr_reader :family_stack
+    attr_reader :stack
 
-    StackEntry = Struct.new(:family, :level)
+    StackEntry = Struct.new(:record, :level)
 
-    def pop_to_level(level)
-      while family_stack.any? && level <= family_stack.last.level
-        family_stack.pop
+    def pop_context_to(level:)
+      while stack.any? && stack.last.level > level
+        stack.pop
       end
     end
 
-    def set_current_family(family, level:)
-      family_stack.push(StackEntry.new(family, level))
+    def push_context(record, level:)
+      stack.push(StackEntry.new(record, level))
     end
 
     def current_family
-      family_stack.last.family
+      stack.last&.record
     end
 
   end
