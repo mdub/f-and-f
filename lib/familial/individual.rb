@@ -89,17 +89,22 @@ module Familial
         %w(mother father).each do |relationship|
           parent = public_send(relationship)
           next if parent.nil?
-          parents_age_at_birth = years_between(parent.date_of_birth, date_of_birth)
-          unless parents_age_at_birth.nil?
-            if parents_age_at_birth < 14
-              problems << "born when #{relationship} (#{parent.id}) was only #{parents_age_at_birth}"
+          if date_of_birth
+            if parent.date_of_birth
+              parents_age_at_birth = date_of_birth.days_after(parent.date_of_birth) / 365
+              if parents_age_at_birth < 14
+                problems << "born when #{relationship} (#{parent.id}) was only #{parents_age_at_birth}"
+              end
+              if parents_age_at_birth > 70
+                problems << "born when #{relationship} (#{parent.id}) was #{parents_age_at_birth}"
+              end
             end
-            if parents_age_at_birth > 70
-              problems << "born when #{relationship} (#{parent.id}) was #{parents_age_at_birth}"
+            if parent.date_of_death
+              age_in_days_when_parent_died = parent.date_of_death.days_after(date_of_birth)
+              if age_in_days_when_parent_died < -270
+                problems << "born when #{relationship} (#{parent.id}) was dead"
+              end
             end
-          end
-          if parent.date_of_death && date_of_birth && date_of_birth > parent.date_of_death
-            problems << "born when #{relationship} (#{parent.id}) was dead"
           end
         end
       end

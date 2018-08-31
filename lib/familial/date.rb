@@ -21,6 +21,10 @@ module Familial
       to_date <=> other.to_date
     end
 
+    def days_after(other)
+      (to_date - other.to_date).to_i
+    end
+
     include Comparable
 
     alias_method :approximate?, :approximate
