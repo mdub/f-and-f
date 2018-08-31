@@ -17,6 +17,7 @@ module Familial
     end
 
     def <=>(other)
+      return nil unless other.respond_to?(:to_date)
       to_date <=> other.to_date
     end
 
