@@ -24,6 +24,10 @@ Clamp do
     pages.elements
   end
 
+  def db
+    @db ||= pages.family_tree
+  end
+
   subcommand ["blocks", "b"], "display blocks" do
 
     def execute
@@ -112,24 +116,7 @@ Clamp do
 
   end
 
-  subcommand ["families", "f"], "display families" do
-
-    option ["-i", "--show-ids"], :flag, "show ids"
-    option ["-d", "--show-dates"], :flag, "show dates of birth/death"
-    option ["-e", "--show-errors"], :flag, "show errors"
-
-    def execute
-      db = pages.family_tree
-      db.families.each do |family|
-        puts ""
-        puts format_parents(family)
-        family.children.each do |child|
-          puts "  " + format_individual(child)
-        end
-      end
-    end
-
-    private
+  module FamilialDisplay
 
     def format_parents(family)
       family.parents.map(&method(:format_individual)).join(paint(" = ", :cyan))
@@ -139,15 +126,56 @@ Clamp do
       [].tap { |parts|
         parts << i.name
         if show_dates?
-          lifespan = [i.date_of_birth, i.date_of_death].map { |d| d&.year }.join("-")
-          parts << paint("(#{lifespan})", :faint, :green)
+          dates = [i.date_of_birth, i.date_of_death]
+          unless dates.none?
+            lifespan = dates.map { |d| d&.year }.join("-")
+            parts << paint("(#{lifespan})", :faint, :green)
+          end
         end
         parts << faint("(#{i.id})") if show_ids?
       }.join(" ")
     end
 
-    def db
-      @db ||= pages.family_tree
+  end
+
+  subcommand ["families", "f"], "display families" do
+
+    option ["-i", "--show-ids"], :flag, "show ids"
+    option ["-d", "--show-dates"], :flag, "show dates of birth/death"
+
+    include FamilialDisplay
+
+    def execute
+      db.families.each do |family|
+        puts ""
+        puts format_parents(family)
+        family.children.each do |child|
+          puts "  " + format_individual(child)
+        end
+      end
+    end
+
+  end
+
+  subcommand ["problems"], "display family-tree problems" do
+
+    option ["-d", "--show-dates"], :flag, "show dates of birth/death"
+
+    include FamilialDisplay
+
+    def execute
+      db.individuals.each do |i|
+        puts format_individual(i)
+        i.problems.each do |problem|
+          puts paint("  !!! #{problem}", :red)
+        end
+      end
+    end
+
+    private
+
+    def show_ids?
+      true
     end
 
   end
