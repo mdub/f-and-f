@@ -45,4 +45,22 @@ describe Familial::Family do
 
   end
 
+  describe "#problems" do
+
+    subject(:problems) do
+      family.problems.map { |s| s.sub(/\(I\d\)/, "(In)") }
+    end
+
+    it "complains when wife is male" do
+      jane.sex = :male
+      expect(problems).to include("wife is male")
+    end
+
+    it "complains when husband is female" do
+      bob.sex = :female
+      expect(problems).to include("husband is female")
+    end
+
+  end
+
 end

@@ -60,7 +60,10 @@ module Familial
     end
 
     def problems
-      []
+      [].tap do |problems|
+        problems << "wife is male" if wife&.sex&.male?
+        problems << "husband is female" if husband&.sex&.female?
+      end
       # Thing to check for:
       # - This individual's children sort order may be incorrect
       # - Individual married a spouse who wasn't yet 13

@@ -170,6 +170,12 @@ Clamp do
           puts paint("  !!! #{problem}", :red)
         end
       end
+      db.families.each do |f|
+        puts format_parents(f)
+        f.problems.each do |problem|
+          puts paint("  !!! #{problem}", :red)
+        end
+      end
     end
 
     private
