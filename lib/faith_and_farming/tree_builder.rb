@@ -1,5 +1,5 @@
 require "familial/dataset"
-require "gender_detector"
+require "faith_and_farming/sex_guesser"
 
 module FaithAndFarming
 
@@ -29,8 +29,8 @@ module FaithAndFarming
       self
     end
 
-    def self.gender_detector
-      @gender_detector ||= GenderDetector.new
+    def self.sex_guesser
+      @sex_guesser ||= SexGuesser.new
     end
 
     protected
@@ -79,7 +79,7 @@ module FaithAndFarming
       db.individuals.create(id: id).tap do |i|
         i.name = name
         i.nickname = nickname
-        assumed_gender = guess_gender(name.split(" ").first)
+        assumed_gender = guess_sex(name.split(" ").first)
         i.sex = assumed_gender if assumed_gender
         i.date_of_birth = person.date_of_birth if person.date_of_birth
         i.date_of_death = person.date_of_death if person.date_of_death
@@ -103,12 +103,6 @@ module FaithAndFarming
       name = "#{rest} /#{last}/"
       name.sub!(" /??/", "")
       [name, nickname]
-    end
-
-    def guess_gender(name)
-      result = self.class.gender_detector.get_gender(name)
-      return nil if result == :andy
-      result.to_s.sub(/^mostly_/,'')
     end
 
     attr_reader :stack
@@ -142,6 +136,10 @@ module FaithAndFarming
         family.wife = i
       end
       push_context(family, level: current.level)
+    end
+
+    def guess_sex(name)
+      self.class.sex_guesser.guess_sex(name)
     end
 
   end
