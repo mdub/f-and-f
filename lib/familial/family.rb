@@ -61,12 +61,20 @@ module Familial
 
     def problems
       [].tap do |problems|
-        problems << "wife is male" if wife&.sex&.male?
         problems << "husband is female" if husband&.sex&.female?
+        problems << "wife is male" if wife&.sex&.male?
+        %w(husband wife).each do |role|
+          partner = public_send(role)
+          if date_married && partner.date_of_birth
+            age_at_marriage = date_married.days_after(partner.date_of_birth) / 365
+            problems << "#{role} married at age #{age_at_marriage}" if age_at_marriage < 14
+          end
+        end
+        child_birth_dates = children.map(&:date_of_birth).compact
+        unless child_birth_dates == child_birth_dates.sort
+          problems << "children are not in birth order"
+        end
       end
-      # Thing to check for:
-      # - This individual's children sort order may be incorrect
-      # - Individual married a spouse who wasn't yet 13
     end
 
   end

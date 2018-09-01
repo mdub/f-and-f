@@ -51,6 +51,10 @@ describe Familial::Family do
       family.problems.map { |s| s.sub(/\(I\d\)/, "(In)") }
     end
 
+    it "is usually empty" do
+      expect(problems).to be_empty
+    end
+
     it "complains when wife is male" do
       jane.sex = :male
       expect(problems).to include("wife is male")
@@ -59,6 +63,18 @@ describe Familial::Family do
     it "complains when husband is female" do
       bob.sex = :female
       expect(problems).to include("husband is female")
+    end
+
+    it "complains when children are out of birth order" do
+      family.children[0].date_of_birth = "05.06.1978"
+      family.children[1].date_of_birth = "01.02.1973"
+      expect(problems).to include("children are not in birth order")
+    end
+
+    it "complains when married too young" do
+      family.husband.date_of_birth = "01.02.1944"
+      family.date_married = "19.04.1956"
+      expect(problems).to include("husband married at age 12")
     end
 
   end
