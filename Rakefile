@@ -45,11 +45,11 @@ task "problems" do
   sh "scripts/show problems -d > outputs/problems.txt"
 end
 
-task "default" => "problems"
+task "generate" => "problems"
 
 task "gedcom" do
   mkdir_p "outputs"
   sh "scripts/show gedcom > outputs/f-and-f.ged"
 end
 
-task "default" => "gedcom"
+task "generate" => "gedcom"

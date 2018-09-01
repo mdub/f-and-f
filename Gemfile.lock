@@ -9,7 +9,6 @@ GEM
     diff-lcs (1.3)
     faraday (0.15.2)
       multipart-post (>= 1.2, < 3)
-    gender_detector (2.0.0)
     google-cloud-core (1.2.2)
       google-cloud-env (~> 1.0)
     google-cloud-env (1.0.2)
@@ -80,7 +79,6 @@ DEPENDENCIES
   another_enum
   clamp
   config_mapper
-  gender_detector
   google-cloud-vision
   paint
   rake

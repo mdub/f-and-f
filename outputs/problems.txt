@@ -120,6 +120,7 @@ Sarah Michelle /Overbye/ [2;32m(1992-)[0m [2m(Ip89.e1.i1)[0m
 Daniel Liam /Overbye/ [2;32m(1994-)[0m [2m(Ip89.e2.i1)[0m
 Joshua Nathan /Overbye/ [2;32m(1996-)[0m [2m(Ip89.e3.i1)[0m
 Leslie Edward /Williams/ [2;32m(1877-1905)[0m [2m(Ip89.e4.i1)[0m
+[31m  !!! sex is unspecified[0m
 Henry Carleton /Williams/ [2;32m(1880-1961)[0m [2m(Ip89.e5.i1)[0m
 Catherine Leslie /Mills/ [2;32m(1885-1966)[0m [2m(Ip89.e5.i2)[0m
 Elisabeth Carleton /Williams/ [2;32m(1912-1996)[0m [2m(Ip89.e6.i1)[0m
@@ -788,6 +789,7 @@ Isabel /Maclagan/ [2;32m(-1927)[0m [2m(Ip155.e9.i2)[0m
 Edith Moncrieff /Mollet/ [2;32m(1896-1980)[0m [2m(Ip155.e10.i2)[0m
 Arthur Frederick /Williams/ [2;32m(1860-1936)[0m [2m(Ip156.e1.i1)[0m
 Leslie Elisabeth Antonia /Thompson/ [2;32m(1867-1954)[0m [2m(Ip156.e1.i2)[0m
+[31m  !!! sex is unspecified[0m
 Clement Leslie Arthur /Williams/ [2;32m(1895-1895)[0m [2m(Ip156.e2.i1)[0m
 Joyce Elizabeth Leslie /Williams/ [2;32m(1897-1979)[0m [2m(Ip156.e3.i1)[0m
 Ernest Courtenay /Crosse/ [2;32m(1887-1955)[0m [2m(Ip156.e3.i2)[0m
@@ -814,6 +816,7 @@ Esme Guyon /Purchas/ [2;32m(1899-1968)[0m [2m(Ip158.e7.i2)[0m
 Anthony Philip Marsh /Williams/ [2;32m(1930-1993)[0m [2m(Ip158.e8.i1)[0m
 Pamela Helen /Spencer/ [2;32m(1946-)[0m [2m(Ip158.e8.i2)[0m
 Leslie Elizabeth Esme /Williams/ [2;32m(1932-)[0m [2m(Ip159.e1.i1)[0m
+[31m  !!! sex is unspecified[0m
 Robert Ernest /Harvison/ [2;32m(1931-)[0m [2m(Ip159.e1.i2)[0m
 Linda Christine /Harvison/ [2;32m(1957-)[0m [2m(Ip159.e2.i1)[0m
 Bruce William /Darwin/ [2;32m(1960-)[0m [2m(Ip159.e2.i2)[0m
@@ -868,6 +871,7 @@ Matthew Lance /Neal/ [2;32m(1995-)[0m [2m(Ip163.e5.i1)[0m
 Elizabeth Jane /Williams/ [2;32m(1935-)[0m [2m(Ip163.e6.i1)[0m
 Murray Girvan /Sykes/ [2;32m(1931-)[0m [2m(Ip163.e6.i2)[0m
 Leslie Kathleen /Sykes/ [2;32m(1955-1955)[0m [2m(Ip163.e7.i1)[0m
+[31m  !!! sex is unspecified[0m
 Peter Brian /Sykes/ [2;32m(1956-)[0m [2m(Ip163.e8.i1)[0m
 Vicki Ann /Bidmead/ [2;32m(1959-)[0m [2m(Ip163.e8.i2)[0m
 Luke Wiremu /Sykes/ [2;32m(1987-)[0m [2m(Ip164.e1.i1)[0m
@@ -1150,6 +1154,7 @@ Donald Guy Thomas /Robinson/ [2;32m(1960-1992)[0m [2m(Ip201.e7.i2)[0m
 Guy Thomas /Robinson/ [2;32m(1989-)[0m [2m(Ip202.e1.i1)[0m
 Jack Bernard /Robinson/ [2;32m(1990-)[0m [2m(Ip202.e2.i1)[0m
 Jaime Alice /Robinson/ [2;32m(1991-)[0m [2m(Ip202.e3.i1)[0m
+[31m  !!! sex is unspecified[0m
 Richard Eric /Wynne-Lewis/ [2;32m(1963-)[0m [2m(Ip202.e4.i1)[0m
 Alessandra Mary /Lowry/ [2;32m(1965-)[0m [2m(Ip202.e4.i2)[0m
 Harry Thomas /Wynne-Lewis/ [2;32m(1990-)[0m [2m(Ip202.e5.i1)[0m
@@ -2234,6 +2239,7 @@ Robert Henry /Branch/ [2;32m(1964-)[0m [2m(Ip320.e5.i1)[0m
 Christianne /Da Costa/ [2;32m(1967-)[0m [2m(Ip320.e5.i2)[0m
 Howard Anthony /Branch/ [2;32m(1967-)[0m [2m(Ip320.e6.i1)[0m
 Leslie Roy /Branch/ [2;32m(1895-1968)[0m [2m(Ip320.e7.i1)[0m
+[31m  !!! sex is unspecified[0m
 Annie /Nixon/ [2;32m(1894-1919)[0m [2m(Ip320.e7.i2)[0m
 Nora /Leach/ [2;32m(1896-1962)[0m [2m(Ip320.e8.i2)[0m
 Colin Rex /Branch/ [2;32m(1922-1945)[0m [2m(Ip320.e9.i1)[0m
@@ -3692,6 +3698,7 @@ Emma Lynn /Currie/ [2;32m(1982-)[0m [2m(Ip539.e7.i1)[0m
 Vicki Margaret /Currie/ [2;32m(1984-)[0m [2m(Ip539.e8.i1)[0m
 Patricia Isabel /Gray/ [2;32m(1928-)[0m [2m(Ip539.e9.i2)[0m
 Leslie Pamela /Currie/ [2;32m(1924-)[0m [2m(Ip539.e10.i1)[0m
+[31m  !!! sex is unspecified[0m
 Eric Wanklyn /Maclean/ [2;32m(1886-1940)[0m [2m(Ip539.e11.i1)[0m
 May Harcourt /Turner/ [2;32m(1892-1984)[0m [2m(Ip539.e11.i2)[0m
 Mary Way /Maclean/ [2;32m(1925-)[0m [2m(Ip540.e1.i1)[0m
@@ -3884,6 +3891,7 @@ Ralph Wanklyn /Williams/ [2;32m(1931-)[0m [2m(Ip563.e2.i1)[0m
 Margaret-Anne /McFadyen/ [2;32m(1931-)[0m [2m(Ip563.e2.i2)[0m
 [31m  !!! sex is unspecified[0m
 Leslie Gail /Williams/ [2;32m(1960-)[0m [2m(Ip563.e3.i1)[0m
+[31m  !!! sex is unspecified[0m
 Peter John /Savory/ [2;32m(1959-)[0m [2m(Ip563.e3.i2)[0m
 Kate Sarah /Savory/ [2;32m(1988-)[0m [2m(Ip563.e4.i1)[0m
 Samantha Jane /Savory/ [2;32m(1990-)[0m [2m(Ip564.e1.i1)[0m
@@ -4650,9 +4658,11 @@ Edward Bruce /Holden/ [2;32m(1945-)[0m [2m(Ip107.e4.i2)[0m[36m = [0mErica 
 Rodney Heathcote /Williams/ [2;32m(1950-)[0m [2m(Ip108.e2.i1)[0m[36m = [0mPatricia Joan /Collins/ [2;32m(1951-)[0m [2m(Ip108.e2.i2)[0m
 Michael Ormond /Williams/ [2;32m(1974-)[0m [2m(Ip108.e4.i1)[0m[36m = [0mHayley /Cochrane/ [2m(Ip108.e4.i2)[0m
 Ian Andrew /Kirkpatrick/ [2;32m(1946-)[0m [2m(Ip108.e6.i2)[0m[36m = [0mRobyn /Williams/ [2;32m(1952-)[0m [2m(Ip108.e6.i1)[0m
+[31m  !!! wife is male[0m
 Arnold Christopher /Williams/ [2;32m(1957-)[0m [2m(Ip109.e3.i1)[0m[36m = [0mKaye Patricia /Robinson/ [2;32m(1960-)[0m [2m(Ip109.e3.i2)[0m
 Alec Mac /Fraser/ [2;32m(1917-)[0m [2m(Ip109.e7.i2)[0m[36m = [0mMargot Temple /Williams/ [2;32m(1921-)[0m [2m(Ip109.e7.i1)[0m
 Paul Sunderland /Nelson/ [2;32m(1947-)[0m [2m(Ip110.e1.i2)[0m[36m = [0mCarol /Fraser/ [2;32m(1950-)[0m [2m(Ip110.e1.i1)[0m
+[31m  !!! wife is male[0m
 Alister. George /Moore/ [2;32m(1957-)[0m [2m(Ip110.e4.i2)[0m[36m = [0mFern Joy /Fraser/ [2;32m(1954-)[0m [2m(Ip110.e4.i1)[0m
 Thomas Jock Oswald /Fraser/ [2;32m(1957-)[0m [2m(Ip111.e3.i1)[0m[36m = [0mAmanda Mary /Moore/ [2;32m(1959-)[0m [2m(Ip111.e3.i2)[0m
 Harold Edward /Williams/ [2;32m(1892-1976)[0m [2m(Ip111.e6.i1)[0m[36m = [0mElsie Nora Underwood /Wallis/ [2;32m(1898-1985)[0m [2m(Ip111.e6.i2)[0m
@@ -4704,9 +4714,7 @@ Richard Charles /Parker/ [2;32m(1904-1990)[0m [2m(Ip124.e1.i2)[0m[36m = [0
 James Allen /Parker/ [2;32m(1930-)[0m [2m(Ip124.e2.i1)[0m[36m = [0mLesley Anne /Matthews/ [2;32m(1933-)[0m [2m(Ip124.e2.i2)[0m
 Christopher /Coppin/ [2;32m(1956-)[0m [2m(Ip124.e3.i2)[0m[36m = [0mNichola Anne /Parker/ [2;32m(1956-)[0m [2m(Ip124.e3.i1)[0m
 Frederick Colin /Smith/ [2;32m(1957-)[0m [2m(Ip124.e7.i2)[0m[36m = [0mKay Suzanne /Parker/ [2;32m(1957-)[0m [2m(Ip124.e7.i1)[0m
-[31m  !!! wife is male[0m
 George John /Gyenge/ [2;32m(1957-)[0m [2m(Ip125.e2.i2)[0m[36m = [0mJan Mary /Parker/ [2;32m(1960-)[0m [2m(Ip125.e2.i1)[0m
-[31m  !!! wife is male[0m
 Peter Richard /Parker/ [2;32m(1933-1989)[0m [2m(Ip125.e5.i1)[0m[36m = [0mBette Joan /Cameron/ [2;32m(1940-)[0m [2m(Ip125.e5.i2)[0m
 Philip Peter /Parker/ [2;32m(1961-)[0m [2m(Ip125.e7.i1)[0m[36m = [0mSara /Nimon/ [2;32m(1966-)[0m [2m(Ip125.e7.i2)[0m
 Mark /Ellingham/ [2;32m(1964-)[0m [2m(Ip126.e1.i2)[0m[36m = [0mJulie Diane /Parker/ [2;32m(1968-)[0m [2m(Ip126.e1.i1)[0m
@@ -4797,6 +4805,7 @@ Edward Humfrey /Newton/ [2;32m(1953-)[0m [2m(Ip152.e5.i1)[0m[36m = [0mCath
 Selwyn Robert /Murphy/ [2;32m(1920-)[0m [2m(Ip152.e8.i1)[0m[36m = [0mCharmian Jocelyn /Falkner/ [2;32m(1926-)[0m [2m(Ip152.e8.i2)[0m
 Hugh /Trafford/ [2;32m(1947-)[0m [2m(Ip153.e1.i2)[0m[36m = [0mSally Vena /Murphy/ [2;32m(1949-)[0m [2m(Ip153.e1.i1)[0m
 Geoffrey /Tombleson/ [2;32m(1953-)[0m [2m(Ip153.e5.i2)[0m[36m = [0mRobyn Jocelyn /Murphy/ [2;32m(1952-)[0m [2m(Ip153.e5.i1)[0m
+[31m  !!! wife is male[0m
 Jonathan Charles /Bell/ [2;32m(1956-)[0m [2m(Ip153.e8.i2)[0m[36m = [0mDeborah Enid /Murphy/ [2;32m(1957-)[0m [2m(Ip153.e8.i1)[0m
 Philip James /Murphy/ [2;32m(1921-)[0m [2m(Ip153.e9.i1)[0m[36m = [0mJune Katherine /White/ [2;32m(1923-)[0m [2m(Ip153.e9.i2)[0m
 Jonathan Robert /Murphy/ [2;32m(1950-)[0m [2m(Ip153.e10.i1)[0m[36m = [0mFay /Durdy/ [2;32m(1956-)[0m [2m(Ip153.e10.i2)[0m
@@ -4862,9 +4871,9 @@ George Henry /Davies/ [2;32m(1844-1914)[0m [2m(Ip176.e2.i1)[0m[36m = [0mRo
 George William Godfrey /Davies/ [2;32m(1882-1946)[0m [2m(Ip177.e1.i1)[0m[36m = [0mNora Creina /Kelly/ [2;32m(1894-1984)[0m [2m(Ip177.e1.i2)[0m
 Edgar Lamson Jnr /Arnold/ [2;32m(1915-)[0m [2m(Ip177.e2.i2)[0m[36m = [0mGwen Rosemary Alma /Davies/ [2;32m(1923-1987)[0m [2m(Ip177.e2.i1)[0m
 Dorian [2m(Ip177.e3.i2)[0m[36m = [0mLaurence Edward /Arnold/ [2;32m(1947-)[0m [2m(Ip177.e3.i1)[0m
-Gigi /Arnold/ [2;32m(1969-)[0m [2m(Ip177.e4.i1)[0m[36m = [0m?? /Woodard/ [2m(Ip177.e4.i2)[0m
-Elizabeth /Cigrand/ [2m(Ip177.e5.i2)[0m[36m = [0mLaurence Edward /Arnold/ [2;32m(1947-)[0m [2m(Ip177.e3.i1)[0m
-[31m  !!! husband is female[0m
+[31m  !!! wife is male[0m
+?? /Woodard/ [2m(Ip177.e4.i2)[0m[36m = [0mGigi /Arnold/ [2;32m(1969-)[0m [2m(Ip177.e4.i1)[0m
+Laurence Edward /Arnold/ [2;32m(1947-)[0m [2m(Ip177.e3.i1)[0m[36m = [0mElizabeth /Cigrand/ [2m(Ip177.e5.i2)[0m
 Ian Godfrey /Davies/ [2;32m(1925-1988)[0m [2m(Ip178.e1.i1)[0m[36m = [0mDaphne /Cook/ [2;32m(1922-1991)[0m [2m(Ip178.e1.i2)[0m
 Bruce Raymond /Murray/ [2;32m(1952-)[0m [2m(Ip178.e2.i2)[0m[36m = [0mSusan Margaret /Davies/ [2;32m(1954-)[0m [2m(Ip178.e2.i1)[0m
 Stephen Godfrey /Davies/ [2;32m(1955-)[0m [2m(Ip179.e2.i1)[0m[36m = [0mMichele /Towner/ [2m(Ip179.e2.i2)[0m
@@ -4966,8 +4975,7 @@ Gordon Mawley /Dodgshun/ [2;32m(1884-1970)[0m [2m(Ip217.e5.i2)[0m[36m = [0
 Joseph Terence /Dodgshun/ [2;32m(1915-)[0m [2m(Ip217.e6.i1)[0m[36m = [0mJune Shirley /Dods/ [2;32m(1925-)[0m [2m(Ip217.e6.i2)[0m
 Thomas Peter /Gaddum/ [2;32m(1949-)[0m [2m(Ip218.e1.i2)[0m[36m = [0mAnna Christine /Dodgshun/ [2;32m(1953-)[0m [2m(Ip218.e1.i1)[0m
 Keith John /Holland/ [2;32m(1957-)[0m [2m(Ip218.e6.i2)[0m[36m = [0mSusan Mary /Dodgshun/ [2;32m(1955-)[0m [2m(Ip218.e6.i1)[0m
-Dorothy Virginia /Woodward/ [2;32m(1926-)[0m [2m(Ip218.e9.i2)[0m[36m = [0mSydney Yorke /Dodgshun/ [2;32m(1919-)[0m [2m(Ip218.e9.i1)[0m
-[31m  !!! husband is female[0m
+Sydney Yorke /Dodgshun/ [2;32m(1919-)[0m [2m(Ip218.e9.i1)[0m[36m = [0mDorothy Virginia /Woodward/ [2;32m(1926-)[0m [2m(Ip218.e9.i2)[0m
 Michael John /Willock/ [2;32m(1947-)[0m [2m(Ip219.e1.i2)[0m[36m = [0mWendy Elizabeth /Dodgshun/ [2;32m(1949-)[0m [2m(Ip219.e1.i1)[0m
 Michael Lowther /Broad/ [2;32m(1969-)[0m [2m(Ip219.e2.i2)[0m[36m = [0mJoanna Mary /Willock/ [2;32m(1972-)[0m [2m(Ip219.e2.i1)[0m
 Peter Heathcote /Jackman/ [2;32m(1950-)[0m [2m(Ip219.e4.i2)[0m[36m = [0mPhilippa Robyn /Dodgshun/ [2;32m(1951-)[0m [2m(Ip219.e4.i1)[0m
@@ -5179,6 +5187,7 @@ Warren Ross /Barclay/ [2;32m(1965-)[0m [2m(Ip293.e4.i2)[0m[36m = [0mKirsty
 John Gavin /Falloon/ [2;32m(1929-)[0m [2m(Ip294.e2.i2)[0m[36m = [0mWendy Esme Gerard /Williams/ [2;32m(1938-)[0m [2m(Ip294.e2.i1)[0m
 Morris James /Cassie/ [2m(Ip294.e3.i2)[0m[36m = [0mAnna Louise /Falloon/ [2;32m(1964-)[0m [2m(Ip294.e3.i1)[0m
 Roger Richmond /Ashley-Wilson/ [2;32m(1933-)[0m [2m(Ip294.e7.i2)[0m[36m = [0mRobyn Priscilla Gerard /Williams/ [2;32m(1941-)[0m [2m(Ip294.e7.i1)[0m
+[31m  !!! wife is male[0m
 Gerard John Paul /Williams/ [2;32m(1949-)[0m [2m(Ip295.e1.i1)[0m[36m = [0mJennifer Helen /Ewen/ [2;32m(1950-)[0m [2m(Ip295.e1.i2)[0m
 Arthur Oliver /Kersey/ [2;32m(1894-1962)[0m [2m(Ip295.e5.i2)[0m[36m = [0mShona Mackintosh /Williams/ [2;32m(1914-1994)[0m [2m(Ip295.e5.i1)[0m
 Grant /Campbell/ [2m(Ip295.e6.i2)[0m[36m = [0mGillian Camilla Vera /Kersey/ [2;32m(1950-)[0m [2m(Ip295.e6.i1)[0m
@@ -5186,7 +5195,8 @@ David John Richard /Kersey/ [2;32m(1951-)[0m [2m(Ip295.e9.i1)[0m[36m = [0m
 Alan Roy Bidwill /Barton/ [2;32m(1914-1981)[0m [2m(Ip296.e2.i2)[0m[36m = [0mEvelyn Gillian /Williams/ [2;32m(1919-1985)[0m [2m(Ip296.e2.i1)[0m
 Alan John /Barton/ [2;32m(1942-)[0m [2m(Ip296.e3.i1)[0m[36m = [0mSally Vivianne /Nilsson/ [2;32m(1945-)[0m [2m(Ip296.e3.i2)[0m
 Anthony Stanley /May/ [2;32m(1944-)[0m [2m(Ip296.e7.i2)[0m[36m = [0mBelinda Mary /Barton/ [2;32m(1947-)[0m [2m(Ip296.e7.i1)[0m
-William Paul /Barton/ [2;32m(1951-)[0m [2m(Ip297.e3.i1)[0m[36m = [0mCarol Joan /Adams/ [2;32m(1952-)[0m [2m(Ip297.e3.i2)[0m
+Carol Joan /Adams/ [2;32m(1952-)[0m [2m(Ip297.e3.i2)[0m[36m = [0mWilliam Paul /Barton/ [2;32m(1951-)[0m [2m(Ip297.e3.i1)[0m
+[31m  !!! wife is male[0m
 Mark /Verbiest/ [2;32m(1958-)[0m [2m(Ip297.e7.i2)[0m[36m = [0mSarah Jessica /Barton/ [2;32m(1957-)[0m [2m(Ip297.e7.i1)[0m
 Kenneth Stuart /Williams/ [2;32m(1870-1935)[0m [2m(Ip298.e1.i1)[0m[36m = [0mLillian Mary /Ludbrook/ [2;32m(1870-1963)[0m [2m(Ip298.e1.i2)[0m
 Charles Kenneth /Williams/ [2;32m(1899-1978)[0m [2m(Ip299.e1.i1)[0m[36m = [0mPhyllis Constance /Morris/ [2;32m(1905-1993)[0m [2m(Ip299.e1.i2)[0m
@@ -5238,25 +5248,23 @@ David Forbes /Bone/ [2;32m(1954-)[0m [2m(Ip319.e6.i1)[0m[36m = [0mWendy El
 John David /Corran/ [2;32m(1952-)[0m [2m(Ip320.e1.i2)[0m[36m = [0mHeather Louise /Bone/ [2;32m(1957-)[0m [2m(Ip320.e1.i1)[0m
 Henry Christopher /Branch/ [2;32m(1934-)[0m [2m(Ip320.e4.i1)[0m[36m = [0mMavis Primrose /Marsh/ [2;32m(1942-)[0m [2m(Ip320.e4.i2)[0m
 Robert Henry /Branch/ [2;32m(1964-)[0m [2m(Ip320.e5.i1)[0m[36m = [0mChristianne /Da Costa/ [2;32m(1967-)[0m [2m(Ip320.e5.i2)[0m
-Annie /Nixon/ [2;32m(1894-1919)[0m [2m(Ip320.e7.i2)[0m[36m = [0mLeslie Roy /Branch/ [2;32m(1895-1968)[0m [2m(Ip320.e7.i1)[0m
-[31m  !!! husband is female[0m
-Nora /Leach/ [2;32m(1896-1962)[0m [2m(Ip320.e8.i2)[0m[36m = [0mLeslie Roy /Branch/ [2;32m(1895-1968)[0m [2m(Ip320.e7.i1)[0m
-[31m  !!! husband is female[0m
+Leslie Roy /Branch/ [2;32m(1895-1968)[0m [2m(Ip320.e7.i1)[0m[36m = [0mAnnie /Nixon/ [2;32m(1894-1919)[0m [2m(Ip320.e7.i2)[0m
+Leslie Roy /Branch/ [2;32m(1895-1968)[0m [2m(Ip320.e7.i1)[0m[36m = [0mNora /Leach/ [2;32m(1896-1962)[0m [2m(Ip320.e8.i2)[0m
 Colin Rex /Branch/ [2;32m(1922-1945)[0m [2m(Ip320.e9.i1)[0m[36m = [0mCathleen Emma /Jacob/ [2;32m(1924-)[0m [2m(Ip320.e9.i2)[0m
 Ronald Herbert /Brunt/ [2;32m(1919-1997)[0m [2m(Ip321.e1.i2)[0m[36m = [0mNora Patricia /Branch/ [2;32m(1926-)[0m [2m(Ip321.e1.i1)[0m
 Richard Neil /Brunt/ [2;32m(1949-)[0m [2m(Ip321.e2.i1)[0m[36m = [0mLinda Rosalie /Cross/ [2;32m(1950-)[0m [2m(Ip321.e2.i2)[0m
 John Howard /Brunt/ [2;32m(1952-)[0m [2m(Ip321.e6.i1)[0m[36m = [0mGillian Elizabeth /Brown/ [2;32m(1948-)[0m [2m(Ip321.e6.i2)[0m
 Roger Martin /Brunt/ [2;32m(1954-)[0m [2m(Ip321.e9.i1)[0m[36m = [0mSusan Claire /Rogerson/ [2;32m(1957-)[0m [2m(Ip321.e9.i2)[0m
 Steven Bruce /Brunt/ [2;32m(1959-)[0m [2m(Ip322.e3.i1)[0m[36m = [0mHelen Hilary /Corfield/ [2;32m(1962-)[0m [2m(Ip322.e3.i2)[0m
-Jacqueline /Fisher/ [2;32m(1916-)[0m [2m(Ip322.e8.i2)[0m[36m = [0mLeslie Roy /Branch/ [2;32m(1895-1968)[0m [2m(Ip320.e7.i1)[0m
-[31m  !!! husband is female[0m
+Leslie Roy /Branch/ [2;32m(1895-1968)[0m [2m(Ip320.e7.i1)[0m[36m = [0mJacqueline /Fisher/ [2;32m(1916-)[0m [2m(Ip322.e8.i2)[0m
 George Thomas Frederick /Hutton/ [2;32m(1854-1937)[0m [2m(Ip322.e9.i1)[0m[36m = [0mCatherine Carne /Barton/ [2;32m(1852-1909)[0m [2m(Ip322.e9.i2)[0m
 Edward George /Hutton/ [2;32m(1882-1930)[0m [2m(Ip322.e10.i1)[0m[36m = [0mAlice May /Arndt/ [2;32m(1889-1945)[0m [2m(Ip322.e10.i2)[0m
 Noel Edward /Hutton/ [2;32m(1920-1993)[0m [2m(Ip323.e1.i1)[0m[36m = [0mHi Amoe /Te Whare/ [2;32m(1928-)[0m [2m(Ip323.e1.i2)[0m
 Michel Paul /Bressolles/ [2;32m(1948-)[0m [2m(Ip323.e2.i2)[0m[36m = [0mAlexia Lynnette Marie /Hutton/ [2;32m(1949-)[0m [2m(Ip323.e2.i1)[0m
 Shane Michel /Bressolles/ [2;32m(1971-)[0m [2m(Ip323.e3.i1)[0m[36m = [0mSian /Anderson/ [2m(Ip323.e3.i2)[0m
 Karl Edward /Hutton/ [2;32m(1950-)[0m [2m(Ip323.e6.i1)[0m[36m = [0mMary Olive /Toms/ [2;32m(1949-)[0m [2m(Ip323.e6.i2)[0m
-Anthony Maurice /Hutton/ [2;32m(1953-)[0m [2m(Ip324.e1.i1)[0m[36m = [0mCarol Elizabeth /Groome/ [2m(Ip324.e1.i2)[0m
+Carol Elizabeth /Groome/ [2m(Ip324.e1.i2)[0m[36m = [0mAnthony Maurice /Hutton/ [2;32m(1953-)[0m [2m(Ip324.e1.i1)[0m
+[31m  !!! wife is male[0m
 Anthony Maurice /Hutton/ [2;32m(1953-)[0m [2m(Ip324.e1.i1)[0m[36m = [0mLoretta /Williams/ [2;32m(1947-)[0m [2m(Ip324.e2.i2)[0m
 Leonard Desmond /Lutz/ [2;32m(1920-1972)[0m [2m(Ip324.e5.i2)[0m[36m = [0mJune Katherine /Hutton/ [2;32m(1922-)[0m [2m(Ip324.e5.i1)[0m
 Kurt William /Lutz/ [2;32m(1960-)[0m [2m(Ip324.e9.i1)[0m[36m = [0mJennifer Mary /Powell/ [2m(Ip324.e9.i2)[0m
@@ -5352,7 +5360,6 @@ Grant Gordon /Hadfield/ [2;32m(1953-)[0m [2m(Ip347.e6.i1)[0m[36m = [0mAlis
 Anthony Barry /Hadfield/ [2;32m(1957-)[0m [2m(Ip347.e9.i1)[0m[36m = [0mBelinda Mary /Bright/ [2;32m(1960-)[0m [2m(Ip347.e9.i2)[0m
 Edward Cecil /Cooper/ [2;32m(1902-)[0m [2m(Ip348.e3.i2)[0m[36m = [0mCatherine Isobel /Hadfield/ [2;32m(1903-1986)[0m [2m(Ip348.e3.i1)[0m
 Sydney Charles /Nelson/ [2;32m(1933-)[0m [2m(Ip348.e4.i2)[0m[36m = [0mBrigit Nancy /Cooper/ [2;32m(1936-)[0m [2m(Ip348.e4.i1)[0m
-[31m  !!! husband is female[0m
 Robert Bryan James /Ellis/ [2;32m(1959-)[0m [2m(Ip348.e7.i2)[0m[36m = [0mMaria Jane /Nelson/ [2;32m(1963-)[0m [2m(Ip348.e7.i1)[0m
 David /Potter/ [2;32m(1922-)[0m [2m(Ip349.e7.i2)[0m[36m = [0mBrigit Nancy /Cooper/ [2;32m(1936-)[0m [2m(Ip348.e4.i1)[0m
 Timothy Cunliffe /Rogerson/ [2;32m(1935-)[0m [2m(Ip349.e8.i2)[0m[36m = [0mRobin Diana /Cooper/ [2;32m(1937-)[0m [2m(Ip349.e8.i1)[0m
@@ -5544,6 +5551,7 @@ Robert Gordon /Passmore/ [2;32m(1934-)[0m [2m(Ip488.e1.i2)[0m[36m = [0mSus
 Phillip /Haycock/ [2;32m(1964-)[0m [2m(Ip488.e2.i2)[0m[36m = [0mHelen Jane /Passmore/ [2;32m(1964-)[0m [2m(Ip488.e2.i1)[0m
 Simon Christopher /Grigg/ [2;32m(1964-)[0m [2m(Ip488.e4.i2)[0m[36m = [0mJillian Mary /Passmore/ [2;32m(1966-)[0m [2m(Ip488.e4.i1)[0m
 Michael Vernon /Plowman/ [2;32m(1941-)[0m [2m(Ip488.e8.i2)[0m[36m = [0mRobyn /Gray/ [2;32m(1943-)[0m [2m(Ip488.e8.i1)[0m
+[31m  !!! wife is male[0m
 Andrew Kenneth /Strachan/ [2m(Ip488.e9.i2)[0m[36m = [0mCatherine Louise /Plowman/ [2;32m(1970-)[0m [2m(Ip488.e9.i1)[0m
 Anthony Charles /Gray/ [2;32m(1948-)[0m [2m(Ip489.e2.i1)[0m[36m = [0mPrudence Anne /Rathbone/ [2;32m(1950-)[0m [2m(Ip489.e2.i2)[0m
 Anthony Charles /Gray/ [2;32m(1948-)[0m [2m(Ip489.e2.i1)[0m[36m = [0mGail Ann McLaren /Mabey/ [2;32m(1955-)[0m [2m(Ip489.e6.i2)[0m
@@ -5558,6 +5566,7 @@ John Haldane /Campbell/ [2;32m(1916-)[0m [2m(Ip491.e1.i2)[0m[36m = [0mLesl
 Kevin Wilfred /Vanstone/ [2m(Ip491.e2.i2)[0m[36m = [0mAdrienne Joan /Campbell/ [2;32m(1940-)[0m [2m(Ip491.e2.i1)[0m
 Nicholas Philip /Vanstone/ [2;32m(1962-)[0m [2m(Ip491.e3.i1)[0m[36m = [0mNellie /Van Den Beuken/ [2m(Ip491.e3.i2)[0m
 Peter Kenneth /Silvester/ [2;32m(1960-)[0m [2m(Ip491.e5.i2)[0m[36m = [0mRobyn Lesley /Vanstone/ [2;32m(1964-)[0m [2m(Ip491.e5.i1)[0m
+[31m  !!! wife is male[0m
 Leonard Graham /Sims/ [2;32m(1943-)[0m [2m(Ip491.e8.i2)[0m[36m = [0mAdrienne Joan /Campbell/ [2;32m(1940-)[0m [2m(Ip491.e2.i1)[0m
 David /Hemingway/ [2;32m(1941-)[0m [2m(Ip491.e10.i2)[0m[36m = [0mDiane Margaret /Campbell/ [2;32m(1942-)[0m [2m(Ip491.e10.i1)[0m
 Peter John /Couper/ [2;32m(1939-)[0m [2m(Ip492.e3.i2)[0m[36m = [0mFay Heather /Campbell/ [2;32m(1948-)[0m [2m(Ip492.e3.i1)[0m
@@ -5565,6 +5574,7 @@ Andrew John /Couper/ [2;32m(1976-)[0m [2m(Ip492.e5.i1)[0m[36m = [0mChia /L
 Graeme Haldane /Campbell/ [2;32m(1950-)[0m [2m(Ip492.e10.i1)[0m[36m = [0mBeverley /Garner/ [2m(Ip492.e10.i2)[0m
 Michael John /Tombleson/ [2;32m(1921-1971)[0m [2m(Ip493.e2.i2)[0m[36m = [0mOlive Sheila /Gray/ [2;32m(1923-)[0m [2m(Ip493.e2.i1)[0m
 Lester Albert /Sherrard/ [2;32m(1942-1982)[0m [2m(Ip493.e3.i2)[0m[36m = [0mCarol Mary /Tombleson/ [2;32m(1947-)[0m [2m(Ip493.e3.i1)[0m
+[31m  !!! wife is male[0m
 Guy Leonard /Tombleson/ [2;32m(1949-1992)[0m [2m(Ip493.e6.i1)[0m[36m = [0mRuth /Peacock/ [2;32m(1953-)[0m [2m(Ip493.e6.i2)[0m
 Wilfred /Pinchen/ [2;32m(1944-)[0m [2m(Ip493.e9.i2)[0m[36m = [0mAnne Juliet /Tombleson/ [2;32m(1956-)[0m [2m(Ip493.e9.i1)[0m
 Francis Patrick /Sherriff/ [2;32m(1920-)[0m [2m(Ip494.e1.i2)[0m[36m = [0mOlive Sheila /Gray/ [2;32m(1923-)[0m [2m(Ip493.e2.i1)[0m
@@ -5596,8 +5606,7 @@ Gerald Hugh Lawson /Blunt/ [2;32m(1959-)[0m [2m(Ip501.e1.i1)[0m[36m = [0mE
 Adrien /Seldon-Truss/ [2;32m(1928-)[0m [2m(Ip501.e5.i2)[0m[36m = [0mRichard Mark /Blunt/ [2;32m(1924-)[0m [2m(Ip501.e5.i1)[0m
 [31m  !!! wife is male[0m
 Richard Mark /Blunt/ [2;32m(1924-)[0m [2m(Ip501.e5.i1)[0m[36m = [0mPatricia Eileen /Lee/ [2;32m(1939-)[0m [2m(Ip501.e7.i2)[0m
-Doris Audrey /Lane/ [2;32m(1903-)[0m [2m(Ip502.e3.i2)[0m[36m = [0mSydney Thomas /Gray/ [2;32m(1890-1947)[0m [2m(Ip502.e3.i1)[0m
-[31m  !!! husband is female[0m
+Sydney Thomas /Gray/ [2;32m(1890-1947)[0m [2m(Ip502.e3.i1)[0m[36m = [0mDoris Audrey /Lane/ [2;32m(1903-)[0m [2m(Ip502.e3.i2)[0m
 John Chambers /Holdsworth/ [2;32m(1929-)[0m [2m(Ip502.e4.i2)[0m[36m = [0mAudrey Louise /Gray/ [2;32m(1933-1985)[0m [2m(Ip502.e4.i1)[0m
 Gerald Michael /Jurie/ [2;32m(1959-)[0m [2m(Ip502.e7.i2)[0m[36m = [0mCynthia Amy /Holdsworth/ [2;32m(1959-)[0m [2m(Ip502.e7.i1)[0m
 Spencer Gannon /Smith/ [2;32m(1961-)[0m [2m(Ip503.e1.i2)[0m[36m = [0mSarah Louise /Holdsworth/ [2;32m(1961-)[0m [2m(Ip503.e1.i1)[0m
@@ -5630,8 +5639,7 @@ Warren Morrell /McLeod/ [2;32m(1958-)[0m [2m(Ip516.e3.i2)[0m[36m = [0mChan
 Nigel Alan /Maclean/ [2;32m(1949-)[0m [2m(Ip516.e8.i1)[0m[36m = [0mJennifer Mabel /Ross/ [2;32m(1954-)[0m [2m(Ip516.e8.i2)[0m
 Alan Haydon Awdrey /Maclean/ [2;32m(1917-1997)[0m [2m(Ip516.e1.i1)[0m[36m = [0mGladys Mary /Dell/ [2;32m(1922-)[0m [2m(Ip517.e2.i2)[0m
 Leonard Herbert Lionel /Maclean/ [2;32m(1881-1967)[0m [2m(Ip517.e3.i1)[0m[36m = [0mDorothy Isabel /Ward/ [2;32m(1892-1971)[0m [2m(Ip517.e3.i2)[0m
-Leone Leith /Tulloch/ [2;32m(1912-1996)[0m [2m(Ip517.e4.i2)[0m[36m = [0mAntony Russell /Maclean/ [2;32m(1918-)[0m [2m(Ip517.e4.i1)[0m
-[31m  !!! wife is male[0m
+Antony Russell /Maclean/ [2;32m(1918-)[0m [2m(Ip517.e4.i1)[0m[36m = [0mLeone Leith /Tulloch/ [2;32m(1912-1996)[0m [2m(Ip517.e4.i2)[0m
 Ian /Webb/ [2;32m(1946-)[0m [2m(Ip517.e5.i2)[0m[36m = [0mShona Leith /Maclean/ [2;32m(1949-)[0m [2m(Ip517.e5.i1)[0m
 Robert Samuel /Jaray/ [2;32m(1945-)[0m [2m(Ip517.e7.i2)[0m[36m = [0mShona Leith /Maclean/ [2;32m(1949-)[0m [2m(Ip517.e5.i1)[0m
 Paul Christopher /Collister/ [2;32m(1958-)[0m [2m(Ip518.e1.i2)[0m[36m = [0mKirsty Mary /Maclean/ [2;32m(1951-)[0m [2m(Ip518.e1.i1)[0m
@@ -5690,8 +5698,7 @@ Peter Dunlop /Sherriff/ [2;32m(1940-)[0m [2m(Ip535.e7.i1)[0m[36m = [0mJudi
 David William /Sherriff/ [2;32m(1942-)[0m [2m(Ip536.e3.i1)[0m[36m = [0mAnna Mathea /De Costa/ [2m(Ip536.e3.i2)[0m
 David William /Sherriff/ [2;32m(1942-)[0m [2m(Ip536.e3.i1)[0m[36m = [0mBrigid Joan Pearcey /McCarthy/ [2;32m(1953-)[0m [2m(Ip536.e6.i2)[0m
 John Richard /Sherriff/ [2;32m(1944-)[0m [2m(Ip536.e7.i1)[0m[36m = [0mNgaire Frances /Winchcombe/ [2;32m(1949-)[0m [2m(Ip536.e7.i2)[0m
-Jessie Mary /Tulloch/ [2;32m(1946-)[0m [2m(Ip537.e4.i2)[0m[36m = [0mLaurence Patrick /Sherriff/ [2;32m(1945-1984)[0m [2m(Ip537.e4.i1)[0m
-[31m  !!! husband is female[0m
+Laurence Patrick /Sherriff/ [2;32m(1945-1984)[0m [2m(Ip537.e4.i1)[0m[36m = [0mJessie Mary /Tulloch/ [2;32m(1946-)[0m [2m(Ip537.e4.i2)[0m
 Patrick David /Willock/ [2;32m(1949-)[0m [2m(Ip538.e2.i2)[0m[36m = [0mMargot Elizabeth /Sherriff/ [2;32m(1949-)[0m [2m(Ip538.e2.i1)[0m
 Robert George Manson /Currie/ [2;32m(1918-1986)[0m [2m(Ip538.e7.i1)[0m[36m = [0mMarie Willamere /Power/ [2;32m(1918-1969)[0m [2m(Ip538.e7.i2)[0m
 Robert William /Burton/ [2;32m(1948-)[0m [2m(Ip538.e8.i2)[0m[36m = [0mElizabeth Anne /Currie/ [2;32m(1953-)[0m [2m(Ip538.e8.i1)[0m
@@ -5733,7 +5740,8 @@ Avon /McLaughlin/ [2m(Ip553.e5.i2)[0m[36m = [0mNicola Temple /Barker/ [2;32
 Shona Temple /Barker/ [2;32m(1954-)[0m [2m(Ip554.e1.i1)[0m
 Paul Arthur Temple /Barker/ [2;32m(1958-)[0m [2m(Ip554.e3.i1)[0m
 Mohammed /Bella/ [2;32m(1959-)[0m [2m(Ip554.e5.i2)[0m[36m = [0mLucy Temple /Barker/ [2;32m(1960-)[0m [2m(Ip554.e5.i1)[0m
-Kay William Warneford /Sewell/ [2;32m(1928-1989)[0m [2m(Ip554.e8.i1)[0m[36m = [0mJanet Ellen /Atkin/ [2;32m(1930-)[0m [2m(Ip554.e8.i2)[0m
+Janet Ellen /Atkin/ [2;32m(1930-)[0m [2m(Ip554.e8.i2)[0m[36m = [0mKay William Warneford /Sewell/ [2;32m(1928-1989)[0m [2m(Ip554.e8.i1)[0m
+[31m  !!! husband is female[0m
 Alan Ellis /Dugdale/ [2;32m(1930-)[0m [2m(Ip555.e3.i2)[0m[36m = [0mDinah Eketuranga /Sewell/ [2;32m(1929-)[0m [2m(Ip555.e3.i1)[0m
 Laith /Wark/ [2;32m(1971-)[0m [2m(Ip555.e4.i2)[0m[36m = [0mMelanie /Dugdale/ [2;32m(1957-)[0m [2m(Ip555.e4.i1)[0m
 Brett Ellis /Dugdale/ [2;32m(1960-)[0m [2m(Ip556.e2.i1)[0m[36m = [0mEimear /Quinn/ [2;32m(1964-)[0m [2m(Ip556.e2.i2)[0m
@@ -5782,10 +5790,10 @@ Jonathan Barton /Rainey/ [2;32m(1954-)[0m [2m(Ip572.e7.i2)[0m[36m = [0mJud
 Philippa /Davies/ [2;32m(1961-)[0m [2m(Ip572.e11.i1)[0m
 John Allen /Gardiner/ [2;32m(1930-1982)[0m [2m(Ip573.e4.i1)[0m[36m = [0mDiana /Pike/ [2;32m(1935-)[0m [2m(Ip573.e4.i2)[0m
 John Anthony /Reid/ [2;32m(1962-)[0m [2m(Ip573.e5.i2)[0m[36m = [0mRobyn Marianne /Gardiner/ [2;32m(1957-)[0m [2m(Ip573.e5.i1)[0m
+[31m  !!! wife is male[0m
 Mark James /Hammond/ [2;32m(1956-)[0m [2m(Ip573.e7.i2)[0m[36m = [0mJennifer Jane /Gardiner/ [2;32m(1958-)[0m [2m(Ip573.e7.i1)[0m
 Thomas Falkland /Gardiner/ [2;32m(1961-)[0m [2m(Ip573.e11.i1)[0m[36m = [0mPenny Jo-Anne /Cameron/ [2;32m(1963-)[0m [2m(Ip573.e11.i2)[0m
-Christine Helen /Baker/ [2;32m(1909-1973)[0m [2m(Ip574.e4.i2)[0m[36m = [0mSydney Reade /Gardiner/ [2;32m(1900-1968)[0m [2m(Ip574.e4.i1)[0m
-[31m  !!! husband is female[0m
+Sydney Reade /Gardiner/ [2;32m(1900-1968)[0m [2m(Ip574.e4.i1)[0m[36m = [0mChristine Helen /Baker/ [2;32m(1909-1973)[0m [2m(Ip574.e4.i2)[0m
 Anthony Reade /Gardiner/ [2;32m(1935-)[0m [2m(Ip574.e5.i1)[0m[36m = [0mNancy /Abernethy/ [2;32m(1930-)[0m [2m(Ip574.e5.i2)[0m
 Robert Francis /Hill/ [2;32m(1934-)[0m [2m(Ip574.e7.i2)[0m[36m = [0mJocelyn Mary /Gardiner/ [2;32m(1938-)[0m [2m(Ip574.e7.i1)[0m
 James Seymour /Brown/ [2;32m(1966-)[0m [2m(Ip575.e1.i2)[0m[36m = [0mCatherine Ann /Hill/ [2;32m(1966-)[0m [2m(Ip575.e1.i1)[0m

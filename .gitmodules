@@ -1,0 +1,3 @@
+[submodule "vendor/globalnamedata"]
+	path = vendor/globalnamedata
+	url = https://github.com/OpenGenderTracking/globalnamedata.git
