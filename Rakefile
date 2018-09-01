@@ -40,7 +40,16 @@ end
 task "default" => ["spec:fast", "spec:slow"]
 task "default" => "spec"
 
-task "generate" do
+task "problems" do
+  mkdir_p "outputs"
+  sh "scripts/show problems -d > outputs/problems.txt"
+end
+
+task "default" => "problems"
+
+task "gedcom" do
   mkdir_p "outputs"
   sh "scripts/show gedcom > outputs/f-and-f.ged"
 end
+
+task "default" => "gedcom"
