@@ -43,14 +43,48 @@ describe FaithAndFarming::SexGuesser do
       end
 
       context "with an unknown name" do
-        it "returns 0.5" do
-          expect(guesser.maleness("Bartleby")).to eq(0.5)
+        it "returns nil" do
+          expect(guesser.maleness("Bartleby")).to eq(nil)
         end
       end
 
       context "with multiple names" do
         it "returns an average" do
           expect(guesser.maleness("Abraham Robin")).to eq(0.9)
+        end
+        it "ignores unknown names" do
+          expect(guesser.maleness("Abraham Fnord")).to eq(1)
+        end
+        it "handles totally unknown names" do
+          expect(guesser.maleness("Foo Bar")).to eq(nil)
+        end
+      end
+
+    end
+
+    describe "#guess_sex" do
+
+      context "with a male name" do
+        it "returns :male" do
+          expect(guesser.guess_sex("Abraham")).to eq(:male)
+        end
+      end
+
+      context "with a female name" do
+        it "returns :female" do
+          expect(guesser.guess_sex("Marie")).to eq(:female)
+        end
+      end
+
+      context "with an unpredictable name" do
+        it "returns nil" do
+          expect(guesser.guess_sex("Adeen")).to eq(nil)
+        end
+      end
+
+      context "with an unknown name" do
+        it "returns nil" do
+          expect(guesser.guess_sex("Fnord")).to eq(nil)
         end
       end
 

@@ -26,14 +26,16 @@ module FaithAndFarming
       name = name.downcase.strip
       if name.index(" ")
         names = name.split(" ")
-        names.map(&method(:maleness)).inject(:+) / names.size.to_f
+        results = names.map(&method(:maleness)).compact
+        results.inject(:+) / results.size.to_f unless results.empty?
       else
-        maleness_by_name.fetch(name, 0.5)
+        maleness_by_name[name]
       end
     end
 
     def guess_sex(name)
       maleness = maleness(name)
+      return nil if maleness.nil?
       return :male if maleness > 0.6
       return :female if maleness < 0.4
       nil
