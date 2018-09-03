@@ -79,7 +79,7 @@ module FaithAndFarming
       db.individuals.create(id: id).tap do |i|
         i.name = name
         i.nickname = nickname
-        assumed_gender = guess_sex(name.split(" ").first)
+        assumed_gender = guess_sex(name.sub(%r{ /.*}, ""))
         i.sex = assumed_gender if assumed_gender
         i.date_of_birth = person.date_of_birth if person.date_of_birth
         i.date_of_death = person.date_of_death if person.date_of_death
