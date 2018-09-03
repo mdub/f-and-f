@@ -4,9 +4,9 @@ require "faith_and_farming/sex_guesser"
 
 describe FaithAndFarming::SexGuesser do
 
-  subject(:guesser) { described_class.new }
+  describe ".uk" do
 
-  describe "#guess_sex" do
+    subject(:guesser) { described_class.uk }
 
     def self.guesses(name, expected_result)
       it "says #{name} is #{expected_result}" do

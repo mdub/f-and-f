@@ -2,15 +2,24 @@ module FaithAndFarming
 
   class SexGuesser
 
-    def initialize
-      @maleness_by_name = {}
+    def self.uk
       data_file = File.join(__dir__, "../../vendor/globalnamedata/assets/ukprocessed.csv")
       File.open(data_file) do |data|
-        data.each_line.drop(1).each do |line|
-          fields = line.sub(",,", ",").split(",")
-          @maleness_by_name[fields[0].downcase] = Float(fields[5])
+        new.tap do |guesser|
+          data.each_line.drop(1).each do |line|
+            fields = line.sub(",,", ",").split(",")
+            guesser.add_name(fields[0], fields[5])
+          end
         end
       end
+    end
+
+    def initialize
+      @maleness_by_name = {}
+    end
+
+    def add_name(name, maleness)
+      @maleness_by_name[name.downcase] = Float(maleness)
     end
 
     def guess_sex(name)
