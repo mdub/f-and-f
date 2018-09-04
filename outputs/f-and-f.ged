@@ -2896,7 +2896,7 @@
 1 NOTE @Np118.e3@
 0 @Ip118.e3.i2@ INDI
 1 NAME Catherine Jane /Souch/
-1 SEX M
+1 SEX F
 1 BIRT
 2 DATE 12 APR 1961
 1 FAMS @Fp118.e3@
@@ -8240,7 +8240,7 @@
 1 NOTE @Np200.e5@
 0 @Ip200.e5.i2@ INDI
 1 NAME Jillian Lawrence /Sainty/
-1 SEX M
+1 SEX F
 1 BIRT
 2 DATE 12 AUG 1953
 1 FAMS @Fp200.e5@
@@ -11580,7 +11580,7 @@
 1 NOTE @Np251.e2@
 0 @Ip251.e2.i2@ INDI
 1 NAME Philippa Therese /Riddiford/
-1 SEX M
+1 SEX F
 1 BIRT
 2 DATE 21 NOV 1916
 1 DEAT
@@ -16857,7 +16857,7 @@
 1 FAMS @Fp326.e4@
 0 @Ip326.e5.i1@ INDI
 1 NAME Maia Thomas /Hutton/
-1 SEX M
+1 SEX F
 1 BIRT
 2 DATE 20 JUN 1918
 1 DEAT
@@ -18027,7 +18027,7 @@
 1 NOTE @Np339.e2@
 0 @Ip339.e2.i2@ INDI
 1 NAME Delwyn Jan /Mitchell/
-1 SEX F
+1 SEX M
 1 BIRT
 2 DATE 18 JAN 1957
 1 FAMS @Fp339.e2@
@@ -23516,7 +23516,7 @@
 1 NOTE @Np492.e6@
 0 @Ip492.e7.i1@ INDI
 1 NAME Lindsay Peter /Couper/
-1 SEX F
+1 SEX M
 1 BIRT
 2 DATE 26 AUG 1977
 1 FAMC @Fp492.e3@
@@ -24311,7 +24311,7 @@
 1 NOTE @Np501.e7@
 0 @Ip501.e5.i2@ INDI
 1 NAME Adrien /Seldon-Truss/
-1 SEX F
+1 SEX M
 1 BIRT
 2 DATE 1928
 1 FAMS @Fp501.e5@
@@ -27797,6 +27797,7 @@
 1 NOTE @Np558.e4@
 0 @Ip558.e5.i1@ INDI
 1 NAME Sonia-Rae /Williams/
+1 SEX F
 1 BIRT
 2 DATE 4 SEP 1994
 1 FAMC @Fp558.e3@
@@ -32508,7 +32509,7 @@
 0 @Ip637.e1.i1@ INDI
 1 NAME Malcolm William /Thomson/
 2 NICK Bill
-1 SEX F
+1 SEX M
 1 BIRT
 2 DATE 20 JUN 1942
 1 FAMC @Fp636.e5@
