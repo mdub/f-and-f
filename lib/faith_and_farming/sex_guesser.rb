@@ -2,16 +2,43 @@ module FaithAndFarming
 
   class SexGuesser
 
-    def self.uk
-      data_file = File.join(__dir__, "../../vendor/globalnamedata/assets/ukprocessed.csv")
-      File.open(data_file) do |data|
-        new.tap do |guesser|
-          data.each_line.drop(1).each do |line|
-            fields = line.sub(",,", ",").split(",")
-            guesser.add_name(fields[0], fields[5])
+    class << self
+
+      def uk
+        data_file = File.join(__dir__, "../../vendor/globalnamedata/assets/ukprocessed.csv")
+        File.open(data_file) do |data|
+          new.tap do |guesser|
+            data.each_line.drop(1).each do |line|
+              fields = line.sub(",,", ",").split(",")
+              guesser.add_name(fields[0], fields[5])
+            end
           end
         end
       end
+
+      def nz
+        uk.tap do |guesser|
+          guesser.add_name("Barthold", 0.8)
+          guesser.add_name("Fanny", 0.1)
+          guesser.add_name("Gayleen", 0)
+          guesser.add_name("Jean", 0.3)
+          guesser.add_name("Kattlyn", 0)
+          guesser.add_name("Kelly", 0.45)
+          guesser.add_name("Kim", 0.45)
+          guesser.add_name("Leslie", 0.5)
+          guesser.add_name("Maryrose", 0)
+          guesser.add_name("Peder", 1)
+          guesser.add_name("Prunella", 0)
+          guesser.add_name("Raewyn", 0)
+          guesser.add_name("Robin", 0.45)
+          guesser.add_name("Sidney", 0.55)
+          guesser.add_name("Sydney", 0.45)
+          guesser.add_name("Ulric", 1)
+          guesser.add_name("Urma", 0)
+          guesser.add_name("Wiremu", 1)
+        end
+      end
+
     end
 
     def initialize
@@ -45,6 +72,7 @@ module FaithAndFarming
     attr_reader :maleness_by_name
 
     def weighted_average(values)
+      values = values.compact
       weighted_values = values.reverse.each_with_index.flat_map do |value, i|
         Array.new(i + 1, value)
       end

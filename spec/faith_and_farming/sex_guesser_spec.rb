@@ -4,9 +4,13 @@ require "faith_and_farming/sex_guesser"
 
 describe FaithAndFarming::SexGuesser do
 
-  describe ".uk" do
+  describe ".nz" do
 
-    let(:guesser) { described_class.uk }
+    before(:all) do
+      @guesser = described_class.nz
+    end
+
+    attr_reader :guesser
 
     def self.guesses(name, expected_result)
       it "says #{name} is #{expected_result}" do
@@ -14,11 +18,35 @@ describe FaithAndFarming::SexGuesser do
       end
     end
 
+    guesses "Barthold", :male
     guesses "Bruce", :male
-    guesses "Sally", :female
-
-    guesses "Robin", :male
+    guesses "Catherine Leslie", :female
+    guesses "Colin Sydney Wallis", :male
+    guesses "Fanny", :female
+    guesses "Gayleen", :female
+    guesses "Jean", :female
+    guesses "Kattlyn", :female
+    guesses "Kelly Brian", :male
+    guesses "Kelly Rachael", :female
+    guesses "Kim Rachel", :female
+    guesses "Kim Hamish", :male
+    guesses "Leslie", nil
+    guesses "Leslie Edward", :male
+    guesses "Leslie Elisabeth Antonia", :female
     guesses "Mary", :female
+    guesses "Maryrose", :female
+    guesses "Norah", :female
+    guesses "Peder", :male
+    guesses "Prunella Jean", :female
+    guesses "Prunella", :female
+    guesses "Raewyn", :female
+    guesses "Robin", nil
+    guesses "Sally", :female
+    guesses "Sidney Mary Jane", :female
+    guesses "Sydney Charles", :male
+    guesses "Ulric Gaster", :male
+    guesses "Urma", :female
+    guesses "Wiremu", :male
 
   end
 

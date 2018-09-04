@@ -30,7 +30,7 @@ module FaithAndFarming
     end
 
     def self.sex_guesser
-      @sex_guesser ||= SexGuesser.uk
+      @sex_guesser ||= SexGuesser.nz
     end
 
     protected
