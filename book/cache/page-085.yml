@@ -111,16 +111,9 @@ blocks:
       right: 2236
       top: 2377
       bottom: 2444
-  - text: 'b 20.04.1955
-
-'
-    bounds:
-      left: 1613
-      right: 1824
-      top: 2491
-      bottom: 2534
   - text: |
       b 24.09.1959
+      b 20.04.1955
       Lesley b. and m. at Gisborne. Divorced Dec 1989.
     bounds:
       left: 604
