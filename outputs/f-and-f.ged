@@ -832,6 +832,7 @@
 1 NOTE @Np87.e7@
 0 @Ip87.e7.i2@ INDI
 1 NAME Dorraine /Mills/
+1 SEX F
 1 BIRT
 2 DATE 2 JUN 1964
 1 FAMS @Fp87.e7@
@@ -1864,6 +1865,7 @@
 1 NOTE @Np102.e9@
 0 @Ip103.e1.i1@ INDI
 1 NAME Robin Standish /Reed/
+1 SEX M
 1 BIRT
 2 DATE 2 AUG 1938
 1 FAMC @Fp102.e9@
@@ -1942,6 +1944,7 @@
 1 NOTE @Np104.e4@
 0 @Ip104.e4.i2@ INDI
 1 NAME Breacher Pulisa /Edward/
+1 SEX F
 1 BIRT
 2 DATE 21 APR 1953
 1 FAMS @Fp104.e4@
@@ -2893,7 +2896,7 @@
 1 NOTE @Np118.e3@
 0 @Ip118.e3.i2@ INDI
 1 NAME Catherine Jane /Souch/
-1 SEX F
+1 SEX M
 1 BIRT
 2 DATE 12 APR 1961
 1 FAMS @Fp118.e3@
@@ -3068,6 +3071,7 @@
 1 NOTE @Np120.e7@
 0 @Ip120.e7.i2@ INDI
 1 NAME Rossen Dimitrov /Angelov/
+1 SEX M
 1 BIRT
 2 DATE 7 JAN 1950
 1 FAMS @Fp120.e7@
@@ -3098,7 +3102,7 @@
 1 NOTE @Np121.e3@
 0 @Ip121.e3.i2@ INDI
 1 NAME Dale /Macleod/
-1 SEX M
+1 SEX F
 1 BIRT
 2 DATE 15 MAY 1943
 1 FAMS @Fp121.e3@
@@ -3484,7 +3488,7 @@
 1 NOTE @Np125.e1@
 0 @Ip125.e2.i1@ INDI
 1 NAME Jan Mary /Parker/
-1 SEX M
+1 SEX F
 1 BIRT
 2 DATE 18 JUN 1960
 1 FAMC @Fp124.e2@
@@ -4346,14 +4350,13 @@
 1 FAMC @Fp134.e5@
 0 @Ip134.e9.i1@ INDI
 1 NAME Cecil Margaret /Williams/
-1 SEX M
+1 SEX F
 1 BIRT
 2 DATE 1 JUN 1882
 1 DEAT
 2 DATE 27 OCT 1965
 1 FAMC @Fp131.e8@
 1 FAMS @Fp134.e9@
-1 FAMS @Fp309.e7@
 1 NOTE @Np134.e9@
 1 NOTE @Np309.e7@
 0 @Ip134.e9.i2@ INDI
@@ -4366,7 +4369,6 @@
 2 DATE 11 FEB 1943
 1 FAMC @Fp75.e5@
 1 FAMS @Fp134.e9@
-1 FAMS @Fp309.e7@
 1 NOTE @Np134.e9@
 1 NOTE @Np309.e7@
 0 @Ip134.e10.i1@ INDI
@@ -5786,6 +5788,7 @@
 1 NOTE @Np155.e5@
 0 @Ip155.e5.i2@ INDI
 1 NAME Nic /Tucker/
+1 SEX M
 1 FAMS @Fp155.e5@
 1 NOTE @Np155.e5@
 0 @Ip155.e6.i1@ INDI
@@ -6645,7 +6648,7 @@
 1 NOTE @Np166.e8@
 0 @Ip166.e9.i1@ INDI
 1 NAME Cecil Jeanette /Williams/
-1 SEX M
+1 SEX F
 1 BIRT
 2 DATE 8 FEB 1944
 1 FAMC @Fp162.e1@
@@ -7060,6 +7063,7 @@
 1 NOTE @Np177.e4@
 0 @Ip177.e4.i2@ INDI
 1 NAME ?? /Woodard/
+1 SEX M
 1 FAMS @Fp177.e4@
 1 NOTE @Np177.e4@
 0 @Ip177.e5.i2@ INDI
@@ -7141,7 +7145,7 @@
 1 NOTE @Np179.e3@
 0 @Ip179.e2.i2@ INDI
 1 NAME Michele /Towner/
-1 SEX M
+1 SEX F
 1 FAMS @Fp179.e2@
 1 NOTE @Np179.e2@
 0 @Ip179.e3.i2@ INDI
@@ -7320,6 +7324,7 @@
 1 NOTE @Np182.e2@
 0 @Ip182.e2.i2@ INDI
 1 NAME Jeong-Hee /Heo/
+1 SEX F
 1 BIRT
 2 DATE 13 SEP 1970
 1 FAMS @Fp182.e2@
@@ -7833,6 +7838,7 @@
 1 NOTE @Np194.e4@
 0 @Ip194.e4.i2@ INDI
 1 NAME Loeta /Halse/
+1 SEX F
 1 BIRT
 2 DATE 19 SEP 1933
 1 FAMS @Fp194.e4@
@@ -8234,7 +8240,7 @@
 1 NOTE @Np200.e5@
 0 @Ip200.e5.i2@ INDI
 1 NAME Jillian Lawrence /Sainty/
-1 SEX F
+1 SEX M
 1 BIRT
 2 DATE 12 AUG 1953
 1 FAMS @Fp200.e5@
@@ -8618,6 +8624,7 @@
 1 NOTE @Np204.e9@
 0 @Ip205.e1.i1@ INDI
 1 NAME Walmsley /Canning/
+1 SEX M
 1 BIRT
 2 DATE 5 OCT 1907
 1 DEAT
@@ -9364,6 +9371,7 @@
 1 NOTE @Np213.e4@
 0 @Ip213.e4.i2@ INDI
 1 NAME Robin Brignall /Sinclair/
+1 SEX M
 1 BIRT
 2 DATE 3 JAN 1918
 1 FAMS @Fp213.e4@
@@ -9765,6 +9773,7 @@
 1 NOTE @Np218.e8@
 0 @Ip218.e9.i1@ INDI
 1 NAME Sydney Yorke /Dodgshun/
+1 SEX M
 1 BIRT
 2 DATE 19 MAR 1919
 1 FAMC @Fp217.e5@
@@ -10417,6 +10426,7 @@
 1 NOTE @Np230.e5@
 0 @Ip230.e5.i2@ INDI
 1 NAME Gonda /Gordon/
+1 SEX F
 1 BIRT
 2 DATE 21 OCT 1936
 1 FAMS @Fp230.e5@
@@ -10771,6 +10781,7 @@
 1 NOTE @Np234.e4@
 0 @Ip234.e5.i2@ INDI
 1 NAME Genevra /Willis/
+1 SEX F
 1 BIRT
 2 DATE 17 OCT 1909
 1 DEAT
@@ -10959,6 +10970,7 @@
 1 FAMC @Fp237.e5@
 0 @Ip237.e8.i2@ INDI
 1 NAME Kalisi /Kamekameka/
+1 SEX F
 1 FAMS @Fp237.e8@
 1 NOTE @Np237.e8@
 0 @Ip237.e9.i1@ INDI
@@ -11486,6 +11498,7 @@
 1 NOTE @Np250.e1@
 0 @Ip250.e2.i1@ INDI
 1 NAME Garthowen /Williams/
+1 SEX M
 1 BIRT
 2 DATE 26 SEP 1906
 1 DEAT
@@ -11567,7 +11580,7 @@
 1 NOTE @Np251.e2@
 0 @Ip251.e2.i2@ INDI
 1 NAME Philippa Therese /Riddiford/
-1 SEX F
+1 SEX M
 1 BIRT
 2 DATE 21 NOV 1916
 1 DEAT
@@ -11940,6 +11953,7 @@
 1 NOTE @Np255.e8@
 0 @Ip255.e8.i2@ INDI
 1 NAME Gay /Phelps/
+1 SEX F
 1 BIRT
 2 DATE 26 MAY 1944
 1 FAMS @Fp255.e8@
@@ -12210,6 +12224,7 @@
 1 NOTE @Np259.e9@
 0 @Ip259.e9.i2@ INDI
 1 NAME Robin /McGregor/
+1 SEX F
 1 BIRT
 2 DATE 26 DEC 1937
 1 FAMS @Fp259.e9@
@@ -12282,6 +12297,7 @@
 1 NOTE @Np260.e5@
 0 @Ip260.e5.i2@ INDI
 1 NAME Cindy-Anne /Storey/
+1 SEX F
 1 BIRT
 2 DATE 11 MAY 1971
 1 FAMS @Fp260.e5@
@@ -12851,6 +12867,7 @@
 1 NOTE @Np267.e2@
 0 @Ip267.e3.i1@ INDI
 1 NAME Algar Temple /Williams/
+1 SEX M
 1 BIRT
 2 DATE 3 OCT 1877
 1 DEAT
@@ -13326,6 +13343,7 @@
 1 NOTE @Np272.e4@
 0 @Ip272.e5.i1@ INDI
 1 NAME Erl Temple /Williams/
+1 SEX M
 1 BIRT
 2 DATE 7 FEB 1885
 1 DEAT
@@ -13949,6 +13967,7 @@
 1 FAMS @Fp281.e7@
 0 @Ip281.e7.i2@ INDI
 1 NAME Toa Sanele /Hutchinson/
+1 SEX M
 1 BIRT
 2 DATE 11 APR 1960
 1 FAMS @Fp281.e7@
@@ -14385,7 +14404,7 @@
 1 NOTE @Np285.e8@
 0 @Ip286.e1.i1@ INDI
 1 NAME Cathrin Mackie /Williams/
-1 SEX M
+1 SEX F
 1 BIRT
 2 DATE 31 JAN 1939
 1 FAMC @Fp285.e7@
@@ -14596,7 +14615,7 @@
 1 NOTE @Np289.e8@
 0 @Ip289.e8.i2@ INDI
 1 NAME Lee Ann /Nicklin/
-1 SEX M
+1 SEX F
 1 FAMS @Fp289.e8@
 1 NOTE @Np289.e8@
 0 @Ip290.e1.i1@ INDI
@@ -15387,6 +15406,7 @@
 1 NOTE @Np302.e1@
 0 @Ip302.e1.i2@ INDI
 1 NAME Matau /Maitai/
+1 SEX M
 1 FAMS @Fp302.e1@
 1 NOTE @Np302.e1@
 0 @Ip302.e2.i1@ INDI
@@ -15493,7 +15513,7 @@
 1 NOTE @Np304.e2@
 0 @Ip304.e2.i2@ INDI
 1 NAME Lindsay John /Sowman/
-1 SEX F
+1 SEX M
 1 BIRT
 2 DATE 26 NOV 1956
 1 FAMS @Fp304.e2@
@@ -15730,6 +15750,7 @@
 1 NOTE @Np308.e5@
 0 @Ip308.e5.i2@ INDI
 1 NAME Kim Lowther /Broad/
+1 SEX M
 1 BIRT
 2 DATE 3 MAY 1937
 1 FAMS @Fp308.e5@
@@ -15843,7 +15864,7 @@
 2 DATE 19 APR 1914
 1 DEAT
 2 DATE 5 JUN 1944
-1 FAMC @Fp309.e7@
+1 FAMC @Fp134.e9@
 1 FAMS @Fp311.e1@
 1 NOTE @Np311.e1@
 0 @Ip311.e1.i2@ INDI
@@ -16514,6 +16535,7 @@
 0 @Ip323.e1.i2@ INDI
 1 NAME Hi Amoe /Te Whare/
 2 NICK Barbara
+1 SEX F
 1 BIRT
 2 DATE 21 SEP 1928
 1 FAMS @Fp323.e1@
@@ -16715,6 +16737,7 @@
 0 @Ip325.e1.i2@ INDI
 1 NAME Atarua /Takiari/
 2 NICK Topsy
+1 SEX F
 1 BIRT
 2 DATE 10 JUN 1931
 1 DEAT
@@ -16814,6 +16837,7 @@
 1 NOTE @Np326.e2@
 0 @Ip326.e2.i2@ INDI
 1 NAME Shishir Ronjon /Ray/
+1 SEX M
 1 FAMS @Fp326.e2@
 1 NOTE @Np326.e2@
 0 @Ip326.e3.i1@ INDI
@@ -16833,7 +16857,7 @@
 1 FAMS @Fp326.e4@
 0 @Ip326.e5.i1@ INDI
 1 NAME Maia Thomas /Hutton/
-1 SEX F
+1 SEX M
 1 BIRT
 2 DATE 20 JUN 1918
 1 DEAT
@@ -17056,6 +17080,7 @@
 1 NOTE @Np328.e4@
 0 @Ip328.e4.i2@ INDI
 1 NAME Dory /May/
+1 SEX F
 1 BIRT
 2 DATE 22 MAY 1892
 1 DEAT
@@ -17156,6 +17181,7 @@
 1 NOTE @Np329.e6@
 0 @Ip329.e7.i2@ INDI
 1 NAME Stephonie /Quenaux/
+1 SEX F
 1 BIRT
 2 DATE 28 MAY 1963
 1 FAMS @Fp329.e7@
@@ -17220,6 +17246,7 @@
 1 NOTE @Np330.e3@
 0 @Ip330.e3.i2@ INDI
 1 NAME Earle Glennie /Collett/
+1 SEX M
 1 BIRT
 2 DATE 31 AUG 1920
 1 FAMS @Fp330.e3@
@@ -17573,6 +17600,7 @@
 1 NOTE @Np334.e3@
 0 @Ip334.e3.i2@ INDI
 1 NAME Gwladus Rata /Lewis/
+1 SEX F
 1 BIRT
 2 DATE 19 JUL 1893
 1 DEAT
@@ -17681,7 +17709,7 @@
 1 FAMS @Fp335.e5@
 0 @Ip335.e6.i2@ INDI
 1 NAME Lindsay Cyril /Aynsley/
-1 SEX F
+1 SEX M
 1 BIRT
 2 DATE 26 JAN 1915
 1 DEAT
@@ -17726,6 +17754,7 @@
 1 NOTE @Np335.e8@
 0 @Ip336.e1.i1@ INDI
 1 NAME Delwynne Gae /Kemp/
+1 SEX F
 1 BIRT
 2 DATE 19 AUG 1946
 1 FAMC @Fp335.e8@
@@ -17998,7 +18027,7 @@
 1 NOTE @Np339.e2@
 0 @Ip339.e2.i2@ INDI
 1 NAME Delwyn Jan /Mitchell/
-1 SEX M
+1 SEX F
 1 BIRT
 2 DATE 18 JAN 1957
 1 FAMS @Fp339.e2@
@@ -18858,6 +18887,7 @@
 1 NOTE @Np351.e3@
 0 @Ip351.e4.i2@ INDI
 1 NAME Simmi /Krishnan/
+1 SEX F
 1 FAMS @Fp351.e4@
 1 NOTE @Np351.e4@
 0 @Ip351.e5.i2@ INDI
@@ -19516,6 +19546,7 @@
 1 NOTE @Np359.e4@
 0 @Ip359.e4.i2@ INDI
 1 NAME Evek /Switek/
+1 SEX M
 1 BIRT
 2 DATE 28 MAR 1931
 1 FAMS @Fp359.e4@
@@ -19713,6 +19744,7 @@
 1 NOTE @Np361.e1@
 0 @Ip361.e1.i2@ INDI
 1 NAME Isaia /Te Aukura/
+1 SEX M
 1 FAMS @Fp361.e1@
 1 NOTE @Np361.e1@
 0 @Ip361.e2.i1@ INDI
@@ -20270,6 +20302,7 @@
 1 NOTE @Np370.e6@
 0 @Ip370.e6.i2@ INDI
 1 NAME Rosamunde /Marran/
+1 SEX F
 1 BIRT
 2 DATE 17 DEC 1975
 1 FAMS @Fp370.e6@
@@ -20618,6 +20651,7 @@
 1 NOTE @Np376.e1@
 0 @Ip376.e1.i2@ INDI
 1 NAME Kimbal Snelling /Hanna/
+1 SEX M
 1 BIRT
 2 DATE 19 MAY 1934
 1 FAMS @Fp376.e1@
@@ -20902,7 +20936,7 @@
 1 FAMC @Fp379.e6@
 0 @Ip380.e2.i1@ INDI
 1 NAME Kerry Scott /Ludbrook/
-1 SEX F
+1 SEX M
 1 BIRT
 2 DATE 1 OCT 1965
 1 FAMC @Fp379.e1@
@@ -21307,6 +21341,7 @@
 1 NOTE @Np385.e8@
 0 @Ip385.e8.i2@ INDI
 1 NAME Rencé /Von Huben/
+1 SEX F
 1 FAMS @Fp385.e8@
 1 NOTE @Np385.e8@
 0 @Ip385.e9.i1@ INDI
@@ -21394,6 +21429,7 @@
 1 NOTE @Np386.e5@
 0 @Ip386.e5.i2@ INDI
 1 NAME Lynley /Hannen/
+1 SEX F
 1 BIRT
 2 DATE 27 AUG 1964
 1 FAMS @Fp386.e5@
@@ -22179,6 +22215,7 @@
 1 NOTE @Np600.e1@
 0 @Ip471.e4.i2@ INDI
 1 NAME Mary-Margaret /Beetham/
+1 SEX F
 1 BIRT
 2 DATE 25 MAY 1848
 1 DEAT
@@ -23959,6 +23996,7 @@
 1 NOTE @Np497.e11@
 0 @Ip497.e11.i2@ INDI
 1 NAME Cherece Norice /Lock/
+1 SEX F
 1 BIRT
 2 DATE 25 NOV 1953
 1 FAMS @Fp497.e11@
@@ -24064,6 +24102,7 @@
 1 NOTE @Np499.e1@
 0 @Ip499.e2.i2@ INDI
 1 NAME Maurie /Rodrigues/
+1 SEX M
 1 BIRT
 2 DATE 21 JUN 1940
 1 FAMS @Fp499.e2@
@@ -24138,6 +24177,7 @@
 1 FAMC @Fp499.e7@
 0 @Ip500.e1.i2@ INDI
 1 NAME Kim /Lyons/
+1 SEX F
 1 FAMS @Fp500.e1@
 1 NOTE @Np500.e1@
 0 @Ip500.e2.i1@ INDI
@@ -24271,7 +24311,7 @@
 1 NOTE @Np501.e7@
 0 @Ip501.e5.i2@ INDI
 1 NAME Adrien /Seldon-Truss/
-1 SEX M
+1 SEX F
 1 BIRT
 2 DATE 1928
 1 FAMS @Fp501.e5@
@@ -24997,6 +25037,7 @@
 1 NOTE @Np516.e2@
 0 @Ip516.e2.i2@ INDI
 1 NAME Parl /Gurdit-Singh/
+1 SEX M
 1 BIRT
 2 DATE 19 DEC 1931
 1 FAMS @Fp516.e2@
@@ -25103,6 +25144,7 @@
 1 NOTE @Np517.e4@
 0 @Ip517.e4.i2@ INDI
 1 NAME Leone Leith /Tulloch/
+1 SEX F
 1 BIRT
 2 DATE 25 JUN 1912
 1 DEAT
@@ -27404,6 +27446,7 @@
 0 @Ip553.e3.i2@ INDI
 1 NAME Taare Warneford /Sewell/
 2 NICK Rua
+1 SEX M
 1 BIRT
 2 DATE 27 APR 1901
 1 DEAT
@@ -27437,6 +27480,7 @@
 1 NOTE @Np553.e5@
 0 @Ip553.e5.i2@ INDI
 1 NAME Avon /McLaughlin/
+1 SEX M
 1 FAMS @Fp553.e5@
 1 NOTE @Np553.e5@
 0 @Ip553.e6.i1@ INDI
@@ -27514,7 +27558,7 @@
 1 FAMC @Fp554.e5@
 0 @Ip554.e8.i1@ INDI
 1 NAME Kay William Warneford /Sewell/
-1 SEX F
+1 SEX M
 1 BIRT
 2 DATE 28 SEP 1928
 1 DEAT
@@ -28014,6 +28058,7 @@
 1 NOTE @Np563.e2@
 0 @Ip563.e2.i2@ INDI
 1 NAME Margaret-Anne /McFadyen/
+1 SEX F
 1 BIRT
 2 DATE 10 JAN 1931
 1 FAMS @Fp563.e2@
@@ -28064,7 +28109,7 @@
 1 NOTE @Np564.e3@
 0 @Ip564.e3.i2@ INDI
 1 NAME Seann Florence /McKay/
-1 SEX M
+1 SEX F
 1 BIRT
 2 DATE 30 OCT 1960
 1 FAMS @Fp564.e3@
@@ -28193,6 +28238,7 @@
 1 NOTE @Np566.e2@
 0 @Ip566.e2.i2@ INDI
 1 NAME Adrianus Marinus Cornelis /Lelieveld/
+1 SEX M
 1 BIRT
 2 DATE 1927
 1 FAMS @Fp566.e2@
@@ -29893,6 +29939,7 @@
 1 FAMC @Fp592.e1@
 0 @Ip601.e1.i1@ INDI
 1 NAME Heathcote Beetham /Williams/
+1 SEX M
 1 BIRT
 2 DATE 2 DEC 1868
 1 DEAT
@@ -29923,6 +29970,7 @@
 0 @Ip602.e3.i1@ INDI
 1 NAME Heathcote Beetham /Williams/
 2 NICK Bill
+1 SEX M
 1 BIRT
 2 DATE 16 AUG 1922
 1 FAMC @Fp601.e1@
@@ -29945,6 +29993,7 @@
 1 NOTE @Np603.e1@
 0 @Ip603.e1.i2@ INDI
 1 NAME Simin /Sebti/
+1 SEX F
 1 BIRT
 2 DATE 15 SEP 1962
 1 FAMS @Fp603.e1@
@@ -30289,6 +30338,7 @@
 1 NOTE @Np608.e1@
 0 @Ip608.e1.i2@ INDI
 1 NAME Robin /Haines/
+1 SEX F
 1 BIRT
 2 DATE 11 SEP 1957
 1 FAMS @Fp608.e1@
@@ -30720,6 +30770,7 @@
 1 NOTE @Np613.e3@
 0 @Ip613.e3.i2@ INDI
 1 NAME Robin /Bayford/
+1 SEX M
 1 BIRT
 2 DATE 22 SEP 1949
 1 FAMS @Fp613.e3@
@@ -31766,6 +31817,7 @@
 1 NOTE @Np625.e3@
 0 @Ip625.e3.i2@ INDI
 1 NAME Sidney /James/
+1 SEX M
 1 BIRT
 2 DATE 8 MAY 1913
 1 DEAT
@@ -32456,7 +32508,7 @@
 0 @Ip637.e1.i1@ INDI
 1 NAME Malcolm William /Thomson/
 2 NICK Bill
-1 SEX M
+1 SEX F
 1 BIRT
 2 DATE 20 JUN 1942
 1 FAMC @Fp636.e5@
@@ -33821,8 +33873,8 @@
 1 CHIL @Ip121.e1.i1@
 1 CHIL @Ip121.e2.i1@
 0 @Fp121.e3@ FAM
-1 HUSB @Ip121.e3.i2@
-1 WIFE @Ip121.e3.i1@
+1 HUSB @Ip121.e3.i1@
+1 WIFE @Ip121.e3.i2@
 1 MARR
 2 DATE 22 MAY 1979
 1 CHIL @Ip121.e4.i1@
@@ -34202,6 +34254,7 @@
 1 WIFE @Ip134.e9.i1@
 1 MARR
 2 DATE 27 SEP 1911
+1 CHIL @Ip311.e1.i1@
 0 @Fp134.e10@ FAM
 1 HUSB @Ip134.e10.i2@
 1 WIFE @Ip134.e10.i1@
@@ -35034,8 +35087,8 @@
 1 CHIL @Ip178.e3.i1@
 1 CHIL @Ip179.e1.i1@
 0 @Fp179.e2@ FAM
-1 HUSB @Ip179.e2.i2@
-1 WIFE @Ip179.e2.i1@
+1 HUSB @Ip179.e2.i1@
+1 WIFE @Ip179.e2.i2@
 1 MARR
 2 DATE 2 OCT 1982
 0 @Fp179.e3@ FAM
@@ -37129,8 +37182,8 @@
 1 CHIL @Ip289.e6.i1@
 1 CHIL @Ip289.e7.i1@
 0 @Fp289.e8@ FAM
-1 HUSB @Ip289.e8.i2@
-1 WIFE @Ip289.e8.i1@
+1 HUSB @Ip289.e8.i1@
+1 WIFE @Ip289.e8.i2@
 1 CHIL @Ip290.e1.i1@
 0 @Fp290.e2@ FAM
 1 HUSB @Ip290.e2.i2@
@@ -37486,12 +37539,6 @@
 2 DATE 26 JUN 1972
 1 CHIL @Ip309.e4.i1@
 1 CHIL @Ip309.e5.i1@
-0 @Fp309.e7@ FAM
-1 HUSB @Ip134.e9.i1@
-1 WIFE @Ip134.e9.i2@
-1 MARR
-2 DATE 27 SEP 1911
-1 CHIL @Ip311.e1.i1@
 0 @Fp311.e1@ FAM
 1 HUSB @Ip311.e1.i1@
 1 WIFE @Ip311.e1.i2@
@@ -37794,8 +37841,8 @@
 2 DATE 19 JUN 1917
 1 CHIL @Ip326.e5.i1@
 0 @Fp326.e5@ FAM
-1 HUSB @Ip326.e5.i2@
-1 WIFE @Ip326.e5.i1@
+1 HUSB @Ip326.e5.i1@
+1 WIFE @Ip326.e5.i2@
 1 MARR
 2 DATE 2 APR 1949
 1 CHIL @Ip326.e6.i1@
@@ -38161,8 +38208,8 @@
 1 CHIL @Ip338.e5.i1@
 1 CHIL @Ip338.e6.i1@
 0 @Fp339.e2@ FAM
-1 HUSB @Ip339.e2.i2@
-1 WIFE @Ip339.e2.i1@
+1 HUSB @Ip339.e2.i1@
+1 WIFE @Ip339.e2.i2@
 1 MARR
 2 DATE 24 MAY 1975
 1 CHIL @Ip339.e3.i1@
@@ -39016,8 +39063,8 @@
 1 CHIL @Ip379.e8.i1@
 1 CHIL @Ip380.e1.i1@
 0 @Fp380.e2@ FAM
-1 HUSB @Ip380.e2.i2@
-1 WIFE @Ip380.e2.i1@
+1 HUSB @Ip380.e2.i1@
+1 WIFE @Ip380.e2.i2@
 0 @Fp380.e3@ FAM
 1 HUSB @Ip379.e1.i1@
 1 WIFE @Ip380.e3.i2@
@@ -40014,8 +40061,8 @@
 1 CHIL @Ip501.e3.i1@
 1 CHIL @Ip501.e4.i1@
 0 @Fp501.e5@ FAM
-1 HUSB @Ip501.e5.i2@
-1 WIFE @Ip501.e5.i1@
+1 HUSB @Ip501.e5.i1@
+1 WIFE @Ip501.e5.i2@
 1 MARR
 2 DATE 1952
 1 CHIL @Ip501.e6.i1@
@@ -40963,8 +41010,8 @@
 1 CHIL @Ip554.e6.i1@
 1 CHIL @Ip554.e7.i1@
 0 @Fp554.e8@ FAM
-1 HUSB @Ip554.e8.i2@
-1 WIFE @Ip554.e8.i1@
+1 HUSB @Ip554.e8.i1@
+1 WIFE @Ip554.e8.i2@
 1 MARR
 2 DATE 10 MAY 1958
 1 CHIL @Ip555.e1.i1@
@@ -41116,8 +41163,8 @@
 1 CHIL @Ip564.e1.i1@
 1 CHIL @Ip564.e2.i1@
 0 @Fp564.e3@ FAM
-1 HUSB @Ip564.e3.i2@
-1 WIFE @Ip564.e3.i1@
+1 HUSB @Ip564.e3.i1@
+1 WIFE @Ip564.e3.i2@
 1 MARR
 2 DATE 3 MAR 1990
 1 CHIL @Ip564.e4.i1@
