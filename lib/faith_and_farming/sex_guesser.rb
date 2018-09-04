@@ -19,6 +19,7 @@ module FaithAndFarming
       def nz
         uk.tap do |guesser|
           guesser.add_name("Barthold", 0.8)
+          guesser.add_name("Cecil", 0.55)
           guesser.add_name("Fanny", 0.1)
           guesser.add_name("Gayleen", 0)
           guesser.add_name("Jean", 0.3)

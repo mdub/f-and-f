@@ -21,6 +21,8 @@ describe FaithAndFarming::SexGuesser do
     guesses "Barthold", :male
     guesses "Bruce", :male
     guesses "Catherine Leslie", :female
+    guesses "Cecil Edward", :male
+    guesses "Cecil Margaret", :female
     guesses "Colin Sydney Wallis", :male
     guesses "Fanny", :female
     guesses "Gayleen", :female
