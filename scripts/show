@@ -101,6 +101,11 @@ Clamp do
         lifespan = [person.date_of_birth, person.date_of_death].map { |d| extract_year(d) }.join("-")
         details += " " + paint("(#{lifespan})", :faint, :green)
       end
+      if show_sexes?
+        case person.sex
+        when :male
+        end
+      end
       details
     end
 
@@ -125,6 +130,16 @@ Clamp do
     def format_individual(i)
       [].tap { |parts|
         parts << i.name
+        if show_sexes?
+          parts << case i.sex
+          when Familial::Sex.male
+            paint("♂", :cyan)
+          when Familial::Sex.female
+            paint("♀", :magenta)
+          else
+            faint("⚥")
+          end
+        end
         if show_dates?
           dates = [i.date_of_birth, i.date_of_death]
           unless dates.none?
@@ -141,6 +156,7 @@ Clamp do
   subcommand ["families", "f"], "display families" do
 
     option ["-i", "--show-ids"], :flag, "show ids"
+    option ["-s", "--show-sexes"], :flag, "show male/female"
     option ["-d", "--show-dates"], :flag, "show dates of birth/death"
 
     include FamilialDisplay
@@ -159,6 +175,7 @@ Clamp do
 
   subcommand ["problems"], "display family-tree problems" do
 
+    option ["-s", "--show-sexes"], :flag, "show male/female"
     option ["-d", "--show-dates"], :flag, "show dates of birth/death"
 
     include FamilialDisplay

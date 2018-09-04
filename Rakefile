@@ -42,7 +42,7 @@ task "default" => "spec"
 
 task "problems" do
   mkdir_p "outputs"
-  sh "scripts/show problems -d > outputs/problems.txt"
+  sh "scripts/show problems -sd > outputs/problems.txt"
 end
 
 task "generate" => "problems"
