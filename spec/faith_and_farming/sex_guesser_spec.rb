@@ -18,6 +18,7 @@ describe FaithAndFarming::SexGuesser do
       end
     end
 
+    guesses "Adrien", nil
     guesses "Barthold", :male
     guesses "Bruce", :male
     guesses "Catherine Leslie", :female
@@ -25,6 +26,7 @@ describe FaithAndFarming::SexGuesser do
     guesses "Cecil Margaret", :female
     guesses "Colin Sydney Wallis", :male
     guesses "Dale", nil
+    guesses "Delwyn Jan", nil
     guesses "Fanny", :female
     guesses "Gayleen", :female
     guesses "Jan Mary", :female
