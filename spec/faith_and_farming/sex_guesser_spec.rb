@@ -24,17 +24,23 @@ describe FaithAndFarming::SexGuesser do
     guesses "Cecil Edward", :male
     guesses "Cecil Margaret", :female
     guesses "Colin Sydney Wallis", :male
+    guesses "Dale", nil
     guesses "Fanny", :female
     guesses "Gayleen", :female
+    guesses "Jan Mary", :female
+    guesses "Jan Howard", :male
     guesses "Jean", :female
     guesses "Kattlyn", :female
+    guesses "Kay William", nil
     guesses "Kelly Brian", :male
     guesses "Kelly Rachael", :female
+    guesses "Kerry Scott", nil
     guesses "Kim Rachel", :female
     guesses "Kim Hamish", :male
     guesses "Leslie", nil
     guesses "Leslie Edward", :male
     guesses "Leslie Elisabeth Antonia", :female
+    guesses "Lindsay John", :male
     guesses "Mary", :female
     guesses "Mary-Margaret", :female
     guesses "Maryrose", :female
@@ -45,6 +51,7 @@ describe FaithAndFarming::SexGuesser do
     guesses "Raewyn", :female
     guesses "Robin", nil
     guesses "Sally", :female
+    guesses "Seann Florence", :female
     guesses "Sidney Mary Jane", :female
     guesses "Sydney Charles", :male
     guesses "Ulric Gaster", :male
