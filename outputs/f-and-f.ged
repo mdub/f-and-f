@@ -273,6 +273,7 @@
 1 NOTE @Np79.e2@
 0 @Ip79.e3.i1@ INDI
 1 NAME Letty Martyn /Williams/
+1 SEX F
 1 BIRT
 2 DATE 25 JAN 1906
 1 DEAT
@@ -366,6 +367,7 @@
 1 NOTE @Np80.e6@
 0 @Ip81.e1.i1@ INDI
 1 NAME Judith Martyn /Chapman/
+1 SEX F
 1 BIRT
 2 DATE 24 OCT 1945
 1 FAMC @Fp80.e6@
@@ -956,6 +958,7 @@
 1 NOTE @Np89.e5@
 0 @Ip89.e5.i2@ INDI
 1 NAME Catherine Leslie /Mills/
+1 SEX F
 1 BIRT
 2 DATE 5 NOV 1885
 1 DEAT
@@ -1066,6 +1069,7 @@
 1 NOTE @Np90.e7@
 0 @Ip90.e8.i1@ INDI
 1 NAME Philippa Leslie /Bunny/
+1 SEX F
 1 BIRT
 2 DATE 30 MAR 1942
 1 FAMC @Fp89.e6@
@@ -1694,6 +1698,7 @@
 1 NOTE @Np100.e1@
 0 @Ip100.e2.i1@ INDI
 1 NAME Thomas Sydney /Williams/
+1 SEX M
 1 BIRT
 2 DATE 27 NOV 1847
 1 DEAT
@@ -1843,6 +1848,7 @@
 1 NOTE @Np102.e8@
 0 @Ip102.e9.i1@ INDI
 1 NAME Richard Sydney /Reed/
+1 SEX M
 1 BIRT
 2 DATE 8 FEB 1913
 1 FAMC @Fp102.e8@
@@ -1885,7 +1891,6 @@
 1 NOTE @Np103.e2@
 0 @Ip103.e3.i1@ INDI
 1 NAME Sidney Mary Jane /Reed/
-1 SEX F
 1 BIRT
 2 DATE 21 NOV 1944
 1 FAMC @Fp102.e9@
@@ -2587,7 +2592,6 @@
 1 FAMC @Fp113.e6@
 0 @Ip114.e3.i1@ INDI
 1 NAME Colin Sydney Wallis /Williams/
-1 SEX F
 1 BIRT
 2 DATE 23 FEB 1929
 1 FAMC @Fp111.e6@
@@ -2626,6 +2630,7 @@
 1 NOTE @Np114.e5@
 0 @Ip115.e1.i1@ INDI
 1 NAME Kate Williams /Hoogerbrug/
+1 SEX F
 1 BIRT
 2 DATE 21 MAY 1992
 1 FAMC @Fp114.e5@
@@ -2737,6 +2742,7 @@
 1 FAMC @Fp116.e3@
 0 @Ip117.e1.i1@ INDI
 1 NAME Peter Wallis /Williams/
+1 SEX M
 1 BIRT
 2 DATE 22 MAR 1934
 1 FAMC @Fp111.e6@
@@ -2751,6 +2757,7 @@
 1 NOTE @Np117.e1@
 0 @Ip117.e2.i1@ INDI
 1 NAME Colin Sydney /Williams/
+1 SEX M
 1 BIRT
 2 DATE 28 AUG 1894
 1 DEAT
@@ -2811,6 +2818,7 @@
 1 NOTE @Np117.e5@
 0 @Ip117.e6.i1@ INDI
 1 NAME Mabel Buchanan /Williams/
+1 SEX F
 1 BIRT
 2 DATE 5 FEB 1880
 1 DEAT
@@ -3102,6 +3110,7 @@
 1 NOTE @Np121.e4@
 0 @Ip121.e5.i1@ INDI
 1 NAME Dinah Gordon /Williams/
+1 SEX F
 1 BIRT
 2 DATE 2 SEP 1923
 1 DEAT
@@ -3128,6 +3137,7 @@
 1 NOTE @Np121.e6@
 0 @Ip121.e6.i2@ INDI
 1 NAME Amanda Stuart /Pitceathly/
+1 SEX F
 1 FAMS @Fp121.e6@
 1 NOTE @Np121.e6@
 0 @Ip121.e7.i1@ INDI
@@ -3347,6 +3357,7 @@
 1 NOTE @Np123.e8@
 0 @Ip123.e9.i1@ INDI
 1 NAME Muriel Buchanan /Williams/
+1 SEX F
 1 BIRT
 2 DATE 23 AUG 1883
 1 DEAT
@@ -3471,6 +3482,7 @@
 1 NOTE @Np125.e1@
 0 @Ip125.e2.i1@ INDI
 1 NAME Jan Mary /Parker/
+1 SEX M
 1 BIRT
 2 DATE 18 JUN 1960
 1 FAMC @Fp124.e2@
@@ -3485,6 +3497,7 @@
 1 NOTE @Np125.e2@
 0 @Ip125.e3.i1@ INDI
 1 NAME Emma Jan /Gyenge/
+1 SEX F
 1 BIRT
 2 DATE 3 AUG 1989
 1 FAMC @Fp125.e2@
@@ -4082,6 +4095,7 @@
 0 @Ip132.e2.i1@ INDI
 1 NAME Marie Cecil /Bersch/
 2 NICK Mariele
+1 SEX F
 1 BIRT
 2 DATE 24 FEB 1913
 1 FAMC @Fp132.e1@
@@ -4328,12 +4342,14 @@
 1 FAMC @Fp134.e5@
 0 @Ip134.e9.i1@ INDI
 1 NAME Cecil Margaret /Williams/
+1 SEX M
 1 BIRT
 2 DATE 1 JUN 1882
 1 DEAT
 2 DATE 27 OCT 1965
 1 FAMC @Fp131.e8@
 1 FAMS @Fp134.e9@
+1 FAMS @Fp309.e7@
 1 NOTE @Np134.e9@
 1 NOTE @Np309.e7@
 0 @Ip134.e9.i2@ INDI
@@ -4346,6 +4362,7 @@
 2 DATE 11 FEB 1943
 1 FAMC @Fp75.e5@
 1 FAMS @Fp134.e9@
+1 FAMS @Fp309.e7@
 1 NOTE @Np134.e9@
 1 NOTE @Np309.e7@
 0 @Ip134.e10.i1@ INDI
@@ -4741,6 +4758,7 @@
 1 NOTE @Np139.e2@
 0 @Ip139.e3.i1@ INDI
 1 NAME Rosemary Chan /Mackay/
+1 SEX F
 1 BIRT
 2 DATE 1 JUL 1989
 1 FAMC @Fp139.e2.i1@
@@ -4836,6 +4854,7 @@
 1 NOTE @Np140.e2@
 0 @Ip140.e3.i2@ INDI
 1 NAME Josephine Wallace /Ryan/
+1 SEX F
 1 BIRT
 2 DATE 22 JUL 1960
 1 FAMS @Fp140.e3@
@@ -5819,7 +5838,6 @@
 1 NOTE @Np156.e1@
 0 @Ip156.e1.i2@ INDI
 1 NAME Leslie Elisabeth Antonia /Thompson/
-1 SEX F
 1 BIRT
 2 DATE 25 NOV 1867
 1 DEAT
@@ -5847,6 +5865,7 @@
 1 NOTE @Np156.e3@
 0 @Ip156.e3.i2@ INDI
 1 NAME Ernest Courtenay /Crosse/
+1 SEX M
 1 BIRT
 2 DATE 18 MAR 1887
 1 DEAT
@@ -5910,6 +5929,7 @@
 1 NOTE @Np157.e5@
 0 @Ip157.e6.i1@ INDI
 1 NAME Simon Courtenay /Crosse/
+1 SEX M
 1 BIRT
 2 DATE 2 MAY 1930
 1 FAMC @Fp156.e3@
@@ -6017,7 +6037,6 @@
 1 NOTE @Np158.e8@
 0 @Ip159.e1.i1@ INDI
 1 NAME Leslie Elizabeth Esme /Williams/
-1 SEX F
 1 BIRT
 2 DATE 1 MAR 1932
 1 FAMC @Fp158.e7@
@@ -6287,6 +6306,7 @@
 1 NOTE @Np162.e2@
 0 @Ip162.e3.i1@ INDI
 1 NAME Kelly Brian /Williams/
+1 SEX F
 1 BIRT
 2 DATE 18 JUN 1958
 1 FAMC @Fp162.e2@
@@ -6382,6 +6402,7 @@
 1 NOTE @Np163.e6@
 0 @Ip163.e7.i1@ INDI
 1 NAME Leslie Kathleen /Sykes/
+1 SEX M
 1 BIRT
 2 DATE 13 MAR 1955
 1 DEAT
@@ -6616,6 +6637,7 @@
 1 NOTE @Np166.e8@
 0 @Ip166.e9.i1@ INDI
 1 NAME Cecil Jeanette /Williams/
+1 SEX M
 1 BIRT
 2 DATE 8 FEB 1944
 1 FAMC @Fp162.e1@
@@ -6779,6 +6801,7 @@
 1 NOTE @Np169.e1@
 0 @Ip169.e2.i1@ INDI
 1 NAME Robyn Leslie /Williams/
+1 SEX F
 1 BIRT
 2 DATE 28 NOV 1966
 1 FAMC @Fp168.e6@
@@ -7557,6 +7580,7 @@
 1 FAMC @Fp187.e4@
 0 @Ip188.e4.i1@ INDI
 1 NAME Rachel Godfrey /Miller/
+1 SEX F
 1 BIRT
 2 DATE 21 MAY 1928
 1 FAMC @Fp183.e5@
@@ -7675,6 +7699,7 @@
 1 NOTE @Np191.e5@
 0 @Ip191.e5.i2@ INDI
 1 NAME John D'Arcy /Vickerman/
+1 SEX M
 1 BIRT
 2 DATE 17 OCT 1915
 1 DEAT
@@ -7683,6 +7708,7 @@
 1 NOTE @Np191.e5@
 0 @Ip192.e1.i1@ INDI
 1 NAME David D'Arcy /Vickerman/
+1 SEX M
 1 BIRT
 2 DATE 14 APR 1954
 1 FAMC @Fp191.e5@
@@ -7703,6 +7729,7 @@
 1 FAMC @Fp192.e1@
 0 @Ip192.e3.i1@ INDI
 1 NAME James D'Arcy /Vickerman/
+1 SEX M
 1 BIRT
 2 DATE 18 AUG 1989
 1 FAMC @Fp192.e1@
@@ -8195,6 +8222,7 @@
 1 NOTE @Np200.e5@
 0 @Ip200.e5.i2@ INDI
 1 NAME Jillian Lawrence /Sainty/
+1 SEX F
 1 BIRT
 2 DATE 12 AUG 1953
 1 FAMS @Fp200.e5@
@@ -8457,6 +8485,7 @@
 0 @Ip203.e5.i1@ INDI
 1 NAME Beatrix Busby /Canning/
 2 NICK Betty
+1 SEX F
 1 BIRT
 2 DATE 29 JAN 1905
 1 FAMC @Fp198.e3@
@@ -8465,6 +8494,7 @@
 0 @Ip203.e5.i2@ INDI
 1 NAME Douglas Sydney /Donkin/
 2 NICK Pat
+1 SEX M
 1 BIRT
 2 DATE 15 MAY 1899
 1 DEAT
@@ -8481,6 +8511,7 @@
 1 NOTE @Np203.e6@
 0 @Ip203.e6.i2@ INDI
 1 NAME Janet Leslie /Barker/
+1 SEX F
 1 BIRT
 2 DATE 27 AUG 1939
 1 FAMS @Fp203.e6@
@@ -9383,6 +9414,7 @@
 1 NOTE @Np214.e4@
 0 @Ip214.e5.i1@ INDI
 1 NAME Victoria Ray /Sinclair/
+1 SEX F
 1 BIRT
 2 DATE 3 APR 1951
 1 FAMC @Fp213.e4@
@@ -9463,6 +9495,7 @@
 1 NOTE @Np215.e3@
 0 @Ip215.e4.i1@ INDI
 1 NAME Susan Jan /Monckton/
+1 SEX F
 1 BIRT
 2 DATE 3 AUG 1973
 1 FAMC @Fp215.e2@
@@ -9604,6 +9637,7 @@
 1 NOTE @Np217.e2@
 0 @Ip217.e4.i1@ INDI
 1 NAME Eileen Pearson /Davies/
+1 SEX F
 1 BIRT
 2 DATE 10 AUG 1884
 1 DEAT
@@ -9801,6 +9835,7 @@
 1 NOTE @Np220.e2@
 0 @Ip220.e3.i1@ INDI
 1 NAME Paul Sydney /Dodgshun/
+1 SEX M
 1 BIRT
 2 DATE 4 JUN 1953
 1 FAMC @Fp218.e9@
@@ -9817,6 +9852,7 @@
 1 NOTE @Np220.e3@
 0 @Ip220.e4.i1@ INDI
 1 NAME Ben Sydney /Dodgshun/
+1 SEX M
 1 BIRT
 2 DATE 29 MAY 1984
 1 FAMC @Fp220.e3@
@@ -9948,6 +9984,7 @@
 1 FAMC @Fp222.e1@
 0 @Ip222.e3.i1@ INDI
 1 NAME Nina Pearson /Davies/
+1 SEX F
 1 BIRT
 2 DATE 13 FEB 1888
 1 DEAT
@@ -9989,6 +10026,7 @@
 1 NOTE @Np222.e6@
 0 @Ip222.e6.i2@ INDI
 1 NAME Agnes Lyall /Barr/
+1 SEX F
 1 BIRT
 2 DATE 1 JUL 1857
 1 FAMS @Fp222.e6@
@@ -10004,6 +10042,7 @@
 1 NOTE @Np222.e7@
 0 @Ip222.e8.i1@ INDI
 1 NAME Eliza Pearson /Davies/
+1 SEX F
 1 BIRT
 2 DATE 27 OCT 1860
 1 DEAT
@@ -10075,6 +10114,7 @@
 1 NOTE @Np227.e5@
 0 @Ip227.e6.i1@ INDI
 1 NAME Michael Rhodes /Jackson/
+1 SEX M
 1 BIRT
 2 DATE 2 JAN 1929
 1 FAMC @Fp227.e4@
@@ -10432,6 +10472,7 @@
 0 @Ip231.e1.i2@ INDI
 1 NAME Mary Russell /Burr/
 2 NICK Meg
+1 SEX F
 1 BIRT
 2 DATE 28 NOV 1890
 1 DEAT
@@ -10928,6 +10969,7 @@
 1 NOTE @Np238.e2@
 0 @Ip238.e2.i2@ INDI
 1 NAME Joanne Lee /Heerdegen/
+1 SEX F
 1 BIRT
 2 DATE 5 DEC 1960
 1 FAMS @Fp238.e2@
@@ -11119,6 +11161,7 @@
 1 NOTE @Np241.e1@
 0 @Ip241.e2.i1@ INDI
 1 NAME Jennifer Anketell Williams /Warren/
+1 SEX F
 1 BIRT
 2 DATE 16 SEP 1931
 1 FAMC @Fp241.e1@
@@ -11292,6 +11335,7 @@
 1 NOTE @Np244.e7@
 0 @Ip244.e8.i1@ INDI
 1 NAME Mary Williams /Warren/
+1 SEX F
 1 BIRT
 2 DATE 31 OCT 1904
 1 FAMC @Fp235.e1@
@@ -11595,6 +11639,7 @@
 1 NOTE @Np252.e3@
 0 @Ip252.e4.i1@ INDI
 1 NAME Henry Morvyn /Kember/
+1 SEX M
 1 BIRT
 2 DATE 13 APR 1982
 1 FAMC @Fp252.e3@
@@ -11662,6 +11707,7 @@
 1 NOTE @Np253.e3@
 0 @Ip254.e1.i1@ INDI
 1 NAME Beatrix Hamilton /Russell/
+1 SEX F
 1 BIRT
 2 DATE 22 FEB 1888
 1 FAMC @Fp253.e2@
@@ -11773,6 +11819,7 @@
 1 NOTE @Np254.e9@
 0 @Ip254.e9.i2@ INDI
 1 NAME Phoebe Ashford /Harris/
+1 SEX F
 1 BIRT
 2 DATE 2 FEB 1963
 1 FAMS @Fp254.e9@
@@ -12171,6 +12218,7 @@
 1 NOTE @Np259.e10@
 0 @Ip259.e11.i1@ INDI
 1 NAME Phoebe Robin /Murray/
+1 SEX F
 1 BIRT
 2 DATE 18 NOV 1997
 1 FAMC @Fp259.e10@
@@ -12294,6 +12342,7 @@
 1 NOTE @Np261.e3@
 0 @Ip261.e4.i1@ INDI
 1 NAME Joanna Lee /Dillon/
+1 SEX F
 1 BIRT
 2 DATE 27 MAY 1941
 1 FAMC @Fp260.e8@
@@ -12358,12 +12407,14 @@
 1 NOTE @Np262.e2@
 0 @Ip262.e2.i2@ INDI
 1 NAME Susan Lee /Thodey/
+1 SEX F
 1 BIRT
 2 DATE 23 APR 1945
 1 FAMS @Fp262.e2@
 1 NOTE @Np262.e2@
 0 @Ip262.e3.i1@ INDI
 1 NAME Lisa Francis /Dillon/
+1 SEX F
 1 BIRT
 2 DATE 14 MAR 1975
 1 FAMC @Fp262.e2@
@@ -12740,6 +12791,7 @@
 1 NOTE @Np266.e7@
 0 @Ip266.e7.i2@ INDI
 1 NAME James Kennedy /Elliott/
+1 SEX M
 1 BIRT
 2 DATE 24 AUG 1908
 1 DEAT
@@ -12777,6 +12829,7 @@
 1 NOTE @Np267.e1@
 0 @Ip267.e2.i1@ INDI
 1 NAME Nigel Kennedy /Elliott/
+1 SEX M
 1 BIRT
 2 DATE 2 MAR 1947
 1 DEAT
@@ -13244,6 +13297,7 @@
 1 NOTE @Np272.e3@
 0 @Ip272.e3.i2@ INDI
 1 NAME Edward Lindsay /Orr-Ewing/
+1 SEX M
 1 BIRT
 2 DATE 1898
 1 DEAT
@@ -13653,6 +13707,7 @@
 1 NOTE @Np278.e9@
 0 @Ip278.e9.i2@ INDI
 1 NAME Julia Campbell /Lockhart/
+1 SEX F
 1 BIRT
 2 DATE 28 JAN 1963
 1 FAMS @Fp278.e9@
@@ -13700,6 +13755,7 @@
 0 @Ip279.e5.i1@ INDI
 1 NAME Sarah Cooper /Williams/
 2 NICK Sally
+1 SEX F
 1 BIRT
 2 DATE 5 MAR 1907
 1 DEAT
@@ -14108,6 +14164,7 @@
 1 NOTE @Np283.e8@
 0 @Ip283.e8.i2@ INDI
 1 NAME Jessie Mackie /Williamson/
+1 SEX F
 1 BIRT
 2 DATE 26 AUG 1876
 1 DEAT
@@ -14474,6 +14531,7 @@
 1 NOTE @Np289.e2@
 0 @Ip289.e3.i1@ INDI
 1 NAME Jamie Irene /Caccia-Birch/
+1 SEX M
 1 BIRT
 2 DATE 21 DEC 1984
 1 FAMC @Fp289.e2@
@@ -14525,6 +14583,7 @@
 1 NOTE @Np289.e8@
 0 @Ip289.e8.i2@ INDI
 1 NAME Lee Ann /Nicklin/
+1 SEX M
 1 FAMS @Fp289.e8@
 1 NOTE @Np289.e8@
 0 @Ip290.e1.i1@ INDI
@@ -14645,6 +14704,7 @@
 1 NOTE @Np292.e1@
 0 @Ip292.e2.i1@ INDI
 1 NAME Rebecca Lee /Caccia-Birch/
+1 SEX F
 1 BIRT
 2 DATE 10 AUG 1978
 1 FAMC @Fp291.e7@
@@ -14882,6 +14942,7 @@
 1 NOTE @Np295.e4@
 0 @Ip295.e5.i1@ INDI
 1 NAME Shona Mackintosh /Williams/
+1 SEX F
 1 BIRT
 2 DATE 27 NOV 1914
 1 DEAT
@@ -15139,6 +15200,7 @@
 1 NOTE @Np299.e1@
 0 @Ip299.e2.i1@ INDI
 1 NAME Kenneth Sydney /Williams/
+1 SEX M
 1 BIRT
 2 DATE 22 OCT 1927
 1 DEAT
@@ -15232,6 +15294,7 @@
 1 NOTE @Np300.e7@
 0 @Ip300.e8.i1@ INDI
 1 NAME Jamie Anne /Seymour/
+1 SEX M
 1 BIRT
 2 DATE 24 JUN 1989
 1 FAMC @Fp300.e7@
@@ -15417,6 +15480,7 @@
 1 NOTE @Np304.e2@
 0 @Ip304.e2.i2@ INDI
 1 NAME Lindsay John /Sowman/
+1 SEX F
 1 BIRT
 2 DATE 26 NOV 1956
 1 FAMS @Fp304.e2@
@@ -15478,6 +15542,7 @@
 1 NOTE @Np305.e3@
 0 @Ip305.e3.i2@ INDI
 1 NAME Geoffrey Evelyn /Cotterill/
+1 SEX M
 1 BIRT
 2 DATE 7 JAN 1900
 1 DEAT
@@ -15659,6 +15724,7 @@
 1 NOTE @Np308.e5@
 0 @Ip308.e6.i1@ INDI
 1 NAME Anna Morris /Broad/
+1 SEX F
 1 BIRT
 2 DATE 26 AUG 1965
 1 FAMC @Fp308.e5@
@@ -15765,7 +15831,7 @@
 2 DATE 19 APR 1914
 1 DEAT
 2 DATE 5 JUN 1944
-1 FAMC @Fp134.e9@
+1 FAMC @Fp309.e7@
 1 FAMS @Fp311.e1@
 1 NOTE @Np311.e1@
 0 @Ip311.e1.i2@ INDI
@@ -16755,6 +16821,7 @@
 1 FAMS @Fp326.e4@
 0 @Ip326.e5.i1@ INDI
 1 NAME Maia Thomas /Hutton/
+1 SEX F
 1 BIRT
 2 DATE 20 JUN 1918
 1 DEAT
@@ -17298,6 +17365,7 @@
 1 NOTE @Np331.e5@
 0 @Ip331.e5.i2@ INDI
 1 NAME Matthew Lynn /Hammond/
+1 SEX M
 1 BIRT
 2 DATE 26 NOV 1940
 1 FAMS @Fp331.e5@
@@ -17334,6 +17402,7 @@
 1 NOTE @Np332.e2@
 0 @Ip332.e3.i1@ INDI
 1 NAME Kailey Jordan /Barrett/
+1 SEX F
 1 BIRT
 2 DATE 1 APR 1996
 1 FAMC @Fp332.e2@
@@ -17526,6 +17595,7 @@
 1 NOTE @Np334.e5@
 0 @Ip334.e5.i2@ INDI
 1 NAME John Brooke /May/
+1 SEX M
 1 BIRT
 2 DATE 23 SEP 1925
 1 DEAT
@@ -17598,6 +17668,7 @@
 1 FAMS @Fp335.e5@
 0 @Ip335.e6.i2@ INDI
 1 NAME Lindsay Cyril /Aynsley/
+1 SEX F
 1 BIRT
 2 DATE 26 JAN 1915
 1 DEAT
@@ -17983,7 +18054,6 @@
 1 NOTE @Np340.e1@
 0 @Ip340.e2.i1@ INDI
 1 NAME Casey William /Aubrey/
-1 SEX M
 1 BIRT
 2 DATE 5 JAN 1978
 1 FAMC @Fp339.e7@
@@ -18564,6 +18634,7 @@
 1 NOTE @Np348.e5@
 0 @Ip348.e6.i1@ INDI
 1 NAME Warwick Sydney /Nelson/
+1 SEX M
 1 BIRT
 2 DATE 7 OCT 1961
 1 FAMC @Fp348.e4@
@@ -18585,7 +18656,6 @@
 1 NOTE @Np348.e7@
 0 @Ip349.e1.i1@ INDI
 1 NAME Kodie Ray /Ellis/
-1 SEX M
 1 BIRT
 2 DATE 16 JUN 1986
 1 FAMC @Fp348.e7@
@@ -18933,6 +19003,7 @@
 1 NOTE @Np353.e2@
 0 @Ip353.e3.i1@ INDI
 1 NAME Julie Lee /Hadfield/
+1 SEX F
 1 BIRT
 2 DATE 4 DEC 1972
 1 FAMC @Fp353.e2@
@@ -19335,6 +19406,7 @@
 1 NOTE @Np358.e8@
 0 @Ip358.e8.i2@ INDI
 1 NAME Betty Eyre Godson /Bartholomew/
+1 SEX F
 1 FAMS @Fp358.e8@
 1 NOTE @Np358.e8@
 0 @Ip358.e9.i1@ INDI
@@ -19361,6 +19433,7 @@
 1 NOTE @Np358.e10@
 0 @Ip358.e10.i2@ INDI
 1 NAME Marion Francis /Fulford/
+1 SEX F
 1 BIRT
 2 DATE 28 OCT 1877
 1 FAMS @Fp358.e10@
@@ -19734,6 +19807,7 @@
 1 NOTE @Np362.e4@
 0 @Ip362.e4.i2@ INDI
 1 NAME Kerin Wallace /Hopwood/
+1 SEX F
 1 BIRT
 2 DATE 21 OCT 1943
 1 FAMS @Fp362.e4@
@@ -20002,6 +20076,7 @@
 1 NOTE @Np367.e8@
 0 @Ip368.e1.i1@ INDI
 1 NAME Miriam Robin /Ludbrook/
+1 SEX F
 1 BIRT
 2 DATE 22 JAN 1960
 1 FAMC @Fp367.e8@
@@ -20809,6 +20884,7 @@
 1 FAMC @Fp379.e6@
 0 @Ip380.e2.i1@ INDI
 1 NAME Kerry Scott /Ludbrook/
+1 SEX F
 1 BIRT
 2 DATE 1 OCT 1965
 1 FAMC @Fp379.e1@
@@ -21012,6 +21088,7 @@
 1 NOTE @Np382.e4@
 0 @Ip382.e5.i1@ INDI
 1 NAME Diana Robin /Ludbrook/
+1 SEX F
 1 BIRT
 2 DATE 3 OCT 1932
 1 FAMC @Fp378.e4@
@@ -21138,6 +21215,7 @@
 1 NOTE @Np384.e5@
 0 @Ip384.e6.i1@ INDI
 1 NAME Renaye Ashley /McLachlan/
+1 SEX F
 1 BIRT
 2 DATE 10 JUL 1990
 1 FAMC @Fp384.e3@
@@ -21223,6 +21301,7 @@
 1 NOTE @Np385.e9@
 0 @Ip385.e9.i2@ INDI
 1 NAME Terence Jewell /Brown/
+1 SEX M
 1 BIRT
 2 DATE 16 JUL 1935
 1 FAMS @Fp385.e9@
@@ -21235,6 +21314,7 @@
 1 FAMC @Fp385.e9@
 0 @Ip385.e11.i1@ INDI
 1 NAME Steven Jewell /Brown/
+1 SEX M
 1 BIRT
 2 DATE 29 JUN 1962
 1 FAMC @Fp385.e9@
@@ -21462,6 +21542,7 @@
 1 NOTE @Np388.e7@
 0 @Ip388.e7.i2@ INDI
 1 NAME Rosanne Stewart /Bull/
+1 SEX F
 1 BIRT
 2 DATE 27 JUN 1945
 1 FAMS @Fp388.e7@
@@ -22061,6 +22142,7 @@
 1 NOTE @Np475.e1@
 0 @Ip471.e3.i1@ INDI
 1 NAME Thomas Sydney /Williams/
+1 SEX M
 1 BIRT
 2 DATE 9 FEB 1831
 1 DEAT
@@ -22327,6 +22409,7 @@
 1 NOTE @Np477.e8@
 0 @Ip477.e9.i2@ INDI
 1 NAME Betty Knox /Donald/
+1 SEX F
 1 BIRT
 2 DATE 20 JAN 1925
 1 FAMS @Fp477.e9@
@@ -22379,6 +22462,7 @@
 1 NOTE @Np478.e3@
 0 @Ip478.e3.i2@ INDI
 1 NAME Robert Wallis /Watson/
+1 SEX M
 1 BIRT
 2 DATE 9 MAR 1903
 1 DEAT
@@ -22487,6 +22571,7 @@
 0 @Ip481.e4.i2@ INDI
 1 NAME Elizabeth Jervis /McLeod/
 2 NICK Liz
+1 SEX F
 1 FAMS @Fp481.e4@
 1 NOTE @Np481.e4@
 0 @Ip482.e1.i1@ INDI
@@ -22606,6 +22691,7 @@
 1 NOTE @Np484.e2@
 0 @Ip484.e1.i2@ INDI
 1 NAME Bruce St Clair /Peterson/
+1 SEX M
 1 BIRT
 2 DATE 25 DEC 1953
 1 FAMS @Fp484.e1@
@@ -23375,6 +23461,7 @@
 1 NOTE @Np492.e6@
 0 @Ip492.e7.i1@ INDI
 1 NAME Lindsay Peter /Couper/
+1 SEX F
 1 BIRT
 2 DATE 26 AUG 1977
 1 FAMC @Fp492.e3@
@@ -23462,6 +23549,7 @@
 1 NOTE @Np493.e3@
 0 @Ip493.e4.i1@ INDI
 1 NAME Amanda Lee /Sherrard/
+1 SEX F
 1 BIRT
 2 DATE 2 OCT 1970
 1 FAMC @Fp493.e3@
@@ -23567,6 +23655,7 @@
 1 NOTE @Np494.e3@
 0 @Ip494.e4.i2@ INDI
 1 NAME Christine Stewart /Reed/
+1 SEX F
 1 BIRT
 2 DATE 21 JUN 1921
 1 FAMS @Fp494.e4@
@@ -23746,6 +23835,7 @@
 1 FAMC @Fp496.e9@
 0 @Ip496.e11.i1@ INDI
 1 NAME Katherine Lee /Hamilton/
+1 SEX F
 1 BIRT
 2 DATE 11 JAN 1984
 1 FAMC @Fp496.e9@
@@ -24334,6 +24424,7 @@
 1 FAMC @Fp503.e6@
 0 @Ip503.e8.i1@ INDI
 1 NAME Helen Lee /Gray/
+1 SEX F
 1 BIRT
 2 DATE 1 SEP 1965
 1 FAMC @Fp503.e6@
@@ -24759,6 +24850,7 @@
 1 NOTE @Np514.e1@
 0 @Ip514.e2.i1@ INDI
 1 NAME Barbara Awdry Steele /Maclean/
+1 SEX F
 1 BIRT
 2 DATE 16 APR 1942
 1 DEAT
@@ -24992,7 +25084,6 @@
 1 NOTE @Np517.e4@
 0 @Ip517.e4.i2@ INDI
 1 NAME Leone Leith /Tulloch/
-1 SEX M
 1 BIRT
 2 DATE 25 JUN 1912
 1 DEAT
@@ -25001,6 +25092,7 @@
 1 NOTE @Np517.e4@
 0 @Ip517.e5.i1@ INDI
 1 NAME Shona Leith /Maclean/
+1 SEX F
 1 BIRT
 2 DATE 3 FEB 1949
 1 FAMC @Fp517.e4@
@@ -25276,6 +25368,7 @@
 1 NOTE @Np522.e2@
 0 @Ip522.e3.i1@ INDI
 1 NAME Hale David /Speedy/
+1 SEX F
 1 BIRT
 2 DATE 29 APR 1991
 1 FAMC @Fp521.e8@
@@ -26529,6 +26622,7 @@
 1 NOTE @Np539.e9@
 0 @Ip539.e10.i1@ INDI
 1 NAME Leslie Pamela /Currie/
+1 SEX M
 1 BIRT
 2 DATE 23 APR 1924
 1 FAMC @Fp531.e4@
@@ -26679,6 +26773,7 @@
 1 NOTE @Np541.e7@
 0 @Ip541.e8.i1@ INDI
 1 NAME Alison Maclean /Corkill/
+1 SEX F
 1 BIRT
 2 DATE 1 OCT 1961
 1 FAMC @Fp540.e1@
@@ -26714,6 +26809,7 @@
 1 NOTE @Np542.e2@
 0 @Ip542.e3.i1@ INDI
 1 NAME Patience Elliot /Maclean/
+1 SEX F
 1 BIRT
 2 DATE 14 JAN 1928
 1 FAMC @Fp539.e11@
@@ -26865,6 +26961,7 @@
 0 @Ip544.e3.i1@ INDI
 1 NAME Francis Sydney /Maclean/
 2 NICK Frank
+1 SEX M
 1 BIRT
 2 DATE 29 MAY 1892
 1 DEAT
@@ -27414,6 +27511,7 @@
 1 NOTE @Np554.e8@
 0 @Ip555.e1.i1@ INDI
 1 NAME Grant Kay /Sewell/
+1 SEX M
 1 BIRT
 2 DATE 27 SEP 1962
 1 FAMC @Fp554.e8@
@@ -27902,6 +28000,7 @@
 1 NOTE @Np563.e2@
 0 @Ip563.e3.i1@ INDI
 1 NAME Leslie Gail /Williams/
+1 SEX M
 1 BIRT
 2 DATE 13 MAY 1960
 1 FAMC @Fp563.e2@
@@ -27945,6 +28044,7 @@
 1 NOTE @Np564.e3@
 0 @Ip564.e3.i2@ INDI
 1 NAME Seann Florence /McKay/
+1 SEX M
 1 BIRT
 2 DATE 30 OCT 1960
 1 FAMS @Fp564.e3@
@@ -27958,6 +28058,7 @@
 1 NOTE @Np564.e4@
 0 @Ip564.e5.i1@ INDI
 1 NAME Amanda Lee /Williams/
+1 SEX F
 1 BIRT
 2 DATE 8 NOV 1992
 1 FAMC @Fp564.e3@
@@ -28958,6 +29059,7 @@
 1 FAMC @Fp577.e3@
 0 @Ip578.e2.i1@ INDI
 1 NAME Caroline Harvey /Williams/
+1 SEX F
 1 BIRT
 2 DATE 19 FEB 1964
 1 FAMC @Fp576.e1@
@@ -29212,6 +29314,7 @@
 1 NOTE @Np581.e5@
 0 @Ip582.e1.i1@ INDI
 1 NAME Bevan Sydney /Williams/
+1 SEX M
 1 BIRT
 2 DATE 29 MAR 1904
 1 DEAT
@@ -29417,6 +29520,7 @@
 1 NOTE @Np586.e2@
 0 @Ip586.e2.i2@ INDI
 1 NAME Fiona Campbell /Pearson/
+1 SEX F
 1 BIRT
 2 DATE 15 DEC 1945
 1 FAMS @Fp586.e2@
@@ -29446,6 +29550,7 @@
 1 NOTE @Np586.e5@
 0 @Ip586.e6.i1@ INDI
 1 NAME Janet Challis /Williams/
+1 SEX F
 1 BIRT
 2 DATE 31 MAR 1909
 1 DEAT
@@ -29531,6 +29636,7 @@
 1 NOTE @Np588.e1@
 0 @Ip588.e2.i1@ INDI
 1 NAME Annabel Jan /Williams/
+1 SEX F
 1 BIRT
 2 DATE 20 FEB 1985
 1 FAMC @Fp587.e4@
@@ -29605,6 +29711,7 @@
 1 NOTE @Np589.e1@
 0 @Ip589.e1.i2@ INDI
 1 NAME Rachel Fane /Rolleston/
+1 SEX F
 1 BIRT
 2 DATE 10 MAY 1919
 1 FAMS @Fp589.e1@
@@ -29753,6 +29860,7 @@
 1 NOTE @Np592.e1@
 0 @Ip592.e2.i1@ INDI
 1 NAME Daphne Jean Turner /Williams/
+1 SEX F
 1 BIRT
 2 DATE 1939
 1 FAMC @Fp592.e1@
@@ -29774,6 +29882,7 @@
 0 @Ip601.e1.i2@ INDI
 1 NAME Mary Anderson /Myhill/
 2 NICK Molly
+1 SEX F
 1 BIRT
 2 DATE 28 MAR 1889
 1 DEAT
@@ -30231,6 +30340,7 @@
 1 NOTE @Np608.e11@
 0 @Ip609.e1.i1@ INDI
 1 NAME Rosemary St John /Nelson/
+1 SEX F
 1 BIRT
 2 DATE 5 JUN 1968
 1 FAMC @Fp608.e10@
@@ -30261,6 +30371,7 @@
 1 FAMC @Fp609.e1@
 0 @Ip609.e5.i1@ INDI
 1 NAME Emma St John /Nelson/
+1 SEX F
 1 BIRT
 2 DATE 28 MAY 1971
 1 DEAT
@@ -30282,6 +30393,7 @@
 1 NOTE @Np609.e7@
 0 @Ip609.e8.i1@ INDI
 1 NAME Sarah St John /Nelson/
+1 SEX F
 1 BIRT
 2 DATE 1 AUG 1977
 1 FAMC @Fp608.e10@
@@ -30460,6 +30572,7 @@
 1 NOTE @Np611.e7@
 0 @Ip611.e7.i2@ INDI
 1 NAME Jocelyn Lee /Middleton/
+1 SEX F
 1 BIRT
 2 DATE 10 MAR 1962
 1 FAMS @Fp611.e7@
@@ -30484,6 +30597,7 @@
 1 FAMC @Fp611.e7@
 0 @Ip612.e2.i1@ INDI
 1 NAME Katherine Russell /Deans/
+1 SEX F
 1 BIRT
 2 DATE 29 AUG 1958
 1 FAMC @Fp611.e3@
@@ -31212,6 +31326,7 @@
 1 NOTE @Np619.e10@
 0 @Ip620.e1.i1@ INDI
 1 NAME Joan Wilder /Williams/
+1 SEX F
 1 BIRT
 2 DATE 12 JUN 1911
 1 DEAT
@@ -31230,6 +31345,7 @@
 1 NOTE @Np620.e1@
 0 @Ip620.e2.i1@ INDI
 1 NAME Patricia Wilder /Williams/
+1 SEX F
 1 BIRT
 2 DATE 19 OCT 1912
 1 DEAT
@@ -32031,6 +32147,7 @@
 1 NOTE @Np632.e10@
 0 @Ip633.e1.i1@ INDI
 1 NAME Jonathon Lindsay /Allen/
+1 SEX M
 1 BIRT
 2 DATE 4 OCT 1971
 1 FAMC @Fp632.e7@
@@ -32387,6 +32504,7 @@
 1 NOTE @Np638.e1@
 0 @Ip638.e2.i1@ INDI
 1 NAME Stacy Adam /Smyth/
+1 SEX F
 1 BIRT
 2 DATE 26 JAN 1995
 1 FAMC @Fp637.e5@
@@ -33534,8 +33652,8 @@
 1 CHIL @Ip114.e1.i1@
 1 CHIL @Ip114.e2.i1@
 0 @Fp114.e3@ FAM
-1 HUSB @Ip114.e3.i2@
-1 WIFE @Ip114.e3.i1@
+1 HUSB @Ip114.e3.i1@
+1 WIFE @Ip114.e3.i2@
 1 MARR
 2 DATE 23 JAN 1958
 1 CHIL @Ip114.e4.i1@
@@ -34066,7 +34184,6 @@
 1 WIFE @Ip134.e9.i1@
 1 MARR
 2 DATE 27 SEP 1911
-1 CHIL @Ip311.e1.i1@
 0 @Fp134.e10@ FAM
 1 HUSB @Ip134.e10.i2@
 1 WIFE @Ip134.e10.i1@
@@ -34659,8 +34776,8 @@
 1 CHIL @Ip162.e3.i1@
 1 CHIL @Ip163.e1.i1@
 0 @Fp162.e3@ FAM
-1 HUSB @Ip162.e3.i1@
-1 WIFE @Ip162.e3.i2@
+1 HUSB @Ip162.e3.i2@
+1 WIFE @Ip162.e3.i1@
 1 MARR
 2 DATE 3 DEC 1983
 1 CHIL @Ip162.e4.i1@
@@ -36994,8 +37111,8 @@
 1 CHIL @Ip289.e6.i1@
 1 CHIL @Ip289.e7.i1@
 0 @Fp289.e8@ FAM
-1 HUSB @Ip289.e8.i1@
-1 WIFE @Ip289.e8.i2@
+1 HUSB @Ip289.e8.i2@
+1 WIFE @Ip289.e8.i1@
 1 CHIL @Ip290.e1.i1@
 0 @Fp290.e2@ FAM
 1 HUSB @Ip290.e2.i2@
@@ -37351,6 +37468,12 @@
 2 DATE 26 JUN 1972
 1 CHIL @Ip309.e4.i1@
 1 CHIL @Ip309.e5.i1@
+0 @Fp309.e7@ FAM
+1 HUSB @Ip134.e9.i1@
+1 WIFE @Ip134.e9.i2@
+1 MARR
+2 DATE 27 SEP 1911
+1 CHIL @Ip311.e1.i1@
 0 @Fp311.e1@ FAM
 1 HUSB @Ip311.e1.i1@
 1 WIFE @Ip311.e1.i2@
@@ -37653,8 +37776,8 @@
 2 DATE 19 JUN 1917
 1 CHIL @Ip326.e5.i1@
 0 @Fp326.e5@ FAM
-1 HUSB @Ip326.e5.i1@
-1 WIFE @Ip326.e5.i2@
+1 HUSB @Ip326.e5.i2@
+1 WIFE @Ip326.e5.i1@
 1 MARR
 2 DATE 2 APR 1949
 1 CHIL @Ip326.e6.i1@
@@ -38875,8 +38998,8 @@
 1 CHIL @Ip379.e8.i1@
 1 CHIL @Ip380.e1.i1@
 0 @Fp380.e2@ FAM
-1 HUSB @Ip380.e2.i1@
-1 WIFE @Ip380.e2.i2@
+1 HUSB @Ip380.e2.i2@
+1 WIFE @Ip380.e2.i1@
 0 @Fp380.e3@ FAM
 1 HUSB @Ip379.e1.i1@
 1 WIFE @Ip380.e3.i2@
@@ -40118,8 +40241,8 @@
 1 CHIL @Ip519.e5.i1@
 1 CHIL @Ip520.e1.i1@
 0 @Fp517.e4@ FAM
-1 HUSB @Ip517.e4.i2@
-1 WIFE @Ip517.e4.i1@
+1 HUSB @Ip517.e4.i1@
+1 WIFE @Ip517.e4.i2@
 1 MARR
 2 DATE 21 AUG 1945
 1 CHIL @Ip517.e5.i1@
@@ -40975,8 +41098,8 @@
 1 CHIL @Ip564.e1.i1@
 1 CHIL @Ip564.e2.i1@
 0 @Fp564.e3@ FAM
-1 HUSB @Ip564.e3.i1@
-1 WIFE @Ip564.e3.i2@
+1 HUSB @Ip564.e3.i2@
+1 WIFE @Ip564.e3.i1@
 1 MARR
 2 DATE 3 MAR 1990
 1 CHIL @Ip564.e4.i1@
@@ -41480,8 +41603,8 @@
 1 CHIL @Ip592.e2.i1@
 1 CHIL @Ip592.e3.i1@
 0 @Fp601.e1@ FAM
-1 HUSB @Ip601.e1.i2@
-1 WIFE @Ip601.e1.i1@
+1 HUSB @Ip601.e1.i1@
+1 WIFE @Ip601.e1.i2@
 1 MARR
 2 DATE 1 SEP 1917
 1 CHIL @Ip587.e1.i2@
