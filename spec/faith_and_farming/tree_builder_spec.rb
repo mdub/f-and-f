@@ -134,7 +134,7 @@ describe FaithAndFarming::TreeBuilder do
         level: 1,
         date_married: "**.03.1966",
         people: [
-          { name: "MCTAVISH, Bob" },
+          { name: "MCTAVISH, Robert" },
           { name: "FIFINGER, Audrey" }
         ]
       )
@@ -142,7 +142,7 @@ describe FaithAndFarming::TreeBuilder do
 
     it "creates two Individuals" do
       expect(db.individuals.size).to eq(2)
-      expect(db.individuals.map(&:name)).to include("Bob /MCTAVISH/", "Audrey /FIFINGER/")
+      expect(db.individuals.map(&:name)).to include("Robert /MCTAVISH/", "Audrey /FIFINGER/")
     end
 
     it "creates a Family" do
@@ -156,7 +156,7 @@ describe FaithAndFarming::TreeBuilder do
     end
 
     it "associates husband and wife" do
-      expect(family.husband).to eq(db.get(name: "Bob /MCTAVISH/"))
+      expect(family.husband).to eq(db.get(name: "Robert /MCTAVISH/"))
       expect(family.wife).to eq(db.get(name: "Audrey /FIFINGER/"))
     end
 
