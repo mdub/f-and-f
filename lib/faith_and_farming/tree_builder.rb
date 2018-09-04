@@ -54,7 +54,9 @@ module FaithAndFarming
         f.date_married = entry.date_married if entry.date_married
         push_context(f, level: entry.level)
       else
-        push_context(individuals.first, level: entry.level)
+        i = individuals.first
+        i.sex = guess_sex(i.given_names)
+        push_context(i, level: entry.level)
       end
       self.last_note = nil
       unless entry.note.nil? || entry.note.strip.empty?
@@ -79,15 +81,15 @@ module FaithAndFarming
       db.individuals.create(id: id).tap do |i|
         i.name = name
         i.nickname = nickname
-        assumed_gender = guess_sex(name.sub(%r{ /.*}, ""))
-        i.sex = assumed_gender if assumed_gender
         i.date_of_birth = person.date_of_birth if person.date_of_birth
         i.date_of_death = person.date_of_death if person.date_of_death
       end
     end
 
     def marriage_of(individuals, id:)
-      wife, husband = individuals.sort_by { |i| (i.sex || "g").to_s }
+      wife, husband = individuals.sort_by { |i| maleness(i.given_names) || 0.5 }
+      wife.sex = :female
+      husband.sex = :male
       existing = wife.families.detect { |f| f.husband == husband }
       return existing if existing
       db.families.create(id: id, wife: wife, husband: husband)
@@ -140,6 +142,10 @@ module FaithAndFarming
 
     def guess_sex(name)
       self.class.sex_guesser.guess_sex(name)
+    end
+
+    def maleness(name)
+      self.class.sex_guesser.maleness(name)
     end
 
   end

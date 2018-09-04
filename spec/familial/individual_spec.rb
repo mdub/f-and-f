@@ -8,7 +8,7 @@ describe Familial::Individual do
   subject(:individual) { dataset.individuals.create }
 
   before do
-    individual.name = "Mark Willis"
+    individual.name = "Mark Anthony /Willis/"
     individual.sex = "male"
     individual.date_of_birth = "12.06.1981"
     individual.date_of_death = "18.01.2016"
@@ -24,6 +24,14 @@ describe Familial::Individual do
     it "can be set using symbol" do
       individual.sex = :male
       expect(individual.sex).to eq(Familial::Sex.male)
+    end
+
+  end
+
+  describe "#given_names" do
+
+    it "returns all but the surname" do
+      expect(individual.given_names).to eq("Mark Anthony")
     end
 
   end
@@ -48,7 +56,7 @@ describe Familial::Individual do
     it "generates valid GEDCOM" do
       expect(individual.to_gedcom).to eq <<~GEDCOM
         0 @I1@ INDI
-        1 NAME Mark Willis
+        1 NAME Mark Anthony /Willis/
         1 SEX M
         1 BIRT
         2 DATE 12 JUN 1981
@@ -137,7 +145,7 @@ describe Familial::Individual do
 
       it "includes nickname" do
         expect(individual.to_gedcom).to include <<~GEDCOM
-          1 NAME Mark Willis
+          1 NAME Mark Anthony /Willis/
           2 NICK Willo
         GEDCOM
       end

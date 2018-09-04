@@ -9,6 +9,10 @@ module Familial
     attr_accessor :name
     attr_accessor :nickname
 
+    def given_names
+      name.sub(%r{ /.*}, "")
+    end
+
     def date_of_birth=(arg)
       @date_of_birth = Date.parse(arg)
     end
