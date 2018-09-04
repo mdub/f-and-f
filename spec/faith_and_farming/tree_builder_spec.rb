@@ -160,6 +160,56 @@ describe FaithAndFarming::TreeBuilder do
       expect(family.wife).to eq(db.get(name: "Audrey /FIFINGER/"))
     end
 
+    it "assigns sexes" do
+      expect(family.husband.sex).to be_male
+      expect(family.wife.sex).to be_female
+    end
+
+  end
+
+  context "when one member of couple has a androgynous name" do
+
+    before do
+      elements << make_entry(
+        level: 1,
+        people: [
+          { name: "MCTAVISH, Leslie Robin" },
+          { name: "FIFINGER, Sally" }
+        ]
+      )
+    end
+
+    let(:family) { db.families.first }
+
+    it "assumes the opposite sex of the other partner" do
+      expect(family.husband.name).to eq("Leslie Robin /MCTAVISH/")
+    end
+
+    it "assigns sex" do
+      expect(family.husband.sex).to be_male
+    end
+
+  end
+
+  context "with an obviously same-sex couple" do
+
+    before do
+      elements << make_entry(
+        level: 1,
+        people: [
+          { name: "WILLIAMS, Catherine" },
+          { name: "LIGHTFOOT, Kristin" }
+        ]
+      )
+    end
+
+    let(:family) { db.families.first }
+
+    it "assumes sex from names" do
+      expect(family.husband.sex).to be_female
+      expect(family.wife.sex).to be_female
+    end
+
   end
 
   context "with a couple followed by children" do

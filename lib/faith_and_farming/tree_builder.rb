@@ -54,9 +54,7 @@ module FaithAndFarming
         f.date_married = entry.date_married if entry.date_married
         push_context(f, level: entry.level)
       else
-        i = individuals.first
-        i.sex = guess_sex(i.given_names)
-        push_context(i, level: entry.level)
+        push_context(individuals.first, level: entry.level)
       end
       self.last_note = nil
       unless entry.note.nil? || entry.note.strip.empty?
@@ -81,6 +79,7 @@ module FaithAndFarming
       db.individuals.create(id: id).tap do |i|
         i.name = name
         i.nickname = nickname
+        i.sex = guess_sex(i.given_names)
         i.date_of_birth = person.date_of_birth if person.date_of_birth
         i.date_of_death = person.date_of_death if person.date_of_death
       end
@@ -88,8 +87,8 @@ module FaithAndFarming
 
     def marriage_of(individuals, id:)
       wife, husband = individuals.sort_by { |i| maleness(i.given_names) || 0.5 }
-      wife.sex = :female
-      husband.sex = :male
+      wife.sex ||= :female
+      husband.sex ||= :male
       existing = wife.families.detect { |f| f.husband == husband }
       return existing if existing
       db.families.create(id: id, wife: wife, husband: husband)
