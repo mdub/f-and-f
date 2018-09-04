@@ -194,6 +194,17 @@ Clamp do
 
   end
 
+  subcommand ["maleness"], "report maleness" do
+
+    parameter "NAME ...", "names"
+
+    def execute
+      guesser = FaithAndFarming::SexGuesser.nz
+      puts guesser.maleness(name_list.join(" ")) || '?'
+    end
+
+  end
+
   def paint(text, *style)
     return text unless color?
     Paint[text, *style]
