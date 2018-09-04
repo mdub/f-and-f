@@ -34,6 +34,7 @@ describe FaithAndFarming::SexGuesser do
     guesses "Leslie Edward", :male
     guesses "Leslie Elisabeth Antonia", :female
     guesses "Mary", :female
+    guesses "Mary-Margaret", :female
     guesses "Maryrose", :female
     guesses "Norah", :female
     guesses "Peder", :male

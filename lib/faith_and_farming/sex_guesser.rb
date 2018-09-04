@@ -50,13 +50,11 @@ module FaithAndFarming
     end
 
     def maleness(name)
-      name = name.downcase.strip
-      if name.index(" ")
-        names = name.split(" ")
-        weighted_average(names.map(&method(:maleness)))
-      else
-        maleness_by_name[name]
+      parts = name.downcase.split(/[ -]/)
+      maleness_array = parts.map do |part|
+        maleness_by_name[part]
       end
+      weighted_average(maleness_array)
     end
 
     def guess_sex(name)
@@ -70,6 +68,10 @@ module FaithAndFarming
     private
 
     attr_reader :maleness_by_name
+
+    def maleness_of_word(name)
+      maleness_by_name[name.downcase]
+    end
 
     def weighted_average(values)
       values = values.compact
