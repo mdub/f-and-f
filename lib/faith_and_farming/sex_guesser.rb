@@ -26,8 +26,7 @@ module FaithAndFarming
       name = name.downcase.strip
       if name.index(" ")
         names = name.split(" ")
-        results = names.map(&method(:maleness)).compact
-        results.inject(:+) / results.size.to_f unless results.empty?
+        weighted_average(names.map(&method(:maleness)))
       else
         maleness_by_name[name]
       end
@@ -44,6 +43,19 @@ module FaithAndFarming
     private
 
     attr_reader :maleness_by_name
+
+    def weighted_average(values)
+      weighted_values = values.reverse.each_with_index.flat_map do |value, i|
+        Array.new(i + 1, value)
+      end
+      average(weighted_values)
+    end
+
+    def average(values)
+      values = values.compact
+      return nil if values.empty?
+      values.map(&:to_f).inject(:+) / values.size.to_f
+    end
 
   end
 

@@ -49,15 +49,23 @@ describe FaithAndFarming::SexGuesser do
       end
 
       context "with multiple names" do
-        it "returns an average" do
-          expect(guesser.maleness("Abraham Robin")).to eq(0.9)
+
+        def average(*values)
+          values.map(&:to_f).inject(:+) / values.size.to_f
         end
+
+        it "returns a weighted average" do
+          expect(guesser.maleness("Abraham Adeen")).to eq(average(1, 1, 0.5))
+        end
+
         it "ignores unknown names" do
           expect(guesser.maleness("Abraham Fnord")).to eq(1)
         end
+
         it "handles totally unknown names" do
           expect(guesser.maleness("Foo Bar")).to eq(nil)
         end
+
       end
 
     end
