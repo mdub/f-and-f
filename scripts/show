@@ -101,11 +101,6 @@ Clamp do
         lifespan = [person.date_of_birth, person.date_of_death].map { |d| extract_year(d) }.join("-")
         details += " " + paint("(#{lifespan})", :faint, :green)
       end
-      if show_sexes?
-        case person.sex
-        when :male
-        end
-      end
       details
     end
 
