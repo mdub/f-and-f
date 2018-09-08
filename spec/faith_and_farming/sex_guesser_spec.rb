@@ -18,7 +18,6 @@ describe FaithAndFarming::SexGuesser do
       end
     end
 
-    guesses "Adrien", nil
     guesses "Barthold", :male
     guesses "Bruce", :male
     guesses "Catherine Leslie", :female

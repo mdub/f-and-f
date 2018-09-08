@@ -22,6 +22,7 @@ module FaithAndFarming
           guesser.add_name("Cathrin", 0.2)
           guesser.add_name("Cecil", 0.55)
           guesser.add_name("Dale", 0.55)
+          guesser.add_name("Delwyn", 0.5)
           guesser.add_name("Dorian", 0.55)
           guesser.add_name("Fanny", 0.1)
           guesser.add_name("Gayleen", 0)
