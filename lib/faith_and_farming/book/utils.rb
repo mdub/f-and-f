@@ -28,6 +28,19 @@ module FaithAndFarming
           .sub(/Mc([a-z])/) { "Mc" + $1.upcase }
       end
 
+      EVENT_ABBREVS = {
+        "b" => "born",
+        "m" => "married",
+        "d" => "died",
+        "bd" => "buried",
+      }
+
+      def expand_text(text)
+        text.gsub(/\b(b|m|d|bd)[.,] (at|and)\b/) do
+          EVENT_ABBREVS.fetch($1) + " " + $2
+        end
+      end
+
     end
 
   end

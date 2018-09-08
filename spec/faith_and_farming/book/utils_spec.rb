@@ -67,4 +67,36 @@ describe FaithAndFarming::Book::Utils do
 
   end
 
+  describe "#expand_text" do
+
+    def expect_expand_text(input, expected_output)
+      output = described_class.expand_text(input)
+      expect(output).to eq(expected_output)
+    end
+
+    it "expands {m,b,d,bd}. at" do
+      expect_expand_text("Sarah b. at Place", "Sarah born at Place")
+      expect_expand_text("Sarah m. at Place", "Sarah married at Place")
+      expect_expand_text("Sarah d. at Place", "Sarah died at Place")
+      expect_expand_text("Sarah bd. at Place", "Sarah buried at Place")
+    end
+
+    it "handles periods mis-parsed as commas" do
+      expect_expand_text("Sarah b, at Place", "Sarah born at Place")
+      expect_expand_text("Sarah m, at Place", "Sarah married at Place")
+      expect_expand_text("Sarah d, at Place", "Sarah died at Place")
+      expect_expand_text("Sarah bd, at Place", "Sarah buried at Place")
+    end
+
+    it "handles multiple events" do
+      expect_expand_text("Sarah b. at Place and m. at Other", "Sarah born at Place and married at Other")
+    end
+
+    it "handles x. and y. at" do
+      expect_expand_text("Sarah b. and m. at Place", "Sarah born and married at Place")
+      expect_expand_text("Sarah d. and bd. at Place", "Sarah died and buried at Place")
+    end
+
+  end
+
 end
