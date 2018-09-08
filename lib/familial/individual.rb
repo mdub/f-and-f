@@ -99,7 +99,7 @@ module Familial
               if parents_age_at_birth < 14
                 problems << "born when #{relationship} (#{parent.id}) was only #{parents_age_at_birth}"
               end
-              if parents_age_at_birth > 70
+              if parents_age_at_birth > 75
                 problems << "born when #{relationship} (#{parent.id}) was #{parents_age_at_birth}"
               end
             end
