@@ -18,6 +18,7 @@ describe FaithAndFarming::SexGuesser do
       end
     end
 
+    guesses "Adrien", nil
     guesses "Barthold", :male
     guesses "Bruce", :male
     guesses "Catherine Leslie", :female
@@ -28,6 +29,8 @@ describe FaithAndFarming::SexGuesser do
     guesses "Delwyn Jan", nil
     guesses "Fanny", :female
     guesses "Gayleen", :female
+    guesses "Harriot Morvyn", :female
+    guesses "Henry Morvyn", :male
     guesses "Jan Mary", :female
     guesses "Jan Howard", :male
     guesses "Jean", :female
@@ -42,9 +45,11 @@ describe FaithAndFarming::SexGuesser do
     guesses "Leslie Edward", :male
     guesses "Leslie Elisabeth Antonia", :female
     guesses "Lindsay John", :male
+    guesses "Lyndon", nil
     guesses "Mary", :female
     guesses "Mary-Margaret", :female
     guesses "Maryrose", :female
+    guesses "Morvyn", nil
     guesses "Norah", :female
     guesses "Peder", :male
     guesses "Prunella Jean", :female

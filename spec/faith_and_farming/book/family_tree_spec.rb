@@ -168,28 +168,11 @@ describe FaithAndFarming::Book, "family tree", slow: true do
 
   end
 
-  describe "husbands" do
-
-    let(:husbands) { tree.families.map(&:husband).compact }
-
-    they "are all male" do
-      pending
-      non_male_husbands = husbands.reject do |i|
-        i.sex&.male?
-      end.map do |i|
-        [i.id, i.name, i.sex&.code]
-      end
-      expect(non_male_husbands).to be_empty
-    end
-
-  end
-
   describe "wives" do
 
     let(:wives) { tree.families.map(&:wife).compact }
 
     they "are all female" do
-      pending
       non_female_wives = wives.reject do |i|
         i.sex&.female?
       end.map do |i|
