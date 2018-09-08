@@ -3465,9 +3465,9 @@ Kate Jean /Maclean/ [35m♀[0m [2;32m(1985-)[0m [2m(Ip530.e2.i1)[0m
 Samuel Thomas /Maclean/ [36m♂[0m [2;32m(1989-)[0m [2m(Ip530.e3.i1)[0m
 Peter Samuel /Maclean/ [36m♂[0m [2;32m(1956-)[0m [2m(Ip530.e4.i1)[0m
 Ann Patricia /Tylee/ [35m♀[0m [2;32m(1958-)[0m [2m(Ip530.e4.i2)[0m
-Holly Frances Tylee /Maclean/ [35m♀[0m [2;32m(1984-)[0m [2m(Ip530.e5.i1)[0m
-Ella Frimley Tylee /Maclean/ [35m♀[0m [2;32m(1987-)[0m [2m(Ip531.e1.i1)[0m
-Piera Rose Palmer Tylee /Maclean/ [35m♀[0m [2;32m(1993-)[0m [2m(Ip531.e2.i1)[0m
+Holly Frances /Maclean/ [35m♀[0m [2;32m(1984-)[0m [2m(Ip530.e5.i1)[0m
+Ella Frimley /Maclean/ [35m♀[0m [2;32m(1987-)[0m [2m(Ip531.e1.i1)[0m
+Piera Rose Palmer /Maclean/ [35m♀[0m [2;32m(1993-)[0m [2m(Ip531.e2.i1)[0m
 Muriel Mary Annie /McWilliam/ [35m♀[0m [2;32m(1883-1957)[0m [2m(Ip531.e3.i2)[0m
 Margaret Elizabeth /Maclean/ [35m♀[0m [2;32m(1884-1951)[0m [2m(Ip531.e4.i1)[0m
 George William /Currie/ [36m♂[0m [2;32m(1878-1958)[0m [2m(Ip531.e4.i2)[0m
@@ -4054,9 +4054,6 @@ Robin /Haines/ [35m♀[0m [2;32m(1957-)[0m [2m(Ip608.e1.i2)[0m
 George Richard Nelson /Tylee/ [36m♂[0m [2;32m(1986-)[0m [2m(Ip608.e2.i1)[0m
 Alice Elizabeth Jane /Tylee/ [35m♀[0m [2;32m(1990-)[0m [2m(Ip608.e3.i1)[0m
 Elizabeth Mary Haines /Tylee/ [35m♀[0m [2;32m(1995-)[0m [2m(Ip608.e4.i1)[0m
-Holly Frances /Maclean/ [35m♀[0m [2;32m(1984-)[0m [2m(Ip608.e6.i1)[0m
-Ella Frimley /Maclean/ [35m♀[0m [2;32m(1987-)[0m [2m(Ip608.e7.i1)[0m
-Piera Rose Palmer /Maclean/ [35m♀[0m [2;32m(1993-)[0m [2m(Ip608.e8.i1)[0m
 Tessa Alice /Tylee/ [35m♀[0m [2;32m(1960-)[0m [2m(Ip608.e9.i1)[0m
 William Palmer /Nelson/ [36m♂[0m [2;32m(1939-)[0m [2m(Ip608.e10.i1)[0m
 Caroline Rosemary /Hagedorn/ [35m♀[0m [2;32m(1940-)[0m [2m(Ip608.e10.i2)[0m
@@ -5481,7 +5478,6 @@ Malcolm James /Maclean/ [36m♂[0m [2;32m(1948-)[0m [2m(Ip527.e3.i1)[0m[3
 Paul Michael /Doherty/ [36m♂[0m [2;32m(1950-)[0m [2m(Ip529.e2.i2)[0m[36m = [0mJillian Mary /Maclean/ [35m♀[0m [2;32m(1951-)[0m [2m(Ip529.e2.i1)[0m
 Timothy Williams /Maclean/ [36m♂[0m [2;32m(1953-1995)[0m [2m(Ip529.e6.i1)[0m[36m = [0mPamela Anne /Drummond/ [35m♀[0m [2;32m(1956-)[0m [2m(Ip529.e6.i2)[0m
 Peter Samuel /Maclean/ [36m♂[0m [2;32m(1956-)[0m [2m(Ip530.e4.i1)[0m[36m = [0mAnn Patricia /Tylee/ [35m♀[0m [2;32m(1958-)[0m [2m(Ip530.e4.i2)[0m
-[31m  !!! children are not in birth order[0m
 Kenneth Edward /Maclean/ [36m♂[0m [2;32m(1883-1943)[0m [2m(Ip522.e7.i1)[0m[36m = [0mMuriel Mary Annie /McWilliam/ [35m♀[0m [2;32m(1883-1957)[0m [2m(Ip531.e3.i2)[0m
 George William /Currie/ [36m♂[0m [2;32m(1878-1958)[0m [2m(Ip531.e4.i2)[0m[36m = [0mMargaret Elizabeth /Maclean/ [35m♀[0m [2;32m(1884-1951)[0m [2m(Ip531.e4.i1)[0m
 Harrison David /Blyth/ [36m♂[0m [2;32m(1904-1996)[0m [2m(Ip531.e5.i2)[0m[36m = [0mMargaret Isobel /Currie/ [35m♀[0m [2;32m(1908-1997)[0m [2m(Ip531.e5.i1)[0m

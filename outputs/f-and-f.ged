@@ -11573,7 +11573,7 @@
 0 @Ip251.e2.i1@ INDI
 1 NAME Morvyn /Williams/
 2 NICK Tim
-1 SEX F
+1 SEX M
 1 BIRT
 2 DATE 29 JAN 1910
 1 DEAT
@@ -18030,7 +18030,7 @@
 1 NOTE @Np339.e2@
 0 @Ip339.e2.i2@ INDI
 1 NAME Delwyn Jan /Mitchell/
-1 SEX M
+1 SEX F
 1 BIRT
 2 DATE 18 JAN 1957
 1 FAMS @Fp339.e2@
@@ -24314,7 +24314,7 @@
 1 NOTE @Np501.e7@
 0 @Ip501.e5.i2@ INDI
 1 NAME Adrien /Seldon-Truss/
-1 SEX M
+1 SEX F
 1 BIRT
 2 DATE 1928
 1 FAMS @Fp501.e5@
@@ -25935,21 +25935,21 @@
 1 NOTE @Np530.e4@
 1 NOTE @Np608.e5@
 0 @Ip530.e5.i1@ INDI
-1 NAME Holly Frances Tylee /Maclean/
+1 NAME Holly Frances /Maclean/
 1 SEX F
 1 BIRT
 2 DATE 17 SEP 1984
 1 FAMC @Fp530.e4@
 1 NOTE @Np530.e5@
 0 @Ip531.e1.i1@ INDI
-1 NAME Ella Frimley Tylee /Maclean/
+1 NAME Ella Frimley /Maclean/
 1 SEX F
 1 BIRT
 2 DATE 8 MAR 1987
 1 FAMC @Fp530.e4@
 1 NOTE @Np531.e1@
 0 @Ip531.e2.i1@ INDI
-1 NAME Piera Rose Palmer Tylee /Maclean/
+1 NAME Piera Rose Palmer /Maclean/
 1 SEX F
 1 BIRT
 2 DATE 30 JUN 1993
@@ -30380,24 +30380,6 @@
 1 BIRT
 2 DATE 24 FEB 1995
 1 FAMC @Fp608.e1@
-0 @Ip608.e6.i1@ INDI
-1 NAME Holly Frances /Maclean/
-1 SEX F
-1 BIRT
-2 DATE 17 SEP 1984
-1 FAMC @Fp530.e4@
-0 @Ip608.e7.i1@ INDI
-1 NAME Ella Frimley /Maclean/
-1 SEX F
-1 BIRT
-2 DATE 8 MAR 1987
-1 FAMC @Fp530.e4@
-0 @Ip608.e8.i1@ INDI
-1 NAME Piera Rose Palmer /Maclean/
-1 SEX F
-1 BIRT
-2 DATE 30 JUN 1993
-1 FAMC @Fp530.e4@
 0 @Ip608.e9.i1@ INDI
 1 NAME Tessa Alice /Tylee/
 1 SEX F
@@ -32535,7 +32517,7 @@
 1 NOTE @Np637.e1@
 0 @Ip637.e1.i2@ INDI
 1 NAME Lyndon /Bennett/
-1 SEX M
+1 SEX F
 1 BIRT
 2 DATE 3 JUN 1943
 1 FAMS @Fp637.e1@
@@ -36329,8 +36311,8 @@
 1 MARR
 2 DATE 8 DEC 1968
 0 @Fp251.e2@ FAM
-1 HUSB @Ip251.e2.i2@
-1 WIFE @Ip251.e2.i1@
+1 HUSB @Ip251.e2.i1@
+1 WIFE @Ip251.e2.i2@
 1 MARR
 2 DATE 27 APR 1938
 1 CHIL @Ip251.e3.i1@
@@ -40556,9 +40538,6 @@
 1 CHIL @Ip530.e5.i1@
 1 CHIL @Ip531.e1.i1@
 1 CHIL @Ip531.e2.i1@
-1 CHIL @Ip608.e6.i1@
-1 CHIL @Ip608.e7.i1@
-1 CHIL @Ip608.e8.i1@
 0 @Fp531.e3@ FAM
 1 HUSB @Ip522.e7.i1@
 1 WIFE @Ip531.e3.i2@
@@ -42425,8 +42404,8 @@
 1 CHIL @Ip639.e1.i1@
 1 CHIL @Ip639.e4.i1@
 0 @Fp637.e1@ FAM
-1 HUSB @Ip637.e1.i2@
-1 WIFE @Ip637.e1.i1@
+1 HUSB @Ip637.e1.i1@
+1 WIFE @Ip637.e1.i2@
 1 MARR
 2 DATE 9 JAN 1965
 1 CHIL @Ip637.e2.i1@
