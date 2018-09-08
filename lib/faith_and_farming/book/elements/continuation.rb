@@ -1,4 +1,5 @@
 require "config_mapper"
+require "faith_and_farming/book/utils"
 
 module FaithAndFarming
   module Book
@@ -7,7 +8,7 @@ module FaithAndFarming
       class Continuation < ConfigMapper::ConfigStruct
 
         attribute :title
-        attribute :text
+        attribute :text, &Utils.method(:expand_text)
 
         class << self
 

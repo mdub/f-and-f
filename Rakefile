@@ -37,7 +37,7 @@ RSpec::Core::RakeTask.new("spec:slow") do |t|
   t.rspec_opts = "--tag slow"
 end
 
-task "default" => ["spec:fast", "spec:slow"]
+task "spec" => ["spec:fast", "spec:slow"]
 task "default" => "spec"
 
 task "problems" do

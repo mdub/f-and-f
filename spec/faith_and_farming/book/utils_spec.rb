@@ -81,6 +81,10 @@ describe FaithAndFarming::Book::Utils do
       expect_expand_text("Sarah bd. at Place", "Sarah buried at Place")
     end
 
+    it "also handles 'in'" do
+      expect_expand_text("Sarah b. in Country", "Sarah born in Country")
+    end
+
     it "handles periods mis-parsed as commas" do
       expect_expand_text("Sarah b, at Place", "Sarah born at Place")
       expect_expand_text("Sarah m, at Place", "Sarah married at Place")

@@ -54,7 +54,7 @@ describe FaithAndFarming::Book::Elements::Entry do
 
       it "extracts notes" do
         expect(entry.note).to eq <<~TEXT
-          Lydia b. at Otaki and d. at Napier. She began to lose her sight at the age of 18 and was completely blind by
+          Lydia born at Otaki and died at Napier. She began to lose her sight at the age of 18 and was completely blind by
           the time she was 22. She had a keen mind and retained a lively interest in local and world events, and in the
           progress of the Church's mission, throughout her life.
         TEXT

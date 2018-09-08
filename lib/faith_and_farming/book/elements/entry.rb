@@ -19,7 +19,7 @@ module FaithAndFarming
 
         attribute :level, Integer
         attribute :date_married, :default => nil
-        attribute :note, :default => nil
+        attribute :note, :default => nil, &Utils.method(:expand_text)
 
         def to_h
           {

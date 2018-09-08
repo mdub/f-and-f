@@ -36,7 +36,7 @@ module FaithAndFarming
       }
 
       def expand_text(text)
-        text.gsub(/\b(b|m|d|bd)[.,] (at|and)\b/) do
+        text.gsub(/\b(b|m|d|bd)[.,] (at|in|and)\b/) do
           EVENT_ABBREVS.fetch($1) + " " + $2
         end
       end
