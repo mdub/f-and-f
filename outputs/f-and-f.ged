@@ -8755,18 +8755,34 @@
 1 FAMC @Fp205.e3@
 1 NOTE @Np205.e6@
 0 @Ip205.e7.i1@ INDI
+1 NAME Julian Margaret /Canning/
+2 NICK Julie
+1 SEX M
+1 BIRT
+2 DATE 20 MAR 1949
+1 FAMC @Fp205.e2@
+1 FAMS @Fp205.e7@
+1 NOTE @Np205.e7@
+0 @Ip205.e7.i2@ INDI
+1 NAME David John /Mackersey/
+1 SEX M
+1 BIRT
+2 DATE 30 SEP 1953
+1 FAMS @Fp205.e7@
+1 NOTE @Np205.e7@
+0 @Ip205.e8.i1@ INDI
 1 NAME Caroline /Mackersey/
 1 SEX F
 1 BIRT
 2 DATE 7 JUN 1982
-1 FAMC @Fp205.e3@
-1 NOTE @Np205.e7@
+1 FAMC @Fp205.e7@
+1 NOTE @Np205.e8@
 0 @Ip206.e1.i1@ INDI
 1 NAME Anna Margaret /Mackersey/
 1 SEX F
 1 BIRT
 2 DATE 3 AUG 1984
-1 FAMC @Fp205.e3@
+1 FAMC @Fp205.e7@
 1 NOTE @Np206.e1@
 0 @Ip206.e2.i1@ INDI
 1 NAME Anne Louise /Canning/
@@ -15351,53 +15367,67 @@
 1 BIRT
 2 DATE 4 OCT 1955
 1 FAMC @Fp299.e2@
-1 FAMS @Fp300.e3.i1@
 1 NOTE @Np300.e3@
 0 @Ip300.e4.i1@ INDI
+1 NAME Natalie Margot /Williams/
+1 SEX F
+1 BIRT
+2 DATE 28 DEC 1956
+1 FAMC @Fp299.e2@
+1 FAMS @Fp300.e4@
+1 NOTE @Np300.e4@
+0 @Ip300.e4.i2@ INDI
+1 NAME John McKenzie /Stephen/
+1 SEX M
+1 BIRT
+2 DATE 7 DEC 1953
+1 FAMS @Fp300.e4@
+1 NOTE @Np300.e4@
+0 @Ip300.e5.i1@ INDI
 1 NAME Caroline Mary /Stephen/
 1 SEX F
 1 BIRT
 2 DATE 21 OCT 1983
-1 FAMC @Fp300.e3.i1@
-0 @Ip300.e5.i1@ INDI
+1 FAMC @Fp300.e4@
+0 @Ip300.e6.i1@ INDI
 1 NAME Hanna Elizabeth /Stephen/
 1 SEX F
 1 BIRT
 2 DATE 27 MAR 1985
-1 FAMC @Fp300.e3.i1@
-0 @Ip300.e6.i1@ INDI
+1 FAMC @Fp300.e4@
+0 @Ip300.e7.i1@ INDI
 1 NAME Tessa Kate /Stephen/
 1 SEX F
 1 BIRT
 2 DATE 9 SEP 1991
-1 FAMC @Fp300.e3.i1@
-0 @Ip300.e7.i1@ INDI
+1 FAMC @Fp300.e4@
+0 @Ip300.e8.i1@ INDI
 1 NAME Elizabeth Kerry /Williams/
 1 SEX F
 1 BIRT
 2 DATE 8 JUN 1959
 1 FAMC @Fp299.e2@
-1 FAMS @Fp300.e7@
-1 NOTE @Np300.e7@
-0 @Ip300.e7.i2@ INDI
+1 FAMS @Fp300.e8@
+1 NOTE @Np300.e8@
+0 @Ip300.e8.i2@ INDI
 1 NAME Charles Conway /Seymour/
 1 SEX M
 1 BIRT
 2 DATE 24 OCT 1952
-1 FAMS @Fp300.e7@
-1 NOTE @Np300.e7@
-0 @Ip300.e8.i1@ INDI
+1 FAMS @Fp300.e8@
+1 NOTE @Np300.e8@
+0 @Ip300.e9.i1@ INDI
 1 NAME Jamie Anne /Seymour/
 1 SEX M
 1 BIRT
 2 DATE 24 JUN 1989
-1 FAMC @Fp300.e7@
-0 @Ip300.e9.i1@ INDI
+1 FAMC @Fp300.e8@
+0 @Ip300.e10.i1@ INDI
 1 NAME Henry Conway Charles /Seymour/
 1 SEX M
 1 BIRT
 2 DATE 11 JUL 1992
-1 FAMC @Fp300.e7@
+1 FAMC @Fp300.e8@
 0 @Ip301.e1.i1@ INDI
 1 NAME Timothy Charles Bentham /Williams/
 1 SEX M
@@ -20077,57 +20107,64 @@
 2 DATE 9 DEC 1958
 1 FAMC @Fp366.e2@
 1 FAMS @Fp366.e3@
+1 FAMS @Fp366.e4@
 1 NOTE @Np366.e3@
+1 NOTE @Np366.e4@
 0 @Ip366.e3.i2@ INDI
+1 NAME  /Falchetta Pjero/
+1 SEX M
+1 FAMS @Fp366.e3@
+1 NOTE @Np366.e3@
+0 @Ip366.e4.i2@ INDI
 1 NAME Stefano /Chinellato/
 1 SEX M
 1 BIRT
 2 DATE 22 DEC 1954
-1 FAMS @Fp366.e3@
-1 NOTE @Np366.e3@
-0 @Ip366.e4.i1@ INDI
+1 FAMS @Fp366.e4@
+1 NOTE @Np366.e4@
+0 @Ip366.e5.i1@ INDI
 1 NAME Samuele Ludbrook /Chinellato/
 1 SEX M
 1 BIRT
 2 DATE 22 AUG 1995
-1 FAMC @Fp366.e3@
-0 @Ip366.e5.i1@ INDI
+1 FAMC @Fp366.e4@
+0 @Ip366.e6.i1@ INDI
 1 NAME Guy Lawrence /Ludbrook/
 1 SEX M
 1 BIRT
 2 DATE 23 JAN 1960
 1 FAMC @Fp366.e2@
-1 FAMS @Fp366.e5@
 1 FAMS @Fp366.e6@
-1 NOTE @Np366.e5@
+1 FAMS @Fp366.e7@
 1 NOTE @Np366.e6@
-0 @Ip366.e5.i2@ INDI
+1 NOTE @Np366.e7@
+0 @Ip366.e6.i2@ INDI
 1 NAME Catherine Gillian /Asche/
 1 SEX F
 1 BIRT
 2 DATE 6 SEP 1959
-1 FAMS @Fp366.e5@
-1 NOTE @Np366.e5@
-0 @Ip366.e6.i2@ INDI
+1 FAMS @Fp366.e6@
+1 NOTE @Np366.e6@
+0 @Ip366.e7.i2@ INDI
 1 NAME Diana Margaret /Gibbs/
 1 SEX F
 1 BIRT
 2 DATE 18 SEP 1961
-1 FAMS @Fp366.e6@
-1 NOTE @Np366.e6@
+1 FAMS @Fp366.e7@
+1 NOTE @Np366.e7@
 0 @Ip367.e1.i1@ INDI
 1 NAME Hamish John Gibbs /Ludbrook/
 1 SEX M
 1 BIRT
 2 DATE 5 DEC 1994
-1 FAMC @Fp366.e6@
+1 FAMC @Fp366.e7@
 1 NOTE @Np367.e1@
 0 @Ip367.e2.i1@ INDI
 1 NAME Isabella Ailsa Gibbs /Ludbrook/
 1 SEX F
 1 BIRT
 2 DATE 1 MAR 1996
-1 FAMC @Fp366.e6@
+1 FAMC @Fp366.e7@
 0 @Ip367.e3.i1@ INDI
 1 NAME Alice Mary /Ludbrook/
 1 SEX F
@@ -35592,6 +35629,7 @@
 1 MARR
 2 DATE 23 DEC 1939
 1 CHIL @Ip205.e3.i1@
+1 CHIL @Ip205.e7.i1@
 1 CHIL @Ip206.e2.i1@
 1 CHIL @Ip206.e5.i1@
 0 @Fp205.e3@ FAM
@@ -35602,7 +35640,12 @@
 1 CHIL @Ip205.e4.i1@
 1 CHIL @Ip205.e5.i1@
 1 CHIL @Ip205.e6.i1@
-1 CHIL @Ip205.e7.i1@
+0 @Fp205.e7@ FAM
+1 HUSB @Ip205.e7.i2@
+1 WIFE @Ip205.e7.i1@
+1 MARR
+2 DATE 1 DEC 1979
+1 CHIL @Ip205.e8.i1@
 1 CHIL @Ip206.e1.i1@
 0 @Fp206.e2@ FAM
 1 HUSB @Ip206.e2.i2@
@@ -37444,7 +37487,8 @@
 2 DATE 30 JAN 1953
 1 CHIL @Ip299.e3.i1@
 1 CHIL @Ip300.e3.i1@
-1 CHIL @Ip300.e7.i1@
+1 CHIL @Ip300.e4.i1@
+1 CHIL @Ip300.e8.i1@
 1 CHIL @Ip301.e1.i1@
 0 @Fp299.e3@ FAM
 1 HUSB @Ip299.e3.i1@
@@ -37454,18 +37498,21 @@
 1 CHIL @Ip299.e4.i1@
 1 CHIL @Ip300.e1.i1@
 1 CHIL @Ip300.e2.i1@
-0 @Fp300.e3.i1@ FAM
-1 WIFE @Ip300.e3.i1@
-1 CHIL @Ip300.e4.i1@
+0 @Fp300.e4@ FAM
+1 HUSB @Ip300.e4.i2@
+1 WIFE @Ip300.e4.i1@
+1 MARR
+2 DATE 19 JAN 1979
 1 CHIL @Ip300.e5.i1@
 1 CHIL @Ip300.e6.i1@
-0 @Fp300.e7@ FAM
-1 HUSB @Ip300.e7.i2@
-1 WIFE @Ip300.e7.i1@
+1 CHIL @Ip300.e7.i1@
+0 @Fp300.e8@ FAM
+1 HUSB @Ip300.e8.i2@
+1 WIFE @Ip300.e8.i1@
 1 MARR
 2 DATE 15 MAY 1987
-1 CHIL @Ip300.e8.i1@
 1 CHIL @Ip300.e9.i1@
+1 CHIL @Ip300.e10.i1@
 0 @Fp301.e1@ FAM
 1 HUSB @Ip301.e1.i1@
 1 WIFE @Ip301.e1.i2@
@@ -38866,20 +38913,25 @@
 1 MARR
 2 DATE 12 DEC 1955
 1 CHIL @Ip366.e3.i1@
-1 CHIL @Ip366.e5.i1@
+1 CHIL @Ip366.e6.i1@
 1 CHIL @Ip367.e3.i1@
 0 @Fp366.e3@ FAM
 1 HUSB @Ip366.e3.i2@
 1 WIFE @Ip366.e3.i1@
-1 CHIL @Ip366.e4.i1@
-0 @Fp366.e5@ FAM
-1 HUSB @Ip366.e5.i1@
-1 WIFE @Ip366.e5.i2@
+1 MARR
+2 DATE 11 JUL 1991
+0 @Fp366.e4@ FAM
+1 HUSB @Ip366.e4.i2@
+1 WIFE @Ip366.e3.i1@
+1 CHIL @Ip366.e5.i1@
+0 @Fp366.e6@ FAM
+1 HUSB @Ip366.e6.i1@
+1 WIFE @Ip366.e6.i2@
 1 MARR
 2 DATE 7 FEB 1987
-0 @Fp366.e6@ FAM
-1 HUSB @Ip366.e5.i1@
-1 WIFE @Ip366.e6.i2@
+0 @Fp366.e7@ FAM
+1 HUSB @Ip366.e6.i1@
+1 WIFE @Ip366.e7.i2@
 1 MARR
 2 DATE 14 APR 1993
 1 CHIL @Ip367.e1.i1@
@@ -46775,6 +46827,11 @@
 0 @Np205.e6@ NOTE
 1 CONT Susannah born at Waipukurau and educated at Iona College.
 0 @Np205.e7@ NOTE
+1 CONT Julian born at Waipukurau and married at Porangahau. David, s/o John Charles Mackersey and Margaret Olive
+1 CONT Sinclair, born at Hastings. Address: 911a Harding Road, Hastings.
+1 CONT David is a builder and managing director of Mackersey Construction. He and Julian are developing a
+1 CONT new garden and are keen tennis players.
+0 @Np205.e8@ NOTE
 1 CONT Caroline born at Hastings. She is a student at Woodford House, plays tennis and netball and is
 1 CONT keenly interested in fashion.
 0 @Np206.e1@ NOTE
@@ -49566,7 +49623,14 @@
 1 CONT Deborah was educated at Queenswood School, Woodford House and Massey University (DipHort). She
 1 CONT travelled overseas and worked for several months for John Stevens Safaris in Zimbabwe. She is now
 1 CONT living at Manutuke, having completed an office and computer course.
-0 @Np300.e7@ NOTE
+0 @Np300.e4@ NOTE
+1 CONT Margot born at Waipiro Bay, Te Puia and married at "Matahiia" station, Ruatoria. John, slo Alfred James
+1 CONT Stephen and Patricia George Young, born at Lower Hutt. Address: 43 Dalrymple Road, Gisborne.
+1 CONT Margot is a kindergarten teacher and special needs teacher at primary level. Since finishing school
+1 CONT at St Patrick's College, Silverstream, John has been leasing a cropping/bull/sheep unit as well as
+1 CONT a dairy farm in the South Wairarapa. He has also worked in shearing gangs and done casual
+1 CONT labouring.
+0 @Np300.e8@ NOTE
 1 CONT Kerry born at Waipiro Bay. Charles, s/o Conway Seymour and Louisa Parker. Address: "Kohata",
 1 CONT Whangara, Gisborne.
 1 CONT Kerry was educated at Queenswood School, Rudolf Steiner School and Woodford House. She is a
@@ -51357,13 +51421,15 @@
 0 @Np366.e2@ NOTE
 1 CONT John born at Auckland.
 0 @Np366.e3@ NOTE
+1 CONT Geraldine born at Norwich, England.
+0 @Np366.e4@ NOTE
 1 CONT Geraldine is known by her maiden name. Address: Castello 476, Venezia 30122, Italy.
 1 CONT Geraldine was educated at Norwood High School and the University of Adelaide (BA). She is a
 1 CONT foreign language tutor at the University of Venice and editorial assistant to the journal,
 1 CONT "Research in Economics" published by Academic Press, London.
-0 @Np366.e5@ NOTE
-1 CONT Guy born at Dunedin.
 0 @Np366.e6@ NOTE
+1 CONT Guy born at Dunedin.
+0 @Np366.e7@ NOTE
 1 CONT Address: 6 Howard Terrace, Leabrook 5068, SA, Australia.
 1 CONT Guy was educated at Norwood High School and University of Adelaide (MB, BS, PhD, FANZCA). He was
 1 CONT Registrar then Senior Registrar in Anaesthesia (1987-). He is now Lecturer, Department of
