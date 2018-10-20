@@ -136,14 +136,13 @@ blocks:
       top: 2253
       bottom: 2347
 - paragraphs:
-  - text: "> CANNING, Julian Margaret m on 01.12.1979 to MACKERSEY, David John\n"
+  - text: "02> CANNING, Julian Margaret (Julie) m on 01.12.1979 to MACKERSEY, David John\n"
     bounds:
-      left: 568
+      left: 510
       right: 2151
       top: 2436
       bottom: 2495
   - text: |
-      (Julie)
       b 20.03.1949
     bounds:
       left: 615
