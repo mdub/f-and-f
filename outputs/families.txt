@@ -4342,7 +4342,7 @@ Charles Ian /Gray/ [36m♂[0m [2;32m(1936-)[0m[36m = [0mRuth Esther /Bird/
   Helen Lee /Gray/ [35m♀[0m [2;32m(1965-)[0m
   Sean Michael /Gray/ [36m♂[0m [2;32m(1969-)[0m
 
-01 In Barton /Ormerod/ [36m♂[0m [2;32m(1893-1967)[0m[36m = [0mEdith Lucy /Gray/ [35m♀[0m [2;32m(1893-1947)[0m
+Olin Barton /Ormerod/ [36m♂[0m [2;32m(1893-1967)[0m[36m = [0mEdith Lucy /Gray/ [35m♀[0m [2;32m(1893-1947)[0m
   Shirley /Ormerod/ [35m♀[0m [2;32m(1916-)[0m
   Charles Fray /Ormerod/ [36m♂[0m [2;32m(1920-)[0m
 
@@ -4774,6 +4774,7 @@ Benjamin /Smith/ [36m♂[0m [2;32m(1951-)[0m[36m = [0mJennifer Mary /Kearn
 
 Nicholas Bernard Francis /Kearns/ [36m♂[0m [2;32m(1958-)[0m[36m = [0mAmanda Christina /Norris/ [35m♀[0m [2;32m(1959-)[0m
   Fraser Lyle /Norris-Kearns/ [36m♂[0m
+  Eleanor Rose /Norris-Kearns/ [35m♀[0m
 
 Murray /Smith/ [36m♂[0m [2;32m(1956-)[0m[36m = [0mLeah Prudence Jane /Kearns/ [35m♀[0m [2;32m(1961-)[0m
   Elliot Joseph /Smith/ [36m♂[0m [2;32m(1992-)[0m
@@ -4914,7 +4915,7 @@ Denys William Wanklyn /Williams/ [36m♂[0m [2;32m(1894-1975)[0m[36m = [0m
 William Martyn /Williams/ [36m♂[0m [2;32m(1927-1984)[0m[36m = [0mKathleen Mary /Wallis/ [35m♀[0m [2;32m(1941-)[0m
   William Andrew /Williams/ [36m♂[0m [2;32m(1964-)[0m
   Geoffrey Martyn /Williams/ [36m♂[0m [2;32m(1966-)[0m
-  Jennifer Robyn. /Williams/ [35m♀[0m [2;32m(1967-)[0m
+  Jennifer Robyn /Williams/ [35m♀[0m [2;32m(1967-)[0m
 
 William Andrew /Williams/ [36m♂[0m [2;32m(1964-)[0m[36m = [0mPhilippa Blackwood /Sewell/ [35m♀[0m [2;32m(1963-)[0m
   Jessica Amy /Williams/ [35m♀[0m [2;32m(1992-)[0m

@@ -24624,7 +24624,7 @@
 1 FAMS @Fp503.e12@
 1 NOTE @Np503.e12@
 0 @Ip503.e12.i2@ INDI
-1 NAME 01 In Barton /Ormerod/
+1 NAME Olin Barton /Ormerod/
 1 SEX M
 1 BIRT
 2 DATE 22 MAY 1893
@@ -27093,40 +27093,43 @@
 1 NAME Fraser Lyle /Norris-Kearns/
 1 SEX M
 1 FAMC @Fp543.e4@
-1 NOTE @Np543.e5@
 0 @Ip543.e6.i1@ INDI
+1 NAME Eleanor Rose /Norris-Kearns/
+1 SEX F
+1 FAMC @Fp543.e4@
+0 @Ip543.e7.i1@ INDI
 1 NAME Leah Prudence Jane /Kearns/
 1 SEX F
 1 BIRT
 2 DATE 2 NOV 1961
 1 FAMC @Fp542.e3@
-1 FAMS @Fp543.e6@
-1 NOTE @Np543.e6@
-0 @Ip543.e6.i2@ INDI
+1 FAMS @Fp543.e7@
+1 NOTE @Np543.e7@
+0 @Ip543.e7.i2@ INDI
 1 NAME Murray /Smith/
 1 SEX M
 1 BIRT
 2 DATE 17 JUN 1956
-1 FAMS @Fp543.e6@
-1 NOTE @Np543.e6@
-0 @Ip543.e7.i1@ INDI
+1 FAMS @Fp543.e7@
+1 NOTE @Np543.e7@
+0 @Ip543.e8.i1@ INDI
 1 NAME Elliot Joseph /Smith/
 1 SEX M
 1 BIRT
 2 DATE 1 MAY 1992
-1 FAMC @Fp543.e6@
-0 @Ip543.e8.i1@ INDI
+1 FAMC @Fp543.e7@
+0 @Ip543.e9.i1@ INDI
 1 NAME Rory Benedict /Smith/
 1 SEX M
 1 BIRT
 2 DATE 17 AUG 1994
-1 FAMC @Fp543.e6@
-0 @Ip543.e9.i1@ INDI
+1 FAMC @Fp543.e7@
+0 @Ip543.e10.i1@ INDI
 1 NAME Helena Jean /Smith/
 1 SEX F
 1 BIRT
 2 DATE 15 NOV 1997
-1 FAMC @Fp543.e6@
+1 FAMC @Fp543.e7@
 0 @Ip544.e1.i1@ INDI
 1 NAME Dorothy /Maclean/
 1 SEX F
@@ -27944,7 +27947,7 @@
 1 FAMC @Fp558.e2@
 1 NOTE @Np559.e2@
 0 @Ip559.e3.i1@ INDI
-1 NAME Jennifer Robyn. /Williams/
+1 NAME Jennifer Robyn /Williams/
 1 SEX F
 1 BIRT
 2 DATE 15 SEP 1967
@@ -40966,7 +40969,7 @@
 1 CHIL @Ip543.e2.i1@
 1 CHIL @Ip543.e3.i1@
 1 CHIL @Ip543.e4.i1@
-1 CHIL @Ip543.e6.i1@
+1 CHIL @Ip543.e7.i1@
 0 @Fp542.e4@ FAM
 1 HUSB @Ip542.e4.i2@
 1 WIFE @Ip542.e4.i1@
@@ -40990,14 +40993,15 @@
 1 MARR
 2 DATE 24 JAN 1997
 1 CHIL @Ip543.e5.i1@
-0 @Fp543.e6@ FAM
-1 HUSB @Ip543.e6.i2@
-1 WIFE @Ip543.e6.i1@
+1 CHIL @Ip543.e6.i1@
+0 @Fp543.e7@ FAM
+1 HUSB @Ip543.e7.i2@
+1 WIFE @Ip543.e7.i1@
 1 MARR
 2 DATE 25 JAN 1989
-1 CHIL @Ip543.e7.i1@
 1 CHIL @Ip543.e8.i1@
 1 CHIL @Ip543.e9.i1@
+1 CHIL @Ip543.e10.i1@
 0 @Fp544.e3@ FAM
 1 HUSB @Ip544.e3.i1@
 1 WIFE @Ip544.e3.i2@
@@ -54751,9 +54755,7 @@
 1 CONT with Bayer New Zealand Agrichemical. He taught science at Carmel College for three years and at
 1 CONT King's College for four years then left teaching in 1997 to establish his own bakery business. His
 1 CONT interests include yachting and music (he has written and performed his own works).
-0 @Np543.e5@ NOTE
-1 CONT 02> NORRIS-KEARNS, Eleanor Rose
-0 @Np543.e6@ NOTE
+0 @Np543.e7@ NOTE
 1 CONT Leah is known by her maiden name. Russell, s/o Roy Joseph Smith and Jean Marion McKane, born at
 1 CONT Greymouth. Address: 37 Stanbury Avenue, Christchurch 2.
 1 CONT Leah graduated MSc from Otago University then worked for three years as a research biochemist. She
