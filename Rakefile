@@ -61,7 +61,7 @@ end
 task "generate" => "names"
 
 task "families" => "outputs" do
-  sh "scripts/show families -isd > outputs/families.txt"
+  sh "scripts/show families -sd > outputs/families.txt"
 end
 
 task "generate" => "families"
