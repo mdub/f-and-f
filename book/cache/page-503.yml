@@ -15,17 +15,17 @@ blocks:
       JGRAY, Sydney Thomas and LANE, Doris Audrey
       IGRAY, Audrey Louise and HOLDSWORTH, John Chambers
       JHOLDSWORTH, Cynthia Amy and JURIE, Gerald Michael
-      03> JURIE, Timothy Andrew
     bounds:
       left: 572
       right: 1836
       top: 237
       bottom: 592
-  - text: 'b 15.08.1988
-
-'
+- paragraphs:
+  - text: |
+      03> JURIE, Timothy Andrew
+      b 15.08.1988
     bounds:
-      left: 677
+      left: 572
       right: 892
       top: 594
       bottom: 636
