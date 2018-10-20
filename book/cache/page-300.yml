@@ -76,10 +76,10 @@ blocks:
       bottom: 1285
 - paragraphs:
   - text: |
-      3> WILLIAMS, Natalie Margot m on 19.01.1979 to STEPHEN, John McKenzie
+      03> WILLIAMS, Natalie Margot m on 19.01.1979 to STEPHEN, John McKenzie
       b 28.12.1956
     bounds:
-      left: 525
+      left: 500
       right: 2155
       top: 1327
       bottom: 1427
@@ -149,7 +149,7 @@ blocks:
       bottom: 2172
 - paragraphs:
   - text: |
-      64> WILLIAMS, Elizabeth Kerry m on 15.05.1987 to SEYMOUR, Charles Conway
+      04> WILLIAMS, Elizabeth Kerry m on 15.05.1987 to SEYMOUR, Charles Conway
       b 08.06.1959
     bounds:
       left: 499
