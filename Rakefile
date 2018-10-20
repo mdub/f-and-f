@@ -40,16 +40,28 @@ end
 task "spec" => ["spec:fast", "spec:slow"]
 task "default" => "spec"
 
-task "problems" do
-  mkdir_p "outputs"
+directory "outputs"
+
+task "problems" => "outputs" do
   sh "scripts/show problems -sd > outputs/problems.txt"
 end
 
 task "generate" => "problems"
 
-task "gedcom" do
-  mkdir_p "outputs"
+task "gedcom" => "outputs" do
   sh "scripts/show gedcom > outputs/f-and-f.ged"
 end
 
 task "generate" => "gedcom"
+
+task "names" => "outputs" do
+  sh "scripts/show names -pde > outputs/names.txt"
+end
+
+task "generate" => "names"
+
+task "families" => "outputs" do
+  sh "scripts/show families -isd > outputs/families.txt"
+end
+
+task "generate" => "families"
