@@ -111,31 +111,23 @@ blocks:
       top: 1496
       bottom: 1791
 - paragraphs:
-  - text: '01> NORRIS-KEARNS, Fraser Lyle
-
-'
+  - text: |
+      01> NORRIS-KEARNS, Fraser Lyle
+      b ** ** ****
     bounds:
       left: 575
       right: 1332
       top: 1830
       bottom: 1892
+- paragraphs:
   - text: |
-      b ** ** ****
       02> NORRIS-KEARNS, Eleanor Rose
+      b ** ** ****
     bounds:
       left: 572
       right: 1354
       top: 1892
       bottom: 2052
-- paragraphs:
-  - text: 'b ** ** ****
-
-'
-    bounds:
-      left: 680
-      right: 895
-      top: 2048
-      bottom: 2082
 - paragraphs:
   - text: |
       06> KEARNS, Leah Prudence Jane m on 25.01.1989 to SMITH, Murray
