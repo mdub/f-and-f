@@ -151,7 +151,7 @@ blocks:
       top: 2290
       bottom: 2544
 - paragraphs:
-  - text: 'b1> PARKER, Alice Susan
+  - text: '01> PARKER, Alice Susan
 
 '
     bounds:
@@ -169,11 +169,11 @@ blocks:
       bottom: 2740
 - paragraphs:
   - text: |
-      PARKER, Wendy Jane
+      03> PARKER, Wendy Jane
       b 11.06.1964
       Wendy is a radiographer and sonographer in Rotorua.
     bounds:
-      left: 689
+      left: 585
       right: 1530
       top: 2840
       bottom: 2995
