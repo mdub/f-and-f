@@ -24,6 +24,14 @@ blocks:
       JBUSBY, Kathleen Mary and CANNING, Davis
       ICANNING, Beatrix Busby (Betty) and DONKIN, Douglas Sydney (Pat)
       JDONKIN, Patrick Canning and BARKER, Janet Leslie
+
+    bounds:
+      left: 587
+      right: 2200
+      top: 217
+      bottom: 582
+- paragraphs:
+  - text: |
       02> DONKIN, Timothy Patrick
     bounds:
       left: 587
