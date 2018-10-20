@@ -15618,33 +15618,40 @@
 1 FAMC @Fp304.e2@
 1 NOTE @Np304.e3@
 0 @Ip304.e4.i1@ INDI
+1 NAME Breanna Chloe /Grigg/
+1 SEX F
+1 BIRT
+2 DATE 28 NOV 1987
+1 FAMC @Fp304.e2@
+1 NOTE @Np304.e4@
+0 @Ip304.e5.i1@ INDI
 1 NAME Peter Gilbert Kenneth /Grigg/
 1 SEX M
 1 BIRT
 2 DATE 28 MAY 1965
 1 FAMC @Fp303.e3@
-1 FAMS @Fp304.e4@
-1 NOTE @Np304.e4@
-0 @Ip304.e4.i2@ INDI
+1 FAMS @Fp304.e5@
+1 NOTE @Np304.e5@
+0 @Ip304.e5.i2@ INDI
 1 NAME Elizabeth Jane /O'Connor/
 1 SEX F
 1 BIRT
 2 DATE 4 OCT 1963
-1 FAMS @Fp304.e4@
-1 NOTE @Np304.e4@
-0 @Ip304.e5.i1@ INDI
+1 FAMS @Fp304.e5@
+1 NOTE @Np304.e5@
+0 @Ip304.e6.i1@ INDI
 1 NAME Ella Victoria /Grigg/
 1 SEX F
 1 BIRT
 2 DATE 21 FEB 1995
-1 FAMC @Fp304.e4@
-1 NOTE @Np304.e5@
+1 FAMC @Fp304.e5@
+1 NOTE @Np304.e6@
 0 @Ip305.e1.i1@ INDI
 1 NAME Harry Matthew /Grigg/
 1 SEX M
 1 BIRT
 2 DATE 29 OCT 1996
-1 FAMC @Fp304.e4@
+1 FAMC @Fp304.e5@
 1 NOTE @Np305.e1@
 0 @Ip305.e2.i1@ INDI
 1 NAME Diana Caroline /Williams/
@@ -20111,7 +20118,7 @@
 1 NOTE @Np366.e3@
 1 NOTE @Np366.e4@
 0 @Ip366.e3.i2@ INDI
-1 NAME  /Falchetta Pjero/
+1 NAME Pjero /Falchetta/
 1 SEX M
 1 FAMS @Fp366.e3@
 1 NOTE @Np366.e3@
@@ -24520,78 +24527,84 @@
 2 DATE 22 OCT 1986
 1 FAMC @Fp502.e7@
 0 @Ip503.e1.i1@ INDI
+1 NAME Timothy Andrew /Jurie/
+1 SEX M
+1 BIRT
+2 DATE 15 AUG 1988
+1 FAMC @Fp502.e7@
+0 @Ip503.e2.i1@ INDI
 1 NAME Sarah Louise /Holdsworth/
 2 NICK Sally
 1 SEX F
 1 BIRT
 2 DATE 28 NOV 1961
 1 FAMC @Fp502.e4@
-1 FAMS @Fp503.e1@
-1 NOTE @Np503.e1@
-0 @Ip503.e1.i2@ INDI
+1 FAMS @Fp503.e2@
+1 NOTE @Np503.e2@
+0 @Ip503.e2.i2@ INDI
 1 NAME Spencer Gannon /Smith/
 1 SEX M
 1 BIRT
 2 DATE 30 DEC 1961
-1 FAMS @Fp503.e1@
-1 NOTE @Np503.e1@
-0 @Ip503.e2.i1@ INDI
+1 FAMS @Fp503.e2@
+1 NOTE @Np503.e2@
+0 @Ip503.e3.i1@ INDI
 1 NAME Spencer John /Smith/
 1 SEX M
 1 BIRT
 2 DATE 8 OCT 1993
-1 FAMC @Fp503.e1@
-0 @Ip503.e3.i1@ INDI
+1 FAMC @Fp503.e2@
+0 @Ip503.e4.i1@ INDI
 1 NAME Albert Sydney Gray /Smith/
 1 SEX M
 1 BIRT
 2 DATE 11 OCT 1997
-1 FAMC @Fp503.e1@
-0 @Ip503.e4.i1@ INDI
+1 FAMC @Fp503.e2@
+0 @Ip503.e5.i1@ INDI
 1 NAME Rachel Margaret /Holdsworth/
 1 SEX F
 1 BIRT
 2 DATE 6 JUN 1969
 1 FAMC @Fp502.e4@
-1 NOTE @Np503.e4@
-0 @Ip503.e5.i1@ INDI
+1 NOTE @Np503.e5@
+0 @Ip503.e6.i1@ INDI
 1 NAME Bernard John /Holdsworth/
 1 SEX M
 1 BIRT
 2 DATE 21 JUN 1971
 1 FAMC @Fp502.e4@
-0 @Ip503.e6.i1@ INDI
+0 @Ip503.e7.i1@ INDI
 1 NAME Charles Ian /Gray/
 1 SEX M
 1 BIRT
 2 DATE 1936
 1 FAMC @Fp502.e3@
-1 FAMS @Fp503.e6@
-1 NOTE @Np503.e6@
-0 @Ip503.e6.i2@ INDI
+1 FAMS @Fp503.e7@
+1 NOTE @Np503.e7@
+0 @Ip503.e7.i2@ INDI
 1 NAME Ruth Esther /Bird/
 1 SEX F
-1 FAMS @Fp503.e6@
-1 NOTE @Np503.e6@
-0 @Ip503.e7.i1@ INDI
+1 FAMS @Fp503.e7@
+1 NOTE @Np503.e7@
+0 @Ip503.e8.i1@ INDI
 1 NAME Tania Maree /Gray/
 1 SEX F
 1 BIRT
 2 DATE 24 FEB 1964
-1 FAMC @Fp503.e6@
-0 @Ip503.e8.i1@ INDI
+1 FAMC @Fp503.e7@
+0 @Ip503.e9.i1@ INDI
 1 NAME Helen Lee /Gray/
 1 SEX F
 1 BIRT
 2 DATE 1 SEP 1965
-1 FAMC @Fp503.e6@
-0 @Ip503.e9.i1@ INDI
+1 FAMC @Fp503.e7@
+0 @Ip503.e10.i1@ INDI
 1 NAME Sean Michael /Gray/
 1 SEX M
 1 BIRT
 2 DATE 24 APR 1969
-1 FAMC @Fp503.e6@
-0 @Ip503.e10.i1@ INDI
+1 FAMC @Fp503.e7@
+0 @Ip503.e11.i1@ INDI
 1 NAME Norman William /Gray/
 1 SEX M
 1 BIRT
@@ -24599,8 +24612,8 @@
 1 DEAT
 2 DATE 19 DEC 1946
 1 FAMC @Fp478.e1@
-1 NOTE @Np503.e10@
-0 @Ip503.e11.i1@ INDI
+1 NOTE @Np503.e11@
+0 @Ip503.e12.i1@ INDI
 1 NAME Edith Lucy /Gray/
 1 SEX F
 1 BIRT
@@ -24608,30 +24621,30 @@
 1 DEAT
 2 DATE 16 MAR 1947
 1 FAMC @Fp478.e1@
-1 FAMS @Fp503.e11@
-1 NOTE @Np503.e11@
-0 @Ip503.e11.i2@ INDI
+1 FAMS @Fp503.e12@
+1 NOTE @Np503.e12@
+0 @Ip503.e12.i2@ INDI
 1 NAME 01 In Barton /Ormerod/
 1 SEX M
 1 BIRT
 2 DATE 22 MAY 1893
 1 DEAT
 2 DATE JAN 1967
-1 FAMS @Fp503.e11@
-1 NOTE @Np503.e11@
+1 FAMS @Fp503.e12@
+1 NOTE @Np503.e12@
 0 @Ip504.e1.i1@ INDI
 1 NAME Shirley /Ormerod/
 1 SEX F
 1 BIRT
 2 DATE 10 DEC 1916
-1 FAMC @Fp503.e11@
+1 FAMC @Fp503.e12@
 1 NOTE @Np504.e1@
 0 @Ip505.e1.i1@ INDI
 1 NAME Charles Fray /Ormerod/
 1 SEX M
 1 BIRT
 2 DATE 23 DEC 1920
-1 FAMC @Fp503.e11@
+1 FAMC @Fp503.e12@
 1 FAMS @Fp505.e1@
 1 NOTE @Np505.e1@
 0 @Ip505.e1.i2@ INDI
@@ -37553,7 +37566,7 @@
 2 DATE 14 JUL 1959
 1 CHIL @Ip303.e4.i1@
 1 CHIL @Ip304.e2.i1@
-1 CHIL @Ip304.e4.i1@
+1 CHIL @Ip304.e5.i1@
 0 @Fp303.e4@ FAM
 1 HUSB @Ip303.e4.i2@
 1 WIFE @Ip303.e4.i1@
@@ -37567,12 +37580,13 @@
 1 MARR
 2 DATE 3 DEC 1982
 1 CHIL @Ip304.e3.i1@
-0 @Fp304.e4@ FAM
-1 HUSB @Ip304.e4.i1@
-1 WIFE @Ip304.e4.i2@
+1 CHIL @Ip304.e4.i1@
+0 @Fp304.e5@ FAM
+1 HUSB @Ip304.e5.i1@
+1 WIFE @Ip304.e5.i2@
 1 MARR
 2 DATE 11 JAN 1992
-1 CHIL @Ip304.e5.i1@
+1 CHIL @Ip304.e6.i1@
 1 CHIL @Ip305.e1.i1@
 0 @Fp305.e3@ FAM
 1 HUSB @Ip305.e3.i2@
@@ -39646,8 +39660,8 @@
 1 CHIL @Ip494.e2.i1@
 1 CHIL @Ip500.e7.i1@
 1 CHIL @Ip502.e3.i1@
-1 CHIL @Ip503.e10.i1@
 1 CHIL @Ip503.e11.i1@
+1 CHIL @Ip503.e12.i1@
 1 CHIL @Ip507.e2.i1@
 1 CHIL @Ip507.e3.i1@
 0 @Fp478.e2@ FAM
@@ -40207,7 +40221,7 @@
 1 MARR
 2 DATE 2 FEB 1926
 1 CHIL @Ip502.e4.i1@
-1 CHIL @Ip503.e6.i1@
+1 CHIL @Ip503.e7.i1@
 0 @Fp502.e4@ FAM
 1 HUSB @Ip502.e4.i2@
 1 WIFE @Ip502.e4.i1@
@@ -40216,9 +40230,9 @@
 1 CHIL @Ip502.e5.i1@
 1 CHIL @Ip502.e6.i1@
 1 CHIL @Ip502.e7.i1@
-1 CHIL @Ip503.e1.i1@
-1 CHIL @Ip503.e4.i1@
+1 CHIL @Ip503.e2.i1@
 1 CHIL @Ip503.e5.i1@
+1 CHIL @Ip503.e6.i1@
 0 @Fp502.e7@ FAM
 1 HUSB @Ip502.e7.i2@
 1 WIFE @Ip502.e7.i1@
@@ -40226,22 +40240,23 @@
 2 DATE 23 JAN 1982
 1 CHIL @Ip502.e8.i1@
 1 CHIL @Ip502.e9.i1@
-0 @Fp503.e1@ FAM
-1 HUSB @Ip503.e1.i2@
-1 WIFE @Ip503.e1.i1@
+1 CHIL @Ip503.e1.i1@
+0 @Fp503.e2@ FAM
+1 HUSB @Ip503.e2.i2@
+1 WIFE @Ip503.e2.i1@
 1 MARR
 2 DATE 30 JAN 1987
-1 CHIL @Ip503.e2.i1@
 1 CHIL @Ip503.e3.i1@
-0 @Fp503.e6@ FAM
-1 HUSB @Ip503.e6.i1@
-1 WIFE @Ip503.e6.i2@
-1 CHIL @Ip503.e7.i1@
+1 CHIL @Ip503.e4.i1@
+0 @Fp503.e7@ FAM
+1 HUSB @Ip503.e7.i1@
+1 WIFE @Ip503.e7.i2@
 1 CHIL @Ip503.e8.i1@
 1 CHIL @Ip503.e9.i1@
-0 @Fp503.e11@ FAM
-1 HUSB @Ip503.e11.i2@
-1 WIFE @Ip503.e11.i1@
+1 CHIL @Ip503.e10.i1@
+0 @Fp503.e12@ FAM
+1 HUSB @Ip503.e12.i2@
+1 WIFE @Ip503.e12.i1@
 1 MARR
 2 DATE 4 MAR 1916
 1 CHIL @Ip504.e1.i1@
@@ -49764,6 +49779,9 @@
 1 CONT in 1997, and is now at Avonside Girls' High School. Her interests include cricket, creative
 1 CONT writing, piano, fencing, swimming and languages.
 0 @Np304.e4@ NOTE
+1 CONT Breanna born at Christchurch. She is a student at Beckenham Primary School and her interests
+1 CONT include piano and flute, swimming, art and creative design, bush walking and geology.
+0 @Np304.e5@ NOTE
 1 CONT Peter born at Cheviot and married at St Anthony's Church, Cheviot. Elizabeth, d/o Kevin Joseph O'Connor
 1 CONT and Elsie Mary Gallagher, born at Timaru, Address: "Bodbrane", RD 3, Cheviot, North Canterbury.
 1 CONT Peter was educated at Waihi Preparatory School, Christ's College and Lincoln College (DipAg).
@@ -49773,7 +49791,7 @@
 1 CONT travelling.
 1 CONT Elizabeth attended Teachers' Training College in Christchurch to become a primary school teacher.
 1 CONT She plays clarinet and piano.
-0 @Np304.e5@ NOTE
+0 @Np304.e6@ NOTE
 1 CONT Ella born at Rangiora.
 0 @Np305.e1@ NOTE
 1 CONT Harry born at Rangiora.
@@ -53282,17 +53300,17 @@
 1 CONT Cynthia born at Gisborne. Gerald, s/o Andrew Gerald Jurie and Helen Mary Southworth, born at
 1 CONT Wellington. Address: 17 Myrtle Street, Lower Hutt.
 1 CONT Cynthia is a secretary.
-0 @Np503.e1@ NOTE
+0 @Np503.e2@ NOTE
 1 CONT Sarah born and married at Gisborne. Spencer, slo Spencer Gannon Smith and Marie Christine D'ath, born at
 1 CONT Wellington. Address: 8 Orangikaupapa Road, Wellington.
 1 CONT Sally is an interior designer and Spencer is a lawyer accountant.
-0 @Np503.e4@ NOTE
+0 @Np503.e5@ NOTE
 1 CONT Address: 123 Bayswater Road, London, England.
-0 @Np503.e6@ NOTE
+0 @Np503.e7@ NOTE
 1 CONT Address: 39 Kalengo Street, Porirua East, Wellington.
-0 @Np503.e10@ NOTE
-1 CONT Norman born at Waiohika and died at Gisborne.
 0 @Np503.e11@ NOTE
+1 CONT Norman born at Waiohika and died at Gisborne.
+0 @Np503.e12@ NOTE
 1 CONT Lucy born at Waiohika and died at Gisborne.
 1 CONT Lucy was educated at the Diocesan School for Girls in Auckland. Between school and marriage she visited
 1 CONT England with her mother and sisters where she met a number of relatives of her father's family. After
